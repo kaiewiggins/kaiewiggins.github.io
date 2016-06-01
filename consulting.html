@@ -115,10 +115,10 @@ border-radius:0px;}
 
 </head>
 <!--Start visible page elements-->
-<body position="relative" data-spy="scroll" data-target=".navbar" data-offset="50">
+<body position="relative" data-spy="scroll" data-target=".navbar" data-offset="40">
  <!--Start Nav-->
  <nav class="navbar navbar-inverse navbar-fixed-top">
- <div class="container-fluid data-spy="scroll" data-target=".navbar" data-offset="50"">
+ <div class="container-fluid data-spy="scroll" data-target=".navbar" data-offset="40"">
  <ul class="nav navbar-nav">
   <li><a href="/index.html">.Home</a></li>
   <li class="dropdown">
@@ -139,10 +139,10 @@ border-radius:0px;}
     <li><a href="#">.Web</a></li>
     <li><a href="#aboutservices">.Services</a></li>
     <li><a href="#portfolioprojects">.Portfolio</a></li>
-    <li><a href="#">.Contact</a></li>
+    <li><a href="#contactme">.Contact</a></li>
    </ul><!--end Consulting dropdown list. Note; dropdowns part of parallax microsite-->
   </li><!--end Consulting dropdown-->
-  <li><a href="#contactme">.About</a></li>
+  <li><a href="#">.About</a></li>
  </ul><!--end navbar top level menu items list-->
  </div><!--Navbar container-->
  </nav>
@@ -151,7 +151,7 @@ border-radius:0px;}
 <!-- Section 1 -->
       <div class="panel panel-fluid">
     <div class="section">
-      <h1 class="text-center"></a>kaie.web<small><br>freelance solutions</small></h1>
+      <h1 class="text-center"></a>kaie.Web<small><br>consulting & freelance solutions</small></h1>
       <!-- Start social media buttons of Section1/header -->
       <div class="row text-center">
         <a target="_blank" href="https://twitter.com/kaiedesign"><button><i class="fa fa-twitter"></i></button></a>
@@ -229,12 +229,11 @@ border-radius:0px;}
       <div class="col-sm-3"></div>
       <div class="col-sm-6 col-centered">
       <a name="contactme"></a>
-    <form class="form-horizontal" action="mailto:kaie.web@gmail.com" method="post" enctype="text/plain">
+    <form class="form-horizontal" action="http://formspree.io/kaie.web@gmail.com" method="post" enctype="text/plain">
       <label for="email-input">Learn more:</label>
       <div class="form-group">
-        <input type="email" class="form-control" id="email-input" placeholder="Email"></input>
-     
-    <textarea class="form-control" rows="5" placeholder="Ask me"></textarea>
+        <input type="email" name="_replyto" class="form-control" id="email-input" placeholder="Email"></input>
+    <textarea name ="body" class="form-control" rows="5" placeholder="Ask me"></textarea>
       <button type="submit" value="send" class="btn btn-default">Send <i class="fa fa-send"></i></button>
       </div><!--end form group-->
     </form>
