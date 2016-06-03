@@ -1,0 +1,99 @@
+---
+layout: default
+title: kaie.Writing; welcome to my world
+---
+
+<!-- Section 1 -->
+      <div class="panel panel-fluid">
+    <div class="section">
+      <h1 class="text-center"></a>kaie.Writing<small><br>YA & children's fiction. Welcome to my world.</small></h1>
+      <!-- Start social media buttons of Section1/header -->
+      <div class="row text-center">
+        <a target="_blank" href="https://twitter.com/kaiedesign"><button><i class="fa fa-twitter"></i></button></a>
+<a target="_blank" href="https://www.facebook.com/kaie.web"><button><i class="fa fa-facebook"></i></button></a>
+ <a target="_blank" href="#"><button><i class="fa fa-tumblr"></i></button></a><!--UPDATE!!-->
+ <a target="_blank" href="https://www.instagram.com/kaiedesign/"><button><i class="fa fa-instagram"></i></button></a>
+ <a href="https://ca.linkedin.com/in/kaiedesign" target="_blank"><button><i class="fa fa-linkedin"></i></button></a>
+      </div><!--end row-->
+    </div><!--end title section 1 -->
+    </div><!--end panel 1 -->
+  <div class="content-writing-space-one"></div>
+  
+  <!-- Start Section 2: 'About' -->
+  <div class="panel panel-fluid">
+    <div class="text-center section" id="aboutwriting">
+      <a name="aboutservices" id="aboutwriting"></a>
+      <p>Coming soon.</p>
+    </div><!--end Section 2-->
+  </div><!--end Panel 2-->
+  <div class="content-writing-space-two"></div>
+  
+  <!-- Start Section 3: 'Stories' -->
+  <div class="panel panel-fluid">
+    <div class="section text-center">
+      <a name="kaiestories" id="kaiestories"></a>
+      <h3>Stories</h3>
+      <p>to be updated...</p>
+      <div class="well row">
+        <div class="col-lg-4 col-centered">
+        <div id="container" style="width:300px;height:200px">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5abc7513216911.560347b76cfd7.jpg" style="width: 300px; height: 200px;" class="img-thumbnail">
+          <div id="name" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; text-align: center;">
+            <p style="display: inline-block; color: #333; margin: 0; padding: 10px; font-size: 16px; line-height: 18px;">Fast+Epp</p>
+            <p>Pitch/plan new website, layout, project management, SEO & webmaster services. Joomla+html+css+jquery</p>
+          </div><!--end name-->
+          </div><!--end container-->
+          </div><!--end col-->
+        <div class="col-lg-4 col-centered">
+        <div id="container" style="width:300px;height:200px">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d7aac713218005.560347c232467.jpg" style="width: 300px; height: 200px;" class="img-thumbnail">
+          <div id="name" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; text-align: center;">
+            <p style="display: inline-block; color: #333; margin: 0; padding: 10px; font-size: 16px; line-height: 18px;">Pacific Church</p>
+            <p>Webmaster services, promotion plan, graphic design, SEO & local search optimization. Joomla+html+css+AdobeCS</p>
+          </div><!--end name-->
+          </div><!--end container-->
+        </div><!--end col-->
+        
+        <div class="col-lg-4 col-centered">
+        <div id="container" style="width:300px;height:200px">
+          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d1f73014263887.560364e71cf6b.jpg" style="width: 300px; height: 200px;" class="img-thumbnail">
+          <div id="name" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; text-align: center;">
+            <p style="display: inline-block; color: #333; margin: 0; padding: 10px; font-size: 16px; line-height: 18px;">Russia Reconnect</p>
+            <p>Promotional plan, full build development of new website, content & webmaster services. Wordpress+html+css+JQuery</p>
+          </div><!--end name-->
+          </div><!--end container-->
+        </div><!--end col-->
+        
+        </div><!--end well row-->
+      </div><!--end section 3-->
+    </div><!--end panel 3-->
+      <div class="content-writing-space-three"></div>
+    
+  <!-- Start Section 4: 'Beta Readers' -->
+  <div class="panel panel-fluid">
+    <div class="text-center section" id="betareaders">
+      <a name="aboutservices" id="betareaders"></a>
+      <p>Love to read? I'm searching for beta readers to read and give feedback on pre-publication drafts.</p>
+      <p>Current draft: female-led dystopian thriller YA fiction with supernatural/fantasy/SF elements, about 100,000 words</p>
+      <p>Interested? <a href="mailto:kaie.web@gmail.com">Contact me for more information</a>.
+    </div><!--end Section 4-->
+  </div><!--end Panel 4-->
+  <div class="content-writing-space-four"></div>
+  
+    <!-- Start Section 5: 'Journal' -->
+  <div class="panel panel-fluid">
+    <div class="text-center section" id="writingjournal">
+      <a name="aboutservices" id="writingjournal"></a>
+      <p>Coming soon: every thought that passes through my head. Also known as the emo-zone. Like the euro-zone, but with less sanity.</p>
+    </div><!--end Section 5-->
+  </div><!--end Panel 5-->
+  <div class="content-writing-space-five"></div>
+  
+    <!-- Start Section 6: 'Resources' -->
+  <div class="panel panel-fluid">
+    <div class="text-center section" id="writingresources">
+      <a name="aboutservices" id="writingresources"></a>
+      <p>Coming soon: links on writing, editing, publishing & reading!</p>
+    </div><!--end Section 2-->
+  </div><!--end Panel 2-->
+  <div class="content-writing-space-six"></div>
