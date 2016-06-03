@@ -9,10 +9,9 @@ position: relative;
   text-align: center;
   }
   
-h2,h3,h4 {color: #ac9; 
-  padding: 0px 0px 20px 0px;}
+h2,h3,h4 {color: #ac9;}
 
-p {margin: 50px 50px;}/*first number is top/bottom, second number is right/left*/
+p {margin: 25px 25px;}/*first number is top/bottom, second number is right/left*/
 
 .panel {padding: 0px 0px 0px 0px;
 margin: 0px 0px 0px 0px;
