@@ -11,7 +11,7 @@ position: relative;
   
 h2,h3,h4 {color: #ac9;}
 
-p {margin: 25px 25px;}/*first number is top/bottom, second number is right/left*/
+p {}
 
 .panel {padding: 0px 0px 0px 0px;
 margin: 0px 0px 0px 0px;
