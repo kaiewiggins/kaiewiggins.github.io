@@ -16,7 +16,7 @@ p {}
 a.anchor {
     display: block;
     position: relative;
-    top: -150px;
+    top: -500px;
     visibility: hidden;
 }/*Spaces down anchor tags to compensate for the space the nav bar puts it off*/
 
@@ -149,7 +149,7 @@ border-radius:0px;}
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
-  background: url(https://lh3.googleusercontent.com/pJMFicFqOMTMjBD6m9vDXjbB1vGJaHgwgMeW4XD9_yJREH4KpgJqvinXxeTcGeRRPv2lvLRfC7HODE8nPbdMkLG963ERdt9CNNK4g_SoeHzlao8EsgB-qptw-dpsMTkiRjfV2aBunSQ6ACIz7PPzTxsf8H_mQIgy9n4fMpq0L9X4Vxaz3jcaL1u1KN9583UEuSfGIBF0e1dQ9Va07XE9CUpWHT1knNae8Ca2pRU7_LIiNhOq1P1t_khB_bV7a6t9Hle98lnk6RFklccpPsoNunEruPjnFRTHsxD-V5tN5xE-zYB-Gf-vQxJYuI4LoY4Xfj9xLBDroLkbmig1o6MWp3GY78tIlwvXodTIi4G-kaq6lqQwaEZvYCN5UDjauzTx8chVgWxGywdgMTkNbwTMOirQdk_wh-88D175yzgto46Rp1mvW4oPvZ9sTrX3lz5ndxDjqjmzajSkVPtrAe_Kzm6XgB9vTMAg5rq3aiXEg6THBz_VESYkp2_gAFKSh5dSylKCCcmS2qHjWo2fDy-ht8-nEFyBHkkLb-7aI5Xp0iVErXhjarh5NlXbG-H4GMmB52db=w1684-h1262-no) no-repeat center center fixed; 
+  background: url(https://lh3.googleusercontent.com/UTosg4uztplE438BMLs7cfWLUap7nFcVVTlsMtb8BT38eWzbcTwHsyjIeGErpndn_L6cpeS8wyHAcLW9RT9nbR7RdTqCoEftJs17WPHAQRDqo3bNY2TmoTiUXt94BnNqQBLwpQAQS7PRMFwWCJmQ-C9e5xdyPprZRv1fu9uEi_z4w880aeEs3ibS8Ss0UCXUbdZ5hF-l0sqZuKaQhKwRDYlBQaeq2RnUuOQA9m7IIIcLNUOs3NAYPQ1AzJTaVg4CVXYEbZ8_va3jTVUZIv6WUwufRmy_YY-q5Z5kOTNIsTtw-Tgkgc4_q0a7zEcZTEWE0IS337eTTtDjNvWN8dSIpfWZ9zaeM8VowqbHxCzXFgoFIg2tNqnEX4H2r4u1c6gAHrrhadS-FH7YWiNRI0CcnYHKQGBnsM0ftp_fJWkshGlL41frX7vOWL5lW6y-3FdpL39e82AvWF5VMgHZOuvo8AqLRZmvaC26hsDJh2YOYg52ZpPgHEDmddtv8P4L4kP7TKiadQJyQt76FooqxperWPFgEhjvV8LsIbGyOHDOHRwMkgaAHqD0EEcJcsOZ93lyaECuPm5rjlwHj2_LAfzwxkSlB-op4PM=w1684-h1262-no) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -162,7 +162,7 @@ border-radius:0px;}
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
-  background: url(https://lh3.googleusercontent.com/pJMFicFqOMTMjBD6m9vDXjbB1vGJaHgwgMeW4XD9_yJREH4KpgJqvinXxeTcGeRRPv2lvLRfC7HODE8nPbdMkLG963ERdt9CNNK4g_SoeHzlao8EsgB-qptw-dpsMTkiRjfV2aBunSQ6ACIz7PPzTxsf8H_mQIgy9n4fMpq0L9X4Vxaz3jcaL1u1KN9583UEuSfGIBF0e1dQ9Va07XE9CUpWHT1knNae8Ca2pRU7_LIiNhOq1P1t_khB_bV7a6t9Hle98lnk6RFklccpPsoNunEruPjnFRTHsxD-V5tN5xE-zYB-Gf-vQxJYuI4LoY4Xfj9xLBDroLkbmig1o6MWp3GY78tIlwvXodTIi4G-kaq6lqQwaEZvYCN5UDjauzTx8chVgWxGywdgMTkNbwTMOirQdk_wh-88D175yzgto46Rp1mvW4oPvZ9sTrX3lz5ndxDjqjmzajSkVPtrAe_Kzm6XgB9vTMAg5rq3aiXEg6THBz_VESYkp2_gAFKSh5dSylKCCcmS2qHjWo2fDy-ht8-nEFyBHkkLb-7aI5Xp0iVErXhjarh5NlXbG-H4GMmB52db=w1684-h1262-no) no-repeat center center fixed; 
+  background: url(https://lh3.googleusercontent.com/UTosg4uztplE438BMLs7cfWLUap7nFcVVTlsMtb8BT38eWzbcTwHsyjIeGErpndn_L6cpeS8wyHAcLW9RT9nbR7RdTqCoEftJs17WPHAQRDqo3bNY2TmoTiUXt94BnNqQBLwpQAQS7PRMFwWCJmQ-C9e5xdyPprZRv1fu9uEi_z4w880aeEs3ibS8Ss0UCXUbdZ5hF-l0sqZuKaQhKwRDYlBQaeq2RnUuOQA9m7IIIcLNUOs3NAYPQ1AzJTaVg4CVXYEbZ8_va3jTVUZIv6WUwufRmy_YY-q5Z5kOTNIsTtw-Tgkgc4_q0a7zEcZTEWE0IS337eTTtDjNvWN8dSIpfWZ9zaeM8VowqbHxCzXFgoFIg2tNqnEX4H2r4u1c6gAHrrhadS-FH7YWiNRI0CcnYHKQGBnsM0ftp_fJWkshGlL41frX7vOWL5lW6y-3FdpL39e82AvWF5VMgHZOuvo8AqLRZmvaC26hsDJh2YOYg52ZpPgHEDmddtv8P4L4kP7TKiadQJyQt76FooqxperWPFgEhjvV8LsIbGyOHDOHRwMkgaAHqD0EEcJcsOZ93lyaECuPm5rjlwHj2_LAfzwxkSlB-op4PM=w1684-h1262-no) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -175,7 +175,7 @@ border-radius:0px;}
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
-  background: url(https://lh3.googleusercontent.com/pJMFicFqOMTMjBD6m9vDXjbB1vGJaHgwgMeW4XD9_yJREH4KpgJqvinXxeTcGeRRPv2lvLRfC7HODE8nPbdMkLG963ERdt9CNNK4g_SoeHzlao8EsgB-qptw-dpsMTkiRjfV2aBunSQ6ACIz7PPzTxsf8H_mQIgy9n4fMpq0L9X4Vxaz3jcaL1u1KN9583UEuSfGIBF0e1dQ9Va07XE9CUpWHT1knNae8Ca2pRU7_LIiNhOq1P1t_khB_bV7a6t9Hle98lnk6RFklccpPsoNunEruPjnFRTHsxD-V5tN5xE-zYB-Gf-vQxJYuI4LoY4Xfj9xLBDroLkbmig1o6MWp3GY78tIlwvXodTIi4G-kaq6lqQwaEZvYCN5UDjauzTx8chVgWxGywdgMTkNbwTMOirQdk_wh-88D175yzgto46Rp1mvW4oPvZ9sTrX3lz5ndxDjqjmzajSkVPtrAe_Kzm6XgB9vTMAg5rq3aiXEg6THBz_VESYkp2_gAFKSh5dSylKCCcmS2qHjWo2fDy-ht8-nEFyBHkkLb-7aI5Xp0iVErXhjarh5NlXbG-H4GMmB52db=w1684-h1262-no) no-repeat center center fixed; 
+  background: url(https://lh3.googleusercontent.com/ETMocjkGz4EHJmghlGCRTzCqdUd1rIuJ4zeCa0EdO3PuUZ2CTnnxBKvt5b5VxxnPuOAvi_UFYJIGwuHpuRjYSXco4STvIWKV6NCIuGnHSbpLs3RsyICq-YMCA7jJM48_kiml8W2zv0snkcYSdP-NdcElU6S6S5bitytWaiHUwrk2G3jxzFlWe4IkcTKpojluYpuf_01s0jUaOqMwXgZUlU0EJrl_1oHkA8bl0k_ycOawvZ_wp23ByqxLM8YrG46jgawEmywKxww9A-mSDYMOxzms9DFrpQbucf6sMJUKrlWZqOq8JchXIZ4ObOmaAJOfmwLk3-oTRDO4O1WdSAo5jc__jb-2g9yLXcgX-RTtn9W5cPczi2ba4VPaYBWmiuxBzIQaxFcftu-CuPgdfSPFXLMIQ8gZKKxN7LmbD7FJVBaieNVe59RoPNbISdLO18wsKgxjwJ1utKs1WSZ5sTb-psZ-tclR16Ifo52L4PL31-sW131ccrKYCxm1dfBXCXMWdiRFVX7_FGu_3iJFbwyO-pbnjkZv4JPLDgDI7DgYxObPRIXLGJBt7o8rn83Rc8-SOn9nKqoXlW6WZL3ewTfvCrcwS00AWBs=w1684-h1262-no) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
