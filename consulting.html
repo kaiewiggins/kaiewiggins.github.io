@@ -14,104 +14,7 @@
 <!-- meta = Bootstrap 3 instruction setting page width to fill device screen-->
 <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-<!--css custom to this page, not linked to central css file-->
-<style>
-  body {
-   background-color: #ac9;
-margin-top: 40px;
-position: relative;
-  }
-  
-  h1 {color: #ac9;
-  text-align: center;
-  }
-  
-h2,h3,h4 {color: #ac9; 
-  padding: 0px 0px 20px 0px;}
-
-p {padding: 0px 0px 15px 0px;}
-
-.panel {padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-border-radius:0px;}
-
-.fa {color:#ac9;}
-
-.section {margin: 50px 30px 50px 30px;}
-
-.col-centered {margin:0 auto;}
-
-#aboutservices{}
-#portfolioprojects{}
-#contactme{}
-
-#container:hover #name {
-  transform: translate(0, 0) !important;
-}
-
-#container #name {
-  transition: transform 0.25s ease;
-  transform: translate(0, 100%) !important;
-}
-
-#container {
-  overflow: hidden;
-  position: relative;
-}
-
-#name {
-  width: 300px;
-  height: 200px;
-  background-color: rgba(255,255,255,0.8);
-}
-
-/* for parallax */
-.content-space-one {
-  padding: 0px;
-  margin-bottom: 0px;
-  color: inherit;
-  background: url(https://lh3.googleusercontent.com/sQDeUVuvWNHTdiDBFPKLJJ6CiXH2YPijLOc7qDUqATXL2mSeNEtpaaj6zmVQlLx4ZbDXs0Xk9Wy9IC9lCC33ophH_rp5ZtKwzT-a0rzInxeFdktDSS73BX8LTyZKU_LsBlcTuB7RwFsPtCuoh9Y5Y7ZE9hcc0L6GCXG8u_4YmSn2jQNqabjHJ2-AZ6MBUVAx7gDF9r8Bs9WB3ovn45aJsT295nK8YCT5fnk7wX5JHXYp1HaNUP5MchYFtLbYEwgdzACTX5kDpq0uwTNRn5RdRDDeCki7fZ3YyhfIPVtAsU4HGUgycOBaDu8822XAsXVFqfpqtH4p7knBkMOty-A7eyq_MnJQt9VzglKQSscxD5XnhgQ8PbuwV7E11M9MnhFk9BxDilpbRobUbMkLdfh8yezk5jeckzug2ViwwcVoiewqrkcqJ8WwoauRF3-dxl3o-G-Ljt6LrKsFng9R6MwvUoqsEMUgtmgFZ5IIuZEjC0Xry8FTNFJhntpzjwobdEdZyriyKuyo7pO2hOny4gOdP3alO3p57hM8_vQmvOrx9_Eqa33ySGeuHZfA3Mv49cBwkjRW=w1684-h1262-no) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-.content-space-two {
-  padding: 0px;
-  margin-bottom: 0px;
-  color: inherit;
-  background: url(https://lh3.googleusercontent.com/z0h14KDXzP82J3BEaMzSzn0qpgVGQhnZuphQSrnY_PvtguNpeoajI70DVQP_vfYt29FCBfcezANt4g7XFUSpIhZkbxYKl4JhwUXGFjh5xB19UN--2OkB3RHljWpviZ-tzag3kZaS1yj4B0yGprYix0eQ3kKQoCQCdpxoGfdioMGsfMajlEfSsL4nNSuDI1yoQe8CjpYY6aZsmkbFpigPrJTxjpDMllKPLuw5UfMP5-uC6eyeH4V8Bvt7qOIcHJ3tqSLo-psEXmDZEjkVSzz14Px8izLbyXX5jHjRaEQOohEQIOa_SeuczU8MgLR3axPOY0yIrWLqTbqLY6vWTCEbZ5MXno-lKC-0-U-O3GZdekRnzjJErworZYg226ezqzof5oeaZujyY7-UsG0a3LmP3EdH-Yj9fU3MAzWHtwMxzXBckad6Hoj6pdaozuadC0YAtFZJBz0in25kM2WhctTFleuMQB4R6lmegIloVlPugrpTek9RpTlGPsO5hS--oXKokX91_hl399ObZ8Qcqlv5G98FVFXCK9R1Xs7-uJAigI1ubOBquc8ctlYKOAEUZrpjpX4u=w1684-h1262-no) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-
-.content-space-three {
-  padding: 0px;
-  margin-bottom: 0px;
-  color: inherit;
-  background: url(https://lh3.googleusercontent.com/pJMFicFqOMTMjBD6m9vDXjbB1vGJaHgwgMeW4XD9_yJREH4KpgJqvinXxeTcGeRRPv2lvLRfC7HODE8nPbdMkLG963ERdt9CNNK4g_SoeHzlao8EsgB-qptw-dpsMTkiRjfV2aBunSQ6ACIz7PPzTxsf8H_mQIgy9n4fMpq0L9X4Vxaz3jcaL1u1KN9583UEuSfGIBF0e1dQ9Va07XE9CUpWHT1knNae8Ca2pRU7_LIiNhOq1P1t_khB_bV7a6t9Hle98lnk6RFklccpPsoNunEruPjnFRTHsxD-V5tN5xE-zYB-Gf-vQxJYuI4LoY4Xfj9xLBDroLkbmig1o6MWp3GY78tIlwvXodTIi4G-kaq6lqQwaEZvYCN5UDjauzTx8chVgWxGywdgMTkNbwTMOirQdk_wh-88D175yzgto46Rp1mvW4oPvZ9sTrX3lz5ndxDjqjmzajSkVPtrAe_Kzm6XgB9vTMAg5rq3aiXEg6THBz_VESYkp2_gAFKSh5dSylKCCcmS2qHjWo2fDy-ht8-nEFyBHkkLb-7aI5Xp0iVErXhjarh5NlXbG-H4GMmB52db=w1684-h1262-no) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-.page-break {
-    width: 50%;
-    height: 3px;
-    background-color: #fff;
-    margin: 0 auto;
-}
-
-</style>
+<link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
 
 </head>
 <!--Start visible page elements-->
@@ -129,11 +32,11 @@ border-radius:0px;}
     <li><a href="#">.Beta Readers</a></li>
     <li><a href="/journal/index.html">.Journal</a></li>
     <li><a href="#">.Resources</a></li>
-    <li><a href="#">.Community</a></li>
+<!--    <li><a href="#">.Community</a></li> tbc -->
    </ul><!--end Writing dropdown list.-->
    </li><!--end Writing dropdown-->
   <li><a href="#">.Travel</a></li>
-  <li><a href="#">.Blog</a></li>
+<!--  <li><a href="#">.Blog</a></li> tbc-->
   <li><a href="/imprint.html">.Imprint</a></li>
   <li class = "active dropdown">
       <a class = "dropdown-toggle" data-toggle="dropdown" href="#">.Consulting<span class="caret"></span></a>
@@ -157,6 +60,7 @@ border-radius:0px;}
       <div class="row text-center">
         <a target="_blank" href="https://twitter.com/kaiedesign"><button><i class="fa fa-twitter"></i></button></a>
         <a href="https://ca.linkedin.com/in/kaiedesign" target="_blank"><button><i class="fa fa-linkedin"></i></button></a>
+        <a href="https://github.com/kaiewiggins" target="_blank"><button><i class="fa fa-github"></i></button></a>
         <a href="https://www.freecodecamp.com/kaiewiggins" target="_blank"><button><i class="fa fa-fire"></i> </button></a>
         <a href="http://codepen.io/kaie/" target="_blank"><button><i class="fa fa-cube"></i></button></a>
       </div><!--end row-->
