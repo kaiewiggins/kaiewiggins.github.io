@@ -101,12 +101,12 @@ title: kaie.Writing; welcome to my world
       <h3>Journal</h3>
       <p>Coming soon: every thought that passes through my head. Also known as the emo-zone. Like the euro-zone, but with less sanity.</p>
           <!--Pull in journal posts-->
-          <well>
+          <div class="well">
 	<ul class="posts">
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{{post.content}}</li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}"><h5>{{ post.title }}</h5></a><p>{{post.content}}</p></li>
 	  {% endfor %}
-	  </well>
+	  </div><!--end well-->
 	</ul></div><!--end Section 5-->
   </div><!--end Panel 5-->
   <div class="content-writing-space-five"></div>
