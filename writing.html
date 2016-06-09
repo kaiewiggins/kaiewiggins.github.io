@@ -98,8 +98,8 @@ title: kaie.Writing; welcome to my world
   <div class="panel panel-fluid">
     <div class="text-center section" id="writingjournal">
       <a class="anchor" name="aboutservices" id="writingjournal"></a>
-      <h3>Journal</h3>
-      <p>Coming soon: every thought that passes through my head. Also known as the emo-zone. Like the euro-zone, but with less sanity.</p>
+      <h3><a href="http://kaie.space/journal/index.html">Journal</a></h3>
+      <p>This is the space for every thought that passes through my head. Mostly a daily log, because it's the best way I've found to warm-up for writing.</p>
           <!--Pull in journal posts-->
           <div class="well">
 	<ul class="posts">
@@ -108,7 +108,7 @@ title: kaie.Writing; welcome to my world
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
 	    	<h5>{{post.excerpt}}
-	    	<a href="{{ post.url }}" title="{{ post.title }}">more...</a></h5>
+	    	<a href="{{ post.url }}" title="{{ post.title }}">more...</a></h5><br>
 	    	</li>
 	  {% endfor %}
 	  </div><!--end well-->
