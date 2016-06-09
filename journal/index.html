@@ -3,10 +3,14 @@ layout: default
 title: kaie.Journal
 ---
 	<h1>{{ page.title }}</h1>
+	
+          <div class="well">
 	<ul class="posts">
-
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li>
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
+	    	<h5>{{post}}</h5>
+	    	</li></ul>
 	  {% endfor %}
-	</ul>
-
+	  </div><!--end well-->
