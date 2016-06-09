@@ -107,7 +107,9 @@ title: kaie.Writing; welcome to my world
 	    <li>
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h5>{{ post.date | date_to_string }}</h5></span>
-	    	<h6>{{post.excerpt}}</h6></li>
+	    	{{post.excerpt}}
+	    	<a href="{{ post.url }}" title="{{ post.title }}">more...</a>
+	    	</li>
 	  {% endfor %}
 	  </div><!--end well-->
 	</ul></div><!--end Section 5-->
