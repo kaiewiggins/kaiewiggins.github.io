@@ -9,7 +9,7 @@ title: kaie.Journal
 	  {% for post in site.posts %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h6><small>{{ post.date | date_to_string }}</small></h6></span>
-	    	<h6><small>{{post.content}}</small></h6><hr>
+	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 	    	</ul>
 	  </div><!--end section-->
