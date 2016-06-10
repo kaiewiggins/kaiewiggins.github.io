@@ -102,10 +102,10 @@ title: kaie.Writing; welcome to my world
       <p>This is the space for every thought that passes through my head. Mostly a daily log, because it's the best way I've found to warm-up for writing.</p>
           <!--Pull in journal posts-->
           <div class="well">
-          	<div class="row">
-          		<div class="col-sm-4">
 	<ul class="posts">
 	  {% for post in site.posts %}
+	            	<div class="row">
+          		<div class="col-sm-4">
 	    <li>
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
@@ -115,8 +115,8 @@ title: kaie.Writing; welcome to my world
 	    		  </div><!--end col-->
 	  </div><!--end row-->
 	  {% endfor %}
-	  </div><!--end well-->
-	</ul></div><!--end Section 5-->
+</ul>	  </div><!--end well-->
+	</div><!--end Section 5-->
   </div><!--end Panel 5-->
   <div class="content-writing-space-five"></div>
   
