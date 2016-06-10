@@ -7,11 +7,9 @@ title: kaie.Journal
  <div class="section">
 	<ul class="posts">
 	  {% for post in site.posts %}
-	  <article>
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
-	    	<div class="article-content">{{post.content}}</div><hr>
-	    	</article>
+	    	<div class="body">{{post.content}}</div><hr>
 	  {% endfor %}
 	    	</ul>
 	  </div><!--end section-->
