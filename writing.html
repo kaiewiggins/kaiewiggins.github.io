@@ -122,6 +122,34 @@ title: kaie.Writing; welcome to my world
 	  </div><!--end well-->
 
 
+<div class="container">
+
+    {% for post in site.posts %}
+
+        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+
+            <div class="col-sm-3">
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
+			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content">
+		{{ post.excerpt }}
+		<a href="{{ post.url }}">Read more</a>	
+		</div><br><!--/.article-content-->
+	</article>
+	</div>
+
+        {% cycle 'end row' : nil, nil, nil, '</div>' %}
+
+    {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
+
+</div><!--end container-->
+
+
+
 	</div><!--end Section 5-->
   </div><!--end Panel 5-->
   <div class="content-writing-space-five"></div>
