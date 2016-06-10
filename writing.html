@@ -101,33 +101,9 @@ title: kaie.Writing; welcome to my world
       <h3><a href="http://kaie.space/journal/index.html" style="color:#ac9">Journal</a></h3>
       <p>This is the space for every thought that passes through my head. Mostly a daily log, because it's the best way I've found to warm-up for writing.</p>
           <!--Pull in journal posts-->
-	            <div class="well">
-	  {% for post in site.posts %}
-	    	<div class="row">
-  		<div class="col-sm-04">
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-		<div class="article-head">
-			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
-			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head-->
-		<div class="article-content">
-		{{ post.excerpt }}
-		<a href="{{ post.url }}">Read more</a>	
-		</div><br><!--/.article-content-->
-	</article>
-		</div>
-		</div>
-		{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
-{% endfor %}
-	  </div><!--end well-->
-
-
 <div class="container">
-
     {% for post in site.posts %}
-
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-
             <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
@@ -140,12 +116,9 @@ title: kaie.Writing; welcome to my world
 		</div><br><!--/.article-content-->
 	</article>
 	</div>
-
         {% cycle 'end row' : nil, nil, nil, '</div>' %}
-
     {% endfor %}
     {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
-
 </div><!--end container-->
 
 
