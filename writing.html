@@ -98,10 +98,12 @@ title: kaie.Writing; welcome to my world
   <div class="panel panel-fluid">
     <div class="text-center section" id="writingjournal">
       <a class="anchor" name="aboutservices" id="writingjournal"></a>
-      <h3><a href="http://kaie.space/journal/index.html">Journal</a></h3>
+      <h3><a href="http://kaie.space/journal/index.html" style="color:#ac9">Journal</a></h3>
       <p>This is the space for every thought that passes through my head. Mostly a daily log, because it's the best way I've found to warm-up for writing.</p>
           <!--Pull in journal posts-->
           <div class="well">
+          	<div class="row">
+          		<div class="col-sm-4">
 	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li>
@@ -111,6 +113,8 @@ title: kaie.Writing; welcome to my world
 	    	<a href="{{ post.url }}" title="{{ post.title }}">more...</a></h5><br>
 	    	</li>
 	  {% endfor %}
+	  </div><!--end col-->
+	  </div><!--end row-->
 	  </div><!--end well-->
 	</ul></div><!--end Section 5-->
   </div><!--end Panel 5-->
