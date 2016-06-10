@@ -114,19 +114,22 @@ title: kaie.Writing; welcome to my world
 	  </ul>	  
 	  </div><!--end well-->
 	  
+	            <div class="well">
 	  {% for post in site.posts %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
-			<h2 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
+			<h4 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
 			<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content">
-		{{ post.long_description }}
-		<a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a>	
+		{{ post.excerpt }}
+		<a href="{{ post.url }}">Read more</a>	
 		</div><!--/.article-content-->
 	</article>
 	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 {% endfor %}
+	  </div><!--end well-->
+
 
 	</div><!--end Section 5-->
   </div><!--end Panel 5-->
