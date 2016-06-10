@@ -5,11 +5,12 @@ title: kaie.Journal
 <div class="panel panel-fluid">
 <div class="panel-body text-center">
  <div class="section">
+ 	<h1>Journal</h1>
 	<ul class="posts">
 	  {% for post in site.posts %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
-	    	<span><h6><small>{{ post.date | date_to_string }}</small></h6></span>
-	    	<p><small>{{post.content}}</small></p><hr>
+	    	<span><h5><small>{{ post.date | date_to_string }}</small></h5></span>
+	    	<h5><small>{{post.content}}</small></h5><hr>
 	  {% endfor %}
 	    	</ul>
 	  </div><!--end section-->
