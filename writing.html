@@ -103,19 +103,19 @@ title: kaie.Writing; welcome to my world
           <!--Pull in journal posts-->
           <div class="well">
 	<ul class="posts">
-	  {% for post in site.posts %}
 	            	<div class="row">
           		<div class="col-sm-4">
+          				  {% for post in site.posts %}
 	    <li>
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
 	    	<h5>{{post.excerpt}}
 	    	<a href="{{ post.url }}" title="{{ post.title }}">more...</a></h5><br>
 	    	</li>
+	  {% endfor %}
 	    		  </div><!--end col-->
 	  </div><!--end row-->
-	  {% endfor %}
-</ul>	  </div><!--end well-->
+	  </ul>	  </div><!--end well-->
 	</div><!--end Section 5-->
   </div><!--end Panel 5-->
   <div class="content-writing-space-five"></div>
