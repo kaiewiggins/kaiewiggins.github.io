@@ -2,21 +2,16 @@
 layout: default
 title: kaie.Journal
 ---
-	  <div class="container">
-    {% for post in site.posts %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-sm-6">
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-		<div class="article-head">
-			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
-			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head-->
-		<div class="article-content">
-		{{ post.content }}
-		</div><br><!--/.article-content-->
-	</article>
-	</div>
-        {% cycle 'end row' : nil, nil, nil, '</div>' %}
-    {% endfor %}
-    {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
-</div><!--end container-->
+<div class="panel panel-fluid">
+<div class="panel-body text-center">
+ <div class="section">
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+	    	<span><h6><small></small>{{ post.date | date_to_string }}</small></h6></span>
+	    	<h5>{{post.content}}</h5>
+	  {% endfor %}
+	    	</ul><br><hr>
+	  </div><!--end section-->
+	  </div>
+	  </div>
