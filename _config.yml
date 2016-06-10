@@ -1,3 +1,5 @@
 name: Katrina Wiggins
 markdown: kramdown
 permalink: /journal/:year/:month/:day/:title
+gems:
+  - jekyll-sitemap
