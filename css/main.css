@@ -11,12 +11,6 @@ position: relative;
   
 h2,h3,h4 {color: #ac9;}
 
-a.anchor {
-    display: block;
-    position: relative;
-    top: 100px;
-    visibility: hidden;
-}/*Spaces down anchor tags to compensate for the space the nav bar puts it off*/
 
 .panel {padding: 0px 0px 0px 0px;
 margin: 0px 0px 0px 0px;
@@ -31,6 +25,11 @@ border-radius:0px;}
 #aboutservices{}
 #portfolioprojects{}
 #contactme{}
+#aboutwriting{}
+#kaiestories{}
+#betareaders{}
+#writingjournal{}
+#writingresources{}
 
 #container:hover #name {
   transform: translate(0, 0) !important;
