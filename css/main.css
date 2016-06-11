@@ -11,12 +11,12 @@ position: relative;
   
 h2,h3,h4 {color: #ac9;}
 
-p {font-size: 10px;}
+p {}
 
 a.anchor {
     display: block;
     position: relative;
-    top: -250px;
+    top: 200px;
     visibility: hidden;
 }/*Spaces down anchor tags to compensate for the space the nav bar puts it off*/
 
