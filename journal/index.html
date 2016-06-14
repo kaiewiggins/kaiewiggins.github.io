@@ -24,7 +24,7 @@ title: kaie.Journal
 	<h3>Post Index</h3>
 	<ul class="posts">
 	  {% for post in site.posts %}
-	    	<p class="font:50%"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	<p class=font:50%><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    	<span><small>{{ post.date | date_to_string }}</small></span></p>
 	  {% endfor %}
 </ul>
