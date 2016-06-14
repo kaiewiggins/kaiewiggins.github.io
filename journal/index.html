@@ -8,35 +8,27 @@ title: kaie.Journal
  	<h1 class="text-center">Journal</h1>
  	<h5>Spoiler Alert! I write this as a running 'warm-up' for working on creative fiction, which means I end up putting in a lot of details about whatever story I'm working on at the time, among all the other emo blather. </h5>
  	<h5>If you'd rather have the inner workings of your fictional worlds unsullied, I'd suggest you switch over to the blog section and leave the journal alone!</h5><br>
-	<!--testing a sort of archive listing-->
-	<ul class="posts">
-	  {% for post in site.posts %}
-	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
-	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
-	    	<hr>
-	  {% endfor %}
-</ul>
-	
-	
-	
-	<ul class="posts">
+	 	<div class="row">
+<div class="col-sm-9">
+	<!--main content of posts-->
+		<ul class="posts">
 	  {% for post in site.posts %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 	    	</ul>
-	    	<!--testing archive by month-->
-	    	<div class="archives">
-{% for month in page.months %}
-<h2>{{ month | date:"%B" }} <small>{{ month | date:"%Y" }}</small></h2>
-  <ul>
-  {% for post in page.posts_by_month[month] %}
-    <li><a href="{{ post.url }}">{{ post.title | truncate:65 }}</a></li>
-  {% endfor %}
-  </ul>
-{% endfor %}
-</div>
+</div><!--close first col-->
+<div class="col-sm-3">
+	<!--lookup linklist of posts-->
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    	<p><a href="{{ post.url }}" title="{{ post.title }}"><>{{ post.title }}</a>
+	    	<span><small>{{ post.date | date_to_string }}</small></span></p>
+	  {% endfor %}
+</ul>
+	</div><!--close second col-->
+</div><!--end row-->
 	  </div><!--end section-->
 	  </div>
 	  </div>
