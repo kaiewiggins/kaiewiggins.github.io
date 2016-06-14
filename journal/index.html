@@ -9,113 +9,13 @@ title: kaie.Journal
  	<h5>Spoiler Alert! I write this as a running 'warm-up' for working on creative fiction, which means I end up putting in a lot of details about whatever story I'm working on at the time, among all the other emo blather. </h5>
  	<h5>If you'd rather have your fictional worlds unsullied, I'd suggest you switch over to the blog section and leave the journal alone!</h5><br>
 	<ul class="posts">
-	  {% for post in site.posts limit: 6 %}
+	  {% for post in site.posts %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 	    	</ul>
 	    	
-	    	<!--testing pagination-->Start Test area
-	    	<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-
-<!--test alternate pagination code-->
-Start Test 2
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-<!--testing alternate pagination format-->
-Test 3
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts limit:10 %}
-    
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</p>
-    {{ post.excerpt | strip_html }}
-    <a href="{{ post.url }}">Weiterlesen...</a>
-    
-    {% unless forloop.last %}
-    <hr>
-    {% endunless %}
-
-{% endfor %}
-
-<br><br>
-
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<nav>
-    <ul class="pagination">
-        {% if paginator.previous_page %}
-            <li class="arrow"><a href="{{ paginator.previous_page_path | replace: '/index.html', '' }}">&laquo;</a></li>
-        {% else %}
-            <li class="arrow unavailable"><a>&laquo;</a></li>
-        {% endif %}
-
-        {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-                <li class="current"><a>{{ page }}</a></li>
-            {% elsif page == 1 %}
-                <li><a href="{{ site.paginate_path | replace: '/seite:num', '' }}">{{ page }}</a></li>
-            {% else %}
-                <li><a href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
-            {% endif %}
-        {% endfor %}
-
-        {% if paginator.next_page %}
-            <li class="arrow"><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
-        {% else %}
-            <li class="arrow unavailable"><a>&raquo;</a></li>
-        {% endif %}
-    </ul>
-</nav>
-{% endif %}
 	  </div><!--end section-->
 	  </div>
 	  </div>
