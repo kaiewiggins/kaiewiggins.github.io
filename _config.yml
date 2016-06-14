@@ -3,4 +3,5 @@ markdown: kramdown
 paginate: 8
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
   
