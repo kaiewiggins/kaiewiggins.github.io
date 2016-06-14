@@ -1,6 +1,6 @@
 name: Katrina Wiggins
 markdown: kramdown
-paginate: 6
+paginate: 8
 paginate_path: "journal/page:num"
 gems:
   - jekyll-sitemap
