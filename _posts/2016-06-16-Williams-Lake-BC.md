@@ -1,5 +1,5 @@
 ---
-layout: adventure
+layout: travelpost
 title: Williams Lake BC
 date: 2016-06-16
 category: adventure
