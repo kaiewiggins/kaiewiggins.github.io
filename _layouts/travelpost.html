@@ -36,7 +36,7 @@ layout: default
 <!--lookup linklist of posts-->
 	<h3>Post Index</h3>
 	<ul class="posts">
-	  {% for post in site.categories.adventures %}
+	  {% for post in site.categories.adventure %}
 	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
 	  {% endfor %}
