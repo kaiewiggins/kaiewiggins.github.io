@@ -57,7 +57,7 @@ Suggestions? Places you'd like to see covered? Drop me a <a href="mailto:kaie.we
 <div class="col-sm-9">
 	<!--main content of posts-->
 		<ul class="posts">
-	  {% for post in site.travelposts %}
+	  {% for post in site.posts.adventure %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<p><small>{{post.content}}</small></p><hr>
@@ -68,7 +68,7 @@ Suggestions? Places you'd like to see covered? Drop me a <a href="mailto:kaie.we
 	<!--lookup linklist of posts-->
 	<h3>Post Index</h3>
 	<ul class="posts">
-	  {% for post in site.posts %}
+	  {% for post in site.posts.adventure %}
 	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
 	  {% endfor %}
