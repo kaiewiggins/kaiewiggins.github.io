@@ -53,3 +53,36 @@ More social media than anyone wants to know about. I never do just one thing, so
 </div><!--end row-->
 </div><!--close second section-->
   </div><!--close main content panel/second panel-->
+  
+ <div class="content-index-space-one"></div><!--parallax graphic 1 repeat-->
+  
+    <!-- Start Section 2: 'News' -->
+  <div class="panel panel-fluid">
+    <div class="section">
+      <h3 class="text-center">Latest Posts</h3>
+
+          <!--Pull in journal posts-->
+<div class="container">
+    {% for post in site.posts limit: 8 %}
+        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+            <div class="col-sm-3">
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
+			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content">
+		{{ post.excerpt }}
+		<a href="{{ post.url }}">Read more</a>	
+		</div><br><!--/.article-content-->
+	</article>
+	</div>
+        {% cycle 'end row' : nil, nil, nil, '</div>' %}
+    {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
+</div><!--end container-->
+
+
+
+	</div><!--end Section 5-->
+</div><!--end Panel 5-->
