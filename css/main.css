@@ -267,9 +267,11 @@ border-radius:0px;}
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+.banner {margin: 0 auto;}
