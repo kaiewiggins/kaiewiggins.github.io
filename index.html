@@ -28,7 +28,6 @@ title: kaie.Space
 <p>kaieSpace is home to... well, pretty much everything I feel the need to host online. 
 Writing. Publishing. Consulting. Travel. Introspective ramblings. Really terrible photography. 
 More social media than anyone wants to know about. I never do just one thing, so why should my website be constrained to a single topic?</p>
-<p>This space will continue evolving; hope you find something you like.</p>
 <p>
   Recently Added:
   <ul>
@@ -47,7 +46,6 @@ More social media than anyone wants to know about. I never do just one thing, so
   <li>user-contribution area (sadly empty)</li>
   <li>anything else awesome that I feel the need to add! (Realistically, cat pics. Just a heads-up.)</li>
   </ul>
-  ...I'll try to keep things moving along here, but if there's anything in the meantime, feel free to shoot me a <a href="mailto:kaie.web@gmail.com">message</a>.
 </p>
   </div><!--end second column-->
 </div><!--end row-->
@@ -63,7 +61,7 @@ More social media than anyone wants to know about. I never do just one thing, so
 
           <!--Pull in journal posts-->
 <div class="container">
-    {% for post in site.posts limit: 8 %}
+    {% for post in site.posts limit: 4 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
