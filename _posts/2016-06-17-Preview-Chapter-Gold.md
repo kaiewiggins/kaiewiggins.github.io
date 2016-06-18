@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Preview Chapter
+title: Preview Chapter Gold
 date: 2016-06-17
-category: gold
+category: book
 ---
 
 Special preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel.
