@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bookpost
 title: Preview Chapter
 date: 2016-06-17
 category: book
