@@ -4,5 +4,5 @@ paginate: 8
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-  -jekyll-feed
+  - jekyll-feed
   
