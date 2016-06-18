@@ -2,5 +2,4 @@ name: Katrina Wiggins
 markdown: kramdown
 gems:
   - jekyll-sitemap
-  - jekyll-feed
-  
+
