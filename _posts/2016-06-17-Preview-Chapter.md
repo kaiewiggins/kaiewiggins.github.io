@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preview Chapter Gold
+title: Preview Chapter
 date: 2016-06-17
 category: book
 ---
