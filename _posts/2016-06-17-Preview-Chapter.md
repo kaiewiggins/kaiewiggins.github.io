@@ -9,13 +9,13 @@ Special preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fanta
 
 <hr>
 
-Chapter 1: Cadence 
+<strong>Chapter 1: Trouble 
 
-Cole
+Cole:</strong>
 
 Cadence speaks. Only I hear.
 
-That’s ok though. I know she’s not a Dream. Not a wish. Not a daydream, ambition, or hope. 
+It’s ok though. I know she’s not a Dream. Not a wish. Not a daydream, ambition, or hope. 
 
 That would be dangerous. But a girl who speaks only to me? That's perfectly within regulation.
 
@@ -23,7 +23,7 @@ Following Tower regulation is the way to a long and safe life.
 
 I don’t know where Cadence came from. I think she’s always been with me. 
 
-She might be my friend. 
+She might be my friend (but she’s kind of a pest). 
 
 She speaks when I don’t. Or won’t. Or can’t. 
 
@@ -37,13 +37,13 @@ Slowly.
 
 “Dispassionately.” Supplies Cadence, flitting just outside of my sight. 
 
-I resist the temptation to turn my head. The most I ever catch of her is a faint, pale flash as she ducks behind me. A private game of hers, no doubt. She’s always up to something.
+I resist the temptation to turn my head. The most I ever catch of her is a faint, pale flash as she ducks behind me. A private game of hers, no doubt. She’s always up to something, and somehow, always gets away with it.
 
 “As evidenced by the droning voice and glazed expression.” Cadence continues, making a rude noise in my ear, and dissolving into peals of laughter. 
 
 It makes it hard to hear Supervisor Kistr as he warms to his task. 
 
-Cadence is wrong. Dispassionate is the opposite of what the small man at the front of the room is projecting. The deliberate words filter past Kistr’s mask with exacting focus. Only the slightest tremble in his precise tones betrays him. That, and the dampness of his bulging eyes, his gaze elevated to another plane. They shine wetly with unseemly enjoyment as he expounds on my sins. 
+Cadence is wrong. Dispassionate is the opposite of the small man at the front of the room. Deliberate words filter past Kistr’s mask with exacting focus. Only the slightest tremble in his precise tones betrays him. That, and the dampness of his bulging eyes, his gaze elevated to another plane. They shine wetly with unseemly pleasure as he expounds on my sins. 
 
 Which is fine. Formal reprimands are to be expected - at least it’s not Retraining. It’s regulation. It’s for my own good.
 
@@ -57,7 +57,7 @@ I wasn’t resisting, when I said that Cadence had distracted me. She had been s
 
 It was all her fault.
 
-When I said as much, everything went wrong. I was immediately removed from the trainee cohort and reassigned to Retraining. 
+When I said as much, everything went wrong. I was yanked from the trainee cohort and reassigned to Retraining. 
 
 I’m not ever going back. 
 
@@ -69,23 +69,27 @@ Supervisor Kistr narrows his eyes at me and raises his tone as he continues. The
 
 “Betcha he’s bald under his fancy-schmancy hood, Mr. Grumpypants” Cadence breaks in, snickering. “Despaiiiir~ no haiiiir~ despaiiiirrrr~"
 
-Cadence singsongs with great dynamic range directly into my ear, making me burn to give her a good kick. My legs are getting sore from standing, knees locked, and I desperately want to shift my weight, but don’t quite dare. To make things worse, my uniform pants are too loose, and are slowly, slowly edging past my hipbones. I squirm, ever so slightly, and get a warning glare from Kistr, who is coming up on the end of his rant, if past experience has anything to say about it. 
+Cadence singsongs with great dynamic range directly into my ear, making me burn to give her a good kick. My legs are getting sore from standing, knees locked, and I desperately want to shift my weight, but don’t quite dare. To make things worse, the bottoms on this latest uniform are too loose. They’re edging past my hipbones, one anxiety-spurring inch at a time. 
 
-I sigh, but carefully, so that my mask doesn't flutter up and betray my frustration. I taste the sharp tang of blood, from biting my tongue to keep it still. Meanwhile, Cadence is losing interest in her little song. She seems to be preoccupied with sucking the words in and out, so that it sounds like: (in)”~aaaAAAEEEIIIrrrr~”(out)”~rrrRRRRRrrr~”
+I squirm, ever so slightly, and get a warning glare from Kistr, who is coming up on the end of his rant, if past experience has anything to say about it. 
+
+I sigh, but carefully, so that my mask doesn't flutter up and betray my frustration. I taste the sharp tang of blood, from biting my tongue to keep it still. Meanwhile, Cadence is losing interest in her little song. She seems to be preoccupied with sucking the words in and out, so that it sounds like: (in)”~aaaAAAEEEIIIrrrr~”(out)”~rrrRRRRRrrr~” 
+
+On repeat.
 
 No one ever blames Cadence, exasperating pest that she is, just me. 
 
 Always me.
 
-So I do my best to ignore that little troublemaker. But she’s relentless, whispering and teasing and laughing, always dashing just out of sight when I try to catch her out. And maybe it’s my fault after all; everyone else seems to be able to ignore her just fine. Not that she ever seems to go off and bothers them. 
+So I do my best to ignore that little troublemaker. But she’s relentless, whispering and teasing and laughing, always dashing just out of sight when I try to catch her out. And maybe it’s my fault after all; everyone else seems to be able to ignore her just fine. Not that she ever seems to go off and bother them. 
 
 It’s unfair, the way I catch all the blame. Like right now. 
 
-“…complete an additional two segments H-and-R. Daily.” Supervisor Kistr is finishing up. I frown under my mask, careful to keep the upper half of my face blank so he won’t notice. I’m not a fan of the health and rec programming. Not that there’s really any better way to spend time. 
+“…complete an additional two segments H-and-R. Daily.” Supervisor Kistr is finishing up. I frown under my mask, careful to keep the upper half of my face blank so he won’t notice and increase my sentence for insolence. I’m not a fan of the health and rec programming. Not that there’s really any better way to spend time. 
 
-My effort is in vain; Kistr raises an eyebrow, seeming to see past my mouth to the dissatisfied twist beneath, and then his eyes crinkle at the edges.
+My effort is in vain; Kistr raises an eyebrow, seeming to see past my mask to the dissatisfied twist beneath. His eyes crinkle at the edges.
 
-“Also, a nutrition increase of 15%.” He finishes, trails of moisture seeping from his eyes as his cheeks threaten to drown them. The effect is unpleasant, but not nearly so much as his sentence.
+“Also, a nutrition increase of 15%.” He finishes, trails of moisture seeping from his eyes as his cheeks threaten to drown them in a concealed grin. The effect is unpleasant, but not nearly so much as his punishment.
 
 “Hah! You’re just a kid, of course you should get more!” Cadence snorts. 
 
@@ -97,7 +101,7 @@ Cadence’s meaning is correct; I am the youngest in the room, by far.
 
 The youngest to leave training (or rather, retraining), the youngest to join the workers, or so Cadence claims. 
 
-She tells me I’m seventeen. I don’t know how she’d know; the Tower doesn’t record ages. Just roles. Trainee. Worker. Supervisor. Senior.
+She says seventeen. I don’t know how she’d know; the Tower doesn’t record ages. Just roles. Trainee. Worker. Supervisor. Senior.
 
 But it’s obvious I’m the youngest; I keep growing. My ankles and wrists jut scandalously past the wide sleeves and loose pants of my uniform. Exposed flesh is against regulation.
 
@@ -111,17 +115,21 @@ Before that, I don’t remember.  But I do know that people have been in trainin
 
 I don’t want to go back.
 
-I was already taller than most of the others when I started on the training floor. My arms and legs are stretched by it, aching and bony, making me even thinner than the others, making it hard to move. You can see through the darkness of my stretched skin to deeper colours underneath, all shadows and movement. My hair grows faster too, passing Regulation length between trims, prickling around my ears and poking out the eye-opening of my uniform in violation of Regulation. Of course, it’s dark as well, making the length too visible, inky in contrast against the paler tone of my skin and against the bland uniform hood.
+I was already taller than most of the others when I started on the training floor. My arms and legs are stretched by it, aching and bony, making me even thinner than the others, making it hard to move. You can see through the dusty tan - another mark of shame - of my stretched skin to deeper colours underneath, all shadows and movement. My hair grows faster too, passing Regulation length between trims, prickling around my ears and poking out the eye-opening of my uniform in violation of Regulation. Of course, it’s too dark as well, making the length too visible, inky in contrast against the paler tone of my skin and against the bland uniform hood. 
 
-Trainees don’t know not to talk at the beginning. The others said I must have been forgotten by the Growers and left too long. 
+Trainees don’t know not to talk at the beginning. The others said I must have been forgotten by the Growers and left too long. Overbaked, singed, burnt around the edges, my skin and hair too full of colour, not even close to Tower-approved ashy paleness. 
 
-Where the others were half my height, or less, they were also faster and more coordinated. In their high whispers, they said I grew wrong, dark  and stretched and oversized.
+Where the others were half my height, or less, they were also faster and more coordinated. In their high whispers, they said I'd been grown wrong, dark  and stretched and oversized.
 
 Cadence said no, I was just meant to be this way. She said tall is better anyways, for climbing trees and stuff. Whatever that means.
 
-She said other things too, but I knew better than to repeat them. She tells so many strange stories and uses so many funny words and pretends to know so many things, and I never know when she’s making something up. Like trees. And climbing. And kids. 
+She said other things too, but I knew better than to repeat them. She tells so many strange stories and uses so many funny words and pretends to know so many things, and I never know when she’s making something up. Like trees. And climbing. And kids.
 
-So maybe there’s a Grower somewhere on the Training Floor that got sent back to retraining for negligence. That would be good. 
+My favourite story is weather; I try to imagine what she means, and sometimes even achieve faint images with Cadence’s help: rain like a shower that covers the whole ceiling, sun brighter than the brightest lamp. Wind is mystifying, though, and snow, that rarest of phenomenon…
+
+But this part of me is wrong too, the part that wonders, the weak, unfocused part that is tempted to listen to Cadence’s ridiculous fantasies. The part that is fooled into seeing things that aren’t there, flashes of a place that is not the Tower.
+
+So maybe there’s a Grower somewhere on the Training Floor that got sent back to retraining for negligence. As they should have been, for such a monumental failure. 
 
 It is not good to stand out. 
 
@@ -137,21 +145,25 @@ Being different is dangerous. Being different causes reprimands, and more of the
 
 Being different brings death.
 
-“Liiiiieessss,” Cadence whispers, then chuckles, distracted by a new rhyme, which she proceeds to sing repeatedly: “No skyyyys just liiiies mad eyyyyes hates surpriiiiise~"
+“Liiiiieessss,” Cadence whispers, then chuckles, distracted by a new rhyme, which she proceeds to sing repeatedly: “No skyyyys just liiiies mad eyyyyes hates surpriiiiise~esss~~"
 
-Supervisor Kistr wraps up his reprimand with a group chorus of holy Tower Regulation, watching me the whole time. After, I am allowed to sit. I move too fast, eager to change position, and I bump my thigh against the arm of my chair with a clatter. It burns and I know it will bruise bright, invisible patterns under my uniform. 
+Supervisor Kistr wraps up his reprimand with a group chorus of holy Tower Regulation, watching me the whole time. After, I am allowed to sit. 
 
-The reprimand this time was longer than usual. My screen has gone blank, and I tap the terminal to wake it. This prompts a sharp look from Supervisor Kistr.
+I move too fast, eager to change position, and bump my thigh against the arm of my chair with a clatter. The skin burns, and I know it will bruise bright, invisible patterns under my uniform. Great. Even darker, more colourful skin.
+
+The reprimand this time had been longer than usual. My screen has gone blank, and I tap the terminal to wake it. This prompts a sharp look from Supervisor Kistr.
 
 Productivity. Right. 
 
 I shift uncomfortably, feeling the rasp of the sturdy seat covering through the folds of my uniform. A wheel squeaks, high and thin, and I freeze guiltily.
 
-It’s not that I don’t understand. Even my work output can disrupt the fragile balance that the Tower so carefully preserves. My own mind or someone else’s could be compromised, the briefest hint of ambition to compete, an unguarded moment, the merest spark of imagination could prove the opening needed for a Dream to take control. 
+It’s not that I don’t get it. Everything, even my dull work, can disrupt the fragile balance that the Tower so carefully preserves. My own mind or someone else’s could be compromised, the briefest hint of ambition to compete, an unguarded moment, the merest spark of imagination could prove the opening needed for a Dream to take control. And then it all ends.
 
-It’s just, if the screen goes blank, it takes on the same drab hues as the rest of the console. And the chair. And the walls. Floor. Ceiling. Uniforms. Even, for many of us, skin tone. The gold net embedded in the light fixtures casts everything in a smudge of pale, muddy yellow over the bland neutral tones. It all swims together, making me feel sick.
+I do know obedience to regulation is the only way. Regulation 3: A controlled mind is holy. Work takes second precedence to maintaining stability. 
 
-Hate is dangerous. Hate is a wish for change. A wish can disrupt the balance. 
+It’s just, if the screen goes blank, it takes on the same drab hues as the rest of the console. And the chair. And the walls. Floor. Ceiling. Uniforms. Even, for many of us, skin tone. The gold net embedded in the light fixtures casts everything in a smudge of pale, muddy yellow. It all swims together, making me feel sick.
+
+Hate is dangerous. Hate is not stable. Hate is a wish for change. A wish can disrupt the balance. 
 
 So I do not hate the blank screen. I simply avoid it as much as possible. I do not wish to work more, or faster, or harder than anyone else. I just do not let the screen go blank.
 
@@ -167,11 +179,13 @@ Cadence fumes for a few minutes, while I enjoy the silence. I can almost feel th
 
 Cadence keeps grumbling in the background as I type, only half listening to her. 
 
-I could leave. Kistr has gone back to his shielded office, and unless a reprimand is triggered, he won’t bother with me again today. No one else will care. But I have no great love for the health or recreation assignments, where the activities are nearly as mind-numbing as the work we are assigned to. I do not care to return to my small white room on Floor 28 simply to sleep and find temporary freedom from the boredom. I can’t be bothered to leave my desk, much less abandon work and go. 
+I could leave. Kistr has gone back to his shielded office, and unless a reprimand is triggered, he won’t bother with me again today. No one else will care. But I have no great love for the health or recreation assignments, where the activities are nearly as mind-numbing as the work we are assigned to. I do not care to return to my room simply to sleep and find temporary freedom from the boredom. I can’t be bothered to leave my desk, much less abandon work and go. 
 
-“Play hooky.” Cadence chants, delighted. 
+“Play hooky.” Cadence chants, delighted with her latest nonsense word. 
 
-I rub hard between my eyes, sighing. Cadence is relentlessly loud and talkative and smug. I don’t know anyone else like her. Although, I don’t actually know anyone else. That would be against Regulation.
+I rub hard between my eyes, sighing. Cadence is relentlessly loud and talkative and smug. I don’t know anyone else like her. 
+
+Although, I don’t actually know anyone else. That would be against Regulation.
 
 An alert takes over my screen: time for a hydration break. 
 
@@ -185,15 +199,15 @@ Conversation.
 
 Socialization. 
 
-Close contact with others violates Regulation and risks weakening the mind. Interpersonal relationships are to be avoided. (Cadence doesn’t count; she’s impossible to avoid.)
+Close contact with others violates Regulation and risks weakening the mind. Interpersonal relationships are to be avoided. (Cadence doesn’t count; she’s impossible to avoid. Trust me, I’ve tried.)
 
 I look around, swallowing hard. No one else seems to be aware of this violation of Regulation. Even Cadence is silent, for once.
 
-Taking a deep breath, I slip my hand into my hood and through my hair, scrubbing my fingers through the too-long mat of it, adjusting the drape of my mask to cover the strands better. Somehow, the motion calms me, clears my mind. 
+Taking a deep breath, I slip my hand into my hood and through my hair, scrubbing my fingers through the too-long mat of it, adjusting the drape of my mask to cover the strands better. The motion is calming; it clears my mind. 
 
 I don’t have to interact. I’ll just get my drink, finish up as quickly as possible, and get back to my console. 
 
-I eye the small crowd as I approach. 
+I eye the small crowd as I approach, a little breathless. Cadence is still chanting in the background. She doesn’t seem aware of how wrong this is. 
 
 Four of them. Three men and - could it be? - one woman. 
 
@@ -211,7 +225,7 @@ That's not what stills my steps and makes me stare.
 
 I agree. I’ve never seen anything like him.
 
-Black hair curls out the opening around his eyes, long and dark, improbably glistening purple-blue highlights. His eyes are subtly tilted and bright gold - as gold and shimmering as the smooth band around his head. The exposed skin around his eyes glows with a soft golden warmth that stands out in sharp contrast to his hood and mask. 
+Black hair curls out the opening around his eyes, long and dark, improbably catching the light and reflecting back glistening purple-blue highlights. His eyes are subtly tilted and bright gold - as gold and shimmering as the smooth band around his head. The exposed skin around his eyes glows with a soft golden warmth that stands out in sharp contrast to his hood and mask. 
 
 I’ve seen tinges of colour to skin before, my own dusty-looking shade included, but never a deep, rich colour like his. And those eyes, lit from within, but dark at the same time; an endless pool of shining.
 
@@ -221,7 +235,7 @@ The colour of protection.
 
 Safety. 
 
-Maybe that’s why he dares to stand so close to that woman, looking down at her with bright eyes, arms almost touching. Could it be why the others all lean in close, closer than I’d ever seen anyone before?
+Maybe that’s why he dares to stand so close to that woman, looking down at her with bright eyes, arms almost touching. Could it be why the others all lean in close, closer than I’d ever seen anyone get to another person, since my time with the foolish children on the Training floor?
 
 He draws them to him, like gravity, like a magnet, his pull natural and right. 
 
@@ -231,7 +245,7 @@ He is - they are - staring at me now, just a few feet away. I had been heading r
 
 “Are you all right, Cole?” The golden man asks. His voice is liquid, deep and rich and smooth. I feel a spreading warmth that rushes from the pit of my stomach to heat my face.
 
-He has no reason to know my ID. Did Kistr use my ID during the reprimand? How?
+He has no reason to know my ID. Did Kistr use my ID during the reprimand? How could he know?
 
 My thoughts are scattered, memories distant behind the racing of my pulse, thundering in my ears, throbbing in my cheeks.
 
@@ -259,9 +273,9 @@ It’s not safe.
 
 I shake my head, staring at the wall, resisting the pull. I can see his smile out of the corner of my eye, as he turns back to his group. 
 
-“He’s no joke, that one!” Cadence whispers in my ear, shivering. “Ravelwan is bad news. You know he’s a transfer? Not even from this Tower! You just keep your distance from that trouble. You can do better.”
+“He’s no joke, that one!” Cadence whispers in my ear, shivering. “Ravelwan is something else. You know he’s a transfer? Not even from this Tower! Bad news.”
 
-Ravelwan? A series ID? There are more like him? 
+Ravelwan? A series ID? There are more like him? …and how does Cadence know about him, anyways?
 
 He’s speaking to the group in hushed tones, and I can’t help but try to listen as I pretend to study the hydration console’s display. All my energy is concentrated in my tingling ears, drinking in that voice, my head hot and flushed. My ears must be bright red.
 
@@ -271,9 +285,7 @@ He’s speaking to the group in hushed tones, and I can’t help but try to list
 
 Winter? The club? 
 
-I don’t understand.
-
-Cadence refuses to explain, pouting. She wants to go, forget the consequences. 
+The words don’t make any sense. Cadence refuses to explain, pouting. She wants to go, forget the consequences. 
 
 “Leave it alone. I’ll tell you later.” Cadence says. “Get your drink and get back to your station. Better yet, just skip the stupid drink.”
 
@@ -281,7 +293,7 @@ Cadence refuses to explain, pouting. She wants to go, forget the consequences.
 
 Cadence drops silent at the word “out”, tensing, distracted.
 
-“A way out…” She gasps the words, breathless, awed. 
+“A way out…” She gasps the words, breathless. 
 
 That's bad sign. It usually is, when Cadence shows an interest in something. Bad for me, anyways.
 
@@ -301,7 +313,7 @@ Ravelwan. Why...
 
 The bright hand moves to my collar, scratching at the border where the drape of my mask falls loose and the bottom half of my hood hangs over the neckline of my shirt, slipping something inside with a soft crackling so that it is pinned between my clammy skin and the light fabric. 
 
-I don’t dare move a muscle as the warmth fades from my back. The blood that was pooled around my toes is rushing all at once to heat my face, flushing my skin and drowning my brain. The rushing sound drowns out Cadence’s voice. She’s spilling out a stream of what she calls ‘rude' words. 
+I don’t dare move a muscle as the warmth fades from my back. The blood that was pooled around my toes is rushing all at once to heat my face, flushing my skin and drowning my thoughts. The rushing sound drowns out Cadence’s voice, muting the stream of what she calls ‘rude' words. 
 
 I’m not sure if she’s scared or angry. I’m not sure if I am either. Or something else entirely.
 
@@ -311,9 +323,9 @@ How can I go back to my console, sit, focus on a screen? For hours more?
 
 Without even processing the decision, my feet are taking me to the exit. To the corridor. The elevator. 
 
-I glance at the wall across from the elevator, at the faintest seam outlining a large square area that starts at about knee height, and up to about shoulder height. 
+I glance at the wall across from the elevator, at the faintest seam outlining a large square area that starts at about knee height, and climbs to the level of my shoulders. 
 
-How many times had I glanced past it, not interested, unaware. 
+How many times had I walked past it, not interested, unaware. 
 
 “The way out?” Cadence says. I’ve heard that tone from her before. It’s a tone that sometimes creeps into her stories, the ones that start with “In the time before..”
 
@@ -325,308 +337,6 @@ But… The idea that there truly could be something more... More than the Traini
 
 A place where the threat of being sent back wouldn’t be constantly pricking at the back of my mind.
 
-Something new. Something unexpected. Like Cadence’s stories. What if they were real? What if even a fraction of the things in her story could be found, just beyond that opening?
+Something new. Something unexpected. Like Cadence’s stories. What if they were real? What if even a fraction of the things in her stories could be found, just beyond that opening?
 
-I reach a hand, shakily, towards the outline of the hatch, Cadence holding her breath all the while, silently urging me on.
-
-The elevator door hisses open behind me, and with it, all the air whooshes from my body. 
-
-I gasp, head spinning, and turn. Cadence lets out a sob.
-
-A guard stands in the elevator, eyeing me coldly. A small woman marked with the 3-8 code of a care worker huddles in a corner, as far from the man as possible.
-
-It’s an effort to shutter my gaze, to slump and turn, casual, nothing to see here. No reason to take note. 
-
-I shiver and step into the elevator, selecting my floor from the lighted pad and holding position near the door. Floor 3 is highlighted. The Guard is taking the woman down for assessment. And then, probably, retraining.
-
-What was I thinking? 
-
-There is the Tower and nothing else. Only death.
-
-Regulation protects us. The Tower protects us.
-
-I am careful to avoid the bold gaze of the Guard, as the elevator carries me down to my room. His breath rasps loud and slow in the confined space, a heavy, careless counterpoint to the woman’s light, fast gasps. She is afraid. 
-
-She is dangerous.
-
-When I reach my floor, it’s a relief to escape, to hear the doors slide shut behind me, closing the danger safely away.
-
-That was too close. I had been having… was it a dream? An ambition? A hope? 
-
-Whatever it was, it was not Regulation. 
-
-I am lucky to have the protection of the Tower shielding me. I will have to be more careful in the future. 
-
-I return to my room. I’ll be good; suck down my nutrition allotment and go to sleep early. 
-
-By tomorrow, I’ll be back on track.
-
-…
-
-The increased nutrition allotment is turning my stomach. 
-
-Just the look of it, thick and milky, the same drab colour as everything else around here. 
-
-Drab floor. Drab health console. Drab recreation console. Drab walls, with drab spare uniforms in their inset cupboards. Drab bed, when folded down from the wall. 
-
-I jab a straw in the clear plastic pack and raise it to my lips, stomach churning. Cadence makes gagging noises in my ear, revenge for chickening out, as she calls it, earlier. 
-
-“Mmmm” She hums cheerily, “Sliiiimmme, nummmyyy sliiiimmme.” 
-
-Then she retches noisily.
-
-I tighten my grip on the nutrition pack. Gluey fluid spurts up the straw and into my face and hair, soaking my mask and dripping in wet plops onto my uniform, chilling my skin where it sticks. A sick-sweet stink rises from the stain. 
-
-Great. 
-
-Cadence laughs out loud, rolling with hilarity.
-
-I put down the pack on the floor where I’ve been sitting, back propped against the wall, and head to the sanitation closet. 
-
-Change of plans. I’ll take a shower, then nutrition, then bed. 
-
-The standard Tower uniform is simple. Shapeless baggy pants. Flexible slippered shoes that fit over the toes and behind the heel. A loose hooded tunic with long, wide sleeves that cover the gloves, and a collar just wide enough to fit over the head. The face covering fits just above the nose and fastens to my hood just behind my ears, hanging long to rest on my collar. All in the same drab greyish beige tone, except for the narrow band of gold worked across my forehead and the black printed codes. ID number 3-5 — for Tower 3, our home Tower, and Section 5, digital technology — is printed across the back of the uniform, and repeated in smaller text on the front. Small tags inside each article of clothing have my personal ID - Cole - printed, so they can be returned to the right room after cleaning.
-
-I strip off the now-sticky uniform top and bundle it and the pants into the wash hatch. They’ll be cleaned automatically, although Section 2 would look them over for any repairs or replacement needed before returning them. Maybe I’ll get a new set of uniforms that fit this time.
-
-I step into the shower, and it turns on, sensing my presence. Steamy water fills the air with a heavy mist, drumming down on my skin pleasantly. A sweetly-scented spray hisses out of dispensers at shoulder height. 
-
-“Tell me the storm,” I say to Cadence. She’s a pest, but she does have her uses. This is my favourite story, and I think I’m due a little indulgence after all she’s put me through today. 
-
-“The air electric, crackles on our skin,” She starts without protest, the words so familiar that I could recite them myself, though never with the special magic she adds. When Cadence tells a story, it’s as if I can see it. I shiver with anticipation.
-
-“The wind rises, whipping our hair in every direction, and filling us, stretching our lungs near bursting. It tastes of salt and pine and we love it. The sky is filled with clouds, enormous and dark, but also distinct, the dark grey shifting and racing with deep purples and flickering greens. The lightening snaps from within the clouds, and also inside us, and we want to yell and run and dance and sing and fly. The rain comes, cold and sweet, and the wind blows it sideways swirling, so that we breathe it in and feel it on our face and arms, dashing from every direction. Thunder rolls, distant and deep, and when dad laughs, we feel it in our knees where he holds us in place, strong against the wind and the storm. "Wild child," he says, laughing,"my wild one.” And we want to dance in the center of the storm forever.”
-
-When her voice dies, the glorious madness of the storm rolls back. The fury of wind and rain fades into the warm deluge of the shower.
-
-Exhausted, all of the sudden, I sink down on the floor and lean my head on my knees, taking shallow breaths to avoid inhaling water. 
-
-The steam swirls silvery-white under the sanitation closet lights, the patterns mesmerizing, tiny clouds scudding alone in an empty sky. My lashes drift down, obscuring the vision.
-
-…
-
-“…” 
-
-“Cole…”
-
-“Cole!”
-
-Cadence is yelling at me from a great distance. 
-
-I’m not sure I care. I’m just so sleepy, and it’s so pleasant to stay here drowsing in the warm… downpour? 
-
-With great effort, I open my eyes. 
-
-Huddled in a corner of the shower, hot water beats down on my head. My limbs are heavy, the air clogged with steam. The light seems so far away...
-
-Cadence is still yelling, although I can only pick out my name from the stream of sound under the rushing of the water. 
-
-I push listlessly at the door of the shower with one arm, flailing weakly until the seal cracks and the stream of water shuts off. 
-
-I heave again, and manage to pour myself out across the threshold, sprawled with my head and shoulders against the cool, damp floor. 
-
-I'm suddenly nauseous, the spinning of the foggy air ponderously slow in my head. 
-
-The silvered light swirls and dances, and a light breeze raises the hair from my skin, deliciously cool. A wisp of gold entwines with the silver and I wander in the gilded paths of a distant land, a memory of warmth and light taking me away. 
-
-…
-
-There is a great darkness. It is coming for me. 
-
-Silver flashes across my vision.
-
-...
-
-I surface from the dream with a gasp, heart thudding in time with the pounding in my head. 
-
-My stomach is churning in counterpoint rhythm, threatening a slow climb to my throat in revenge.
-
-It’s too bright and too cold. I shiver, lying on the cold, hard floor in a pool of water. 
-
-Cadence is crying, great hiccuping sobs. 
-
-I am bruised and stiff. The air is too thin, too empty. 
-
-I drag my arms in, intending to hold my head together and keep it from bursting just yet. Something crinkles under my hand.
-
-Squinting through the throbbing pulse currently trying to eject my eyeballs from my skull, I examine the object. It’s damp and smudged, a folded bit of yellow paper, drying in ripples. 
-
-I crack the edges apart and peel it open. There are three lines of slanted text. The heavy black ink is fuzzy, but still legible. 
-
-“You are meant for more. Join us. 
-
-10:30 pm. The door across from the elevators. 
-
-I’ll be waiting.
-
- -Ravelwan"
-
-Under his name is a scrawled device, a check mark? Or perhaps the letter V, flourished ends wrapping back across the note.
-
-Ravelwan. 
-
-The earlier events of the day wash over me, heating my skin instantly. 
-
-The reprimand. The group, huddled together in conversation. The golden man, his touch, slipping something under my collar. 
-
-His note. His message. 
-
-To me.
-
-I start to melt, and harden again in an instant.
-
-I must destroy it.
-
-I suck in the cold, empty air, push up from the floor to lean against the cool wall, feeling my racing heart slow. 
-
-My fingers are icy. Water drips, slow drop by drop from the fixtures, condensation building and releasing. 
-
-I focus on the sound, waiting, breathing in a gasp of relief with every rounded drop as it bursts against the floor. I pull my knees to my chest, wrap my arms around them for warmth. 
-
-Yes. Destroy it. 
-
-Regulation demands it. I am Digital Technician Cole 3-5. I am a Worker of Tower 3. I want to live. I must be safe. 
-
-I will follow Regulation.
-
-“Why?” Cadence’s voice is soft, and so very young, all of a sudden. So fragile. So alone. 
-
-My heart aches.
-
-Why do I follow Regulation? To live safely. To live. Following Tower Regulation is the way to a long and safe life.
-
-“Don’t do that!” Her voice is fierce now. “Don’t hide behind their training! Why do you want to live? Why do you want to be safe? What do you have here? What do you have that’s worth living for?”
-
-I don’t know what to say to her. It’s a ridiculous question. 
-
-She gets like this sometimes, and I just can’t understand her. Why would I need something to live for? 
-
-Not dying. Not feeling pain. Being safe. That is my whole purpose. Our whole purpose. 
-
-The Tower’s purpose. 
-
-“There’s more.” Cadence says. “There can be more. Family. Friends. Beauty. Sensation. Pleasure. Love. Freedom.” 
-
-They lead to death. They are weakness. They invite destruction.
-
-“No, they give meaning. Your life means nothing. Better to seek beauty in a dream and die than continue to live like this.”
-
-I don’t know anything about beauty. I don’t care about freedom. 
-
-I don’t need love.
-
-“Cole.” Her voice is pleading, broken. “We did, once.”
-
-I’m done with this, this momentary weakness. 
-
-I will destroy this note. 
-
-I will dress, finish my nutrition allotment and go to bed.
-
-Decided, I push up off the floor, fighting off a wash of nausea. I drop the note in the toilet and flush. My stomach seems to swirl with the paper as it circles the drain and is gone. 
-
-Taking a firm grip on myself, I leave the sanitation closet and pull out a change of clothes from the cabinet. I reach for the remaining nutrition allotment, and raise it to my lips, but lingering queasiness makes me put it down again quickly. 
-
-Fine. I’ll just sleep it all off and get back on track tomorrow. 
-
-I lower the bed from its compartment in the wall, climb under the sheet and close my eyes. The light automatically shuts off after a few minutes. 
-
-“Cole…” Cadence prods in the darkness. 
-
-“Cole, you can’t just keep hiding. It’s time.”
-
-I can ignore her. I can ignore all of it. I know what to do. 
-
-Follow regulation. 
-
-Don’t get involved. 
-
-But Cadence is persistent. She won’t give up either. Maybe I can put her off somehow, distract her. A moment’s thought, and it comes to me.
-
-I pull up a clock on the display console beside the bed. 
-
-It’s only 9:30. It would be safe. Well within the protection of the Tower. But maybe enough of an adventure to get Cadence off my back.
-
-“Yes. Just a little trip, Cole. You know I don’t really want anything to do with that Ravelwan anyways. Let’s go on our own.” Cadence is eager now, hopeful. Dangerous. 
-
-But I’ll be fine. I have no hope. Just a plan.
-
-I swing my feet out of bed and pad across to the floor. The nausea seems to have faded, but my heart is pounding. 
-
-I’ve never been out of my room this late. I’m not sure I’ve ever left by choice, just for work or training.
-
-I slide the door open slowly, peering into the hall, before edging out and closing the door behind me. Softly. 
-
-There’s no one in the corridor. Even if there were, being out of your room in the evening isn’t quite a violation of regulation.
-
-Being in someone else’s, on the other hand, definitely would be. I gaze narrowly at the other doors, listening intently for movement. 
-
-I hear the whir of a health cycle coming from behind one, the hum of scheduled recreation behind a couple others, as I prowl towards the elevator, but nothing more. 
-
-I press my ear against the outlined hatch across from the elevator, barely breathing, straining to hear the slightest sound. Waiting for an excuse.
-
-“No one’s there.” Cadence says, making me jump. 
-
-It’s all an act. Foolish Cadence hadn’t been paying attention, but I had. The scored lines bordered a smooth, featureless expanse of wall. With no doorknob. 
-
-There had been no depression, no handle of any kind. A simple trick; I’ll try the door, it won’t open, and Cadence will have to give up and let me get some sleep.
-
-I take a deep breath and reach out to rest a hand on the hatch, swiping across it from one edge to the other. Nothing happens. No doorknob; no way to open it.
-
-“You’re not trying hard enough,” Cadence says. “Try harder! It has to open!”
-
-There’s nothing to grab hold of, nothing to make the hatch open. I give the door a solid shove where the knob ought to be to prove my point.
-
-Pop.
-
-The hatch springs out slightly from the wall, and I leap back from it, tripping myself in the process. From the floor, I can see a slim edge of darkness, where the panel pivots outwards, and, unthinking, reach out to hook my fingers around the exposed edge of the little door. The slight rasping sets my teeth on edge, but the door swings wider, showing a small, dusty space behind the wall. Leaning in, I can see that the room runs off to one side in a narrow channel. 
-
-“Hurry up!” Cadence hisses, startling me. “Someone’s coming!” 
-
-She’s right; I can see someone just stepping out of their room, a few doors to the right. Without a second thought, I dive through the opening and pull the wall panel closed behind me.
-
-It’s dark. The standard lights, with their gold netting, are absent, replaced by a faintly luminous strip outlining the hatch from the inside. The air is cool and musty, and I have to hold my nose to from sneezing.
-
-I hear footsteps approaching, and, panicking, crawl further from the door, sliding as quietly and as quickly as I can through the dark tunnel that runs off to one side. It opens out in a sudden, painful drop to cold concrete. 
-
-I'm sitting on a small platform. 
-
-Stairs rise and drop into gloom ahead of me, one to each side, and I can see the faintly glowing outline of doorways above and below at some distance. A matching glow is at my back; full height, this time. I lay my head against the icy back of the door and listen.
-
-Nothing. It should be safe. I’ll open the door slowly, just in case.
-
-Or not. The handle turns, but the door resists my heaving. Panting, I let go and slide down.
-
-“Locked,” Cadence says. “Obviously.”
-
-But I can hear the worry behind her tone. I scuff my feet in the dusty concrete and let my head fall back against the door.
-
-I should be afraid — the gold in the Tower lighting offers some protection — but I find this darkness strangely peaceful. 
-
-Pressing a hand against the wall, I find it icy, the texture rough and porous, completely unlike the smooth-finished walls I’ve always known. It’s gritty against my palm, and a dark, damp smell rises off of it. I run my hand along the surface. The whispering dry scrape sends chills down my spine.
-
-It’s new. Different. Strange. 
-
-“Fascinating,” Cadence observes. “You find it fascinating. You like it.”
-
-I recoil at her quiet accusation, stung, snatching my hand back to the warmth of my body. My palm tingles from the rough cold of the walls. I can hear nothing but our breath and the beating of our hearts. Fast, the twinned rhythm racing.
-
-I feel no such thing. 
-
-I feel nothing. 
-
-This was a terrible idea. I wasn’t feeling well. I’d made a mistake.
-
-But a strange thought occurs to me. If I could, would I be able to bring myself to slide back that door? To expose this quiet, cold world of darkness — mine! I think fiercely — to the cloying sweetness and light and hum that I’ve always known? Even Cadence’s voice is hushed. 
-
-So.
-
-Up or down?
-
-“Down, of course! That’s the way out!” Cadence says. 
-
-So then. Up it is. 
-
-We’re not leaving the Tower. I’m not that sick. I’m just… not quite ready to go back.
-
-I start to climb. 
+I reach for the hatch.
