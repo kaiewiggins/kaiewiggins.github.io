@@ -9,9 +9,9 @@ Special preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fanta
 
 <hr>
 
-<strong>Chapter 1: Trouble 
+<strong>Chapter 1: Trouble </strong>
 
-Cole:</strong>
+<strong>Cole:</strong>
 
 Cadence speaks. Only I hear.
 
