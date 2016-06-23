@@ -5,14 +5,15 @@ date: 2016-06-17
 category: book
 ---
 
-Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel.
+Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel. Jump to: <a href="#ch1Trouble">Chapter 1 - Trouble</a> | <a href="#ch2Hatch">Chapter 2 - Hatch</a> | <a href="#ch3Bell">Chapter 3 - Bell</a> | <a href="ch4Morristu">Chapter 4 - Morristu</a> | <a href="ch5Flight">Chapter 5 - Flight</a>
+
 
 <hr>
 
 
-<strong>Chapter 1: Trouble </strong>
+<a class="anchor" id="" name="ch1Trouble"></a><h5>Chapter 1: Trouble </h5>
 
-<small>Cole</small>
+<strong>Cole</strong>
 
 Cadence speaks. Only I hear.
 
@@ -348,9 +349,9 @@ I reach for the hatch.
 <hr>
 
 
-<strong>Chapter 2: Hatch</strong>
+<a class="anchor" id="ch2Hatch" name="ch2Hatch"></a><h5>Chapter 2: Hatch</h5>
 
-<small>Cole</small>
+<strong>Cole</strong>
 
 The elevator door hisses open behind me, and with it, all the air whooshes from my body. 
 I gasp, head spinning, and snatch my hand back from the seam of the shoulder-height hatch. Cadence lets out a choked sound. It might be a sob.
@@ -681,9 +682,9 @@ I start to climb.
 <hr>
 
 
-<strong>Chapter 3: Bell </strong>
+<a class="anchor" id="ch3Bell" name="ch3Bell"></a><h5>Chapter 3: Bell </h5>
 
-<small>Suzie</small>
+<strong>Suzie</strong>
 
 It’s the music that I notice first. I haven’t heard music in decades, not real music. But there it is, the delicate, far-off trickle of refined piano played early in the day, in a large and well­-appointed hall.
 
@@ -751,7 +752,7 @@ The sole of her shoe rises to blot out the light.
 <hr>
 
 
-<strong>Chapter 4: Morristu</strong>
+<a class="anchor" id="ch4Morristu" name="ch4Morristu"></a><h5>Chapter 4: Morristu</h5>
 
 The Day Supervisor nearly stepped on the body during morning rounds. 
 
@@ -817,9 +818,9 @@ Inspector Haynefyv cleared his throat again, thoroughly uncomfortable now. He wo
 <hr>
 
 
-<strong>Chapter 5: Flight </strong>
+<a class="anchor" id="ch5Flight" name="ch5Flight"></a><h5>Chapter 5: Flight </h5>
 
-<small>Cole</small>
+<strong>Cole</strong>
 
 Cadence and I are alone in a world of near-darkness. We are dying. 
 
