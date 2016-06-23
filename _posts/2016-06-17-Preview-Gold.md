@@ -5,20 +5,13 @@ date: 2016-06-17
 category: book
 ---
 
-Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel. Jump to: 
-<ul>
-<li><a href="/2016-06-17-Preview-Gold.md#ch1Trouble">Chapter 1 - Trouble</a></li>
-<li><a href="/2016-06-17-Preview-Gold.md#ch2Hatch">Chapter 2 - Hatch</a></li>
-<li><a href="/2016-06-17-Preview-Gold.md#ch3Bell">Chapter 3 - Bell</a></li>
-<li><a href="/2016-06-17-Preview-Gold.md#ch4Morristu">Chapter 4 - Morristu</a></li>
-<li><a href="/2016-06-17-Preview-Gold.md#ch5Flight">Chapter 5 - Flight</a></li>
-</ul>
+Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel.
 
 
 <hr>
 
 
-<a class="anchor" id="" name="ch1Trouble"></a><h5>Chapter 1: Trouble </h5>
+#####Chapter 1: Trouble
 
 <strong>Cole</strong>
 
@@ -356,7 +349,7 @@ I reach for the hatch.
 <hr>
 
 
-<a class="anchor" id="ch2Hatch" name="ch2Hatch"></a><h5>Chapter 2: Hatch</h5>
+#####Chapter 2: Hatch
 
 <strong>Cole</strong>
 
@@ -689,7 +682,7 @@ I start to climb.
 <hr>
 
 
-<a class="anchor" id="ch3Bell" name="ch3Bell"></a><h5>Chapter 3: Bell </h5>
+#####Chapter 3: Bell
 
 <strong>Suzie</strong>
 
@@ -759,7 +752,7 @@ The sole of her shoe rises to blot out the light.
 <hr>
 
 
-<a class="anchor" id="ch4Morristu" name="ch4Morristu"></a><h5>Chapter 4: Morristu</h5>
+#####Chapter 4: Morristu
 
 The Day Supervisor nearly stepped on the body during morning rounds. 
 
@@ -825,7 +818,7 @@ Inspector Haynefyv cleared his throat again, thoroughly uncomfortable now. He wo
 <hr>
 
 
-<a class="anchor" id="ch5Flight" name="ch5Flight"></a><h5>Chapter 5: Flight </h5>
+#####Chapter 5: Flight
 
 <strong>Cole</strong>
 
