@@ -5,7 +5,14 @@ date: 2016-06-17
 category: book
 ---
 
-Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel. Jump to: <a href="#ch1Trouble">Chapter 1 - Trouble</a> | <a href="#ch2Hatch">Chapter 2 - Hatch</a> | <a href="#ch3Bell">Chapter 3 - Bell</a> | <a href="ch4Morristu">Chapter 4 - Morristu</a> | <a href="ch5Flight">Chapter 5 - Flight</a>
+Special 5-chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel. Jump to: 
+<ul>
+<li><a href="/2016-06-17-Preview-Gold.html#ch1Trouble">Chapter 1 - Trouble</a></li>
+<li><a href="/2016-06-17-Preview-Gold.html#ch2Hatch">Chapter 2 - Hatch</a></li>
+<li><a href="/2016-06-17-Preview-Gold.html#ch3Bell">Chapter 3 - Bell</a></li>
+<li><a href="/2016-06-17-Preview-Gold.html#ch4Morristu">Chapter 4 - Morristu</a></li>
+<li><a href="/2016-06-17-Preview-Gold.html#ch5Flight">Chapter 5 - Flight</a><li>
+</ul>
 
 
 <hr>
