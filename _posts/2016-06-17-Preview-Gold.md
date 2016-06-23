@@ -11,7 +11,7 @@ Special 5 chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernat
 <hr>
 
 
-####Chapter 1: Trouble
+<strong>Chapter 1: Trouble</strong>
 
 <strong>Cole</strong>
 
@@ -349,7 +349,7 @@ I reach for the hatch.
 <hr>
 
 
-####Chapter 2: Hatch
+<strong>Chapter 2: Hatch</strong>
 
 <strong>Cole</strong>
 
@@ -682,7 +682,7 @@ I start to climb.
 <hr>
 
 
-####Chapter 3: Bell
+<strong>Chapter 3: Bell</strong>
 
 <strong>Suzie</strong>
 
@@ -752,7 +752,7 @@ The sole of her shoe rises to blot out the light.
 <hr>
 
 
-####Chapter 4: Morristu
+<strong>Chapter 4: Morristu</strong>
 
 The Day Supervisor nearly stepped on the body during morning rounds. 
 
@@ -818,7 +818,7 @@ Inspector Haynefyv cleared his throat again, thoroughly uncomfortable now. He wo
 <hr>
 
 
-####Chapter 5: Flight
+<strong>Chapter 5: Flight</strong>
 
 <strong>Cole</strong>
 
