@@ -18,7 +18,7 @@ title: Gold. A YA dystopian supernatural fantasy thriller
 </div>
 </div><!--end opening panel-->
 
-<div class="content-consulting-space-one"></div>
+<div class="content-gold-space-one"></div>
   <!-- Start Section 2 -->
   <div class="panel panel-fluid">
     <div class="text-center section">
@@ -29,25 +29,14 @@ title: Gold. A YA dystopian supernatural fantasy thriller
             <br>
             <p class="text-muted">Teen/YA dystopian thriller with dark supernatural/fantasy/SF elements. </p>
             <p class="text-muted">100,000 words. Coming Fall 2016.</p>
- <div class="container">
-    {% for post in site.categories.book limit: 8 %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-sm-3">
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-		<div class="article-head">
-			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
-			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head-->
-		<div class="article-content">
-		{{ post.excerpt }}
-		<a href="{{ post.url }}">Read more</a>	
-		</div><br><!--/.article-content-->
-	</article>
-	</div>
-        {% cycle 'end row' : nil, nil, nil, '</div>' %}
-    {% endfor %}
-    {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
-</div>
+
+		<ul class="posts">
+	  {% for post in site.categories.book %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
+	    	<p><small>{{post.content}}</small></p><hr>
+	  {% endfor %}
+</ul>
 <h3>Story People & Places</h3>
 <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/kaiespace/cole-inspiration-board/"></a>
 <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/kaiespace/ravelwan-ravel-inspiration-board/"></a>
