@@ -262,7 +262,33 @@ border-radius:0px;}
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
+  background: url(https://wallpaperscraft.com/image/gold_background_texture_surface_sheen_51010_1680x1050.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.content-gold-space-two {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
   background: url(https://wallpaperscraft.com/image/chain_gold_close-up_80776_4096x3072.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.content-gold-space-three {
+  padding: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background: url(https://wallpaperscraft.com/image/sheet_wave_gold_82474_2560x1600.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
