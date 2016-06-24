@@ -2,7 +2,7 @@
 layout: default
 title: Gold. A YA dystopian supernatural fantasy thriller
 ---
-
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script><!--Pinterest script-->
  <!--Start main contents of page-->
 <div class="panel panel-fluid">
 <div class="panel-body text-center">
@@ -30,7 +30,7 @@ title: Gold. A YA dystopian supernatural fantasy thriller
             <p class="text-muted">Teen/YA dystopian thriller with dark supernatural/fantasy/SF elements. </p>
             <p class="text-muted">100,000 words. Coming Fall 2016.</p>
  <div class="container">
-    {% for post in site.categories.journal limit: 8 %}
+    {% for post in site.categories.book limit: 8 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
