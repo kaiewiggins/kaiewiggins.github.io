@@ -39,7 +39,8 @@ title: Gold. A YA dystopian supernatural fantasy thriller
 	  {% for post in site.categories.book %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
-	    	<p><small>{{post.excerpt}}</small></p><hr>
+	    	<p><small>{{post.excerpt}}</small></p> 	
+	    	<a href="{{ post.url }}">Read more</a> <hr>
 	  {% endfor %}
 </ul>
 </div>
