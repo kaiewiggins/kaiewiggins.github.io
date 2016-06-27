@@ -27,7 +27,7 @@ It was either Airbnb it or go the hostel route; hotels were ridiculous. Again, d
 
 We did cave in the end and go for a hotel in one destination, and a student accommodation in another; both were found using <a href="http://booking.com" target="_blank">Booking.com</a>, but the list prices on the hotel website was better, so we ended up booking direct in both cases. If anyone has a super hotel deals website that they can recommend, I'd love to hear it. Used to get great deals a few years ago (ok, more like a decade ago...), but it was pretty unimpressive out there this time round.
 
-<img href="https://cdn3.f-cdn.com//files/download/32429423/Screen%20Shot%202016-06-24%20at%2011.14.58%20AM.png" title="Responsive Google Map">
+<img src="https://cdn3.f-cdn.com//files/download/32429423/Screen%20Shot%202016-06-24%20at%2011.14.58%20AM.png" alt="Responsive Google Map">
 
 <strong>Best for Itinerary: Google Maps + Apple's Notes app with iCloud</strong>
 You can make custom maps in Google. It's awesome. I've done this for apartment hunting (numbered so I can hit as many in an area as possible), and even freelanced making these for people that aren't anal enough to do it themselves.
@@ -45,7 +45,7 @@ Of course, that's still waaaay too chill and easy for me, so I have to timeline 
 <strong>Best for Budgeting: Google Sheets</strong>
 OK, there's probably a great app out there for this, but I figured I could do just as well with this online, shareable Excel-lite. Since I'm traveling with a friend, getting the numbers down is a must, but of course it's good practice to do for solo travel as well (despite the cringe factor!) In addition to being free and browser-based so there's no system incompatibility, a Google Sheets spreadsheet can be shared for tandem-input and real-time collaboration. It'll also do most of the fancy calculation stuff that you might need; I find I don't use much more than addition and multiplication, but... it's easy, flexible, mobile and shareable. Use it. Love it.
 
-<Strong>Best for Financing: Amazon (Chase) Visa</strong>
+<Strong>Best for Financing: <a href="https://www.amazon.ca/gp/cobrandcard/marketing.html" target="_blank">Amazon (Chase) Visa</a></strong>
 My reasons for choosing the Amazon Visa were simple: easy to get, no annual fees, no foreign transaction fees. There are almost certainly better travel cards out there for collecting points (this has a simple cash back), insurance and other perks, but I wasn't willing to pay for the card or jump through any hoops. It's a simple, all-online application; they mail the card within about three weeks, so plan ahead. The limits are notoriously low; get around this by topping it up ahead of your trip, or checking and paying it off regularly. It does take a few days for payments to go through, in my experience, so I'd go with putting a few thousand on it ahead of time... But I've been loving the no-foreign-transaction-fee feature! Great for online shopping too.
 
 Coming soon! Travel product recommendations, and an in depth look at using Google Maps for customized itineraries + a no-holds-barred budget!
