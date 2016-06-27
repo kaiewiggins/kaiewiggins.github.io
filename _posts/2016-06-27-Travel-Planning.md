@@ -27,7 +27,7 @@ It was either Airbnb it or go the hostel route; hotels were ridiculous. Again, d
 
 We did cave in the end and go for a hotel in one destination, and a student accommodation in another; both were found using <a href="http://booking.com" target="_blank">Booking.com</a>, but the list prices on the hotel website was better, so we ended up booking direct in both cases. If anyone has a super hotel deals website that they can recommend, I'd love to hear it. Used to get great deals a few years ago (ok, more like a decade ago...), but it was pretty unimpressive out there this time round.
 
-<img src="https://cdn3.f-cdn.com//files/download/32429423/Screen%20Shot%202016-06-24%20at%2011.14.58%20AM.png" alt="Responsive Google Map">
+<img class="img-thumbnail" src="https://cdn3.f-cdn.com//files/download/32429423/Screen%20Shot%202016-06-24%20at%2011.14.58%20AM.png" alt="Responsive Google Map">
 
 <strong>Best for Itinerary: Google Maps + Apple's Notes app with iCloud</strong>
 You can make custom maps in Google. It's awesome. I've done this for apartment hunting (numbered so I can hit as many in an area as possible), and even freelanced making these for people that aren't anal enough to do it themselves.
