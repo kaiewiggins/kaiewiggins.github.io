@@ -45,3 +45,5 @@ OK, there's probably a great app out there for this, but I figured I could do ju
 
 <Strong>Best for Financing: Amazon (Chase) Visa</strong>
 My reasons for choosing the Amazon Visa were simple: easy to get, no annual fees, no foreign transaction fees. There are almost certainly better travel cards out there for collecting points (this has a simple cash back), insurance and other perks, but I wasn't willing to pay for the card or jump through any hoops. It's a simple, all-online application; they mail the card within about three weeks, so plan ahead. The limits are notoriously low; get around this by topping it up ahead of your trip, or checking and paying it off regularly. It does take a few days for payments to go through, in my experience, so I'd go with putting a few thousand on it ahead of time... But I've been loving the no-foreign-transaction-fee feature! Great for online shopping too.
+
+Coming soon! Travel product recommendations, and an in depth look at using Google Maps for customized itineraries + a no-holds-barred budget!
