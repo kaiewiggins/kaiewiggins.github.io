@@ -1,7 +1,7 @@
 ---
 layout: travelpost
 title: Travel Planning
-date: 2016-06-26
+date: 2016-06-27
 category: adventure
 ---
 So this is one of the places where my crazy shows. Partly, it's that I honestly enjoy the research and the (laborious) process of getting to know a place before I go there, but partly it's just that my capacity for vividly imagining everything that can go wrong forces me to work out every detail in advance.
@@ -26,6 +26,8 @@ Honourable mention in this category goes to Skyscanner: their search tools are p
 It was either Airbnb it or go the hostel route; hotels were ridiculous. Again, did a pretty complete vetting of 'deals' sites (Booking, Trivago, Expedia etc.) Airbnb offers some better pricing, and a lot more character. I've never tried it before; fingers-crossed that it works out well! Will report back after with reviews. 
 
 We did cave in the end and go for a hotel in one destination, and a student accommodation in another; both were found using <a href="http://booking.com" target="_blank">Booking.com</a>, but the list prices on the hotel website was better, so we ended up booking direct in both cases. If anyone has a super hotel deals website that they can recommend, I'd love to hear it. Used to get great deals a few years ago (ok, more like a decade ago...), but it was pretty unimpressive out there this time round.
+
+<img href="https://cdn3.f-cdn.com//files/download/32429423/Screen%20Shot%202016-06-24%20at%2011.14.58%20AM.png" title="Responsive Google Map">
 
 <strong>Best for Itinerary: Google Maps + Apple's Notes app with iCloud</strong>
 You can make custom maps in Google. It's awesome. I've done this for apartment hunting (numbered so I can hit as many in an area as possible), and even freelanced making these for people that aren't anal enough to do it themselves.
