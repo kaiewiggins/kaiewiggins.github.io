@@ -20,6 +20,7 @@ layout: default
  <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fkaie.space&description=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-pinterest"></i></a>
  <a href="mailto:?subject=kaieSpace&body=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring:%20http%3A%2F%2Fkaie.space" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fa fa-envelope"></i></a>
 </div>
+<h5><small>{{paginator.previous_page_path}} {{paginator.previous_page}} | {{paginator.next_page}}{{paginator.next_page_path}}</small></h5>
 </div>
 </div><!--close first col-->
 <div class="col-sm-3">
