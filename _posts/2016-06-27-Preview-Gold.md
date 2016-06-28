@@ -10,7 +10,7 @@ Special 10 chapter preview of <strong>Gold</strong>, my upcoming YA/Teen superna
 
 <hr>
 
-##Chapter 1: Trouble
+## Chapter 1: Trouble
 
 <strong>Cole</strong>
 
