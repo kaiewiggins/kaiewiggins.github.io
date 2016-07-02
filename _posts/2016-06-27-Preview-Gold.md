@@ -5,7 +5,7 @@ date: 2016-06-27
 category: book
 ---
 
-Special 10 chapter preview of <strong>Gold</strong>, my upcoming YA/Teen supernatural fantasy novel.
+Special 10 chapter preview of <strong>Blind the Eyes</strong>, the first novel in YA/Teen supernatural fantasy thriller series <strong>Gold & Silver</strong>.
 
 
 <hr>
