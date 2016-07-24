@@ -89,22 +89,38 @@ Despite the tiny departures hall (one set of bathrooms!) there was a small shop 
 Overall? I'm glad I got the flights I did - finally had a chance to visit Canada's East Coast, had a great time climbing around, successfully rented, drove and returned my first rental car, and tried some weird and unhealthy local specialties. Would I do it again? Not unless the flights were even cheaper or the stopover longer (overnight at least), which sounds counterintuitive, but I way overestimated the amount of sleep I could get (5 hours flights + airplane seats = basically none) and way understimated how gross it would be not getting a shower and a change of clothes part way through. Cooler temperatures would probably have helped. Definitely interested in taking Icelandic Air's service with a few days in Iceland next trip, and could be persuaded to stop over in Halifax if WestJet made that an option.  Speaking of which, they were pretty fantastic. Dirt cheap flights, even with the extra $60 or so I spent on checking luggage, didn't miss the airplane food one bit (who eats overnight anyways?), flights were on time and not crammed full - I had the  middle seat empty on every flight - and their staff went above and beyond to  be helpful. Would totally fly WestJet again.
 
 #### Day Trip Budget: $149*
+
 *Prices in CND as of July 2016
 
+
 ##### Transport: $84.18
+
 ($280 WestJet Flight Vancouver to Calgary to St. John's to London Gatwick (single one-way ticket) excluded from totals)
+
 ($60 two checked pieces of luggage (no checked luggage allowance) excluded from totals)
+
 $75.97 for 14 hour car rental
+
 $7.21 to top up rental gas tank
+
 $1 in meter parking
 
+
 ##### Meals: $48.82
+
 $15.18 Brunch: Black Coffee, Toutons, Baked Beans, Boiled Egg
+
 $8.63 Snack: $5 Gelato + $2.50 Iced Coffee at Newfoundland Chocolate Company
+
 $10.07 Drinks: $8.75 five-beer flight at Yellow Belly Brewery
+
 $6.44 Snack: $5.60 Killaloe Sunrise at Beavertails Food Truck
+
 $8.50 Dinner: $5.50 soup & bun at Quidi Vidi Inne of Olde
 
+
 ##### Attractions: $16
+
 $6 The Comissariat (+The Newman Wine Vaults included in purchase price)
+
 $10 The Rooms
