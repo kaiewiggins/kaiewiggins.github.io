@@ -14,13 +14,9 @@ title: kaie.Space
  <a target="_blank" href=" http://kaiespace.tumblr.com"><button><i class="fa fa-tumblr"></i></button></a>
 <a href="https://ca.linkedin.com/in/kaiedesign" target="_blank"><button><i class="fa fa-linkedin"></i></button></a>
 <a href="http://kaie.space/atom.xml" target="_blank"><button><i class="fa fa-rss"></i></button></a>
-<a href="https://www.getrevue.co/profile/kaiespace" target="_blank"><button><i class="fa fa-newspaper-o"></i></button></a>
+<!--<a href="https://www.getrevue.co/profile/kaiespace" target="_blank"><button><i class="fa fa-newspaper-o"></i></button></a>-->
 <a href="mailto:kaie.web@gmail.com" target="_blank"><button><i class="fa fa-envelope"></i></button></a>
-	<br> <hr> <br>
-<p>kaieSpace is home to a variety of adventures in creativity.
-Writing. Publishing. Consulting. Travel. Introspective ramblings. Terrible photography. </p>
-<p>Scroll down for site-wide content updates or use the menu at the bottom of the page to visit microsites devoted to specific subjects.
-</p>
+
 	</div><!--end opening section-->
 </div><!--parallax graphic 1-->
 
@@ -51,11 +47,13 @@ Writing. Publishing. Consulting. Travel. Introspective ramblings. Terrible photo
     <!-- Start Section 2: 'News' -->
   <div class="panel panel-fluid">
     <div class="section">
+	    <p>kaieSpace is home to a variety of adventures in creativity.
+Writing. Publishing. Consulting. Travel. Introspective ramblings. Terrible photography. </p>
+	    <br><hr><br>
       <h3 class="text-center">Latest Posts</h3>
 
           <!--Pull in journal posts-->
 <div class="container">
-	<a href="http://kaie.space/journal/index.html" target="_blank">Older posts here.</a>
     {% for post in site.posts limit: 8 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-sm-3">
@@ -74,6 +72,8 @@ Writing. Publishing. Consulting. Travel. Introspective ramblings. Terrible photo
     {% endfor %}
     {% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
 </div><!--end container-->
+<br><hr><br>
+	<a href="http://kaie.space/journal/index.html" target="_blank">All posts</a>
 
 
 
