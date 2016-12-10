@@ -120,3 +120,4 @@ Father and daughter hovered awkwardly, afraid to touch Aislynn as she quivered a
 
 <hr>
 *End, CH1*
+[Continue to Chapter 2: In the mists of the Otherworld](FotC-CH2-in-the-mists-of-the-otherworld.md)
