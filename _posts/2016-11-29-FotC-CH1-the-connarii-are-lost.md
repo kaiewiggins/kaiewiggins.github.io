@@ -1,8 +1,8 @@
 ---
-layout: lotcpost
+layout: fotcpost
 title: FotC CH1 The Connarii are lost
 date: 2016-11-29
-category: book
+category: fotc
 ---
 
 *In the endless darkness, seen only by the eyes of the gods, a single form is suspended. A slim, small body, female, yet encased in supple hide – the form-fitted second skin of a warrior. Weapons are attached at intervals; a sword and staff slung across her back, knives concealed at hip and ankle, whip-like cord wound from shoulder to wrist, embracing the muscled arms. Long red-gold hair escapes from its bonds to curl around the pale, freckled face. A young sun blooming in the darkness, as Connar, god of the life-flame, watches. The face of the god is unreadable, but not still. Sadness, pride, anguish, hope, joy, despair, love and rage chase across his face like the tides, continually shifting and changing; unknowable.*
