@@ -1,0 +1,36 @@
+---
+layout: default
+title: kaie.TGOoH
+---
+<div class="panel panel-fluid">
+<div class="panel-body">
+ <div class="section">
+ 	<h1 class="text-center">Things Got Out of Hand</h1>
+ 	<h5 class="text-center">Serial webfiction; new chapters debut Fridays.</h5>
+	 <p class="text-center">Or read on <a href="http://my.w.tt/UiNb/SSNmtpsPYy">Wattpad</a> or <a href=" http://www.jukepop.com/home/share/9920/?c=tvjD9HffsCIidBNr&key=67f65f94-8e05-40a4-9b60-3c2e6692fd25">Jukepop</a></strong></p>		
+ <br>
+	 	<div class="row">
+<div class="col-sm-9">
+	<!--main content of posts-->
+		<ul class="posts">
+	  {% for post in site.categories.tgooh %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
+	    	<p><small>{{post.content}}</small></p><hr>
+	  {% endfor %}
+	    	</ul>
+</div><!--close first col-->
+<div class="col-sm-3">
+	<!--lookup linklist of posts-->
+	<h3>Post Index</h3>
+	<ul class="posts">
+	  {% for post in site.categories.tgooh %}
+	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
+	  {% endfor %}
+</ul>
+	</div><!--close second col-->
+</div><!--end row-->
+	  </div><!--end section-->
+	  </div>
+	  </div>
