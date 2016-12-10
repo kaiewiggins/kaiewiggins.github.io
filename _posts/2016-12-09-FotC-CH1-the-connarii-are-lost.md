@@ -1,6 +1,6 @@
 ---
 layout: lotcpost
-title: Chapter 1 The Connarii are lost
+title: FotC CH1 The Connarii are lost
 date: 2016-11-29
 category: book
 ---
