@@ -1,5 +1,5 @@
 ---
-layout: lotcpost
+layout: fotcpost
 title: FotC CH2 In the mists of the Otherworld
 date: 2016-12-06
 category: book
