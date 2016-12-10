@@ -1,17 +1,15 @@
 ---
 layout: lotcpost
 title: Chapter 1 The Connarii are lost
-date: 2016-12-09
+date: 2016-11-29
 category: book
 ---
 
-### The Connarii are lost
+*In the endless darkness, seen only by the eyes of the gods, a single form is suspended. A slim, small body, female, yet encased in supple hide – the form-fitted second skin of a warrior. Weapons are attached at intervals; a sword and staff slung across her back, knives concealed at hip and ankle, whip-like cord wound from shoulder to wrist, embracing the muscled arms. Long red-gold hair escapes from its bonds to curl around the pale, freckled face. A young sun blooming in the darkness, as Connar, god of the life-flame, watches. The face of the god is unreadable, but not still. Sadness, pride, anguish, hope, joy, despair, love and rage chase across his face like the tides, continually shifting and changing; unknowable.*
 
-*In the endless darkness, seen only by the eyes of the gods, a single form is suspended. A slim, small body, female, yet encased in supple hide – the form-fitted second skin of a warrior. Weapons are attached at intervals; a sword and staff slung across her back, knives concealed at hip and ankle, whip-like cord wound from shoulder to wrist, embracing the muscled arms. Long red-gold hair escapes from its bonds to curl around the pale, freckled face. A young sun blooming in the darkness, as Connar, god of the life-flame, watches. The face of the god is unreadable, but not still. Sadness, pride, anguish, hope, joy, despair, love and rage chase across his face like the tides, continually shifting and changing; unknowable.
+*All around the still, silent form, others slowly fade into existence. First one, than another, until the darkness is filled with a blaze of color; men, women, and children arriving to fill the void with suspended life.*
 
-All around the still, silent form, others slowly fade into existence. First one, than another, until the darkness is filled with a blaze of color; men, women, and children arriving to fill the void with suspended life.
-
-Connar sighs, gazing across the human constellations, and gestures. The crowd blinks out of existence in an instant, and the darkness is complete once more.*
+*Connar sighs, gazing across the human constellations, and gestures. The crowd blinks out of existence in an instant, and the darkness is complete once more.*
 
 <hr>
 
