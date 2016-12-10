@@ -1,6 +1,6 @@
 ---
 layout: lotcpost
-title: Chapter 2 In the mists of the Otherworld
+title: FotC CH2 In the mists of the Otherworld
 date: 2016-12-06
 category: book
 ---
