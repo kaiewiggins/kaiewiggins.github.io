@@ -2,7 +2,7 @@
 layout: fotcpost
 title: FotC CH2 In the mists of the Otherworld
 date: 2016-12-06
-category: book
+category: fotc
 ---
 
 *Recap: The Connarii find themselves suddenly transported to a land of featureless mist in the middle of the night. King Toryn and daughters Edana and Aislynn need to come up with a plan of action quick. Edana, always spoiling for a fight and eager for recognition, wants to turn around and engage the enemy… a poor plan, since they have no idea how to go back to their old home, but one that ambitious Connariian Camlin, seeking a path to greater influence, tries to get in on nonetheless. Aislynn, though the younger of the two princesses, provides better counsel, advising Toryn to unite the people around a common goal and seek out new lands. But then Aislynn is gripped by a vision and prophecies danger and a challenge for the tribe’s future, shocking her father and sister…*
