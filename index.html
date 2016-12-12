@@ -42,7 +42,7 @@ title: kaie.Space
 	    <br>
           <!--Pull in journal posts-->
 <div class="container">
-    {% for post in site.posts limit: 6 %}
+    {% for post in site.posts limit: 3 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-xs-4">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -58,7 +58,7 @@ title: kaie.Space
 	</div>
         {% cycle 'end row' : nil, nil, nil, '</div>' %}
     {% endfor %}
-	    {% cycle 'end row' : nil, '</div>', '</div>' %}
+	    {% cycle 'end row' : nil %}
 </div><!--end container-->
 	   <br>
 <a href="http://kaie.space/journal/index.html" target="_blank"><strong>All posts</strong></a>
