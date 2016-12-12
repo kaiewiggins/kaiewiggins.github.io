@@ -42,7 +42,7 @@ title: kaie.Space
 	    <br>
           <!--Pull in journal posts-->
 <div class="container-fluid">
-    {% for post in site.posts limit: 4 %}
+    {% for post in site.posts limit: 8 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-xs-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
