@@ -6,6 +6,7 @@ title: kaie.Space
  <!--Start main contents of page-->
 	  <div class="panel panel-fluid">
  <div class="section text-center">
+
 		  </div><!--end opening section-->
 	</div><!--end opening panel-->
  <div class="content-index-space-one"></div><!--parallax graphic 1-->
@@ -37,12 +38,11 @@ title: kaie.Space
     <!-- Start Section 2: 'News' -->
   <div class="panel panel-fluid">
     <div class="section">
-	    <p>kaieSpace is home to a variety of adventures in creativity.
-Writing. Publishing. Consulting. Travel. Introspective ramblings. Terrible photography. Latest updates below.</p>
+	    <p>Adventures in publishing YA novels. Latest updates below.</p>
 	    <br>
           <!--Pull in journal posts-->
 <div class="container">
-    {% for post in site.posts limit: 8 %}
+    {% for post in site.posts limit: 6 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
