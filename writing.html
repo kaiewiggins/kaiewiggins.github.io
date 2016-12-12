@@ -171,7 +171,7 @@ title: kaie.Writing; welcome to my world
       Perhaps one day I will have time to actually edit content into blog posts. Until then, enjoy chaos mixed with news, previews and other content! <a href="http://kaie.space/journal/index.html" target="_blank">Older posts here.</a></p><br>
 
           <!--Pull in journal posts-->
-<div class="container">
+<div class="container-fluid">
     {% for post in site.categories.journal limit: 8 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-sm-3">
