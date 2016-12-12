@@ -41,10 +41,10 @@ title: kaie.Space
 	    <p>Adventures in publishing YA novels. Latest updates below.</p>
 	    <br>
           <!--Pull in journal posts-->
-<div class="container">
-    {% for post in site.posts limit: 3 %}
+<div class="container-fluid">
+    {% for post in site.posts limit: 4 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-xs-4">
+            <div class="col-xs-6">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
