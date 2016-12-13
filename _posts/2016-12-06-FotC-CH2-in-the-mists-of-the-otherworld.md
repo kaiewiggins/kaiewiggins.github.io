@@ -105,3 +105,4 @@ Owen Blyc would never desert Camlin. Of the Blyc clan, only the two brothers rem
 
 <hr>
 *End, CH2*
+[Continue to Chapter 3: Edana gets a new job](http://kaie.space/fotc/2016/12/12/FotC-CH3-Edana-gets-a-new-job.html)
