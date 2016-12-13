@@ -5,7 +5,7 @@ date: 2016-12-12
 category: fotc
 ---
 
-Recap: The Connarii are suddenly transported to a land of featureless mist in the middle of the night. Younger princess and seer Aislynn identifies this land as the Otherworld, a gateway of sorts, predicting great danger, but recommending journeying through it to seek new lands. Her older sister, Edana, in typical combative fashion, would rather look for a way back and fight their oppressors to regain their lands in Cornwall. Her rival, Camlin, seizes on this idea as a way to advance his own ambitions, but King Toryn overrules the youths and rallies the people and sets off on a quest for a new homeland.
+*Recap: The Connarii are suddenly transported to a land of featureless mist in the middle of the night. Younger princess and seer Aislynn identifies this land as the Otherworld, a gateway of sorts, predicting great danger, but recommending journeying through it to seek new lands. Her older sister, Edana, in typical combative fashion, would rather look for a way back and fight their oppressors to regain their lands in Cornwall. Her rival, Camlin, seizes on this idea as a way to advance his own ambitions, but King Toryn overrules the youths and rallies the people and sets off on a quest for a new homeland.*
 
 <hr>
 
