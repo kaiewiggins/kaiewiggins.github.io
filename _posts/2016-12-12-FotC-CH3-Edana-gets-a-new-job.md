@@ -133,3 +133,7 @@ Toryn had to stand and glare at Camlin for a couple of minutes, before the young
 “Good night!” Toryn said. Edana huffed and went to her bedroll.
 
 “Good night.” Aislynn said brightly to no one in particular.
+
+<hr>
+
+*End, CH3*
