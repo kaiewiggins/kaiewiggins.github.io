@@ -57,3 +57,4 @@ Crap.  He did.
 
 <hr>
 *End, CH2*
+[Continue to Chapter 3: So much for that](http://kaie.space/tgooh/2016/12/16/TGOoH-CH3-So-much-for-that.html)
