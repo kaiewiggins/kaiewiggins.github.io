@@ -90,4 +90,4 @@ It was surreal being carried, half conscious and bleeding, into my own apartment
 
 <hr>
 *End, CH1*
-[Continue to Chapter 2: Can I crash with you?](http://kaie.space/tgooh/2016/12/09/Can-I-crash-with-you.html)
+[Continue to Chapter 2: Can I crash with you?](http://kaie.space/tgooh/2016/12/09/TGOoH-CH1-Can-I-crash-with-you.html)
