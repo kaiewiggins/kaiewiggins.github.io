@@ -56,3 +56,4 @@ Then the laughter started.
 
 <hr>
 *End, CH4* 
+Come back next week for Chapter 5 on December 26. In the meantime, why not check out my other webserial, (Things Got Out of Hand) [http://kaie.space/tgooh.html] or a preview of my upcoming book (Blind the Eyes)[http://kaie.space/book/2016/10/05/Preview-Chapter-1.html]?
