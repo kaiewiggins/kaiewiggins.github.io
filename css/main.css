@@ -4,12 +4,13 @@
 position: relative;
   }
 
-.col-md-2 {color: #ac9;
+.col-md-2 {background-color: #ac9;
 height: 100%;
 }
 
 .navbar{ 
     background-image: none;
+     background-color: #ac9;
 }
 
   h1 {color: #ac9;
