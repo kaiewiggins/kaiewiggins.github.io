@@ -4,13 +4,7 @@
 position: relative;
   }
 
-.col-md-2 {background-color: #ac9;
-height: 100%;
-}
-
-.nav-pills{ 
-    background-image: none;
-     background-color: #ac9;
+.col-md-2 {background-color: transparent;
 }
 
   h1 {color: #ac9;
