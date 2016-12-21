@@ -8,7 +8,7 @@ category: fotc
 
 <hr>
 
-Edana's eyes snapped open to take in the unchanging view with perfect alertness and clarity. It was somewhere in the early hours of morning, she thought, though the pearlescent light that filtered through the mists never seemed to dim. Everyone seemed still to be sleeping; there was no movement as far as she could see across the encampment.
+Edana's eyes snapped open to take in the unchanging view with perfect alertness and clarity. It felt to her like the early hours of morning, though the pearlescent light that filtered through the mists never seemed to dim. Everyone seemed still to be sleeping; there was no movement as far as she could see across the encampment.
 
 
 Gathering up the tangled mass of clothing and weapons that she had piled in an untidy heap the night before, Edana edged out of sight of her father and sister. She hummed quietly as she donned the various articles of clothing and weaponry. Over the tightly laced trousers and soft, sleeveless tunic went the stiff leather combat vest. Her mass of shining hair she gathered back from her face and bound with a tie, although several small braids that she had neglected to undo from the night before and a number of recalcitrant short curls she abandoned to swing freely around her face. 
