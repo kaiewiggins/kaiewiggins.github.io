@@ -8,6 +8,10 @@ position: relative;
 height: 100%;
 }
 
+.panel {background-color: #ac9;
+height: 100%;
+}
+
 .navbar{ 
     background-image: none;
      background-color: #ac9;
