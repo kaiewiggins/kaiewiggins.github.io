@@ -4,6 +4,10 @@
 position: relative;
   }
 
+.col-md-2 {color: #ac9;
+height: 100%;
+}
+
   h1 {color: #ac9;
   text-align: center;
   }
