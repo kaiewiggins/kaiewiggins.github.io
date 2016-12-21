@@ -7,6 +7,14 @@ position: relative;
 .col-md-2 {background-color: transparent;
 }
 
+.panel {background-color: transparent;
+}
+
+.section {background-color: transparent;
+}
+.row {background-color: transparent;
+}
+
   h1 {color: #ac9;
   text-align: center;
   }
