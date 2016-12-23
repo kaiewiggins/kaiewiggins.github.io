@@ -137,4 +137,4 @@ Toryn had to stand and glare at Camlin for a couple of minutes, before the young
 <hr>
 
 *End, CH3*
-(Continue to Chapter 4: Girls and their toys)[http://kaie.space/fotc/2016/12/19/FotC-CH4-Girls-and-their-toys.html]
+[Continue to Chapter 4: Girls and their toys](http://kaie.space/fotc/2016/12/19/FotC-CH4-Girls-and-their-toys.html)
