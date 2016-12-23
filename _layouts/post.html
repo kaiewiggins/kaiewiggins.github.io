@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="panel panel-fluid">
-    <div class="section">
+    <div class="article">
         <h1 style="text-align:left;">{{ page.title }}</h1>
 	 	<div class="row">
 <div class="col-sm-9">
@@ -20,9 +20,9 @@ layout: default
  <a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fkaie.space&t=kaieSpace&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-tumblr"></i></a>
  <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fkaie.space&description=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-pinterest"></i></a>
  <a href="mailto:?subject=kaieSpace&body=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring:%20http%3A%2F%2Fkaie.space" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fa fa-envelope"></i></a>
-</div>
+</div><!--close share page-->
 <h5><small>{{paginator.previous_page_path}} {{paginator.previous_page}} | {{paginator.next_page}}{{paginator.next_page_path}}</small></h5>
-</div>
+</div><!--close post-->
 </div><!--close first col-->
 <div class="col-sm-3">
 	<!--social sharing buttons-->
@@ -34,7 +34,7 @@ layout: default
  <a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fkaie.space&t=kaieSpace&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-tumblr"></i></a>
  <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fkaie.space&description=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-pinterest"></i></a>
  <a href="mailto:?subject=kaieSpace&body=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring:%20http%3A%2F%2Fkaie.space" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fa fa-envelope"></i></a>
-</div>
+</div><!--close share page-->
 <!--lookup linklist of posts-->
 	<h3>Post Index</h3>
 	<ul class="posts">
@@ -43,11 +43,8 @@ layout: default
 	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
 	  {% endfor %}
 </ul>
-</div>
-
-
-	</div><!--close second col-->
+</div><!--close col-sm-3/second col-->
 </div><!--end row-->
 <h5><small>{{paginator.previous_page_path}} | {{paginator.next_page_path}}</small></h5>
-    </div><!--end title section 1 -->
-    </div><!--end panel 1 -->
+    </div><!--end article -->
+    </div><!--end panel -->
