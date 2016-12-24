@@ -38,4 +38,4 @@ I almost overbalanced as he pulled away, catching the doorframe just in time as 
 Well. So much for that.
 
 <hr>
-*End, CH3*
+*End, CH3* [Continue to Chapter 4: Alone at last] (http://kaie.space/tgooh/2016/12/23/TGOoH-CH4-Alone-at-last.html)
