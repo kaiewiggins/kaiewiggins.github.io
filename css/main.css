@@ -31,7 +31,7 @@ h2,h3,h4 {color: #ac9;}
 
 #container #name {
   transition: transform 0.25s ease;
-  transform: translate(0, 110%) !important;
+  transform: translate(0, 90%) !important;
 }
 
 #container {
