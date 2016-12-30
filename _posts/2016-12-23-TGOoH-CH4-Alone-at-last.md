@@ -101,4 +101,4 @@ I should probably have gone and pulled out my depleted first aid supplies, or at
 
 *End, CH4* 
 
-Come back next week for Chapter 5 on December 30. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 5: Hope you like pancakes](http://kaie.space/tgooh/2016/12/30/TGOoH-CH5-Hope-you-like-pancakes.html)
