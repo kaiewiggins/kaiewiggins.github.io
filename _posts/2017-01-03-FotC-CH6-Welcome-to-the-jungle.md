@@ -42,7 +42,7 @@ This got the crowd rumbling. Bobbing heads and grumbled encouragement bolstered 
 
 Camlin strutted off before Aislynn could continue, wary of her effect on the crowd, and the power of the two sisters united. 
 
-<hr>
+***
 
 Aislynn watched Camlin retreat, taking in the way individuals in the crowd, his troops, and Edana’s own boys watched him. He said the things others didn’t dare to voice, sticking his neck out and challenging the powers that be over and over again. Her powers, the leadership of her people, her family. He rarely won, but it was the points he scored within the ranks, with the commoners, that worried her. Stubborn pride could destroy much before it could be reigned in, and Camlin was not the only headstrong young man in the group. 
 
