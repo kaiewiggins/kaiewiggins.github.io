@@ -1,10 +1,10 @@
-
 ---
 layout: tgoohpost
 title: TGOoH CH6 Mismatched shoes
 date: 2017-01-06
 category: tgooh
 ---
+
 “It’s coming back.”
 
 The words hung in the air between us. A breeze stirred the curtains, leaves rustling outside the windows. I cringed. It was out there, somewhere, waiting for me. 20 foot tall death with eight legs and swarming offspring.
