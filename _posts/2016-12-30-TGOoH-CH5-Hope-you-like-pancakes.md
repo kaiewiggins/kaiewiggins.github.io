@@ -85,4 +85,4 @@ Henry’s hand was so warm, but I felt sick to the stomach. This wasn’t even a
 
 *End, CH5* 
 
-Come back next week for Chapter 6 on January 6. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 6: Mismatched shoes](http://kaie.space/tgooh/2017/01/06/TGOoH-CH6-Mismatched-shoes.html)
