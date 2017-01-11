@@ -66,4 +66,4 @@ The Connarii were caught, addicted to the dream of an easy life. There was plent
 
 *End, CH6*
 
-Come back next week for Chapter 7 on January 10. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 7: A surprise proposal](http://kaie.space/fotc/2017/01/10/FotC-CH7-A-surprise-proposal.html)
