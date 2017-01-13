@@ -5,7 +5,7 @@ date: 2017-01-06
 category: tgooh
 ---
 
-d away, falling “It’s coming back.”
+“It’s coming back.”
 
 The words hung in the air between us. A breeze stirred the curtains, leaves rustling outside the windows. I cringed. It was out there, somewhere, waiting for me. 20 foot tall death with eight legs and swarming offspring.
 
@@ -112,6 +112,7 @@ The crazy thing was, he caught up in seconds. Totally just dropped the conversat
 He paced along in silence for a few minutes. Then the screaming started.
 
 <hr>
+
 *End, CH6* 
 
 [Continue to Chapter 7: Priorities and promises](http://kaie.space/tgooh/2017/01/13/TGOoH-CH7-Priorities-and-promises.html)
