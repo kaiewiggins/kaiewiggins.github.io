@@ -178,4 +178,4 @@ Aislynn rolled over and fell asleep. Edana piled her weapons in a heap and rolle
 
 *End, CH7*
 
-Come back next week for Chapter 8 on January 17. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 8: Disappearances in the night](http://kaie.space/fotc/2017/01/17/FotC-CH8-Disappearances-in-the-night.html)
