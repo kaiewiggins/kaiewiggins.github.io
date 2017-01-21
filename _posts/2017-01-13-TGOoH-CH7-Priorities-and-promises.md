@@ -111,4 +111,4 @@ Only then did it occur to me that he was unarmed.
 
 End, CH7
 
-Come back next week for Chapter 8 on Friday, January 20. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 8: Antisocial misanthropy and other lifestyle choices](http://kaie.space/tgooh/2017/01/20/TGOoH-CH8-Antisocial-misanthropy-and-other-lifestyle-choices.html)
