@@ -129,6 +129,6 @@ True to her word, about five minutes later two young men showed up, determined t
 
 <hr>
 
-*End, CH8*
+*End, CH9*
 
-Come back next week for Chapter 9 on Tuesday, January 31. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+Come back next week for Chapter 10 on Tuesday, January 31. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
