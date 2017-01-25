@@ -103,4 +103,4 @@ Toryn regarded the pair silently. Edana resisted the impulse to fidget under his
 
 *End, CH8*
 
-Come back next week for Chapter 9 on Tuesday,January 24. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 9: Changes](http://kaie.space/fotc/2017/01/24/FotC-CH9-Changes.html)
