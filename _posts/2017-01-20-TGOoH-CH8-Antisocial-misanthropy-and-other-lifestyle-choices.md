@@ -39,4 +39,4 @@ All that was before the beast sprang past Henry and barrelled toward me, coalesc
 
 End, CH8
 
-Come back next week for Chapter 9 on Friday, January 27. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 9: Rational and irrational urges](http://kaie.space/tgooh/2017/01/27/TGOoH-CH9-Rational-and-irrational-urges.html)
