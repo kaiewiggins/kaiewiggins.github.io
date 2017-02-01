@@ -75,7 +75,7 @@ The crowd wavered and began to disperse, some grumbling as they went, others tak
 
 “Like what?” Aislynn asked, the picture of pure innocence. Her father, rejoining his daughters after making sure Camlin and his supporters had cleared the area, snorted in amusement.
 
-“Like you know everything. Like the wisdom of the ages is housed in your fifteen-year-old body. Like a druid. It’s annoying.” Edana said, rolling her eyes at Aislynn’s playfulness. “I mean, I’m about used to it by now, but really. You could try being like everyone else. Other people’s sisters limit themselves to helping with the chores, gossiping, and chasing boys. You advise the king and sway the opinions of the tribe, in addition to whatever weird druidic studies you’re into on the quiet.”
+“Like you know everything. Like the wisdom of the ages is housed in your thirteen-year-old body. Like a druid. It’s annoying.” Edana said, rolling her eyes at Aislynn’s playfulness. “I mean, I’m about used to it by now, but really. You could try being like everyone else. Other people’s sisters limit themselves to helping with the chores, gossiping, and chasing boys. You advise the king and sway the opinions of the tribe, in addition to whatever weird druidic studies you’re into on the quiet.”
 
 “You’re a fine one to talk. If you valued fitting in, why did you just have to become a captain of the guard? Girls your age should be thinking about getting married and having a few kids. It’s not like you haven’t had any offers.”
 
@@ -131,4 +131,4 @@ True to her word, about five minutes later two young men showed up, determined t
 
 *End, CH9*
 
-Come back next week for Chapter 10 on Tuesday, January 31. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 10: A dark stranger](http://kaie.space/fotc/2017/01/31/FotC-CH10-A-dark-stranger.html)
