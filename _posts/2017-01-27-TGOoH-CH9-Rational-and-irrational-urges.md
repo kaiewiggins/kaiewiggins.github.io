@@ -86,4 +86,4 @@ All that was before the beast sprang past Henry and barrelled toward me, coalesc
 
 End, CH9
 
-Come back next week for Chapter 10 on Friday, February 3. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 10: Laundry and other chores](http://kaie.space/tgooh/2017/02/03/TGOoH-CH10-Laundry-and-other-chores.html)
