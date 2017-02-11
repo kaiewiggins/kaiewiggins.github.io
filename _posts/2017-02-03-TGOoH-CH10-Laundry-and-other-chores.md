@@ -5,13 +5,11 @@ date: 2017-02-03
 category: tgooh
 ---
 
-TGOoH 10: Laundry and other chores
-
 There were no survivors. 
 
 Except for us, of course. Henry checked the wreckage, but he’d hesitated too long with me, and none of the others survived the attack. I didn’t look. I may not like being around people, but I wouldn’t wish that kind of torment on even my least favourite co-workers.
 
-He limped back to where I sat, after, and helped me up without a word. His lips were pressed bloodless white, but they quirked up at the corners for my sake, a sad attempt at friendliness. 
+He limped back to where I sat, after, without a word. His lips were pressed bloodless white, but they quirked up at the corners for my sake, a sad attempt at friendliness. 
 
 “I’m sorry,” I said, in a voice raw from screaming. It's not something I say, but just then, that seemed irrelevant.
 
@@ -83,4 +81,4 @@ I let go of the table and bustled past him, arms full of laundry, without anothe
 
 End, CH10
 
-Come back next week for Chapter 11 on Friday, February 10. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 11: So not feminist](http://kaie.space/tgooh/2017/02/10/TGOoH-CH11-So-not-feminist.html)
