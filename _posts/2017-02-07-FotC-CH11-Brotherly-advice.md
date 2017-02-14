@@ -82,4 +82,4 @@ For now, Camlin decided, he’d occupy himself with gathering some of his friend
 
 *End, CH11*
 
-Come back next week for Chapter 11 on Tuesday, February 6. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 12: Secrets and truths in the night](http://kaie.space/fotc/2017/02/14/FotC-CH12-Secrets-and-truths-in-the-night.html)
