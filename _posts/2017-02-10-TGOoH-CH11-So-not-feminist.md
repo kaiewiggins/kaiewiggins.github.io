@@ -73,4 +73,4 @@ With him looking up at me like that, the words felt uncomfortably like a proposa
 
 End, CH11
 
-Come back next week for Chapter 12 on Friday, February 17. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 12: Adulting involves boundaries](http://kaie.space/tgooh/2017/02/17/TGOhH-CH12-Adulting-involves-boundaries.html)
