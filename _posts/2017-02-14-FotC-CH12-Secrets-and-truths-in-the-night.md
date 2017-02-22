@@ -53,4 +53,4 @@ She pushed past her sister and vanished into the bushes. Aislynn sighed, and mad
 
 *End, CH12*
 
-Come back next week for Chapter 13 on Tuesday, February 21. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 13: Nighttime fears](http://kaie.space/fotc/2017/02/21/FotC-CH13-Nighttime-fears.html)
