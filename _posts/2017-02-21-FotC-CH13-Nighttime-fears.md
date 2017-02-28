@@ -73,4 +73,4 @@ He looked up quite suddenly, so that Edana had to jerk her head back or risk col
 
 *End, CH13*
 
-Come back next week for Chapter 14 on Tuesday, February 28. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 14: Finding your balance](http://kaie.space/fotc/2017/02/27/FotC-CH14-Finding-your-balance.html)
