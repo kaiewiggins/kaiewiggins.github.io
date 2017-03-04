@@ -99,4 +99,4 @@ Henry’s hand landed on my shoulder. “To keep him with us.”
 
 End, CH13
 
-Come back next week for Chapter 14 on Friday, March 3. In the meantime, why not check out my other webserial, [Flame of the Connarii](http://kaie.space/fotc.html) or a [preview](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html) of my upcoming book Blind the Eyes?
+[Continue to Chapter 14: Killer paperwork](http://kaie.space/tgooh/2017/03/03/TGOoH-CH14-Killer-paperwork.html)
