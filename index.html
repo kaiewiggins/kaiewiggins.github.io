@@ -74,21 +74,21 @@ title: kaie.Space
 <p>Sign up for updates, promotions and bonus content: 
 </p>
 <div id="revue-embed">
-  <form class="form-inline" role="form" action="https://www.getrevue.co/profile/kaiespace/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-  <div class="form-group">
-    <label for="member_email">email</label>
-    <input class="form-control" placeholder="Your email address..." name="member[email]" id="member_email" type="email">
+  <form action="https://www.getrevue.co/profile/kaiespace/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+  <div class="revue-form-group">
+    <label for="member_email">Email</label>
+    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
   </div>
-  <div class="form-group">
-    <label for="member_first_name">first name<span class="optional"></span></label>
-    <input class="form-control" placeholder="First name... (Optional)" name="member[first_name]" id="member_first_name" type="text">
+  <div class="revue-form-group">
+    <label for="member_first_name">First name <span class="optional">(Optional)</span></label>
+    <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
   </div>
-  <div class="form-group">
-    <label for="member_last_name"><span class="optional"></span></label>
-    <input class="form-control" placeholder="Last name... (Optional)" name="member[last_name]" id="member_last_name" type="text">
+  <div class="revue-form-group">
+    <label for="member_last_name">Last name <span class="optional">(Optional)</span></label>
+    <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
   </div>
   <div class="revue-form-actions">
-    <button class="btn btn-default" value="Subscribe" name="member[subscribe]" id="member_submit" type="submit">Subscribe</button>
+    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
   </div>
   </form>
 </div>
