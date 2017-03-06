@@ -25,7 +25,7 @@ Making up for lost time with two separate giveaways!
 - As-pictured Adult Coloring Books (singular)
 - 1 large + 1 small parchment-style bookish corner bookmark
 - Vintage butterfly clip bookmark
-- 2 organic essential oil bathbombs
+- 2 essential oil bathbombs
 - The Highland Soap Co. Juniper bath melt
 - Bath House Prosecco lip balm
 
