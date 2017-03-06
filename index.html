@@ -77,7 +77,7 @@ title: kaie.Space
 	 <br>
 		 <div class="row">
 			             <div class="col-xs-4">
-					    {% for post in site.posts.news limit: 1 %}
+					    {% for post in site.categories.news limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -91,7 +91,7 @@ title: kaie.Space
 {% endfor %}     
 			 </div>
 			 			             <div class="col-xs-4">
-								         {% for post in site.posts.fotc limit: 1 %}
+								         {% for post in site.categories.fotc limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -105,7 +105,7 @@ title: kaie.Space
 {% endfor %}
 			 </div>
 			 			             <div class="col-xs-4">
-								         {% for post in site.posts.tgooh limit: 1 %}
+								         {% for post in site.categories.tgooh limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
