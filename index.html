@@ -73,14 +73,7 @@ title: kaie.Space
 	 			<h3 class="text-center">News & Updates</h3>
 	 	 <p>News & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays). 
 </p>
-	 <div>
-		 {% for post in site.posts % limit: 3}
-	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
-	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
-	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} <a href="{{ post.url }}">Read more</a></div>
-	  {% endfor %}
-		 </div>
-<hr>
+
  <!--
 			<h3 class="text-center">Journal</h3>	    
 	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
