@@ -7,8 +7,6 @@ category: journal
 
 Finally getting around to a big social media push with two separate giveaways!
 
-**Giveaway Sets:**
-
 **Dreaming of Scotland** is open until April 1, 2017 or I head back over, whichever comes sooner, and includes:
 
 - As-pictured naked hardcover edition of Diana Gabaldon's latest Outlander (main series) novel, *Written in my Own Heart's Blood* (which, amusingly, is not set in Scotland, but anyways...) 
