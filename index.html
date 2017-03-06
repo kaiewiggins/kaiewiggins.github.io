@@ -46,7 +46,7 @@ title: kaie.Space
 		  </div>
 		</div><!--end name-->
           </div><!--end container-->
-        </div><!--end col-->
+        </div><!--end section-->
         <div class="col-lg-4 col-centered">
         <div id="container" style="width:300px">
           <img src="https://jukepop.blob.core.windows.net/images/covers/uploads/TgooH1_66b65543_20161211035202AM.jpg" style="width: 300px" class="img-thumbnail">
@@ -69,6 +69,7 @@ title: kaie.Space
         </div><!--end col-->
         
         </div><!--end row-->
+		  </div><!--end con
 <hr>
 	 	 				<div class="container-fluid">
 							<row>
@@ -91,22 +92,22 @@ title: kaie.Space
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 75 }} 	<a href="{{ post.url }}">Read more</a>	
-</div>
+</div><!--end article-->
 	  {% endfor %}
-		  </div>
+	 </div><!--end col-xs-6-->
 	             <div class="col-xs-6">
 			     	  {% for post in site.categories.tgooh % limit: 1 %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 75 }} 		<a href="{{ post.url }}">Read more</a>	
-</div>
+</div><!--end article-->
 	  {% endfor %}
-	 </div>
+	 </div><!--end col-xs-6-->
 		  </row>
-</div><!--end container col-xs-6 --> 
-										 </div>
+</div><!--end container-fluid --> 
+										 </div><!--end col-sm-6-->
 		  </row>
-</div><!--end container--> 
+</div><!--end container-fluid--> 
 <hr>	 <!--
 			<h3 class="text-center">Journal</h3>	    
 	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
