@@ -107,7 +107,7 @@ title: kaie.Space
 										 </div>
 		  </row>
 </div><!--end container--> 
-<hr>	 
+<hr>	 <!--
 			<h3 class="text-center">Journal</h3>	    
 	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
  <a href="http://kaie.space/journal/index.html" target="_blank">View all posts.</a></p><br>
@@ -119,11 +119,11 @@ title: kaie.Space
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head-->
+		</div><!--/.article-head--><!--
 		<div class="article-content text-left">
 		{{ post.content | truncatewords: 150 }}
 		<a href="{{ post.url }}">Read more</a>	
-		</div><br><!--/.article-content-->
+		</div><br><!--/.article-content--><!--
 	</article>
 	</div>
         {% cycle 'end row' : nil, nil, nil, '</div>' %}
