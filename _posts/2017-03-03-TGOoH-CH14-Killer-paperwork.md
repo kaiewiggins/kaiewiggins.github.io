@@ -11,7 +11,7 @@ His wallet also had his home address, neatly printed in a little insert card, an
 
 Henry gave me those eyes, the puppy ones that were wearing thin; I was starting to think kicking would be too good for him. And then I took a deep breath and made myself some tea.
 
-“I just want to say, this is not what I signed up for,” I clattered through the cupboard in search of mugs. “Want a cup?”
+“I just want to say, this is not what I signed up for,” I said as I clattered through the cupboard in search of mugs. “Want a cup?”
 
 “Oh, thanks, yeah,” Henry said, fussing around R.G.D., or Derek, as he was properly called. 
 
