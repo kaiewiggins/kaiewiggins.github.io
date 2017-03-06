@@ -9,7 +9,7 @@ Finally getting around to a big social media push with two separate giveaways!
 
 **Giveaway Sets:**
 
-The **Dreaming of Scotland** package is open until April 1, 2017 or I head back over, whichever comes sooner, and includes:
+**Dreaming of Scotland** is open until April 1, 2017 or I head back over, whichever comes sooner, and includes:
 
 - As-pictured naked hardcover edition of Diana Gabaldon's latest Outlander (main series) novel, *Written in my Own Heart's Blood* (which, amusingly, is not set in Scotland, but anyways...) 
 - 2 large + 2 small parchment-style Outlander-themed corner bookmarks
@@ -22,7 +22,7 @@ The **Dreaming of Scotland** package is open until April 1, 2017 or I head back 
 - Isle of Skye Soap Co. Myrtle & Heather full size soap set
 - The Highland Soap Co. Heather bath melt
 
-The **Bookish Self-Care** package is open until my Instagram account reaches 2,000 followers *or* my Facebook page reaches 1,000 followers *or* my mailing list reaches 500 subscribers, whichever happens first, and includes:
+**Bookish Self-Care** is open until my Instagram account reaches 2,000 followers *or* my Facebook page reaches 1,000 followers *or* my mailing list reaches 500 subscribers, whichever happens first, and includes:
 
 - As-pictured Adult Coloring Books (singular)
 - 1 large + 1 small parchment-style bookish corner bookmark
