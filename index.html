@@ -78,7 +78,7 @@ title: kaie.Space
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} 		<a href="{{ post.url }}">Read more</a>	
-</div><hr>
+</div>
 	  {% endfor %}
 								</div><!--end col-sm-6-->
 								<div class="col-sm-6">
@@ -93,7 +93,7 @@ title: kaie.Space
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} 		<a href="{{ post.url }}">Read more</a>	
-</div><hr>
+</div>
 	  {% endfor %}
 		  </div>
 	             <div class="col-xs-6">
@@ -101,7 +101,7 @@ title: kaie.Space
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} 		<a href="{{ post.url }}">Read more</a>	
-</div><hr>
+</div>
 	  {% endfor %}
 	 </div>
 		  </row>
@@ -132,7 +132,6 @@ title: kaie.Space
     {% endfor %}
 	    {% cycle 'end row' : nil %}
 </div><!--end container--> 
-<hr>
 	 
 	 <!--
  <a class="anchor" name="writingjournal" id="writingjournal"></a>
