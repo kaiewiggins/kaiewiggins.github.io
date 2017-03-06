@@ -70,16 +70,15 @@ title: kaie.Space
         
         </div><!--end row-->
 <hr>
-	 			<h3 class="text-center">News</h3>	
+	 			<h3 class="text-center">News</h3>
+	 <div>
 	  {% for post in site.categories.news % limit: 1%}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} </div>
 	  {% endfor %}
+		 </div>
 <hr>
-	 
-	 
-	 
 	 <h3 class="text-center">Serials</h3>
 	 <p>Latest chapter of <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays). 
 </p>
