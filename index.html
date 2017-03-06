@@ -76,7 +76,7 @@ title: kaie.Space
 	 <br>
 	 <div class="container-fluid">
     {% for post in site.posts limit: 3 %}
-		 {% if post.categories contains "news" %} {% elseif post.categories contains "fotc" %} {% elsif post.categories contains "tgooh" %}
+		 {% if post.categories contains "news" or post.categories contains "fotc" %} {% elsif post.categories contains "tgooh" %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-xs-4">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
