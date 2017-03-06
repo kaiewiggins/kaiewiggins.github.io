@@ -76,7 +76,7 @@ title: kaie.Space
 	 <br>
 	 <div class="container-fluid">
     {% for post in site.posts limit: 3 %}
-		 {% unless post.categories contains "journal" %} %}
+		 {% unless post.categories contains "journal" %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-xs-4">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -110,7 +110,7 @@ title: kaie.Space
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
-		{{ post.content | truncatewords: 100 }}
+		{{ post.content | truncatewords: 125 }}
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
