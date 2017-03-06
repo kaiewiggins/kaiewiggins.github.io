@@ -33,7 +33,7 @@ Making up for lost time with two separate giveaways!
 
 I've created lots of ways to enter so you can join in the fun via your favourite network or stack them for even more chances to win! You can get 1 entry for each of the following actions up to a total of 4 entries:
 
-- Mailing List: *Join my [mailing list](https://www.getrevue.co/profile/kaiespace)* for publishing updates, previews and other bonus content. Subscribing will take you to the *Revue* website, which is what I use for newsletters. Mailing list subscribers are automatically entered in any giveaways open during the dates they enter over. I promise not to spam you :) 
+- Mailing List: *Join my [mailing list](https://www.getrevue.co/profile/kaiespace)* for publishing updates, previews and other bonus content. Subscribing will take you to the *Revue* website, which is what I use for newsletters. Mailing list subscribers are automatically entered in any giveaways open during the dates they join. I promise not to spam you :) 
 - Instagram: *Follow* [@kaie.space_author](https://www.instagram.com/kaie.space_author/), *repost* the original image of the giveaway you want to enter (either or both!) on your feed and *tag* me in it, leave up for at least 24 hours (and until I comment/like it so you know I got your entry!)
 - Facebook: *Like & Follow* [K A Wiggins](https://www.facebook.com/K-A-Wiggins-424659727877061/) and *comment* on the original giveaway post that you want to win (either or both)
 - Goodreads: *Add [@kaiespace](https://www.goodreads.com/kaiespace) as a friend* on Goodreads and *comment* which giveaway you most want to win (more than one is ok!) 
