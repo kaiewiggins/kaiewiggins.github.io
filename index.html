@@ -75,11 +75,9 @@ title: kaie.Space
 </p>
 	 <div>
 		 {% for post in site.posts % limit: 3}
-    {% if post.categories contains "news" or post.categories contains "fotc" or post.categories contains "tgooh" %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 	    	<div class="article-content text-left">{{post.content | truncatewords: 150 }} <a href="{{ post.url }}">Read more</a></div>
-	  {% endif %}
 	  {% endfor %}
 		 </div>
 <hr>
