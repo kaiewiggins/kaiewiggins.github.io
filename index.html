@@ -85,7 +85,7 @@ title: kaie.Space
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
-		{{ post.content | truncatewords: 150 }}
+		{{ post.content | truncatewords: 100 }}
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
@@ -94,7 +94,7 @@ title: kaie.Space
         {% endif %}
 {% endfor %}
 	    {% cycle 'end row' : nil %}
-</div>
+</div><!--end container fluid-->
 
  <hr>
 			<h3 class="text-center">Journal</h3>	    
@@ -110,7 +110,7 @@ title: kaie.Space
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
-		{{ post.content | truncatewords: 150 }}
+		{{ post.content | truncatewords: 100 }}
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
@@ -119,37 +119,6 @@ title: kaie.Space
     {% endfor %}
 	    {% cycle 'end row' : nil %}
 </div><!--end container--> 
-	 
-	 <!--
- <a class="anchor" name="writingjournal" id="writingjournal"></a>
-<h3 class="text-center">Journal</h3>	    
-	 <p>Adventures in publishing. Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
-Enjoy general chaos mixed with news, previews, chapters of any ongoing serials and Instagrams of wherever I happen to be at the moment... <a href="http://kaie.space/journal/index.html" target="_blank">View all posts.</a></p><br>
-	    <br>
-          <!--Pull in journal posts--><!--
-<div class="container-fluid">
-    {% for post in site.posts limit: 8 %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-xs-3">
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-		<div class="article-head">
-			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
-			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head--><!--
-		<div class="article-content text-left">
-		{{ post.content | truncatewords: 150 }}
-		<a href="{{ post.url }}">Read more</a>	
-		</div><br><!--/.article-content--><!--
-	</article>
-	</div>
-        {% cycle 'end row' : nil, nil, nil, '</div>' %}
-    {% endfor %}
-	    {% cycle 'end row' : nil %}
-</div><!--end container--><!--
-	   <br>
-<a href="http://kaie.space/journal/index.html" target="_blank"><strong>All posts</strong></a>
--->
-	 
 <hr>
 <!-- Start Section 3: 'About' -->
  <a class="anchor" name="aboutwriting" id="aboutwriting"></a>
