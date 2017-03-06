@@ -76,6 +76,7 @@ title: kaie.Space
 	 <br>
 	 <div class="container-fluid">
     {% for post in site.posts limit: 8 %}
+		 {% if post.categories contains "news" or post.categories contains "fotc"}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
             <div class="col-xs-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -90,7 +91,8 @@ title: kaie.Space
 	</article>
 	</div>
         {% cycle 'end row' : nil, nil, nil, '</div>' %}
-    {% endfor %}
+        {% endif %}
+{% endfor %}
 	    {% cycle 'end row' : nil %}
 </div>
 
