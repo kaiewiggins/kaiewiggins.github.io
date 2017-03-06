@@ -71,9 +71,10 @@ title: kaie.Space
         </div><!--end row-->
 <hr>
 	 			<h3 class="text-center">News</h3>	
-	 	 	  {% for post in site.categories.news % limit: 1 %}
-	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
+	  {% for post in site.categories.news % limit: 1%}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
+	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 <hr>
 	 <h3 class="text-center">Serials</h3>
@@ -82,15 +83,17 @@ title: kaie.Space
 	 				<div class="container-fluid">
 	 <row>
 		 	             <div class="col-xs-6">
-	 	  {% for post in site.categories.fotc % limit: 1 %}
-	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
+					     	  {% for post in site.categories.fotc % limit: 1 %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
+	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 		  </div>
 	             <div class="col-xs-6">
-	 	  {% for post in site.categories.tgooh % limit: 1 %}
-	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
+			     	  {% for post in site.categories.tgooh % limit: 1 %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
+	    	<p><small>{{post.content}}</small></p><hr>
 	  {% endfor %}
 	 </div>
 		  </row>
