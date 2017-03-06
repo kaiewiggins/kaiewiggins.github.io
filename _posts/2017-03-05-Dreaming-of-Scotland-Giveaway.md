@@ -16,7 +16,7 @@ Making up for lost time with two separate giveaways!
 - *I Shine Not Burn* Scottish fabric crest
 - *Touch Not a Cat but a Glove* Scottish crest/tartan print mini notebook
 - *Touch Not a Cat but a Glove* Scottish crest/tartan print keychain
-- Caledonian Sleeper Sleep set (branded sleep mask, earplugs + Arran Aromatics travel soap)
+- Caledonian Sleeper sleep set (branded sleep mask, earplugs + Arran Aromatics travel soap)
 - Isle of Skye Soap Co. Myrtle & Heather full size soap set
 - The Highland Soap Co. Heather bath melt
 
@@ -26,6 +26,8 @@ Making up for lost time with two separate giveaways!
 - 1 large + 1 small parchment-style bookish corner bookmark
 - Vintage butterfly clip bookmark
 - 2 organic essential oil bathbombs
+- The Highland Soap Co. Juniper bath melt
+- Bath House Prosecco lip balm
 
 **How to Enter**
 
