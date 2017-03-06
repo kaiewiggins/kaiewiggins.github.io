@@ -5,7 +5,7 @@ date: 2017-03-05
 category: journal
 ---
 
-Finally getting around to a big social media push with two separate giveaways!
+Making up for lost time with two separate giveaways!
 
 **Dreaming of Scotland** is open until April 1, 2017 or I head back over, whichever comes sooner, and includes:
 
