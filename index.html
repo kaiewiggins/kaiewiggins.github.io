@@ -75,11 +75,9 @@ title: kaie.Space
 	 	 <p>News & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays). 
 </p>
 	 <br>
-	 <div class="container-fluid">
-    {% for post in site.posts limit: 3 %}
-		 {% unless post.categories contains "journal" %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-xs-4">
+		 <div class="row">
+			             <div class="col-xs-4">
+					    {% for post in site.posts.news limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -90,13 +88,37 @@ title: kaie.Space
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
-	</div>
-        {% cycle 'end row' : nil, nil, nil, '</div>' %}
-        {% endunless %}
+{% endfor %}     
+			 </div>
+			 			             <div class="col-xs-4">
+								         {% for post in site.posts.fotc limit: 1 %}
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
+			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content text-left">
+		{{ post.content | truncatewords: 100 }}
+		<a href="{{ post.url }}">Read more</a>	
+		</div><br><!--/.article-content-->
+	</article>
 {% endfor %}
-	    {% cycle 'end row' : nil %}
-</div><!--end container fluid-->
-
+			 </div>
+			 			             <div class="col-xs-4">
+								         {% for post in site.posts.tgooh limit: 1 %}
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
+			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content text-left">
+		{{ post.content | truncatewords: 100 }}
+		<a href="{{ post.url }}">Read more</a>	
+		</div><br><!--/.article-content-->
+	</article>
+{% endfor %}
+			 </div>
+		 </div><!--end row-->
  <hr>
 	  <a class="anchor" name="authorjournal" id="authorjournal"></a>
 			<h3 class="text-center">Journal</h3>	    
