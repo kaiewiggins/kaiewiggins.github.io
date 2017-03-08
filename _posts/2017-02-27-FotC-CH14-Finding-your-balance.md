@@ -69,4 +69,4 @@ Torchan’s dark face slowly softened as Edana went on, growing thoughtful, then
 
 *End, CH14*
 
-Come back next week for Chapter 15 on Tuesday, March 7. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+[Continue to Chapter 15: Flight](http://kaie.space/fotc/2017/03/07/FotC-CH15-Flight.html)
