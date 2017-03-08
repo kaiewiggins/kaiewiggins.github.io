@@ -70,22 +70,26 @@ title: kaie.Space
         
         </div><!--end row-->
 <hr>
-	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
-	 			<h3 class="text-center">News & Updates</h3>
-	 	 <p>News & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays). 
-And join my mailing list for publication updates, first access to ARC copies and promotions, automatic entry to giveaways, and other bonus content.</p>
+	  <a class="anchor" name="maillist" id="maillist"></a>
+	 			<h3 class="text-center">Mailing List</h3>
+	 	 <p>Subscribe for first access to ARC copies and promotions, automatic entry to giveaways, and other bonus content along with publication updates. No spam; I keep it simple!</p>
 	 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/kaiespace/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
-    <label for="member_email">Email address</label>
+    <label for="member_email">Email</label>
     <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+	  </div>
   <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-  </div>
+    <input type="submit" value="Subscribe to Mailing List" name="member[subscribe]" id="member_submit">
 	  </div>
   </form>
 </div>
 	 <br>
+	 <hr>
+	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
+	 			<h3 class="text-center">News & Updates</h3>
+	 	 <p>News & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays).</p>
+
 		 <div class="row">
 			             <div class="col-xs-4">
 					    {% for post in site.categories.news limit: 1 %}
