@@ -60,7 +60,7 @@ title: kaie.Space
 		  <p>April prefers her own company, but when Henry saves her from a homicidal Nightmare and moves in, her days of peaceful solitude are over.</p>
 		 <br>
 					  <p>A story about monsters, heroes, and plans that change.</p>
-		              <p>A rom-com retelling of Blind the Eyes. Serial webfiction updated Fridays.</p>
+		              <p>Rom-com retelling of Blind the Eyes. Serial webfiction updated Fridays.</p>
 		  <br>
 		  	<p><strong>Read <a href="http://kaie.space/tgooh.html">here</a> or on <a href="http://my.w.tt/UiNb/SSNmtpsPYy">Wattpad</a> or <a href=" http://www.jukepop.com/home/share/9920/?c=tvjD9HffsCIidBNr&key=67f65f94-8e05-40a4-9b60-3c2e6692fd25">Jukepop</a></strong></p> 
 		  </div>
@@ -89,7 +89,7 @@ title: kaie.Space
 	 	 <p>News & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays).</p>
 
 		 <div class="row">
-			             <div class="col-xs-4">
+			             <div class="col-sm-4">
 					    {% for post in site.categories.news limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
@@ -103,7 +103,7 @@ title: kaie.Space
 	</article>
 {% endfor %}     
 			 </div>
-			 			             <div class="col-xs-4">
+			 			             <div class="col-sm-4">
 								         {% for post in site.categories.fotc limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
@@ -117,7 +117,7 @@ title: kaie.Space
 	</article>
 {% endfor %}
 			 </div>
-			 			             <div class="col-xs-4">
+			 			             <div class="col-sm-4">
 								         {% for post in site.categories.tgooh limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
@@ -140,7 +140,7 @@ title: kaie.Space
 				<div class="container-fluid">
     {% for post in site.categories.journal limit: 4 %}
         {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-xs-3">
+            <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
