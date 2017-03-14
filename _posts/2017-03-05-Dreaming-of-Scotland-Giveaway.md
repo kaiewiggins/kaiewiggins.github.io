@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newspost
 title: Dreaming of Scotland Giveaway
 date: 2017-03-05
 category: news
