@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Cover Artist
+layout: newspost
+title: Cover Designer
 date: 2017-03-10
 category: news
 ---
