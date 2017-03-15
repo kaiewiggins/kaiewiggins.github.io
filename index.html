@@ -97,11 +97,13 @@ title: kaie.Space
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
-		{{ post.content | truncatewords: 100 }}
+		{{ post.content | truncatewords: 125 }}
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
 {% endfor %}     
+					     <br>
+					     <p> More <a href="http://kaie.space/news.html" target="_blank">News</a></p>
 			 </div>
 			 			             <div class="col-sm-4">
 								         {% for post in site.categories.fotc limit: 1 %}
