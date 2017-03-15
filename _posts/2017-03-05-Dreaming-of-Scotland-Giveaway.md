@@ -5,6 +5,8 @@ date: 2017-03-05
 category: news
 ---
 
+**UPDATED Feb. 15, 2017**: This post has been superceded by the "Bookish Self Care" giveaway as detailed in today's news post. Posted giveaways on this page have been canceled/updated to the later post in order to better meet the community's interests.
+
 Making up for lost time with two separate giveaways!
 
 **Dreaming of Scotland** is open until April 1, 2017 or I head back over, whichever comes sooner, and includes:
