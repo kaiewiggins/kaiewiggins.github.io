@@ -69,4 +69,4 @@ This time, as Torchan was picking up speed on his breathless path through the tr
 
 *End, CH15*
 
-Come back next week for Chapter 16 on Tuesday, March 15. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
+**UPDATED: On hiatus until after April 5** Come back next week for Chapter 16 on Tuesday, March 15. In the meantime, why not check out my other webserial, [Things Got Out of Hand](http://kaie.space/tgooh.html) or a preview of my upcoming book [Blind the Eyes](http://kaie.space/book/2016/10/05/Preview-Chapter-1.html)?
