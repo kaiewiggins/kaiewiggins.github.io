@@ -5,4 +5,4 @@ date: 2017-03-20
 category: tgooh
 ---
 
-Things Got Out of Hand is on hiatus until after my next editorial deadline for Blind the Eyes. Next chapter will be posted on April 11.
+Things Got Out of Hand is on hiatus until further notice, a.k.a. when I have time to map it out and figure out some clearer direction for the edits/rewrites.
