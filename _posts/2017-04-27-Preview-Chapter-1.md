@@ -45,4 +45,6 @@ Which would be a lot easier if I wasn’t haunted.
 
 *End, CH1*
 
-**For longer-running fans, the full first beta readers edition can be read on Wattpad as [BTE Beta1](https://www.wattpad.com/story/106720262-bte-beta1)**
+**Want more? Sign up for my [mailing list](https://www.getrevue.co/profile/kaiespace) for extended previews, a chance at ARC copies and more!**
+
+For longer-running fans, the full first beta readers edition can be read on Wattpad as [BTE Beta1](https://www.wattpad.com/story/106720262-bte-beta1)
