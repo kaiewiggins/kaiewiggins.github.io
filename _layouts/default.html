@@ -59,7 +59,11 @@
      </div>
           <div class="col-sm-4">
            <div class="popup" onclick="function(L)">
-    <li><script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"5d9ccc35d544fcc85135fb8ae","lid":"1839d5c802"}) })</script><i class="fa fa-newspaper-o"></i></li>
+		   <span class="popuptext" id="myPopup">
+    <li><i class="fa fa-newspaper-o"></i></li>
+		   </span>
+	   <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+	<script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"5d9ccc35d544fcc85135fb8ae","lid":"1839d5c802"}) })</script>
      </div>
      </div>
                      <div class="col-sm-4">
@@ -72,7 +76,7 @@
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:clear; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
