@@ -78,7 +78,7 @@ title: kaie.Space
 	<!-- <p><a href="http://kaie.space/news.html" target="_blank">News</a> & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays).</p>
 <hr> -->
 		 <div class="row">
-					    {% for post in site.categories.news limit: 3 %}
+					    {% for post in site.categories.news limit: 5 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
