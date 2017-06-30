@@ -10,7 +10,10 @@ position: relative;
   
 h2,h3,h4 {color: #df9325;}
 
-
+.affix {
+      top: 30px;
+  bottom: 30px;
+  }
 
 
 .col-centered {margin:0 auto;
