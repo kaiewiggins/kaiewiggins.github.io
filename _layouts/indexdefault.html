@@ -21,12 +21,12 @@
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
   <div class="container-fluid">
 	   <a href="http://eepurl.com/cSevwn" target="_blank">    
 			       <img src="kaiewiggins.github.io/websiteheader.jpg" class="img-responsive" alt="Blind the Eyes, a YA dystopian paranormal fantasy by K.A. Wiggins, coming to bookstores near you and online in Summer 2017">
 	 </a>
-	  <nav class="navbar navbar-default">
+	  <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
       <a class="navbar-brand" href="#">WebSiteName</a>
@@ -43,18 +43,14 @@
     </ul>
   </div>
 </nav>
-<!--Start Nav--><nav class="navbar navbar-default"><!--Start Nav-->
+
+<div class="row">
+   <div class="col-md-2">
+    <br>
+   
+ <!--Start Nav--><nav id="myScrollspy"><!--Start Nav-->
     <div class="collapse navbar-collapse" id="myNavbar">
-   <ul class="nav nav-bar nav">
- <li><a href="/" style="color:#df9325">Home</a></li>
- <li><a href="/gold.html" style="color:#df9325"><i class="fa fa-bookmark-o"></i> Blind the Eyes</a></li>
-    <li><a href="/fotc.html" style="color:#df9325"><i class="fa fa-bookmark-o"></i> Flame of the Connarii</a></li>
-    <li><a href="/tgooh.html" style="color:#df9325"><i class="fa fa-bookmark-o"></i> Things Got Out of Hand</a></li>
-    <li><a href="/index.html#newsupdates" style="color:#df9325">News & Updates</a></li>
-    <li><a href="/index.html#authorjournal" style="color:#df9325">Journal</a></li>
-        <li><a href="/index.html#audio" style="color:#df9325">Audiobook Narration</a></li>
-    <li><a href="/index.html#aboutwriting" style="color:#df9325">About</a></li>
-    <hr>
+   <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="100px">
     <div class="row">
                 <div class="col-sm-4">
     <li> <a target="_blank" href="https://twitter.com/kaiespace" style="color:#df9325"><i class="fa fa-twitter"></i></a></li>
@@ -103,8 +99,13 @@
    </ul><!--end navbar top level menu items list-->
    </div><!--end Navbar collapse-->
  </nav>
+    </div><!--close nav col-->
+  <div class="col-md-10"><!--formerly class=container-fluid-->
    {{content}}<!--all unique page content-->
-   </div><!--end responsive container fluid-->
+   </div><!--close content container - now second column-->
+   
+    </div><!--close body row-->
+	</div><!--end responsive container fluid-->
  </body>
 	<footer>
 		<row>
