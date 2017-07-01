@@ -1,6 +1,6 @@
 
   body {
-   background-color: #000;
+   background-color: #fff;
 position: relative;
   }
 
@@ -12,10 +12,12 @@ h2,h3,h4 {color: #df9325;}
 
 .affix {
   top: 50px;
+  background: #000;
   }
 
 .navbar.affix {z-index: 999999;
-background-color: #000;}
+background-color: #000;
+background: #000;}
 
 .col-centered {margin:0 auto;
 }
