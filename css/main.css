@@ -17,7 +17,8 @@ h2,h3,h4 {color: #df9325;}
 
 .navbar.affix {z-index: 999999;
 background-color: #000;
-background: #000;}
+background: #000;
+position: fixed;}
 
 .col-centered {margin:0 auto;
 }
