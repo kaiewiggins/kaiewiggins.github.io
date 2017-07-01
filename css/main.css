@@ -34,16 +34,19 @@ position: fixed;}
 
 #container:hover #name {
   transform: translate(0, 0) !important;
+  z-index: 10;
 }
 
 #container #name {
   transition: transform 0.25s ease;
   transform: translate(0, 90%) !important;
+  z-index: 10;
 }
 
 #container {
   position: relative;
     overflow: hidden;
+  z-index: 10;
 
 }
 
@@ -51,6 +54,7 @@ position: fixed;}
   width: 290px;
   height: 433px;
   background-color: rgba(255,255,255,0.8);
+  z-index: 10;
 }
 
 /* for parallax - copy .content array and rename for every image-insert in site*/
