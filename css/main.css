@@ -14,14 +14,13 @@ h2,h3,h4 {color: #df9325;}
   top: 50px;
   background: #000;
   background-color: #000;
-  width: 100%;
   }
 
 .navbar.affix {z-index: 9999;
 background-color: #000;
 background: #000;
 position: fixed;
-width: 100%;}
+}
 
 .col-centered {margin:0 auto;
 }
