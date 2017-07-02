@@ -10,7 +10,7 @@ position: relative;
   
 h2,h3,h4 {color: #df9325;}
 
-.affix {
+.affix { z-index: 9998;
   top: 50px;
   background: #000;
   background-color: #000;
@@ -21,7 +21,7 @@ h2,h3,h4 {color: #df9325;}
 background-color: #000;
 background: #000;
 position: fixed;
-width; 100%}
+width: 100%;}
 
 .col-centered {margin:0 auto;
 }
