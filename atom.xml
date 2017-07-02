@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://kaie.space</id>
 	<author>
-		<name>Katrina Wiggins</name>
+		<name>K.A. Wiggins</name>
 		<email>kaie.web@gmail.com</email>
 	</author>
 
