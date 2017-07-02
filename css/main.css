@@ -11,9 +11,10 @@ position: relative;
 h2,h3,h4 {color: #df9325;}
 
 .affix { z-index: 9998;
-  top: 50px;
+  top: 30px;
   background: #000;
   background-color: #000;
+  border-radius: 25px;
   }
 
 .navbar.affix {z-index: 9999;
