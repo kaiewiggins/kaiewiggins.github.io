@@ -4,21 +4,18 @@ title: kaie.Space
 ---
 
  <!--Start main contents of page-->
-	  <div class="panel panel-fluid">
-		  <br>
- <div class="section text-center" style="margin: 1%;">
+	 <div class="section text-center" style="margin: 3%;">
 	 <a class="anchor" name="kaiestories" id="kaiestories"></a>
 	 <div class="row">
         <div class="col-lg-4 col-centered">
         <div id="container" style="width:300px; z-index: 10;">
-          <img src="http://kaiewiggins.github.io/scarf-version-bte.jpg" style="width: 300px; height: 397px;" class="img-thumbnail">
+          <img src="http://kaiewiggins.github.io/scarf-version-bte.jpg" style="width: 300px; height: 397px; border-radius: 10px;" class="img-thumbnail">
           <div id="name" style="position: absolute; left: 5px; right: 0px; top: -34px; bottom: 0px;">
 		  <h4><i class="fa fa-angle-double-down"></i></h4>
 		  <h4><a href="/gold.html">Blind the Eyes</a></h4>
 		  <div class="text-left">
 			  <p>When hope kills and dreams are deadly, your only chance for survival is to obey...but the only way to live is to rebel</p>
-            <p>Cole would do anything to shake her reputation as a failure - but when she indulges her forbidden fascination with the dead, she discovers she's not the one that's broken, and the only way to stop the dying is to start being herself.  
-</p>
+            <p>Cole would do anything to shake her reputation as a failure - but when she indulges her forbidden fascination with the dead, she discovers she's not the one that's broken, and the only way to stop the dying is to start being herself. </p>
 <br>
 			  <p>A story about identity, trauma & taking back your choices. Plus: ghosts!</p>
 			  <p>YA dystopian dark fantasy. 120,000 words. Coming Winter 2017.</p>
@@ -29,7 +26,7 @@ title: kaie.Space
           </div><!--end col-->
         <div class="col-lg-4 col-centered">
         <div id="container" style="width:300px; z-index: 10;">
-          <img src="https://jukepop.blob.core.windows.net/images/covers/uploads/lotc1_47e1fb7d_20161210015146AM.jpg" style="width: 300px" class="img-thumbnail">
+          <img src="https://jukepop.blob.core.windows.net/images/covers/uploads/lotc1_47e1fb7d_20161210015146AM.jpg" style="width: 300px; border-radius: 10px;" class="img-thumbnail">
           <div id="name" style="position: absolute; left: 5px; right: 0; top: -34px; bottom: 0;">
 				  <h4><i class="fa fa-angle-double-down"></i></h4>
   <h4><a href="/fotc.html">Flame of the Connarii</a></h4>
@@ -46,10 +43,10 @@ title: kaie.Space
 		  </div>
 		</div><!--end name-->
           </div><!--end container-->
-        </div><!--end section-->
+        </div><!--end column-->
         <div class="col-lg-4 col-centered">
         <div id="container" style="width:300px; z-index: 10;">
-          <img src="https://jukepop.blob.core.windows.net/images/covers/uploads/TgooH1_66b65543_20161211035202AM.jpg" style="width: 300px" class="img-thumbnail">
+          <img src="https://jukepop.blob.core.windows.net/images/covers/uploads/TgooH1_66b65543_20161211035202AM.jpg" style="width: 300px; border-radius: 10px;" class="img-thumbnail">
           <div id="name" style="position: absolute; left: 5px; right: 0; top: -34px; bottom: 0;">
 				  <h4><i class="fa fa-angle-double-down"></i></h4>
   <h4><a href="/tgooh.html">Things Got Out of Hand</a></h4>
@@ -67,17 +64,14 @@ title: kaie.Space
 		</div><!--end name-->
           </div><!--end container-->
         </div><!--end col-->
-        
-        </div><!--end row-->
-	 <hr>
-	 <div style="margin: 3%">
-	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
+        </div><!--end row of stories-->
+		 		  </div><!--end first black-background section NO PANEL NO WHITE BACKGROUND-->	 
+		 <div class="panel panel-fluid"> <!--in effect for remainder of content on page, closes last-->	    
+			 <div class="section section-fluid" style="margin: 4% 8%;"><!--in effect for remainder of content on page-->
+		 	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
 	 			<h3 class="text-center">News & Updates</h3>
-	<!-- <p><a href="http://kaie.space/news.html" target="_blank">News</a> & latest chapters of my webserials <a href="http://kaie.space/fotc.html" target="_blank">Flame of the Connarii</a> (fantasy, updated Tuesdays) &  <a href="http://kaie.space/tgooh.html" target="_blank">Things Got Out of Hand</a> (rom-com, updated Fridays).</p>
-<hr> -->
-		 <div class="row">
 					    {% for post in site.categories.news limit: 5 %}
-  <article style="margin: 3% 6%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+  <article style="margin: 4% 0%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
@@ -88,7 +82,8 @@ title: kaie.Space
 		</div><hr><!--/.article-content-->
 	</article>
 {% endfor %}     
-					     <p>More <a href="http://kaie.space/news.html" target="_blank">news</a></p>
+			 <p>More <a href="http://kaie.space/news.html" target="_blank">news</a></p>
+				 <hr>
 <!--<hr>
 								         {% for post in site.categories.fotc limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -117,15 +112,15 @@ title: kaie.Space
 	</article>
 {% endfor %}
 								     					     <p>More <a href="http://kaie.space/tgooh.html" target="_blank">chapters</a></p>
---> <hr>
+--> 
 	  <a class="anchor" name="authorjournal" id="authorjournal"></a>
-			<h3 class="text-center">Journal</h3>	    
+			<h3>Journal</h3>
 	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
  <a href="http://kaie.space/journal/index.html" target="_blank">View all posts.</a></p><br>
 				<div class="container-fluid">
-    {% for post in site.categories.journal limit: 4 %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-            <div class="col-sm-3">
+    {% for post in site.categories.journal limit: 3 %}
+        {% cycle 'add row' : '<div class="row">', nil, nil %}
+            <div class="col-sm-4">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -136,30 +131,24 @@ title: kaie.Space
 		<a href="{{ post.url }}">Read more</a>	
 		</div><br><!--/.article-content-->
 	</article>
-	</div>
-        {% cycle 'end row' : nil, nil, nil, '</div>' %}
+	</div><!--end col for journal articles-->
+        {% cycle 'end row' : nil, nil, '</div>' %}
     {% endfor %}
 	    {% cycle 'end row' : nil %}
 </div><!--end container--> 
-		 </div><!--end row-->
-<hr>
-<!-- Start Section 3: 'Audiobook Narration' -->
-<div style="margin: 3% 6%;"> <a class="anchor" name="audio" id="audio"></a>
-<h3 class="text-center">Audiobook Narration</h3>	    
-<div class="text-left"><p>I offer fiction and nonfiction audiobook narration services as well as recording my own work. Available now:</p>
+				 <hr>
+		 <a class="anchor" name="audio" id="audio"></a>
+<h3>Audiobook Narration</h3> 	    
+<p>I offer fiction and nonfiction audiobook narration services as well as recording my own work. Available now:</p>
 	<p><strong>The Book of Curses by Conor Kostick</strong> kids adventure fantasy with zombies! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Curses-Audiobook/B072BNT2L4?qid=1496975906&sr=1-19 " target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Curses-Conor-Kostick-ebook/dp/B00FEXBMEQ/ref=sr_1_37?ie=UTF8&qid=1496976070&sr=8-37&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-curses-unabridged/id1235776506" target="_blank">iTunes</a></p>
 	 	<p><strong>The Book of Wishes by Conor Kostick</strong> kids fairytale fantasy with dragons! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Wishes-Audiobook/B072LVGWQ2?qid=1496975977&sr=1-5" target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Wishes-Conor-Kostick-ebook/dp/B00FEONCL6/ref=sr_1_38?ie=UTF8&qid=1496976239&sr=8-38&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-wishes-unabridged/id1241087691" target="_blank">iTunes</a></p>
 	 	<p><strong>Blind the Eyes Preview Edition</strong> YA dystopian dark fantasy <a href="http://eepurl.com/cSevwn" target="_blank">downloadable</a> as mailing list subscription bonus.</p>
- </div><hr>
-		 </div><!--end Section-->
-	 <!-- Start Section 4: 'About' -->
-	 <div style="margin: 3% 6%;">
+<hr>
  <a class="anchor" name="aboutwriting" id="aboutwriting"></a>
-<h3 class="text-center">About</h3>	    
-<div class="text-left"><p>YA fantasy by K.A. Wiggins (webfiction serials by Kaie.) Subgenres range from future dystopian, contemporary/urban dark, supernatural/paranormal and Celtic-inspired Otherworld. Plus some horror-rom-com just to mix things up. Inspired by YA greats including Brenna Yovanoff, Kendare Blake, Melissa Marr, Cassandra Clare, Kelley Armstrong and Holly Black.</p>
+<h3>About</h3>
+<p>YA fantasy by K.A. Wiggins (webfiction serials by Kaie.) Subgenres range from future dystopian, contemporary/urban dark, supernatural/paranormal and Celtic-inspired Otherworld. Plus some horror-rom-com just to mix things up. Inspired by YA greats including Brenna Yovanoff, Kendare Blake, Melissa Marr, Cassandra Clare, Kelley Armstrong and Holly Black.</p>
 	 <p>I started life as that one super weird little kid obsessed with stories and really, not much has changed. Picture a chubby, bespectacled eight year old dashing around the playground hollering battlecries from Redwall and creating urban legends about witches in the back wood and fairies in the snow melt. </p>
 	<p> I'm still in love with words, blades, battle and heroism, and working hard to tell diverse, complex and empowering feminist stories. Won a few writing awards as a teen and had big dreams of publishing. Then I went away to university, got a job, and started living in the real world. Years later, I've decided to quit the real world and go back to fantasy land. Come with me?</p>
       	   <p>I write stories, freelance and record audiobook narration while wandering Scotland, Cornwall & the Pacific Northwest.</p>
-	 </div>
-	 </div></div><!--end Section-->
-</div><!--end Panel-->
+			 </div><!--end section-->
+</div><!--end panel-->
