@@ -8,8 +8,8 @@ title: kaie.Space
 	 <a class="anchor" name="kaiestories" id="kaiestories"></a>
 	 <div class="row">
         <div class="col-lg-4 col-centered">
-        <div id="container" style="width:300px; z-index: 10; border-radius: 10px;">
-          <img src="http://kaiewiggins.github.io/scarf-version-bte.jpg" style="width: 300px; height: 397px;" class="img-thumbnail">
+        <div id="container" style="width:300px; z-index: 10;">
+          <img src="http://kaiewiggins.github.io/scarf-version-bte.jpg" style="width: 300px; height: 397px; border-radius: 10px;" class="img-thumbnail">
           <div id="name" style="position: absolute; left: 5px; right: 0px; top: -34px; bottom: 0px;">
 		  <h4><i class="fa fa-angle-double-down"></i></h4>
 		  <h4><a href="/gold.html">Blind the Eyes</a></h4>
@@ -123,8 +123,8 @@ title: kaie.Space
 	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
  <a href="http://kaie.space/journal/index.html" target="_blank">View all posts.</a></p><br>
 				<div class="container-fluid">
-    {% for post in site.categories.journal limit: 4 %}
-        {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+    {% for post in site.categories.journal limit: 3 %}
+        {% cycle 'add row' : '<div class="row">', nil, nil %}
             <div class="col-sm-3">
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
