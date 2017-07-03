@@ -66,11 +66,12 @@ title: kaie.Space
         </div><!--end col-->
         </div><!--end row of stories-->
 		 		  </div><!--end first black-background section NO PANEL NO WHITE BACKGROUND-->	 
-		 <div class="panel panel-fluid" style="margin: 3% 6%;"> <!--in effect for remainder of content on page, closes last-->	    
+		 <div class="panel panel-fluid"> <!--in effect for remainder of content on page, closes last-->	    
+			 <div class="section section-fluid" style="margin: 3% 6%;"><!--in effect for remainder of content on page-->
 		 	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
 	 			<h3 class="text-center">News & Updates</h3>
 					    {% for post in site.categories.news limit: 5 %}
-  <article style="margin: 3% 6%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+  <article style="margin: 3% 1%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
@@ -140,7 +141,6 @@ title: kaie.Space
 	<p><strong>The Book of Curses by Conor Kostick</strong> kids adventure fantasy with zombies! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Curses-Audiobook/B072BNT2L4?qid=1496975906&sr=1-19 " target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Curses-Conor-Kostick-ebook/dp/B00FEXBMEQ/ref=sr_1_37?ie=UTF8&qid=1496976070&sr=8-37&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-curses-unabridged/id1235776506" target="_blank">iTunes</a></p>
 	 	<p><strong>The Book of Wishes by Conor Kostick</strong> kids fairytale fantasy with dragons! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Wishes-Audiobook/B072LVGWQ2?qid=1496975977&sr=1-5" target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Wishes-Conor-Kostick-ebook/dp/B00FEONCL6/ref=sr_1_38?ie=UTF8&qid=1496976239&sr=8-38&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-wishes-unabridged/id1241087691" target="_blank">iTunes</a></p>
 	 	<p><strong>Blind the Eyes Preview Edition</strong> YA dystopian dark fantasy <a href="http://eepurl.com/cSevwn" target="_blank">downloadable</a> as mailing list subscription bonus.</p>
- </div>
 <hr>
  <a class="anchor" name="aboutwriting" id="aboutwriting"></a>
 <h3>About</h3>
@@ -148,4 +148,5 @@ title: kaie.Space
 	 <p>I started life as that one super weird little kid obsessed with stories and really, not much has changed. Picture a chubby, bespectacled eight year old dashing around the playground hollering battlecries from Redwall and creating urban legends about witches in the back wood and fairies in the snow melt. </p>
 	<p> I'm still in love with words, blades, battle and heroism, and working hard to tell diverse, complex and empowering feminist stories. Won a few writing awards as a teen and had big dreams of publishing. Then I went away to university, got a job, and started living in the real world. Years later, I've decided to quit the real world and go back to fantasy land. Come with me?</p>
       	   <p>I write stories, freelance and record audiobook narration while wandering Scotland, Cornwall & the Pacific Northwest.</p>
-	 </div><!--end panel-->
+			 </div><!--end section-->
+</div><!--end panel-->
