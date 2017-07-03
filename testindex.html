@@ -67,11 +67,11 @@ title: kaie.Space
         </div><!--end row of stories-->
 		 		  </div><!--end first black-background section NO PANEL NO WHITE BACKGROUND-->	 
 		 <div class="panel panel-fluid"> <!--in effect for remainder of content on page, closes last-->	    
-			 <div class="section section-fluid" style="margin: 3% 6%;"><!--in effect for remainder of content on page-->
+			 <div class="section section-fluid" style="margin: 4% 8%;"><!--in effect for remainder of content on page-->
 		 	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
 	 			<h3 class="text-center">News & Updates</h3>
 					    {% for post in site.categories.news limit: 5 %}
-  <article style="margin: 3% 1%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+  <article style="margin: 4% 0%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
 			<h4 class="title"><a style="color:#ac9" href="{{ post.url }}">{{ post.title }}</a></h4>
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
@@ -83,6 +83,7 @@ title: kaie.Space
 	</article>
 {% endfor %}     
 			 <p>More <a href="http://kaie.space/news.html" target="_blank">news</a></p>
+				 <hr>
 <!--<hr>
 								         {% for post in site.categories.fotc limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -135,6 +136,7 @@ title: kaie.Space
     {% endfor %}
 	    {% cycle 'end row' : nil %}
 </div><!--end container--> 
+				 <hr>
 		 <a class="anchor" name="audio" id="audio"></a>
 <h3>Audiobook Narration</h3> 	    
 <p>I offer fiction and nonfiction audiobook narration services as well as recording my own work. Available now:</p>
