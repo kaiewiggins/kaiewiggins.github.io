@@ -65,11 +65,10 @@ title: kaie.Space
           </div><!--end container-->
         </div><!--end col-->
         </div><!--end row of stories-->
+		 		  </div><!--end first black-background section NO PANEL NO WHITE BACKGROUND-->	 
+		 <div class="panel panel-fluid" style="margin: 3% 6%;"> <!--in effect for remainder of content on page, closes last-->	    
 		 	  <a class="anchor" name="newsupdates" id="newsupdates"></a>
 	 			<h3 class="text-center">News & Updates</h3>
-		  </div><!--end first black-background section NO PANEL NO WHITE BACKGROUND-->	 
-	 	  <div class="panel panel-fluid" style="margin: 3%">
-		 <div class="row">
 					    {% for post in site.categories.news limit: 5 %}
   <article style="margin: 3% 6%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
@@ -82,8 +81,7 @@ title: kaie.Space
 		</div><hr><!--/.article-content-->
 	</article>
 {% endfor %}     
-			  </div><!--close row of news items - NOTE: row not currently active, no columns in this layout-->
-					     <p>More <a href="http://kaie.space/news.html" target="_blank">news</a></p>
+			 <p>More <a href="http://kaie.space/news.html" target="_blank">news</a></p>
 <!--<hr>
 								         {% for post in site.categories.fotc limit: 1 %}
   <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
@@ -112,11 +110,10 @@ title: kaie.Space
 	</article>
 {% endfor %}
 								     					     <p>More <a href="http://kaie.space/tgooh.html" target="_blank">chapters</a></p>
---> </div><!--close first panel WHITE BACKGROUND-->
-	 <div class="section text-center" style="margin: 3%;">
+--> 
 	  <a class="anchor" name="authorjournal" id="authorjournal"></a>
 			<h3>Journal</h3>
-	 <p style="text-color: #aaa;">Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
+	 <p>Spoiler Alert! I end up putting in a lot of details about whatever story I'm working on at the time, among all the other blather. 
  <a href="http://kaie.space/journal/index.html" target="_blank">View all posts.</a></p><br>
 				<div class="container-fluid">
     {% for post in site.categories.journal limit: 3 %}
@@ -138,20 +135,15 @@ title: kaie.Space
 	    {% cycle 'end row' : nil %}
 </div><!--end container--> 
 		 <a class="anchor" name="audio" id="audio"></a>
-<h3>Audiobook Narration</h3>
-		 </div><!--end section black background-->
-<div class="panel panel-fluid" style="margin: 3% 6%;"> 	    
+<h3>Audiobook Narration</h3> 	    
 <p>I offer fiction and nonfiction audiobook narration services as well as recording my own work. Available now:</p>
 	<p><strong>The Book of Curses by Conor Kostick</strong> kids adventure fantasy with zombies! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Curses-Audiobook/B072BNT2L4?qid=1496975906&sr=1-19 " target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Curses-Conor-Kostick-ebook/dp/B00FEXBMEQ/ref=sr_1_37?ie=UTF8&qid=1496976070&sr=8-37&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-curses-unabridged/id1235776506" target="_blank">iTunes</a></p>
 	 	<p><strong>The Book of Wishes by Conor Kostick</strong> kids fairytale fantasy with dragons! Get it on <a href="https://www.audible.com/pd/Kids/The-Book-of-Wishes-Audiobook/B072LVGWQ2?qid=1496975977&sr=1-5" target="_blank">Audible</a> | <a href="https://www.amazon.ca/Book-Wishes-Conor-Kostick-ebook/dp/B00FEONCL6/ref=sr_1_38?ie=UTF8&qid=1496976239&sr=8-38&keywords=conor+kostick" target="_blank">Amazon Whispersync-ready ebook</a> | <a href="https://itunes.apple.com/ca/audiobook/the-book-of-wishes-unabridged/id1241087691" target="_blank">iTunes</a></p>
 	 	<p><strong>Blind the Eyes Preview Edition</strong> YA dystopian dark fantasy <a href="http://eepurl.com/cSevwn" target="_blank">downloadable</a> as mailing list subscription bonus.</p>
- </div><hr>
-		 </div><!--end second panel WHITE BACKGROUND-->
-		 <div class="section text-center" style="margin: 3%;"><!-- Start Section 4: 'About' -->
+ </div>
+<hr>
  <a class="anchor" name="aboutwriting" id="aboutwriting"></a>
 <h3>About</h3>
-</div><!--end third section BLACK BACKGROUND-->
-<div class="panel panel-fluid" style="margin: 3% 6%;"> 	    
 <p>YA fantasy by K.A. Wiggins (webfiction serials by Kaie.) Subgenres range from future dystopian, contemporary/urban dark, supernatural/paranormal and Celtic-inspired Otherworld. Plus some horror-rom-com just to mix things up. Inspired by YA greats including Brenna Yovanoff, Kendare Blake, Melissa Marr, Cassandra Clare, Kelley Armstrong and Holly Black.</p>
 	 <p>I started life as that one super weird little kid obsessed with stories and really, not much has changed. Picture a chubby, bespectacled eight year old dashing around the playground hollering battlecries from Redwall and creating urban legends about witches in the back wood and fairies in the snow melt. </p>
 	<p> I'm still in love with words, blades, battle and heroism, and working hard to tell diverse, complex and empowering feminist stories. Won a few writing awards as a teen and had big dreams of publishing. Then I went away to university, got a job, and started living in the real world. Years later, I've decided to quit the real world and go back to fantasy land. Come with me?</p>
