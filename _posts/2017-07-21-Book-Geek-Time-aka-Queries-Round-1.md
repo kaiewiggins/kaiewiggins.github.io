@@ -5,7 +5,7 @@ date: 2017-07-21
 category: news
 ---
 
-Geek writing/publishing craft time; basically my first day after deciding to join this year's Pitchwars, I won a (luck-of-the-draw) query critique from the amazing [Alicia Clancy](https://twitter.com/alicia_clancy)! Alicia's an Assistant Editor at St. Martin's Press, Pitchwars mentor for the YA group and happens to be on my on my shortlist of mentors to sub to, so score! But then I had to scramble to actually write a query and synopsis lol. I'll post Alicia's version first, a few notes on how it works better, and then my original last for reference if anyone wants to get *that* geeky with it!
+Geek writing/publishing craft time: basically my first day after deciding to join this year's Pitchwars, I won a (luck-of-the-draw) query critique from the amazing [Alicia Clancy](https://twitter.com/alicia_clancy)! Alicia's an Assistant Editor at St. Martin's Press, Pitchwars mentor for the YA group and happens to be on my on my shortlist of mentors to sub to, so score! But then I had to scramble to actually write a query and synopsis lol. I'll post Alicia's version first, a few notes on how it works better, and then my original last for reference if anyone wants to get *that* geeky with it!
 
 ---
 
@@ -30,6 +30,8 @@ Another thing she does is really bring a more colloquial (younger) voice to it. 
 And finally, Alicia really tweaked the focus on action and motivation. It got a little too far from the actual plot (which she's never read, so of course,) but gives me a good push to both be clearer on what's actually happening in the story and forefront motivation and stakes in my final query letter. Stay tuned for future updates, since I'm working with my editor on queries right now (see 'hooks' post) and will post further revisions/finals! 
 
 & Here's my rough first version for the super geeks in the room!
+
+---
 
 Dear Alicia, 
 
