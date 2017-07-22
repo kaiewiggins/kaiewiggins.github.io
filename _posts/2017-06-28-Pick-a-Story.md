@@ -1,9 +1,9 @@
-----
+---
 layout: newspost
 title: Pick a Story
 date: 2017-06-28
 category: news
-----
+---
  
 So I've been thinking about doing a prequel novella or short story to Blind the Eyes for the next round of newsletter bonuses. Which of these sound like something you'd like to read? [Vote and comment on FB.](https://www.facebook.com/kaiespace/posts/493675980975435)
  
