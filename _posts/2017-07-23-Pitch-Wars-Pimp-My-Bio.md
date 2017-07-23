@@ -17,13 +17,13 @@ I read an insane amount and post to [Goodreads](https://www.goodreads.com/kaiesp
 
 - Laini Taylor's STRANGE THE DREAMER. Seriously, there's nothing closer to a perfect book.
 - Unless it's Brianna Yovanoff's equally amazing but totally different PLACES NO ONE KNOWS. Her MC is me, basically. SO, so jealous I didn't write it first.
-- & Kendare Blake's work is amazing, particularly the masterpiece that is THREE DARK CROWNS
+- & Kendare Blake's work is amazing, particularly the masterpiece that is THREE DARK CROWNS...
 
-...and I could go on like this all day, but to summarize, I wish I wrote thrillers as tight and creepy as Kelley Armstrong, dark fantasy as twisty as Holly Black and Melissa Marr, and worlds as big as Cassandra Clare and Scott Westerfeld. But instead I write like me, which means a lot of things that are boundaries and about being not quite one thing or the other.
+...and I could go on like this all day, but to summarize, I wish I wrote thrillers as tight and creepy as Kelley Armstrong, dark fantasy as twisty as Holly Black and Melissa Marr, and worlds as big as Cassandra Clare and Scott Westerfeld. But instead I write like me, which means a lot of stuff about edges and boundaries and borders and about being not quite one thing or the other.
 
 I write Pacific Northwest stories. And Canadian stories. And magical crossover stories, because where I'm from, most people aren't that clear about where they've come from or where they're going. And sometimes moving forward is less about understanding it all, and more about just accepting it.
 
-So BLIND THE EYES is a Canadian story, and a Pacific Northwestern story, and a Vancouver story, and a blended people with missing identities story and a dark, broken future Urban Fantasy story that doesn't know it's any of these things (yet.)
+So BLIND THE EYES is a Canadian story, and a Pacific Northwestern story, and a Vancouver story, and a blended-people-with-missing-identities story and a dark, broken future Urban Fantasy story that doesn't know it's any of these things (yet.)
 
 And at the heart of it is Cole, who still hasn't really learned who she is or what she needs to do, but is scared to death of getting it all wrong. She's part of a generation who have been taught not to want, instead of being taught how to understand what they want. She's not a great hero, or even a strong female protagonist, because she's more about avoiding difficult things and hiding from herself and everything around her than she is about confronting injustice and defeating evil. But she's not alone, and she's not as helpless as she thinks she is, and she's about to find out that her fears and flaws and failure don't define her, they fuel her.
 
