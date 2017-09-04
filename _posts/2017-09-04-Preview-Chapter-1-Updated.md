@@ -5,7 +5,7 @@ date: 2017-09-04
 category: book
 ---
 
-###Chapter 1
+**Chapter 1**
 
 It was the dead man’s expression that drew me, the depth of feeling on it, bare and exposed and unashamed. Horror. Terror. Longing. Anguish. It called to me.
 
