@@ -1,6 +1,6 @@
 ---
 layout: bookpost
-title: Preview Chapter 1 Updated
+title: Preview ch1 Updated
 date: 2017-09-04
 category: book
 ---
