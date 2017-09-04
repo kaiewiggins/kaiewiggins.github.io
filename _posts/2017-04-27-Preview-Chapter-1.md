@@ -5,7 +5,7 @@ date: 2017-04-27
 category: book
 ---
 
-Now superceded;
+Now superceded: Sept. 4, 2017
 
 #### Chapter 1
 
