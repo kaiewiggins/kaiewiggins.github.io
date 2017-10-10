@@ -4,14 +4,6 @@
 <head>
 <title>{{page.title}}</title>
 <link rel="icon" href="http://kaie.space/favicon.png">
-	<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-78591021-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-  gtag('config', 'UA-78591021-1');
-</script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -34,6 +26,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
 	<!-- Google Tag Manager (noscript) -->
