@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include tgmgrhead.html %}
+{% endif %}
 <title>{{page.title}}</title>
 <link rel="icon" href="http://kaie.space/favicon.png">
 <!-- include Bootstrap 3, including JQuery, hosted with MaxCDN-->
@@ -23,10 +26,9 @@
 {% endif %}
 </head>
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
-	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N68SS6J"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include tgmgrbody.html %}
+{% endif %}
   <div class="container-fluid">
 <div class="row">
    <div class="col-md-2">
