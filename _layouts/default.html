@@ -2,9 +2,7 @@
 <html lang="en">
 
 <head>
-	{% if site.google_analytics and jekyll.environment == 'production' %}
 {% include tgmgrhead.html %}
-{% endif %}
 <title>{{page.title}}</title>
 <link rel="icon" href="http://kaie.space/favicon.png">
 <!-- include Bootstrap 3, including JQuery, hosted with MaxCDN-->
@@ -30,7 +28,6 @@
 <div class="row">
    <div class="col-md-2">
     <br>
-   
  <!--Start Nav--><nav id="myScrollspy"><!--Start Nav-->
     <div class="collapse navbar-collapse" id="myNavbar">
    <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="100px">
