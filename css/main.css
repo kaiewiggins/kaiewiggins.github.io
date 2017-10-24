@@ -10,12 +10,12 @@ position: relative;
   
 h2,h3,h4 {color: #df9325;}
 
-.affix { z-index: 9998;
-  top: 30px;
-  border-radius: 15px;
+.affix {
+  top: 200px;
+  border-radius: 1em;
   }
 
-.navbar.affix {z-index: 9999;
+.navbar.affix {
 position: fixed;
 }
 
