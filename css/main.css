@@ -12,12 +12,10 @@ h2,h3,h4 {color: #df9325;}
 
 .affix { z-index: 9998;
   top: 30px;
-  background: #000;
   border-radius: 15px;
   }
 
 .navbar.affix {z-index: 9999;
-background: #000;
 position: fixed;
 }
 
