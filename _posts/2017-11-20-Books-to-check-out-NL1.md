@@ -5,7 +5,7 @@ date: 2017-11-20
 category: news
 ---
 
-*This edition of book recommendations riginally appeared in Newsletter June 2017 edition*
+*This edition of book recommendations first appeared in Newsletter June 2017 edition*
 
 ###Best of the Best:
 
