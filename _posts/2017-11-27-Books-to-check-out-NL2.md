@@ -23,12 +23,13 @@ category: news
  
 **Best Canadian**
 
-[![Missing by Kelley Armstrong:](https://www.goodreads.com/book/show/25487124-missing?ac=1&from_search=true)](https://gallery.mailchimp.com/5d9ccc35d544fcc85135fb8ae/images/4c4d3281-344e-4c6f-ae16-587f3c53980e.jpg)
+[![Missing by Kelley Armstrong:](https://gallery.mailchimp.com/5d9ccc35d544fcc85135fb8ae/images/4c4d3281-344e-4c6f-ae16-587f3c53980e.jpg)](https://www.goodreads.com/book/show/25487124-missing?ac=1&from_search=true)
 
 [Missing by Kelley Armstrong:](https://www.goodreads.com/book/show/25487124-missing?ac=1&from_search=true) The best thrillers aren't just action-action-action. This tense, surprising read has a lot of heart. The slow-burn romance and challenging, complex characters were incredibly compelling. Armstrong also has a gift for making remote locations sound appealing. Love all her YA books. Add to your list for Halloween spine-tingling horror-lite (no paranormal, just human creepiness!) <br>
 
 
 **Bonus Round**
+
 [![Lockdown by Laurie R. King](https://images.gr-assets.com/books/1486052805l/32337121.jpg)](https://www.goodreads.com/book/show/32337121-lockdown)
 
 [Lockdown by Laurie R. King:](https://www.goodreads.com/book/show/32337121-lockdown) I really don't tend to recommend novels about school shootings . . . or contemporary novels, period, but this is a must-read. The level of craft alone - King writes in a dozen distinct voices, each with character development arcs and backstories - mind-blowing literary skill. But what makes this story readable is that it brings a distinct sense of hope to the otherwise traumatic subject matter.
