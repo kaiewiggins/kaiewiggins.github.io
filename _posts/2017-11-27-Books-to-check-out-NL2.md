@@ -5,7 +5,7 @@ date: 2017-11-27
 category: news
 ---
 
-*This edition of book recommendations first appeared in Newsletter August 2017 edition*
+*This edition of book recommendations first appeared in Newsletter August 2017 edition.*
 
 **Best of Summer**
 
@@ -31,4 +31,4 @@ category: news
 **Bonus Round**
 [![Lockdown by Laurie R. King](https://images.gr-assets.com/books/1486052805l/32337121.jpg)](https://www.goodreads.com/book/show/32337121-lockdown)
 
-[Lockdown by Laurie R. King:](https://www.goodreads.com/book/show/32337121-lockdown) I really don't tend to recommend novels about school shootings . . . or contemporary novels, period, but this is a must-read. The level of craft alone - King writes in a dozen distinct voices, each with character development arcs and backstories - mind-blowing literary skill. But what makes this story readable is that it brings a distinct sense of hope to the otherwise traumatic subject matter.</p>
+[Lockdown by Laurie R. King:](https://www.goodreads.com/book/show/32337121-lockdown) I really don't tend to recommend novels about school shootings . . . or contemporary novels, period, but this is a must-read. The level of craft alone - King writes in a dozen distinct voices, each with character development arcs and backstories - mind-blowing literary skill. But what makes this story readable is that it brings a distinct sense of hope to the otherwise traumatic subject matter.
