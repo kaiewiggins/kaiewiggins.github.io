@@ -2,7 +2,7 @@
 layout: newspost
 title: Books to check out NL1
 date: 2017-11-20
-category: newspost
+category: news
 ---
 
 *This edition of book recommendations first appeared in Newsletter June 2017 edition*
