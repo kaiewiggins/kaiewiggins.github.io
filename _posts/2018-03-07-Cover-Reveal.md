@@ -23,9 +23,9 @@ And hey, why not vote for some other faves while you're at it? You get up to thr
 
 #### What happens if it doesn't get chosen for publishing?
 
-You have to have a complete, finished, fully edited book to compete in Kindle Scout. If BTE isn't chosen for a publishing contract, that just means I'll be able to indie publish it even faster because it's already complete and ready to go out the door!
+You have to have a fully edited, finished book to compete in Kindle Scout. If BTE isn't chosen for a publishing contract, that just means I'll be able to indie publish it even faster because it's already complete and ready to go out the door!
 
-Look for the release date announcement by mid-April. It'll come out by May 30 or earlier. And for those of you who aren't fans of e-reading, yes, I'll be putting out a bound paperback either way (and an audiobook as soon as possible afterwards). And since I've already hashed out the plot of the next Threads of Dreams trilogy book with my awesome editor [Lisa Poisso](https://www.lisapoisso.com), you can look forward to the sequel coming in 2019!
+Look for the release date announcement by mid-April. It'll come out by May 30 or earlier. And for those of you who aren't fans of e-reading, yes, I'll be putting out a bound paperback either way (and an audiobook as soon as possible afterwards). Plus, since I've already hashed out the plot of the next Threads of Dreams trilogy book with my awesome editor [Lisa Poisso](https://www.lisapoisso.com), you can look forward to the sequel coming in 2019!
  
 #### What happened to all that querying you were doing?
 
