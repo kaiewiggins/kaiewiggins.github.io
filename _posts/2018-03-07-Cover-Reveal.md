@@ -37,6 +37,6 @@ I've done a *lot* of research on the writing business and what's best for books,
 
 ![Blind the Eyes, Threads of Dreams Book One Cover by Regina Wamba, MaeIDesign](/FrontCoverSS.png)
 
-Isn't it amazing?! Feel free to share across social media and blogs, but please be sure to **credit my incredible cover artist, Regina Wamba, at [Mae I Design](http://www.maeidesign.com/) when you do.** :)
+Isn't it amazing?! Feel free to share across social media and blogs, but please be sure to **credit my incredible cover artist, Regina Wamba, at [Mae I Design](http://www.maeidesign.com/) (http://www.maeidesign.com/) when you do.** :)
 
 And don't forget to [nominate Blind the Eyes on Kindle Scout](https://kindlescout.amazon.com/p/E9IM6GHX3YIJ) for your chance at the free ebook!
