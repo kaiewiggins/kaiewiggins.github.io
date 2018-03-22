@@ -2,6 +2,7 @@ name: Katrina Wiggins
 markdown: kramdown
 # Google Analytics
 google_analytics: UA-78591021-1
+google_tag_manager: GTM-N68SS6J
 gems:
   - jekyll-sitemap
   - jekyll-paginate
