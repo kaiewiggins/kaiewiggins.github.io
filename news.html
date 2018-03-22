@@ -12,7 +12,7 @@ title: Publishing news by YA fantasy author K A Wiggins
 	  {% for post in site.categories.news %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
-	    	<p>{{post.content}}</p><hr>
+	    	{{post.content}}<hr>
 	  {% endfor %}
 	    	</ul>
 </div><!--close first col-->
