@@ -3,7 +3,6 @@
 
 <head>
 <title>{{page.title}}</title>
-		{% include google-tag-manager-head.html %}
 <link rel="icon" href="http://kaie.space/favicon.png">
 <!-- include Bootstrap 3, including JQuery, hosted with MaxCDN-->
  <!-- Latest compiled and minified CSS -->
@@ -21,12 +20,12 @@
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% endif %}
+	{% include analytics.html %}
 	</head>
 <body>
-		{% include google-tag-manager-body.html %}
   <div class="container-fluid">
 	   <a href="http://eepurl.com/cSevwn" target="_blank">    
-			       <img src="kaiewiggins.github.io/websiteheaderKS.jpg" style="margin:0 auto; width: 110%;" class="img-responsive" alt="Blind the Eyes, a YA dystopian paranormal fantasy by K.A. Wiggins, coming to bookstores near you and online Christmas 2017">
+			       <img src="kaiewiggins.github.io/websiteheaderKS.jpg" style="margin:0 auto; width: 110vw;" class="img-responsive" alt="Blind the Eyes, a YA dystopian paranormal fantasy by K.A. Wiggins, coming to bookstores near you and online Christmas 2017">
 	 </a>
 <div class="row">
    <div class="col-md-2">
