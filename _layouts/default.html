@@ -3,6 +3,7 @@
 
 <head>
 <title>{{page.title}}</title>
+	{% include google-tag-manager-head.html %}
 <link rel="icon" href="http://kaie.space/favicon.png">
 <!-- include Bootstrap 3, including JQuery, hosted with MaxCDN-->
  <!-- Latest compiled and minified CSS -->
@@ -23,6 +24,8 @@
 {% endif %}
 </head>
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
+		{% include google-tag-manager-body.html %}
+
   <div class="container-fluid">
 <div class="row">
    <div class="col-md-2">
