@@ -13,6 +13,7 @@ What does that mean? Blind the Eyes is a 100% indie title *at this time*, and wa
 
 Going indie means operating your own micro-sized publishing company. I had the great fortune to work with awesome professionals on every stage of bringing Blind the Eyes to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
 
+
 [Lisa Poisso](https://www.lisapoisso.com)
 - Developmental Editing Round 1 on Blind the Eyes
 - Developmental Editing Round 2 on Blind the Eyes
@@ -21,7 +22,7 @@ Going indie means operating your own micro-sized publishing company. I had the g
  
  
 [Catherine Milos](https://alchemy.catherinemilos.com/)
--Proofread on Blind the Eyes
+- Proofread on Blind the Eyes
 
 
 [Regina Wamba of Mae I Design](http://www.maeidesign.com/)
