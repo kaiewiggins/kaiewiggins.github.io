@@ -7,7 +7,7 @@ category: news
 
 Blind the Eyes is down to its final week in Kindle Scout! It's been a great learning experience, and I'm excited to finish up the competition and get on with sharing this book with all of you.
 
-### If you haven't already, you can [go to Kindle Scout and nominate Blind the Eyes](https://goo.gl/xGWXpz) as a book you want to read. If it wins, you get a free copy before its release date!
+#### If you haven't already, you can [go to Kindle Scout and nominate Blind the Eyes](https://goo.gl/xGWXpz) as a book you want to read. If it wins, you get a free copy before its release date!
 
 When I first started researching Kindle Scout, there wasn't a lot of information online from people who had recently gone through the competition, so for those of you who are interested (& for posterity), here's what I've learned so far. I'll also update after the competition closes with a retrospective.
 
@@ -37,7 +37,7 @@ You can also add social media links and a few short Q&A style statements about y
 
 In case you're not used to thinking in terms of character (not word) counts, this is all REALLY short and limited. Spend some time browsing on the KS site before campaigning. You'll see that the first thing nominators see is your cover, title and tagline, so those have to pop. If they draw nominators in, they can hover over the cover to read the first half or so of your description, and click to see your campaign page, which includes the cover and tagline, full description, first few chapters of your book, and author bio, links, and any other information you shared. Keep in mind, there are less people looking at your material with each step. 
 
-### The most important things are: cover, title, and one-liner
+#### The most important things are: cover, title, and one-liner.
 
 These will automatically be seen by the most people and they're your chance to draw readers/nominators in. Next most important is your description, then your first lines/first chapters (expect to start losing people after 5-10 words if the opening isn't strong).
 
@@ -68,7 +68,7 @@ If you go to the Kindle Scout website, the landing page has sliders for the foll
 
 So you get front-page visibility if you reach Hot & Trending, when your campaign is about to end, and when you're brand new (under both Recently Added and your genre). Here's the catch: only four books are visible in the sliders at any given time. So, even if you're in one of those categories, you may not have at-a-glance visibility the whole time. They seem to auto-rotate the ones posted on the same date for more visibility. 
 
-### The number of new campaigns and total campaigns on the site will limit your organic reach (how many people see your campaign without you sending them there). 
+#### The number of new campaigns and total campaigns on the site will limit your organic reach (how many people see your campaign without you sending them there). 
 
 Kindle Scout did a promotion for NaNoWriMo people in February and gave free editorial advice on submissions, so that blew up the number of campaigns and made it super hard to get seen in the crowd. If you can, try not to be like me and launch at the busiest time! Ideally you want no more than four new campaigns a day for best visibility and lower competition. Right now (March 2018) there seem to be around 300 campaigns running at any given time, and about 20 spots on the Hot & Trending list available. 
 
@@ -84,11 +84,11 @@ I was super lucky to have three days before any new books were posted (because i
 
 My strategy was to take advantage of free visibility for the first few days and do a social media push later in the campaign when things got quieter. Don't be like me, lol. I was super cocky about my chances because I'd invested a lot in a professional, custom cover and well developed work, and other books in same categories had less polished materials, but the materials I had in my campaign weren't enough to push me to the Hot & Trending list. It could just be that people didn't like something about the submission (I regret my one-liner), but if you look at the stories of people who had more success reaching the H&T list, they did an upfront push with social media and paid campaigns to reach it. Once you're on it, you get more organic views and are more likely to stay on it. 
 
-## I'd recommending doing a burst of newsletter and social media marketing within the first 24-48 hours of the campaign for best results.
+### I'd recommending doing a burst of newsletter and social media marketing within the first 24-48 hours of the campaign for best results.
 
 In terms of paid promotions, I did experiment with a few outlets and saw a bit more outside traffic, but not enough to make a difference. I'll update with complete stats at the end of the campaign, but right now I'm sitting at just under 1.7k views and zero hours on H&T with an ad spend of around USD$50. My rationale: it's worth a few dollars in marketing to try to get higher visibility, but reaching H&T isn't a guarantee of a contract, so it's not worth spending too much on. Kindle Scout doesn't just publish the most popular books; they're looking for a book they think they can sell to Kindle Press readers, so there's absolutely some editorial intervention, but not making the H&T list at all is a sign that it's not a match for their regular readers.
 
-## As with all books, genre matters in terms of audience.
+### As with all books, genre matters in terms of audience.
 
 Romance and Mystery writers have the best shot of getting noticed, and stand alone or first in series books tend to get preference.
 
