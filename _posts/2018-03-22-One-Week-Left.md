@@ -11,7 +11,7 @@ Blind the Eyes is down to its final week in Kindle Scout! It's been a great lear
 
 When I first started researching Kindle Scout, there wasn't a lot of information online from people who had recently gone through the competition, so for those of you who are interested (& for posterity), here's what I've learned so far. I'll also update after the competition closes with a retrospective.
 
-## So what is it?
+## What is it?
 
 - Kindle Scout is the American Idol of publishing
 - Readers vote on pre-published books during a 30 day period
@@ -23,7 +23,7 @@ That's it in a nutshell, but of course it's more complicated behind the scenes. 
 
 The best resources I've found with the freshest information are [this board](http://www.kboards.com/index.php/topic,213112.24675.html), [this board](https://www.goodreads.com/group/show/159261-kindle-scout) & [this compilation of blog links](http://jaxonreed.com/bookpr…/kindle-scout-perspectives-2018/) so check those out if you're researching for your own campaign.
 
-## To apply for your first campaign, you need:
+To apply for your first campaign, you need:
 
 - Amazon account
 - Complete, finished, edited, and proofread manuscript
@@ -37,7 +37,7 @@ You can also add social media links and a few short Q&A style statements about y
 
 In case you're not used to thinking in terms of character (not word) counts, this is all REALLY short and limited. Spend some time browsing on the KS site before campaigning. You'll see that the first thing nominators see is your cover, title and tagline, so those have to pop. If they draw nominators in, they can hover over the cover to read the first half or so of your description, and click to see your campaign page, which includes the cover and tagline, full description, first few chapters of your book, and author bio, links, and any other information you shared. Keep in mind, there are less people looking at your material with each step. 
 
-## The most important things are: cover, title, and one-liner.
+### The most important things are: cover, title, and one-liner
 
 These will automatically be seen by the most people and they're your chance to draw readers/nominators in. Next most important is your description, then your first lines/first chapters (expect to start losing people after 5-10 words if the opening isn't strong).
 
@@ -45,7 +45,7 @@ In my campaign, I think choosing a weak one-liner was my biggest mistake. That, 
 
 It's important to research data that's as recent as possible; the KS program seems to be growing, and the effort-to-outcome ratio has changed considerably since the early days, and even within the last few months. A lot of early advice emphasized a professional cover and properly edited work would get you noticed. Based on the current stats being shared, you need a way to drive traffic to your campaign. Authors with books that hit and/or stay on the "Hot and Trending" board mostly have large mailing lists and author platforms and/or have paid for third-party marketing to advertise their campaign. That's not to say that you don't get organic traffic, and a cover/title/one-liner that really hits a hook or genre tropes that people love could theoretically rise to the top if it's lucky enough to stay visible long enough, but a well-produced publication-ready book is no longer enough to get noticed on the site.
 
-## So why do Kindle Scout at all?
+## Why do Kindle Scout at all?
 
 Indie authors in particular may not want to wait the 30-45 days it takes to be released from the Kindle Scout exclusivity period. I chose to participate because it's free marketing. I was definitely too cocky about my ability to rise to the top without outside marketing efforts (I'll dive into the data at the end of the campaign), but even without hitting the leaderboard, I was able to get 1k+ new eyeballs on my work at a minimal cost, take the book for a test-run to gauge response, and trial some marketing techniques.
 
@@ -53,7 +53,7 @@ Other benefits: at the end of your campaign, that 500 character "thank you" mess
 
 In my case, I entered Blind the Eyes because I felt like it was a win-win whether or not the book gets picked up by Kindle Press. On the one hand, KS/KP gives you a trivial amount of cash upfront ($1.5k: yay - pay for production on the next book!) and may give it a bit of a marketing advantage you win and they publish your ebook. On the other hand, they only pick up books that fit their list closely, like with any traditional publisher, so the chances of actually getting caught in that contract (which isn't bad by traditional standards, but which is still a bit restrictive) are minimal and you're really more likely not to win.
 
-## So, on to my experience: 
+## On to my experience: 
 
 I built up my campaign materials and did some last minute research over the course of a couple days and submitted the application late in the week (Wed/Thurs). It took about two days to hear back that it was approved, and the launch date was two days after that (so, 4 days from upload to public).
 
@@ -68,7 +68,7 @@ If you go to the Kindle Scout website, the landing page has sliders for the foll
 
 So you get front-page visibility if you reach Hot & Trending, when your campaign is about to end, and when you're brand new (under both Recently Added and your genre). Here's the catch: only four books are visible in the sliders at any given time. So, even if you're in one of those categories, you may not have at-a-glance visibility the whole time. They seem to auto-rotate the ones posted on the same date for more visibility. 
 
-## The number of new campaigns and total campaigns on the site will limit your organic reach (how many people see your campaign without you sending them there). 
+### The number of new campaigns and total campaigns on the site will limit your organic reach (how many people see your campaign without you sending them there). 
 
 Kindle Scout did a promotion for NaNoWriMo people in February and gave free editorial advice on submissions, so that blew up the number of campaigns and made it super hard to get seen in the crowd. If you can, try not to be like me and launch at the busiest time! Ideally you want no more than four new campaigns a day for best visibility and lower competition. Right now (March 2018) there seem to be around 300 campaigns running at any given time, and about 20 spots on the Hot & Trending list available. 
 
