@@ -84,11 +84,11 @@ I was super lucky to have three days before any new books were posted (because i
 
 My strategy was to take advantage of free visibility for the first few days and do a social media push later in the campaign when things got quieter. Don't be like me, lol. I was super cocky about my chances because I'd invested a lot in a professional, custom cover and well developed work, and other books in same categories had less polished materials, but the materials I had in my campaign weren't enough to push me to the Hot & Trending list. It could just be that people didn't like something about the submission (I regret my one-liner), but if you look at the stories of people who had more success reaching the H&T list, they did an upfront push with social media and paid campaigns to reach it. Once you're on it, you get more organic views and are more likely to stay on it. 
 
-### I'd recommending doing a burst of newsletter and social media marketing within the first 24-48 hours of the campaign for best results.
+#### I'd recommending doing a burst of newsletter and social media marketing within the first 24-48 hours of the campaign for best results.
 
 In terms of paid promotions, I did experiment with a few outlets and saw a bit more outside traffic, but not enough to make a difference. I'll update with complete stats at the end of the campaign, but right now I'm sitting at just under 1.7k views and zero hours on H&T with an ad spend of around USD$50. My rationale: it's worth a few dollars in marketing to try to get higher visibility, but reaching H&T isn't a guarantee of a contract, so it's not worth spending too much on. Kindle Scout doesn't just publish the most popular books; they're looking for a book they think they can sell to Kindle Press readers, so there's absolutely some editorial intervention, but not making the H&T list at all is a sign that it's not a match for their regular readers.
 
-### As with all books, genre matters in terms of audience.
+#### As with all books, genre matters in terms of audience.
 
 Romance and Mystery writers have the best shot of getting noticed, and stand alone or first in series books tend to get preference.
 
