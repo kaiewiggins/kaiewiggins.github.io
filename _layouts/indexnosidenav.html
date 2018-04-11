@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>{{page.title}}</title>
+<link rel="icon" href="http://kaie.space/favicon.png">
+<!-- include Bootstrap 3, including JQuery, hosted with MaxCDN-->
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script async src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script><!--async can be removed to prioritize jquery loading first-->
+
+<!-- Latest compiled JavaScript -->
+<script async src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- meta = Bootstrap 3 instruction setting page width to fill device screen-->
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
+<meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% endif %}
+	{% include analytics.html %}
+	</head>
+<body>
+  <div class="container-fluid">
+<div class="row">
+   <div class="col-md-2">
+    </div><!--close nav col-->
+  <div class="col-md-10"><!--formerly class=container-fluid-->
+   {{content}}<!--all unique page content-->			  
+	</div><!--close second column-->
+    </div><!--close body row-->
+	</div><!--end responsive container fluid-->
+ </body>
+	<footer>
+		<row>
+			<div class="col-md-2"></div>
+			<div class="col-md-2"><small>Copyright &copy 2017 K.A. Wiggins</small></div>
+		</row>
+</footer>
