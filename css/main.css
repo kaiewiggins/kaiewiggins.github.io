@@ -4,6 +4,9 @@
 position: relative;
   }
 
+p{padding: 1em;
+}
+
   h1 {color: #e8c048;
   text-align: center;
   }
