@@ -5,23 +5,21 @@ position: relative;
     font-size: 1.6rem;
     padding: 2.5em;
     line-height: 1.75em;
-    color: #1c1c1c;
+    color: #333;
   }
 
   h1 {color: #e8c048;
   text-align: center;
-    font-size: 2.5rem;
-    padding: 2.5em;
-    line-height: 2em;
+    font-size: 2.5em;
+    line-height: 3em;
   }
   
 h2 {color: #e8c048;
-      font-size: 2rem;
-    padding: 2.5em;
-    line-height: 2em;
+      font-size: 2em;
+    line-height: 3em;
 }
 
-h3, h4, h5 {color: #1c1c1c;
+h3, h4, h5 {color: #333;
   }
 
 .affix {
