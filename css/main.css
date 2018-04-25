@@ -1,9 +1,9 @@
 
   body {
-   background-color: #000;
+   background-color: #fff;
 position: relative;
     font-size: 1.6rem;
-    padding: 2.5em;
+    padding: 3em;
     line-height: 1.75em;
   }
 
@@ -12,7 +12,7 @@ position: relative;
     font-size: 5em;
   }
   
-  h2, h3 {color: #e8c048;
+  h2, h3 {color: #1c1c1c;
   }
 
 .affix {
