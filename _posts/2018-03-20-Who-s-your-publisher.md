@@ -5,11 +5,15 @@ date: 2018-03-20.md
 category: faq
 ---
 
-Blind the Eyes and all other in-progress and full length works on this site are owned by K.A. Wiggins and no rights have been sold/licensed to any third parties as of March 2018. For all licensing enquiries, please [contact the rights holder.](mailto:kaiewrites@gmail.com)
+"Snowmelt & Stumps" is an independent single-author imprint with no formal business status. It's used as a matter of convenience in lieu of author name if/when a publisher or imprint field is required.
 
-From September 2017 to March 2018 Blind the Eyes (Threads of Dreams book 1) was queried for representation and receieved multiple full requests. In March 2018, it entered an exclusive 45 day review period with Kindle Scout/Kindle Press for international ebook and audiobook rights.
+>Blind the Eyes and all other in-progress and full length works on this site are copyrighted by K.A. Wiggins. For all rights or licensing enquiries, please [contact the rights holder.](mailto:kaiewrites@gmail.com)
 
-What does that mean? Blind the Eyes is a 100% indie title *at this time*, and was written and produced with independent or hybrid publishing in mind.
+From September 2017 to March 2018 Blind the Eyes (Threads of Dreams book 1) was queried for representation and receieved multiple full requests. In March 2018, it entered Kindle Scout, but the program was cancelled before its campaign ended and all rights reverted to the author. In June 2018, ebook and paperback editions were produced and sold by the author.
+
+What does that mean?
+
+> Blind the Eyes is a 100% indie title, and was written and produced with independent or hybrid publishing in mind.
 
 Going indie means operating your own micro-sized publishing company. I had the great fortune to work with awesome professionals on every stage of bringing Blind the Eyes to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
 
