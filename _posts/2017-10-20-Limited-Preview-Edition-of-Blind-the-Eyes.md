@@ -4,13 +4,6 @@ title: Limited Preview Edition of Blind the Eyes
 date: 2017-10-20
 category: book
 ---
-Blind the Eyes YA dark fantasy Limited Preview Edition also available as a free ebook at: 
-- Amazon: [US](https://www.amazon.com/Blind-Eyes-Limited-Preview-Chapter-ebook/dp/B0721P73K2/ref=asap_bc?ie=UTF8) | [Canada](https://www.amazon.ca/Blind-Eyes-Limited-Preview-Chapter-ebook/dp/B0721P73K2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1503029422&sr=1-1&keywords=Blind+the+Eyes+Limited+Preview+Edition%3A+Free+3+Chapter+Preview) | [UK](https://www.amazon.co.uk/Blind-Eyes-Limited-Preview-Chapter-ebook/dp/B0721P73K2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1503029422&sr=1-1&keywords=Blind+the+Eyes+Limited+Preview+Edition%3A+Free+3+Chapter+Preview)
-- Kobo:   [US](https://www.kobo.com/us/en/ebook/blind-the-eyes-limited-preview-edition">US</a> | [Canada](https://www.kobo.com/ca/en/ebook/blind-the-eyes-limited-preview-edition) | [UK](https://www.kobo.com/gb/en/ebook/blind-the-eyes-limited-preview-edition)
-- [Chapters/Indigo](https://www.chapters.indigo.ca/en-ca/books/blind-the-eyes-limited-preview/9990053025413-item.html?ikwid=blind+the+eyes&ikwsec=Home&ikwidx=0)
-- [Nook/Barnes & Noble](https://www.barnesandnoble.com/w/blind-the-eyes-limited-preview-edition-ka-wiggins/1126583469?ean=2940157345310)
-
-<hr>
 
 **Chapter 1: Before**
 
