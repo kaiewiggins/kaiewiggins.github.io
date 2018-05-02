@@ -107,6 +107,8 @@ I’d like to, but I won’t. As much trouble as she is, she’s all I have left
 
 ____
 
-**Want more? Join the [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) for bonus content including a free ebook and audiobook extended sneak peek, deleted and preview scenes, and other bonus content!**
+**Want more? Join the [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) for bonus content including an extended sneak peek ebook, deleted and preview scenes, and other exclusive content!**
 
-For longer-running fans and book geeks interested in just how much a manuscript transforms from start to finish, the full first beta readers edition is being serialized on Wattpad as [BTE Beta1](https://www.wattpad.com/story/106720262-bte-beta1)
+Are you a bookstagrammer, bookblogger, or reviewer? [Get in touch](https://kaie.space/faq/2018/03/20/Do-you-offer-review-copies) today about eARCS and promotional opportunities.
+
+For longer-running fans and book geeks interested in just how much a manuscript transforms from start to finish, the full first beta readers' edition is being serialized on Wattpad as [BTE Beta1](https://www.wattpad.com/story/106720262-bte-beta1)
