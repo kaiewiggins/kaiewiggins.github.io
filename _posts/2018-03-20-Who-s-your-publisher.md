@@ -5,7 +5,7 @@ date: 2018-03-20.md
 category: faq
 ---
 
-"Snowmelt & Stumps" is an independent single-author imprint with no formal business status. It's used as a matter of convenience in lieu of author name if/when a publisher or imprint field is required.
+*Snowmelt & Stumps* is an independent single-author imprint with no formal business status. It's used as a matter of convenience in lieu of author name if/when a publisher or imprint field is required.
 
 >Blind the Eyes and all other in-progress and full length works on this site are copyrighted by K.A. Wiggins. For all rights or licensing enquiries, please [contact the rights holder.](mailto:kaiewrites@gmail.com)
 
