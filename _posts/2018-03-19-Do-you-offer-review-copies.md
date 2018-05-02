@@ -1,5 +1,5 @@
 ---
-layout: faqpost
+layout: FAQpost
 title: Do you offer review copies?
 date: 2018-03-20.md
 category: faq
