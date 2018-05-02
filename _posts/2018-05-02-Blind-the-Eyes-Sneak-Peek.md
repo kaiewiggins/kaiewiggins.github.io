@@ -105,6 +105,7 @@ I’d like to tell her to shut up. I’d like to tell her I have no choice, and 
 
 I’d like to, but I won’t. As much trouble as she is, she’s all I have left. And she’ll back off soon, because I’m all she has. All she’ll ever have.
 
+____
 
 **Want more? Join the [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) for bonus content including a free ebook and audiobook extended sneak peek, deleted and preview scenes, and other bonus content!**
 
