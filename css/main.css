@@ -87,7 +87,8 @@ ul.posts li {
 .banner {margin: 0 auto;}
 
 .btn {
-  margin: 1em;
+  margin: 0.75em;
         background: #e8c048;
+        background-color: #e8c048;
     color: #333333;
 }
