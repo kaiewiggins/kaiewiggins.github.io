@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -11,7 +11,9 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 
 	<!-- meta = Bootstrap 3 instruction setting page width to fill device screen-->
-<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
@@ -20,9 +22,10 @@
 	{% include analytics.html %}
 	</head>
 <body>
-	<div style="margin:-4% -2.5% 1% -3.5%; width: 100vw;">
+	<div class="container-fluid">
 	<img src="kaiewiggins.github.io/MCemailheaderlg.jpg" class="img-responsive" alt="Blind the Eyes, a YA dystopian dark fantasy by K.A. Wiggins">
-	</div> <div class="container-fluid">
+	</div>
+	<div class="container-fluid">
 <div class="row">
   <div class="col-md-10">
    {{content}}<!--all unique page content-->			  
@@ -97,3 +100,4 @@ alt="Follow author K.A. Wiggins on Goodreads" src="https://www.goodreads.com/ima
 
 <small style="color: #333">Copyright &copy 2016-2018 K.A. Wiggins</small>
 </footer>
+</html>
