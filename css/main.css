@@ -12,21 +12,10 @@ p {
   }
   
 h2 {color: #e8c048;
-      font-size: 2em;
-    line-height: 3em;
 }
 
 h3, h4, h5 {color: #333;
   }
-
-.affix {
-  top: 200px;
-  border-radius: 1em;
-  }
-
-.navbar.affix {
-position: fixed;
-}
 
 .col-centered {margin:0 auto;
 }
@@ -40,45 +29,11 @@ position: fixed;
 #writingjournal{}
 #writingresources{}
 
-#container:hover #name {
-  transform: translate(0, 0) !important;
-  z-index: 10;
-}
-
-#container #name {
-  transition: transform 0.25s ease;
-  transform: translate(0, 90%) !important;
-  z-index: 10;
-}
-
-#container {
-  position: relative;
-    overflow: hidden;
-  z-index: 10;
-
-}
-
-#name {
-  width: 290px;
-  height: 433px;
-  background-color: rgba(255,255,255,0.8);
-  z-index: 10;
-}
-
 .page-break {
     width: 50%;
     height: 3px;
     background-color: #fff;
     margin: 0 auto;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size;
-}
-
-ul.posts li {
-    list-style: none;
 }
 
 .banner {margin: 0 auto;}
@@ -87,7 +42,6 @@ ul.posts li {
   margin: 0.5em;
     color: #333333;
 }
-
 
 .btn-primary {
           background-color: #e8c048;
