@@ -14,6 +14,16 @@ There are seven (and counting) for fantasy readers, paranormal readers, dystopia
 
 Enter [here](https://www.subscribepage.com/t5r4t3)
 
+### Fantasy Paperbacks Giveaway
+
+- Children of Blood and Bone by Tomi Adeyemi 
+- City of Bones by Cassandra Clare
+- Fool's Assassin by Robin Hobb
+- Pestilence by Laura Thalassa
+- USD$25 Amazon gift card
+
+Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber)
+
 ### Ultimate Twilight Giveaway
 
 - Twilight Forever: The Complete Saga [Blu-ray + Digital]
@@ -28,16 +38,6 @@ Enter [here](https://www.subscribepage.com/t5r4t3)
 - Barbie Collector The Twilight Saga: Breaking Dawn Part II Bella Doll
 
 Enter [here](https://silverempire.org/giveaways/twilight/)
-
-### Fantasy Paperbacks Giveaway
-
-- Children of Blood and Bone by Tomi Adeyemi 
-- City of Bones by Cassandra Clare
-- Fool's Assassin by Robin Hobb
-- Pestilence by Laura Thalassa
-- USD$25 Amazon gift card
-
-Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber)
 
 ### Dystopian Giveaway
 
@@ -64,6 +64,6 @@ Enter [here](https://claims.instafreebie.com/gg/dLCKBPXtI7EIVSCCeUQy)
 
 ### Bookbub Giveaway
 
--USD$350 Amazon Giftcard
+- USD$350 Amazon Giftcard
 
 Enter [here](http://clcannon.net/2018/05/02/c-l-cannons-may-bookbub-giveaway/)
