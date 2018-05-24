@@ -12,7 +12,7 @@ There are seven (and counting) for fantasy readers, paranormal readers, dystopia
 - Mystery prize book box worth up to $600
 - Incl. books, fantasy merch, surprise gift (usually Amazon gift card or Kindle)
 
-Enter [here](https://www.subscribepage.com/t5r4t3)
+Enter [here](https://www.subscribepage.com/t5r4t3) by May 26.
 
 ### Fantasy Paperbacks Giveaway
 
@@ -22,7 +22,7 @@ Enter [here](https://www.subscribepage.com/t5r4t3)
 - Pestilence by Laura Thalassa
 - USD$25 Amazon gift card
 
-Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber)
+Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber) by May 26.
 
 ### Ultimate Twilight Giveaway
 
@@ -37,14 +37,14 @@ Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber)
 - Twilight Movie Poster w/Bella & Edward 24 X 36 Poster Print
 - Barbie Collector The Twilight Saga: Breaking Dawn Part II Bella Doll
 
-Enter [here](https://silverempire.org/giveaways/twilight/)
+Enter [here](https://silverempire.org/giveaways/twilight/) by May 31.
 
 ### Dystopian Giveaway
 
 - Kindle Fire
 - Any 2 dystopian novels for your new ereader
 
-Enter [here](https://www.rafflecopter.com/rafl/display/cdc854b724/)
+Enter [here](https://www.rafflecopter.com/rafl/display/cdc854b724/) by July 2.
 
 ### SFF & Horror Ebook Instafreebie Giveaway
 
@@ -52,7 +52,7 @@ Enter [here](https://www.rafflecopter.com/rafl/display/cdc854b724/)
 - Fill your ereader for the summer
 - Includes adult titles; reader discretion advised
 
-Enter [here](https://claims.instafreebie.com/gg/zZ8Shz0khUNIoUysZzte)
+Enter [here](https://claims.instafreebie.com/gg/zZ8Shz0khUNIoUysZzte) by May 31. 
 
 ### For the Love of YA Ebook Instafreebie Giveaway
 
@@ -60,10 +60,10 @@ Enter [here](https://claims.instafreebie.com/gg/zZ8Shz0khUNIoUysZzte)
 - Fill your ereader for the summer
 - All subgenres
 
-Enter [here](https://claims.instafreebie.com/gg/dLCKBPXtI7EIVSCCeUQy)
+Enter [here](https://claims.instafreebie.com/gg/dLCKBPXtI7EIVSCCeUQy) by May 30.
 
 ### Bookbub Giveaway
 
 - USD$350 Amazon Giftcard
 
-Enter [here](http://clcannon.net/2018/05/02/c-l-cannons-may-bookbub-giveaway/)
+Enter [here](http://clcannon.net/2018/05/02/c-l-cannons-may-bookbub-giveaway/) by June 2.
