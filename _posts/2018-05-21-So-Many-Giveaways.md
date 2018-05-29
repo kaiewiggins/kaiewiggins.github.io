@@ -5,24 +5,11 @@ date: 2018-05-21
 category: news
 ---
 
-There are seven (and counting) for fantasy readers, paranormal readers, dystopian readers, YA readers, horror readers . . . just go enter already!
+There are ~~seven (and counting)~~ (now five!) for fantasy readers, paranormal readers, dystopian readers, YA readers, horror readers . . . just go enter already!
 
-### Fantasy Bookcrate Giveaway
+~~Fantasy Bookcrate Giveaway~~ (ended May 26, 2018)
 
-- Mystery prize book box worth up to $600
-- Incl. books, fantasy merch, surprise gift (usually Amazon gift card or Kindle)
-
-Enter [here](https://www.subscribepage.com/t5r4t3) by May 26.
-
-### Fantasy Paperbacks Giveaway
-
-- Children of Blood and Bone by Tomi Adeyemi 
-- City of Bones by Cassandra Clare
-- Fool's Assassin by Robin Hobb
-- Pestilence by Laura Thalassa
-- USD$25 Amazon gift card
-
-Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber) by May 26.
+~~Fantasy Paperbacks Giveaway~~ (ended May 26, 2018)
 
 ### Ultimate Twilight Giveaway
 
@@ -37,7 +24,7 @@ Enter [here](https://gleam.io/k27TG/fantasy-readers-newsletter-subscriber) by Ma
 - Twilight Movie Poster w/Bella & Edward 24 X 36 Poster Print
 - Barbie Collector The Twilight Saga: Breaking Dawn Part II Bella Doll
 
-Enter [here](https://silverempire.org/giveaways/twilight/) by May 31.
+Enter [here](https://silverempire.org/giveaways/twilight/) by midnight, May 30.
 
 ### Dystopian Giveaway
 
