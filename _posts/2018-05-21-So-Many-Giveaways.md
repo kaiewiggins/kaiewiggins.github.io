@@ -5,26 +5,19 @@ date: 2018-05-21
 category: news
 ---
 
-There are ~~seven (and counting)~~ (now five!) for fantasy readers, paranormal readers, dystopian readers, YA readers, horror readers . . . just go enter already!
+There are ~~seven (and counting)~~ (now four!) for fantasy readers, paranormal readers, dystopian readers, YA readers, horror readers . . . just go enter already!
 
 ~~Fantasy Bookcrate Giveaway~~ (ended May 26, 2018)
 
 ~~Fantasy Paperbacks Giveaway~~ (ended May 26, 2018)
 
-### Ultimate Twilight Giveaway
+~~Ultimate Twilight Giveaway~~ (ended May 30, 2018)
 
-- Twilight Forever: The Complete Saga [Blu-ray + Digital]
-- The Twilight Saga White Collection
-- TEAM EDWARD Except when Jacob is Shirtless on Adult & Youth Cotton T-Shirt
-- The Twilight Saga: The Official Illustrated Guide
-- Twilight "Eclipse" Bellas Engagement Ring Prop Replica
-- CafePress - Mrs. Cullen Mug - Unique Coffee Mug/Coffee Cup
-- New Moon: The Graphic Novel, Vol. 1 (The Twilight Saga)
-- Twilight: The Graphic Novel Collector's Edition (The Twilight Saga)
-- Twilight Movie Poster w/Bella & Edward 24 X 36 Poster Print
-- Barbie Collector The Twilight Saga: Breaking Dawn Part II Bella Doll
+### Bookbub Giveaway
 
-Enter [here](https://silverempire.org/giveaways/twilight/) by midnight, May 30.
+- USD$350 Amazon Giftcard
+
+Enter [here](http://clcannon.net/2018/05/02/c-l-cannons-may-bookbub-giveaway/) by June 2.
 
 ### Dystopian Giveaway
 
@@ -48,9 +41,3 @@ Enter [here](https://claims.instafreebie.com/gg/zZ8Shz0khUNIoUysZzte) by May 31.
 - All subgenres
 
 Enter [here](https://claims.instafreebie.com/gg/dLCKBPXtI7EIVSCCeUQy) by May 30.
-
-### Bookbub Giveaway
-
-- USD$350 Amazon Giftcard
-
-Enter [here](http://clcannon.net/2018/05/02/c-l-cannons-may-bookbub-giveaway/) by June 2.
