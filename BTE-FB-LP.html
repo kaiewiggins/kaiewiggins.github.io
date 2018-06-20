@@ -17,9 +17,14 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% endif %}
-	{% include analytics.html %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-78591021-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-78591021-1');
+</script>
 	
   <!-- Facebook Pixel Code -->
 <script>
@@ -46,14 +51,12 @@
   <div class="panel">
     <div class="panel-body">
 	    <div class="section">
+		    <div class="row">
+			    <div class="col-md-6">
       			<img src="http://kaiewiggins.github.io/BTE3D.png" class="img-fluid mx-auto d-block" style="width: 70%;" alt:"cover: Blind the Eyes YA dystopian dark fantasy by K.A. Wiggins" href="http://books2read.com/blindtheeyes">
-<a role="button" class="btn btn-primary mx-auto d-block" alt="Blind the Eyes Store Links" href="http://books2read.com/blindtheeyes">Shop now</a>
-
-		    <p class="text-muted">Ebooks out now. Paperbacks launch August 3. Audiobook and hardcover preorders coming soon.</p>
-		    <br>
-		    <hr>
-		     <h2>Blind the Eyes</h2>
-						 			    <p class="lead">When hope kills and dreams are deadly, her only shot at survival is to shut it all down.
+		    </div>
+			    <div class="col-md-6">
+			    <p class="lead">When hope kills and dreams are deadly, her only shot at survival is to shut it all down.
 			    </p>
 		    			    <p class="lead">In the Towers of Refuge, regulation dictates every aspect of life.
 			    </p>
@@ -69,14 +72,12 @@
 			    </p>
 <p class="text-muted">Trusted authorities lie, allies have their own agendas, and even the monsters wear masks in this YA dystopian dark fantasy suitable for ages 14 and up.
 	</p>
-			    <h5>Add on Goodreads:</h5> 
-			    	  <div id="gr_add_to_books">
-    <div class="gr_custom_each_container_">
-      <a target="_blank" style="border:none" rel="nofollow" href="https://www.goodreads.com/book/show/35428965-blind-the-eyes"><img alt="Blind the Eyes" src="https://www.goodreads.com/images/atmb_add_book-70x25.png" /></a>
-    </div>
-  </div>
-  <!-- the identifier in the following script tag can be a GR book id or an isbn -->
-  <script src="https://www.goodreads.com/book/add_to_books_widget_frame/35428965?atmb_widget%5Bbutton%5D=atmb_widget_1.png"></script>
+			    </div>
+		    </div><!--end row-->
+<a role="button" class="btn btn-primary mx-auto d-block" alt="Blind the Eyes Store Links" href="http://books2read.com/blindtheeyes">Shop now</a>
+
+		    <p class="text-muted">Ebooks out now. Paperbacks launch August 3. Audiobook and hardcover preorders coming soon.</p>
+		    
 </div><!--end Section-->
 	  </div><!--end Panel-body-->
 </div>
