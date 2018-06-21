@@ -9,7 +9,7 @@ category: news
 
 I'm super excited to announce that *Blind the Eyes* has been handpicked by the Barnes & Noble Press team for the Summer 2018 B&N Press Presents list!
 
-It's in some great company, so why not head over to [check out the list](https://www.barnesandnoble.com/b/bn-press-presents/teens/_/N-rf4Z19r4) and pick up a few summer reads while you're at it?
+As a creator, it's always awesome to get a vote of confidence from a respected source like this. *Blind the Eyes* is on a special [sale](http://books2read.com/blindtheeyes) to celebrate, and it's in some great company, so why not head over to [check out the list](https://www.barnesandnoble.com/b/bn-press-presents/teens/_/N-rf4Z19r4) and pick up a few summer reads while you're at it?
 
 Here are a few of the ones I'm most excited for:
 
