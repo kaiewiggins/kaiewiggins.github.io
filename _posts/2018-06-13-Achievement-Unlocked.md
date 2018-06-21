@@ -13,7 +13,9 @@ As a creator, it's always awesome to get a vote of confidence from a respected s
 
 Here are a few I'm most excited for:
 
-| ![](https://prodimage.images-bn.com/pimages/2940159099181_p0_v1_s550x406.jpg) | ### [Running with the Wolves by J.E. Reed](https://www.barnesandnoble.com/w/running-with-the-wolves-je-reed/1128523240?ean=2940159099181)
+![](https://prodimage.images-bn.com/pimages/2940159099181_p0_v1_s550x406.jpg)
+
+### [Running with the Wolves by J.E. Reed](https://www.barnesandnoble.com/w/running-with-the-wolves-je-reed/1128523240?ean=2940159099181)
 
 *Another dystopian fantasy crossover with nightmare monsters–it's this summer's epidemic!* 
 
