@@ -11,7 +11,7 @@ I'm super excited to announce that *Blind the Eyes* has been handpicked by the B
 
 As a creator, it's always awesome to get a vote of confidence from a respected source like this. *Blind the Eyes* is on a special [sale](http://books2read.com/blindtheeyes) to celebrate, and it's in some great company, so why not head over to [check out the list](https://www.barnesandnoble.com/b/bn-press-presents/teens/_/N-rf4Z19r4) and pick up a few summer reads while you're at it?
 
-Here are a few of the ones I'm most excited for:
+Here are a few I'm most excited for:
 
 ![](https://prodimage.images-bn.com/pimages/2940159099181_p0_v1_s550x406.jpg)
 
@@ -22,6 +22,8 @@ Here are a few of the ones I'm most excited for:
 Chronopoint was only meant to be a game, but Kiuno finds herself trapped in that world. 
 
 As hideous, twisted monsters only seen in nightmares plague her every move, will she find allies in time or discover death has taken far more than she'd ever imagined?
+
+---
 
 ![](https://prodimage.images-bn.com/pimages/2940159091659_p0_v1_s550x406.jpg)
 
@@ -34,6 +36,8 @@ Any girl who goes into the Forbidden Forest never comes out again. Except the on
 Larkin should have been watching her sister. She goes after her into the woods and even manages to escape again, but not before discovering the truth lurking beneath the wicked boughs. 
 
 Larkin may have evaded the beast once, but with the full force of his magic now fixated on her, she isn't sure how much longer she can resist.
+
+---
 
 ![](https://prodimage.images-bn.com/pimages/2940162047667_p0_v1_s550x406.jpg)
 
