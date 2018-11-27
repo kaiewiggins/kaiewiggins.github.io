@@ -15,7 +15,7 @@ First of all: shoutout to my amazing cover designer [Regina Wamba](https://regin
 
 - Part 1 is all about the different types of covers (D.I.Y., premade, and custom).
 
-- Part 2 will be about the process of commissioning a cover design.
+- [Part 2 will be about the process of commissioning a cover design.](https://kaie.space/news/2018/11/24/All-About-Covers-Part-2.html)
 
 - Part 3 (first published in the Nov. 27, 2018 NL) will be about the design for Blind the Eyes specifically.
 
