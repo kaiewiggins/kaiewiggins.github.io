@@ -41,7 +41,7 @@ Designers sometimes sell covers with placeholder text, and you can get a great d
 
 #### And then there's custom design. 
 
-This is a pretty broad category, which could include everything from photomanip (Photoshopping stock images) to dedicated, exclusive photo shoots, to graphic or fine artists producing original works of art and then converting these into a cover or working with a design team to create the finished product. 
+This is a pretty broad category, which could include everything from [photomanip (Photoshopping stock images)](https://www.facebook.com/groups/reginawamba/permalink/2031986487075146/) to dedicated, [exclusive photo shoots](https://www.facebook.com/groups/reginawamba/permalink/2135376180069509/), to graphic or fine artists producing original works of art and then converting these into a cover or working with a design team to create the finished product. 
 
 On the low end of custom design, you might work with a less experienced or polished designer for under a hundred dollars to a couple hundred. On the high end, you're talking thousands or tens of thousands (e.g. for a photoshoot—possibly with paid models and on location—or an original work of art). 
 
@@ -49,7 +49,7 @@ That can sound breathtakingly expensive (especially when placed against the like
 
 Cost will also be impacted by formats. An ebook cover is the least expensive option: you just need a rectangular .jpg that looks okay in thumbnail format and on a screen. But a paperback cover is more work for the designer—they have to produce a print–ready PDF and make the design wrap around the spine and back. A hardcover dust-jacket is even more work (you need to continue the design further into the flaps), and even an audiobook cover may be a challenge if your design was originally meant for portrait mode, not square format. 
 
-Then there's the marketing extras. Some cover designers offer additional services like graphics for social media, cinemagraphs or gifs (motion versions) of your cover, book trailers, "making–of" or behind–the–scenes videos, etc. 
+Then there's the marketing extras. Some cover designers offer additional services like graphics for social media, [cinemagraphs or gifs](https://www.facebook.com/groups/reginawamba/permalink/2035305050076623/) (motion versions) of your cover, book trailers, "making–of" or behind–the–scenes videos, etc. 
 
 If you're an author pricing out covers, always check what's included in a price against what your actual needs will be (and consider bundling formats at the start for a discount.)
 
