@@ -1,7 +1,7 @@
 ---
 layout: newspost
 title: All About Covers Part 1
-date: 2018-11-26
+date: 2018-11-23
 category: news
 ---
 
@@ -15,9 +15,9 @@ First of all: shoutout to my amazing cover designer [Regina Wamba](https://regin
 
 - Part 1 is all about the different types of covers (D.I.Y., premade, and custom).
 
-- Part 2 is about the process of commissioning a cover design.
+- [Part 2 will be about the process of commissioning a cover design.](https://kaie.space/news/2018/11/24/All-About-Covers-Part-2.html)
 
-- Part 3 (first published in the Nov. 27, 2018 NL) is about the design for Blind the Eyes specifically.
+- Part 3 (first published in the Nov. 27, 2018 NL) will be about the design for Blind the Eyes specifically.
 
 #### As promised: all about cover design (from an author's perspective)
 
@@ -53,4 +53,4 @@ Then there's the marketing extras. Some cover designers offer additional service
 
 If you're an author pricing out covers, always check what's included in a price against what your actual needs will be (and consider bundling formats at the start for a discount.)
 
-Part 2: What it's like working with a professional cover designer.
+[Part 2: What it's like working with a professional cover designer.](https://kaie.space/news/2018/11/24/All-About-Covers-Part-2.html)
