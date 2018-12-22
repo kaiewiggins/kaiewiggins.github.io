@@ -15,7 +15,7 @@ Welcome back to the book cover design miniseries! To recap:
 
 If you've been with us for a while, you might remember some of my (D.I.Y.) prelaunch covers, like this one: 
 
-![Pre-publication cover of Blind the Eyes](http://www/kaiewiggins.github.io/scarf-version-bte.jpg)
+![Pre-publication cover of Blind the Eyes](/scarf-version-bte.jpg)
 *The last version before the true cover reveal!*
 
 I did try to get the design as close to story–accurate as possible, but the limitations of stock photos and my Photoshop skills are clear.
@@ -24,7 +24,7 @@ Thankfully, superstar cover designer [Regina Wamba](https://reginawamba.com/)'s 
 
 I flooded her with 10 pages (!!) of notes about genre, setting, symbolism and visual elements, inspiration, characters, etc. plus [an overstuffed Pinterest board](https://www.pinterest.ca/kaiespace/cover-inspiration/) of cover inspiration, and she came through with a stunning concept that made sense of the chaos I dumped on her: 
 
-![Final cover of Blind the Eyes](http://www.kaiewiggins.github.io/BTEFrontJacket.jpeg)
+![Final cover of Blind the Eyes](/BTEFrontJacket.jpeg)
 
 Here's how some of those themes, plot elements, worldbuilding details, etc. informed the visual design:
 
