@@ -67,26 +67,17 @@ It's a pretty tune, even if it doesn't get that much radio play.
 
 But take a look at the original text:
 
-> I heard the bells on Christmas Day
+**I heard the bells on Christmas Day
+Their old, familiar carols play, 
+and wild and sweet
+The words repeat
+Of peace on earth, good-will to men!**
 
-> Their old, familiar carols play, 
-
-> and wild and sweet
-
-> The words repeat
-
-> Of peace on earth, good-will to men!
-
- 
-> And thought how, as the day had come,
-
-> The belfries of all Christendom 
-
-> Had rolled along
-
-> The unbroken song
-
-> Of peace on earth, good-will to men!
+**And thought how, as the day had come,
+The belfries of all Christendom 
+Had rolled along
+The unbroken song
+Of peace on earth, good-will to men!**
 
 
 > Till ringing, singing on its way,
