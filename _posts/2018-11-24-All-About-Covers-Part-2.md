@@ -11,7 +11,7 @@ Welcome back to the book cover design miniseries! To recap:
 
 - Part 2 is about the process of commissioning a cover design
 
-- Part 3 (first published in the Nov. 27, 2018 NL) will be about the design for Blind the Eyes specifically.
+- [Part 3 (first published in the Nov. 27, 2018 NL) will be about the design for Blind the Eyes specifically.](https://kaie.space/news/2018/11/27/All-About-Covers-Part-3.html)
 
 #### What it's like working with a cover designer
 
