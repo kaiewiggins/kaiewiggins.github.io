@@ -67,62 +67,79 @@ It's a pretty tune, even if it doesn't get that much radio play.
 
 But take a look at the original text:
 
-**I heard the bells on Christmas Day
+***
+
+I heard the bells on Christmas Day
+
 Their old, familiar carols play, 
+
 and wild and sweet
+
 The words repeat
-Of peace on earth, good-will to men!**
 
-**And thought how, as the day had come,
+Of peace on earth, good-will to men!
+
+*
+
+And thought how, as the day had come,
+
 The belfries of all Christendom 
+
 Had rolled along
+
 The unbroken song
-Of peace on earth, good-will to men!**
 
+Of peace on earth, good-will to men!
 
-> Till ringing, singing on its way,
+*
 
-> The world revolved from night to day,
+Till ringing, singing on its way,
 
-> A voice, a chime,
+The world revolved from night to day,
 
-> A chant sublime
+A voice, a chime,
 
-> Of peace on earth, good-will to men!
+A chant sublime
 
+Of peace on earth, good-will to men!
 
-> Then from each black, accursed mouth
+*
 
-> The cannon thundered in the South, 
+Then from each black, accursed mouth
 
-> And with the sound
+The cannon thundered in the South, 
 
-> The carols drowned
+And with the sound
 
-> Of peace on earth, good-will to men!
+The carols drowned
 
+Of peace on earth, good-will to men!
 
-> It was as if an earthquake rent
+*
 
-> The hearth-stones of a continent,
+It was as if an earthquake rent
 
-> And made forlorn
+The hearth-stones of a continent,
 
-> The households born
+And made forlorn
 
-> Of peace on earth, good-will to men!
+The households born
 
+Of peace on earth, good-will to men!
 
-> And in despair I bowed my head;
+*
 
-> "There is no peace on earth," I said; 
+And in despair I bowed my head;
 
-> "For hate is strong,
+"There is no peace on earth," I said; 
 
-> And mocks the song
+"For hate is strong,
 
-> Of peace on earth, good-will to men!"
+And mocks the song
 
+Of peace on earth, good-will to men!"
+
+***
 
 It's a poem about war and death and destruction.
 
@@ -156,15 +173,19 @@ Longfellow wrote the poem *Christmas Bells* that December—but there's one more
 
 He ends his lament against loss, death, and destruction like this:
 
-> Then pealed the bells more loud and deep:
+***
 
-> "God is not dead, nor doth He sleep; 
+Then pealed the bells more loud and deep:
 
-> The Wrong shall fail,
+"God is not dead, nor doth He sleep; 
 
-> The Right prevail,
+The Wrong shall fail,
 
-> With peace on earth, good-will to men."
+The Right prevail,
+
+With peace on earth, good-will to men."
+
+***
 
 **Hope.**
 
