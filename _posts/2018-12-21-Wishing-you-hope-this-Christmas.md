@@ -67,7 +67,7 @@ It's a pretty tune, even if it doesn't get that much radio play.
 
 But take a look at the original text:
 
-*> I heard the bells on Christmas Day
+> *I heard the bells on Christmas Day
 > Their old, familiar carols play, 
 > and wild and sweet
 > The words repeat
@@ -135,7 +135,7 @@ Longfellow wrote the poem *Christmas Bells* that December—but there's one more
 
 He ends his lament against loss, death, and destruction like this:
 
-*> Then pealed the bells more loud and deep:
+> *Then pealed the bells more loud and deep:
 > "God is not dead, nor doth He sleep; 
 > The Wrong shall fail,
 > The Right prevail,
