@@ -66,8 +66,8 @@ It gets crowded out these days by endless renditions of *Jingle Bells* and the c
 It's a pretty tune, even if it doesn't get that much radio play.
 
 But take a look at the original text:
-<blockquote>
-> I heard the bells on Christmas Day
+
+*> I heard the bells on Christmas Day
 > Their old, familiar carols play, 
 > and wild and sweet
 > The words repeat
@@ -101,8 +101,8 @@ But take a look at the original text:
 > "There is no peace on earth," I said; 
 > "For hate is strong,
 > And mocks the song
-> Of peace on earth, good-will to men!"
-</blockquote>
+> Of peace on earth, good-will to men!"*
+
 It's a poem about war and death and destruction.
 
 Cheery, right? So festive!
@@ -134,13 +134,13 @@ And his country was ripping itself apart.
 Longfellow wrote the poem *Christmas Bells* that December—but there's one more verse that I didn't include above.
 
 He ends his lament against loss, death, and destruction like this:
-<blockquote>
-> Then pealed the bells more loud and deep:
+
+*> Then pealed the bells more loud and deep:
 > "God is not dead, nor doth He sleep; 
 > The Wrong shall fail,
 > The Right prevail,
-> With peace on earth, good-will to men."
-</blockquote>
+> With peace on earth, good-will to men."*
+
 **Hope.**
 
 Do you hear the triumph in that final stanza?
