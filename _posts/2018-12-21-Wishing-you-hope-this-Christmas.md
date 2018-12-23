@@ -4,6 +4,7 @@ title: Wishing you hope this Christmas
 date: 2018-12-21
 category: news
 ---
+*(first published in newsletter December 21 edition)*
 
 **Christmas is next week. How are you doing?**
 
@@ -219,4 +220,4 @@ Hope frees you to keep living. To keep trying. To keep believing. To keep loving
 
 So this Christmas my wish for all of you is that you find hope that sustains you through this season and all your tomorrows.
 
-Kaie
+*Kaie*
