@@ -17,8 +17,9 @@ Discover the unexpected villain origin story of the unearthly Mayor of the Tower
 
 *Letter from the End of the World* launched on January 31, 2019 and it is a Kindle Unlimited exclusive short story/flash fiction title, so you can only [get it on Amazon](https://www.amazon.com/gp/product/B07MZQ1H1M) (at the moment).
 
-![Short Story Letter from the End of the World/Lettera dalla fine del mondo by K.A. Wiggins](/carnage8long.gif)
-
+<img src="/carnage8long.gif" alt="Short Story Letter from the End of the World/Lettera dalla fine del mondo by K.A. Wiggins"
+	title="A cute kitten" width="100%" />
+  
 ## Now Available in Italian
 
 I'm also very excited to announce that Italian language ebook rights for this title have been licensed to international publisher Virgibooks, Inc. The Italian translation, *Lettera dalla fine del mondo,* hits [Amazon stores](https://www.amazon.com/gp/product/B07NS76DYH) today!
