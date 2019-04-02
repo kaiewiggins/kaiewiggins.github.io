@@ -13,7 +13,7 @@ Brilliant academic, driven professional, cynical wife, and reluctant mother, Mar
 
 **In a city overrun by monsters, she's not the only one who'll pay the cost.**
 
-Discover the unexpected villain origin story of the unearthly Mayor of the Towers of Refuge in this short spinoff to the Threads of Dreams series. Suggested as a companion read, this short story covers events leading up to "Blind the Eyes" and can also be enjoyed as a standalone.
+Discover the unexpected villain origin story of the unearthly Mayor of the Towers of Refuge in this short spinoff to the *Threads of Dreams* series. Suggested as a companion read, this short story covers events leading up to *Blind the Eyes* and can also be enjoyed as a standalone.
 
 *Letter from the End of the World* launched on January 31, 2019 and it is a Kindle Unlimited exclusive short story/flash fiction title, so you can only [get it on Amazon](https://www.amazon.com/gp/product/B07MZQ1H1M) (at the moment).
 
