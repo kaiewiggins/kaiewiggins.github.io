@@ -53,6 +53,7 @@ h3, h4, h5 {color: #333;
 
 /* Slideshow container */
 .slideshow-container {
+  width: 100%;
   max-width: 110%;
   position: relative;
   margin: auto;
