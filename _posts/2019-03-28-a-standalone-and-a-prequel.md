@@ -37,7 +37,7 @@ This is a standalone short story (the setting might have tipped you off?) and it
 
 So, I've been promising you guys a prequel novella since last summer and it's (past) time to deliver.
 
-The reason you didn't get *Under* last July is that I finished drafting it, replotted it, and came up with a much bigger story to tell, and one which needed tweaks to fit properly into all the complexity of the *Threads of Dreams* series. That story is *Below the Surface*, and it's going to have to wait it's turn (lol). 
+The reason you didn't get *Under* last July is that I finished drafting it, replotted it, and came up with a much bigger story to tell, and one which needed tweaks to fit properly into all the complexity of the *Threads of Dreams* series. That story is *Below the Surface*, and it's going to have to wait its turn (lol). 
 
 But *Under* is a fun, fast-paced little romantic thriller all on its own, so I cleaned it up a little and made it into a newsletter subscriber freebie!
 
