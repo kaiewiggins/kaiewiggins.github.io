@@ -56,7 +56,7 @@ h3, h4, h5 {color: #333;
   width: 100%;
   max-width: 110%;
   position: relative;
-  margin: auto;
+  margin: -2px;
 }
 
 /* Hide the images by default */
