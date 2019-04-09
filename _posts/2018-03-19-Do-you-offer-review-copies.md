@@ -5,10 +5,10 @@ date: 2018-03-20.md
 category: faq
 ---
 
-If you're a book blogger, reviewer, or bookstagrammer, first of all, you rock & I wish I could take photos even half as well as you.
+If you're a book blogger, reviewer, or bookstagrammer, first of all, you rock & I wish I could take photos even half as well as you. :D
 
-Second, digital and a limited number of paper review copies (pre-publication proofs/galleys/advanced reader copies/ARCs or whatever you want to call them) of Blind the Eyes will be available starting in April 2018 - please [contact me](mailto:kaiewrites@gmail.com) with the details of your blog or other online presence.
+Please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting. 
+
+I use BookSprout to coordinate pre-release ARCs, and you can also [follow me there](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
 
 I welcome bloggers and reviewers from all countries; however, the ability to read and communicate in written English is a necessary requirement.
-
-UPDATE: Digital ARCs are available for a limited time at [BookSprout](https://booksprout.co/arc/2789/blind-the-eyes) or [Instafreebie](https://claims.instafreebie.com/free/9gmmvuqb) until June 1, 2018.
