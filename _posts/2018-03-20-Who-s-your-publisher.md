@@ -1,7 +1,7 @@
 ---
 layout: FAQpost
 title: Who's your publisher?
-date: 2018-03-20.md
+date: 2018-03-20
 category: faq
 ---
 
