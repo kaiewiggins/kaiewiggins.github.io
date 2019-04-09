@@ -15,4 +15,4 @@ It's a children's literature fest, but there will be panels, workshops, and oppo
 
 I'll post an update when the full schedule has been pinned down (including which sessions I'm in!), but so far there are local and international actors, dancers, visual artists, and—of course—writers attending.
 
-Check it out: [orchidsliteraturefest.com](http://orchidsliteraturefest.com)
+Take a look for yourself at: [orchidsliteraturefest.com](http://orchidsliteraturefest.com)
