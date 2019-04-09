@@ -15,7 +15,7 @@ For rights and licensing enquiries, please [contact the rights holder.](mailto:k
 
 ***
 
-#### Background
+##### Background
 
 From September 2017 to March 2018 Blind the Eyes (Threads of Dreams book 1) was queried for representation and receieved multiple full requests. In March 2018, it entered Kindle Scout, but the program was cancelled before its campaign ended and all rights reverted to the author. In June 2018, ebook and paperback editions were produced and sold by the author.
 
@@ -25,20 +25,16 @@ What does that mean?
 
 Going indie means operating your own micro-sized publishing company. I had the great fortune to work with awesome professionals on every stage of bringing Blind the Eyes to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
 
-
 [Lisa Poisso](https://www.lisapoisso.com)
 - Developmental Editing Round 1 on Blind the Eyes
 - Developmental Editing Round 2 on Blind the Eyes
 - Substantive/Line Edit on Blind the Eyes
 - Plot Accelerator on Threads of Dreams book 2
  
- 
 [Catherine Milos](https://alchemy.catherinemilos.com/)
 - Proofread on Blind the Eyes
 
-
 [Regina Wamba of Mae I Design](http://www.maeidesign.com/)
 - Digital and Print Cover Design on the on sale version Blind the Eyes
-
 
 (Note: all other graphics and in-progress/pre-publication version covers are designed & copyrighted by K.A. Wiggins.)
