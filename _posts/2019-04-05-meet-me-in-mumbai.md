@@ -7,7 +7,9 @@ category: news
 
 <a href="http://orchidsliteraturefest.com" target="_blank"><img src="https://www.orchidsinternationalschool.com/wp-content/uploads/2018/11/lit-fest-orch.jpg" alt="Orchids Literary Fest Mumbai" width="100%" /></a>
 
-**Don't forget to [check the schedule](http://orchidsliteraturefest.com/programme/) for last minute changes and updates.** 
+**Looking to get a book signed at the festival? Paperback editions of *Blind the Eyes* are available in India for Rs.650.00+shipping at [Pothi](https://pothi.com/pothi/book/k-wiggins-blind-eyes) and [NotionPress](https://notionpress.com/read/blind-the-eyes).**
+
+**ALSO: Don't forget to [check the schedule](http://orchidsliteraturefest.com/programme/) for last minute changes and updates.** 
 
 Here are my sessions for April 18:
 
@@ -35,8 +37,7 @@ Why do we write fantasies, paranormal, and horror stories? How do stories—espe
 
 This session will discuss the role fiction and storytelling has in society and for individuals.
 
-**Looking to get a book signed at the festival? Paperback editions of *Blind the Eyes* are available in India for Rs.650.00+shipping at [Pothi.com](https://pothi.com/pothi/book/k-wiggins-blind-eyes).**
-
+(More to come)
 ---
 
 *Original Post: March 4, 2019:*
