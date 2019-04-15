@@ -9,23 +9,21 @@ category: news
 
 **Looking to get a book signed at the festival? Paperback editions of *Blind the Eyes* are available in India for Rs.650.00+shipping at [Pothi](https://pothi.com/pothi/book/k-wiggins-blind-eyes) and [NotionPress](https://notionpress.com/read/blind-the-eyes).**
 
-**ALSO: Don't forget to [check the schedule](http://orchidsliteraturefest.com/programme/) for last minute changes and updates.** 
+I will be teaching a masterclass, participating in panel discussions, and leading sessions on three topics (descriptions below). **[Check the schedule](http://orchidsliteraturefest.com/programme/) for last minute changes and updates.**
 
-Here are my sessions for April 18:
-
-**11:00-12:00 Getting Started as a Young Writer**
+**Getting Started as a Young Writer**
 
 Young writers can benefit greatly from sharing their work. Learn about some of the best ways to get started, whether you're ambitiously building a career, or recreationally enjoying the wonderful community and creativity of writing.
 
 This session will discuss identifying your goals, types of writing you should try or focus on, and where to start sharing your work.
 
-**12:20-1:40 Masterclass: From Scribbles to Prints**
+**Masterclass: From Scribbles to Prints**
 
 Getting a book from concept to store shelves is a massive undertaking! Writing is just the beginning: learn about traditional and independent pathways to publishing your work.
 
 This masterclass will discuss choosing your direction, understanding the business of writing, and the practical steps involved in taking a book from concept to completion in a traditional or independent market, as well as introducing some key resources.
 
-**2:00-2:30 Worldbuilding for Storytellers**
+**Worldbuilding for Storytellers**
 
 Whether you're writing magical otherworlds, dystopian futures, or contemporary, realistic fiction, worldbuilding is a key art to master.
 
@@ -37,7 +35,6 @@ Why do we write fantasies, paranormal, and horror stories? How do stories—espe
 
 This session will discuss the role fiction and storytelling has in society and for individuals.
 
-(More to come)
 ---
 
 *Original Post: March 4, 2019:*
