@@ -13,25 +13,25 @@ I will be teaching a masterclass, participating in panel discussions, and leadin
 
 **Download:** [Useful resource links](/ResourceLinks.pdf)
 
-**Getting Started as a Young Writer ([PPT Notes(https://drive.google.com/open?id=1pTwixcfSv8IZHRLzV_-WMJx2BTOxXGxx))**
+**Getting Started as a Young Writer** ([PPT Notes](https://drive.google.com/open?id=1pTwixcfSv8IZHRLzV_-WMJx2BTOxXGxx))
 
 Young writers can benefit greatly from sharing their work. Learn about some of the best ways to get started, whether you're ambitiously building a career, or recreationally enjoying the wonderful community and creativity of writing.
 
 This session will discuss identifying your goals, types of writing you should try or focus on, and where to start sharing your work.
 
-**Masterclass: From Scribbles to Prints ([PPT Notes(https://drive.google.com/open?id=1K48oR3A8vP14Jc0snZxBUsW4v3kN1Cnd))**
+**Masterclass: From Scribbles to Prints** ([PPT Notes](https://drive.google.com/open?id=1K48oR3A8vP14Jc0snZxBUsW4v3kN1Cnd))
 
 Getting a book from concept to store shelves is a massive undertaking! Writing is just the beginning: learn about traditional and independent pathways to publishing your work.
 
 This masterclass will discuss choosing your direction, understanding the business of writing, and the practical steps involved in taking a book from concept to completion in a traditional or independent market, as well as introducing some key resources.
 
-**Worldbuilding for Storytellers ([PPT Notes(https://drive.google.com/open?id=13jrW3Er1gn1XfhXpKz_gCPoq700OazjT))**
+**Worldbuilding for Storytellers** ([PPT Notes](https://drive.google.com/open?id=13jrW3Er1gn1XfhXpKz_gCPoq700OazjT))
 
 Whether you're writing magical otherworlds, dystopian futures, or contemporary, realistic fiction, worldbuilding is a key art to master.
 
 This session will offer a quick overview of the role worldbuilding plays in stories, how to craft a compelling story world, and how to integrate worldbuilding into your story without getting overwhelmed.
 
-**2:30-3:00 Magic & Monsters ([PPT Notes(https://drive.google.com/open?id=1Igv5M8CfQ1FM99lDoaj_S--NH3iRKca3))**
+**2:30-3:00 Magic & Monsters** ([PPT Notes](https://drive.google.com/open?id=1Igv5M8CfQ1FM99lDoaj_S--NH3iRKca3))
 
 Why do we write fantasies, paranormal, and horror stories? How do stories—especially "unrealistic" ones—help us in our own lives?
 
