@@ -5,10 +5,10 @@ date: 2018-03-23
 category: faq
 ---
 
-For:
+Please [enquire here](mailto:kaiewrites@gmail.com) for:
 
-- Licensing, film, and other rights inqueries 
+- Licensing, film, and other rights enquiries
 - Speaking engagements including school visits, festivals, and workshops
 - Interviews, blurbs, collaborations
 
-Please send an enquiry to this [email](kaiewrites@gmail.com).
+
