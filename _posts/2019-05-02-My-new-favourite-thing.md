@@ -15,7 +15,11 @@ The level of production was just unbelievable; they had this thing they called a
 
 All the storytellers (guest speakers) had these personalized introduction videos (also: we got to walk on stage to epic film soundtracks.) Total celebrity moment! Plus the festival had it's own theme song (and later, music video!)
 
-I was so busy connecting with everyone, I didn't really get around to taking any decent pictures, but you can find some of the videos and images from the festival [here](https://www.facebook.com/Orchids-Childrens-Literature-Fest-392001844713668/).
+I was so busy connecting with everyone, I didn't really get around to taking any decent pictures, but you can find some of the videos and images from the festival [here](https://www.facebook.com/Orchids-Childrens-Literature-Fest-392001844713668/). Also, they made this rad video:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6i59lhgzqkQ
+" target="_blank"><img src="http://img.youtube.com/vi/6i59lhgzqkQ/0.jpg" 
+alt="K.A. Wiggins Children's Festival Review by ORCHIDS The International School" width="240" height="180" border="10" /></a>
 
 The team worked so hard—just nonstop running around to make it all happen (one even broke her leg and kept going!!) and it was cool to hear how the whole thing came about because they're encouraged to come up with creative, ambitious projects. 
 
