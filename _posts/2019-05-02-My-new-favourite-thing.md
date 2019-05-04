@@ -33,6 +33,6 @@ If you've been hanging out with me for a while, you'll know that I almost didn't
 
 (I'll be working on a series to introduce you to some of them in the newsletters and on social in coming weeks.)
 
-As a creative and business owner in the 21st century, I've really had a digital-first mentality. But now I'm absolutely going to be seeking out IRL opportunities as well.
+As a creative and business owner in the 21st century, I've really had a digital-first mentality. But now I'm absolutely going to be seeking out more chances to connect with readers and writers offline as well~
 
-Thanks to everyone who helped put on the event, taught, or attended a session! I can't wait to do more events like this!
+Thanks to everyone who helped put on the event, taught, or attended a session—I can't wait to do more events like this!
