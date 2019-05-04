@@ -15,4 +15,8 @@ Fees are generally [in line with local standards](https://www.cwillbc.org/tips.h
 
 Home base is Abbotsford, BC and the nearest international airport for travel purposes is Vancouver, BC.
 
+Here's a quick video created by the awesome team at ORCHIDS Childrens Literature Fest (Mumbai, India) with some footage of me teaching:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6i59lhgzqkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Please [get in touch](mailto:kaiewrites@gmail.com) to discuss your event!
