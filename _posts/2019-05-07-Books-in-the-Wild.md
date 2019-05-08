@@ -9,15 +9,14 @@ Looking for my books IRL? Here's where you can find them:
 
 ### Stores
 
-[Quincy Books](https://www.bookandtoy.net/) (1 copy Blind the Eyes, paperback in stock)
-3734 W. Broadway Street
-Quincy, IL
+[Quincy Books](https://www.bookandtoy.net/) (3734 W. Broadway Street, Quincy, IL—1 copy Blind the Eyes, paperback in stock)
+
 
 ### Libraries
 
-[Fraser Vally Regional Library](https://fvrl.bibliocommons.com) (locations in BC, Canada | 2 copies of *Blind the Eyes*, paperback)
+[Fraser Vally Regional Library](https://fvrl.bibliocommons.com) (locations in BC, Canada—2 copies of *Blind the Eyes*, paperback)
 
-[Patagonia Public Library](http://www.patagoniapubliclibrary.org/) (346 Duquesne, Patagonia, AZ | 1 copy of *Blind the Eyes*, paperback)
+[Patagonia Public Library](http://www.patagoniapubliclibrary.org/) (346 Duquesne, Patagonia, AZ—1 copy of *Blind the Eyes*, paperback)
 
 ---
 
