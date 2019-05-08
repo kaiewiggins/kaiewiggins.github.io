@@ -2,7 +2,7 @@
 layout: newspost
 title: Books in the Wild
 date: 2019-05-07
-category: news, faq
+category: news
 ---
 
 Looking for my books IRL? Here's where you can find them:
