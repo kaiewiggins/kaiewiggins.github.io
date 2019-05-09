@@ -11,7 +11,7 @@ Looking for my books IRL? Here's where you can find them:
 
 [Quincy Books](https://www.bookandtoy.net/) (3734 W. Broadway Street, Quincy, IL—1 copy Blind the Eyes, paperback in stock)
 
-<img src="/QuincyBooks.jpg" style="width:50%;">
+<a href="https://twitter.com/BooksQuincy/status/1125821069833789442" target="_blank"><img src="/QuincyBooks.jpg" style="width:50%;"></a>
 
 ### Libraries
 
