@@ -9,7 +9,7 @@ Just a quick update today: one of my stories got accepted by a literary magazine
 
 It might seem like a weird thing to get excited about at this point in my career, but it's actually a first for me. I've had short stories win contests, indie-published, and licensed for translation (and published long-form fiction), but I've never actually submitted to a publication before.
 
-Even more excitingly, the story was picked up by the very first place I submitted to! They called it "exceptional and lyrically beautiful!"
+Even more excitingly, the story was picked up by the very first place I submitted to! (They called it "exceptional and lyrically beautiful!!")
 
 You can read *On The Edge* in [Enchanted Magazine](https://enchantedconversationmag.blogspot.com)'s June 2019 edition. It's an NA horror/dark fantasy faery story about walking on water, adulthood & escaping reality in the Scottish Highlands and the ending is possibly my favourite thing written to date.
 
