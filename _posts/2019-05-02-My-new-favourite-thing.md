@@ -9,7 +9,7 @@ The Children's Literature Fest in Mumbai was spectacular, guys—I wish you all 
 
 Huge shoutout to ORCHIDS The International School and the other sponsors, and Rupsa and her team for making it happen.
 
-(They also made this rad video of me talking about how great it was—you can see they're skilled by how they edited my barely-coherent flailing interview into something cool~)
+(They also made this rad video—you can see they're skilled by how they edited my barely-coherent flailing interview into something cool~)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6i59lhgzqkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
