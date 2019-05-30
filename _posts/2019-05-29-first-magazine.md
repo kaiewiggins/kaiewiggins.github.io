@@ -11,7 +11,7 @@ It might seem like a weird thing to get excited about at this point in my career
 
 Even more excitingly, the story was picked up by the very first place I submitted to! They called it "exceptional and lyrically beautiful!"
 
-You can read *On The Edge* in [Enchanted Magazine](https://enchantedconversationmag.blogspot.com)'s June 2019 edition. It's an NA horror/dark fantasy faery story about walking on water, adulthood & escaping reality in the Scottish Highlands and the ending is possibly one of my favourite things I've ever written.
+You can read *On The Edge* in [Enchanted Magazine](https://enchantedconversationmag.blogspot.com)'s June 2019 edition. It's an NA horror/dark fantasy faery story about walking on water, adulthood & escaping reality in the Scottish Highlands and the ending is possibly my favourite thing written to date.
 
 Hidden paths and ancient ruins! Creatures beneath the waves! ALLLL the millennial angst. Very On Brand #monstersandmagic ✨
 
