@@ -105,7 +105,12 @@ To celebrate, I've put together a bookbox inspired by some of the highlights and
 
 - Gold elephant bookmark and shape notebook from Mumbai
 
+- "Read" pin
+
 - One bonus paperback from my collection! Choose from dystopian, dark fantasy, or a copy of *Blind the Eyes*
+
+<img src="/BookBirthdayGiveaway.JPG" style="width:50%;">
+
 
 ***
 
