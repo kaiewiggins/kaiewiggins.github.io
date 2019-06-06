@@ -109,7 +109,7 @@ To celebrate, I've put together a bookbox inspired by some of the highlights and
 
 - Paperback of local author J.M. Barrie's faery fantasy *Liminal Lights* from Creative Ink Festival
 
-- Hand-bound copy of *The Unsought light* with matching notebook
+- Hand-bound copy of *The Unsought Light* with a matching (unlined) notebook
 
 - Gold elephant bookmark and shape notebook from Mumbai
 
