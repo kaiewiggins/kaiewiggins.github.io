@@ -25,7 +25,7 @@ BTE was selected to be featured in the Summer 2018 Barnes & Noble Press Presents
 
 After two weeks of book launch madness, this was definitely a welcome development!
 
-<img src="/vexoIG.PNG" style="width:50%;">
+<img src="/vexoIG.png">
 
 ### June 19, 2018: Paperbacks
 
@@ -37,7 +37,7 @@ A second Camp NaNoWriMo saw the end of the first draft of *Beneath the Surface*â
 
 I'd like to circle back and rework this story into a full novel with some tweaks, but y'all are waiting on the sequels, so . . . some day. (shrugs)
 
-<img src="/giftwrapped4288long.jpg" style="width:50%;">
+<img src="/giftwrapped4288long.jpg">
 
 ### November 2018: Hardcovers
 
@@ -61,7 +61,7 @@ I also kicked off a year of releases with *Letter From the End of the World* on 
 
 I don't believe in New Years Resolutions, so let's call it a quiet scheme to release a story a month (mostly to make up for being s l o w getting that sequel out to you).
 
-<img src="/carnage8long.gif" style="width:50%;">
+<img src="/carnage8long.gif">
 
 ### February-March 2019: Releases 2-4
 
@@ -79,7 +79,7 @@ Also in February: [first interview](https://mybooks-myworld.com/2019/02/18/my-in
 
 And ALSO, this funny little email about some event in India . . . which brings us to:
 
-<img src="/broken7-unsought-long.jpg" style="width:50%;">
+<img src="/broken7-unsought-long.jpg">
 
 ### April 2019: My New Favourite Thing!!!
 
@@ -117,7 +117,7 @@ To celebrate, I've put together a bookbox inspired by some of the highlights and
 
 - One bonus paperback from my collection! Choose from dystopian, dark fantasy, or a copy of *Blind the Eyes*
 
-<img src="/BookBirthdayGiveaway.JPG" style="width:50%;">
+<img src="/BookBirthdayGiveaway.JPG">
 
 
 ***
