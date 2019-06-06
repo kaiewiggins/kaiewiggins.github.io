@@ -83,7 +83,7 @@ I had a great time at Creative Ink Festival closer to home in Burnaby a couple w
 
 Writers reading this might laugh, but it hadn't really occurred to me to try to license short fiction—even after my first attempt getting snapped up for translation.
 
-But I kind of stumbled across an online call for submissions for speculative stories about water and . . . 1,600 words later a weird, creepy, delightfully dark faery story called *On the Edge* was snapped up the first place I submitted!
+But I kind of stumbled across an online call for submissions for speculative stories about water and . . . 1,600 words later a weird, creepy, delightfully dark faery story called *On the Edge* was snapped up the first place I submitted! They called it "exceptional and lyrically beautiful" so there's that.
 
 Look forward to reading that later this week at [Enchanted Conversations Magazine](https://enchantedconversationmag.blogspot.com/)!
 
