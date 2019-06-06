@@ -39,7 +39,7 @@ I'd like to circle back and rework this story into a full novel with some tweaks
 
 BTE was finally available in three (out of four) formats—and man, those hardcovers look *good*. Audiobooks are still to come . . . whenever I get free from this #$%^ sequel, lol.
 
-Also in November, Regina Wamba's gorgeous cover design for BTE was shortlisted as one of the top 10 Science Fiction & Fantasy covers of 2018 by the rad team at Kobo.
+Also in November, [Regina Wamba](reginawamba.com)'s gorgeous cover design for BTE was shortlisted as one of the top 10 Science Fiction & Fantasy covers of 2018 by the rad team at Kobo.
 
 ### December 2018: Best-Of Book
 
@@ -85,11 +85,15 @@ Writers reading this might laugh, but it hadn't really occurred to me to try to 
 
 But I kind of stumbled across an online call for submissions for speculative stories about water and . . . 1,600 words later a weird, creepy, delightfully dark faery story called *On the Edge* was snapped up the first place I submitted!
 
-Look forward to reading that later this week at Enchanted Conversations Magazine!
+Look forward to reading that later this week at [Enchanted Conversations Magazine](https://enchantedconversationmag.blogspot.com/)!
 
 ## Celebrate with me!
 
-Looking back, it's hard to believe all the amazing things that have happened in just one year! So many of the things I *expected* didn't happen and tons of things I never would never dreamed of have, so it's very much been an exercise in adjusting expectations and getting excited about what is. And so many of those great things are because of the amazing readers, bloggers, bookstagrammers, and other supports who have taken the time to write reviews, post pictures, and, you know, buy books. So, thank you, everyone!
+Looking back, it's hard to believe all the amazing things that have happened in just one year!
+
+So many of the things I expected didn't happen and tons of things I never would never dreamed of have, so it's very much been an exercise in adjusting expectations and getting excited about what is.
+
+And so many of those great things are because of the amazing readers, bloggers, bookstagrammers, and other supporters who have taken the time to write reviews, post pictures and, you know, buy books. So, thank you, everyone!
 
 To celebrate, I've put together a bookbox inspired by some of the highlights and events of the past year:
 
