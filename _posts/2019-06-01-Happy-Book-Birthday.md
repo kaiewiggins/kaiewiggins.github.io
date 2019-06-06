@@ -1,6 +1,6 @@
 ---
 layout: newspost
-title: Happy Book Birthday
+title: Happy Book Birthday & Giveaway
 date: 2019-06-05
 category: news
 ---
@@ -25,6 +25,8 @@ BTE was selected to be featured in the Summer 2018 Barnes & Noble Press Presents
 
 After two weeks of book launch madness, this was definitely a welcome development!
 
+<img src="/vexoIG.PNG" style="width:50%;">
+
 ### June 19, 2018: Paperbacks
 
 Almost three weeks post-launch, but better late than never (sob) Ingram Spark came through with gorgeous paperback proofs. I'd spend the next six+ months wrestling with KDP support to get cheaper versions out to stores, but yay, pretty books!
@@ -34,6 +36,8 @@ Almost three weeks post-launch, but better late than never (sob) Ingram Spark ca
 A second Camp NaNoWriMo saw the end of the first draft of *Beneath the Surface*—now available to newsletter subscribers as the prequel novella *Under*.
 
 I'd like to circle back and rework this story into a full novel with some tweaks, but y'all are waiting on the sequels, so . . . some day. (shrugs)
+
+<img src="/giftwrapped4288long.jpg" style="width:50%;">
 
 ### November 2018: Hardcovers
 
@@ -57,6 +61,8 @@ I also kicked off a year of releases with *Letter From the End of the World* on 
 
 I don't believe in New Years Resolutions, so let's call it a quiet scheme to release a story a month (mostly to make up for being s l o w getting that sequel out to you).
 
+<img src="/carnage8long.gif" style="width:50%;">
+
 ### February-March 2019: Releases 2-4
 
 *Letter* is a super-short epistolary second-person villain origin story in the *Threads of Dreams* world.
@@ -72,6 +78,8 @@ Somewhere in between, the 30,000 word prequel novella *Under* launched to newsle
 Also in February: [first interview](https://mybooks-myworld.com/2019/02/18/my-interview-with-author-k-a-wiggins/), thanks to Mary Bernal of *My Books My World*
 
 And ALSO, this funny little email about some event in India . . . which brings us to:
+
+<img src="/broken7-unsought-long.jpg" style="width:50%;">
 
 ### April 2019: My New Favourite Thing!!!
 
