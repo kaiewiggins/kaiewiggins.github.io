@@ -5,6 +5,16 @@ date: 2019-05-29
 category: news
 ---
 
+UPDATED June 24, 2019
+
+[Read *On the Edge*](https://enchantedconversationmag.blogspot.com/2019/06/on-edge-by-k-wiggins.html) for FREE courtesy of Enchanted Conversation Magazine!
+
+<a href="https://enchantedconversationmag.blogspot.com/2019/06/on-edge-by-k-wiggins.html" target="_blank"><img src="https://1.bp.blogspot.com/-eUvshuAZ04A/XPw6fXy8nlI/AAAAAAAAFuo/jYa0XIf3vygIT1GdetETV2NkUsWfl6uxgCLcBGAs/s400/ON%2BTHE%2BEDGE%2B-%2BWiggins%2Bcopy.jpg" style="max-height:300px;"></a>
+
+____
+
+ORIGINAL POST May 5, 2019
+
 Just a quick update today: one of my stories got accepted by a literary magazine! Okay, it's really more of a genre 'zine, but either way!
 
 It might seem like a weird thing to get excited about at this point in my career, but it's actually a first for me. I've had short stories win contests, indie-published, and licensed for translation (and published long-form fiction), but I've never actually submitted to a publication before.
