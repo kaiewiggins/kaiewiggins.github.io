@@ -26,15 +26,21 @@ You can [apply to beta read here](mailto:kaiewrites@gmail.com) if that's somethi
 
 ### What to Expect
 
-I generally make an effort to avoid reading reviews entirely (occasionally I stumble across them by accident or sift through looking for great blurbs/ad-copy) because it's very important to me that you feel comfortable leaving an honest, unbiased review. I never follow-up on store/platform reviews in any way unless specifically tagged for comment.
+I generally make an effort to avoid reading reviews entirely (occasionally I stumble across them by accident or sift through looking for great blurbs/ad-copy) because it's very important to me that you feel comfortable leaving an honest, unbiased review.
 
-Social (Instagram, mostly) and blog posts will probably get a like/repost/boost/comment if I'm tagged, but I will never follow up on a negative review in any way. (I mean, I hope you all love my stories, but even if that's not the case, you never need to be scared of being honest!)
+**I never follow-up on store (or Goodreads) reviews in any way.**
+
+Social (Instagram, mostly) and blog posts will probably get a like/repost/boost/comment if I'm tagged, but I will never follow up on a negative review in any way.
+
+(I mean, I hope you all love my stories, but even if that's not the case, you never need to be scared of being honest!)
 
 ### How to Request an ARC
 
 The best time to request a review copy (/ARC) is up to two months before an upcoming new release, but I will consider all review copy requests and can add you to a list of interested reviewers at any time. A larger number of ebook review copies will be available compared to paperback, given cost, time, and technical constraints, but paperback ARCs are occasionally available.
 
-If you would like to review one of my books, please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting. Unfortunately, I do have limits on my marketing budget and I also have to screen for book pirates, but do feel free to get in touch even if you're a smaller/newbie/international reviewer—I want to support those starting out, too!
+If you would like to review one of my books, please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting.
+
+Unfortunately, I do have limits on my marketing budget and I also have to screen for book pirates, but do feel free to get in touch even if you're a smaller/newbie/international reviewer—I want to support those starting out, too!
 
 I use BookSprout to coordinate pre-release ARCs, and you can also just [follow me there](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
 
