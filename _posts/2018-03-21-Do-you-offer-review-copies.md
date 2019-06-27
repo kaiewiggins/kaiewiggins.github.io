@@ -18,9 +18,7 @@ Social (Instagram, mostly) and blog posts will probably get a like/repost/boost/
 
 The best time to request a review copy (/ARC) is up to two months before an upcoming new release, but I will consider all review copy requests and can add you to a list of interested reviewers at any time. A larger number of ebook review copies will be available compared to paperback, given cost, time, and technical constraints, but paperback ARCs are occasionally available.
 
-If you would like to review one of my books, 
-
-Please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting. 
+If you would like to review one of my books, please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting. 
 
 I use BookSprout to coordinate pre-release ARCs, and you can also [follow me there](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
 
