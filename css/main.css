@@ -60,36 +60,60 @@ a:active {
 
 .btn {
   margin: 0.5em;
+            background: #e8c048;
   color: white;
-          background: #e8c048;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+background: #333;
 }
 
 .btn-primary {
+            background: #e8c048;
     color: white;
-          background: #e8c048;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #333;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #333;
 }
 
 .button {
   margin: 0.5em;
+            background-color: #e8c048;
     color: white;
-          background-color: #e8c048;
 }
 
 a.btn {
   margin: 0.5em;
+            background: #e8c048;
   color: white;
-          background: #e8c048;
+}
+
+a.btn:focus, a.btn:active:focus, a.btn.active:focus {
+background: #333;
 }
 
 a.btn-primary {
+            background: #e8c048;
     color: white;
-          background: #e8c048;
+}
+
+a.btn-primary:hover, a.btn-primary:focus, a.btn-primary:active, a.btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #333;
+}
+ 
+a.btn-primary:active, a.btn-primary.active {
+    background: #333;
 }
 
 a.button {
   margin: 0.5em;
+            background: #e8c048;
     color: white;
-          background: #e8c048;
 }
 
 /*Slideshow CSS*/
