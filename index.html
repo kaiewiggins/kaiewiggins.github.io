@@ -19,7 +19,7 @@ title: kaie.Space
 				 <br />
 		<hr>
 				 <br />
-				 <h2 class="text-center"><a style="color: #e8c048" href="/threadsofdreams.html">Stories</a></h2>
+				 <h2 class="text-center"><a href="/threadsofdreams.html">Stories</a></h2>
 				 <br />
 <div class="row">
 	<div class="col-lg-6">
@@ -42,11 +42,11 @@ title: kaie.Space
 				 </div><!--end row-->
 				<br> <hr>
 				 <br />
-				 <h2 class="text-center"><a style="color: #e8c048" href="/news.html">News & Updates</a></h2>
+				 <h2 class="text-center"><a href="/news.html">News & Updates</a></h2>
 					    {% for post in site.categories.news limit: 5 %}
   <article style="margin: 4% 0%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-head">
-			<h3 class="title"><a style="color:#e8c048" href="{{ post.url }}">{{ post.title }}</a></h3>
+			<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
