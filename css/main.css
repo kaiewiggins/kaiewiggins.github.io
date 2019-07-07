@@ -24,17 +24,17 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: gray;
+  color: #007bff;
 }
 
 /* mouse over link */
 a:hover {
-  color: blue;
+  color: #007bff;
 }
 
 /* selected link */
 a:active {
-  color: gray;
+  color: #007bff;
 }
 
 .col-centered {margin:0 auto;
