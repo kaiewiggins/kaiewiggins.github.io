@@ -75,6 +75,23 @@ a:active {
           background-color: #e8c048;
 }
 
+a.btn {
+  margin: 0.5em;
+  color: white;
+          background-color: #e8c048;
+}
+
+a.btn-primary {
+    color: white;
+          background-color: #e8c048;
+}
+
+a.button {
+  margin: 0.5em;
+    color: white;
+          background-color: #e8c048;
+}
+
 /*Slideshow CSS*/
 
 * {box-sizing:border-box}
