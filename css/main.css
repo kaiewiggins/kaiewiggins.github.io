@@ -60,15 +60,18 @@ a:active {
 
 .btn {
   margin: 0.5em;
+  color: white;
           background-color: #e8c048;
 }
 
 .btn-primary {
+    color: white;
           background-color: #e8c048;
 }
 
 .button {
   margin: 0.5em;
+    color: white;
           background-color: #e8c048;
 }
 
