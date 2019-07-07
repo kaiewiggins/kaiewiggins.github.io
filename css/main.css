@@ -67,6 +67,11 @@ a:active {
           background-color: #e8c048;
 }
 
+.button {
+  margin: 0.5em;
+          background-color: #e8c048;
+}
+
 /*Slideshow CSS*/
 
 * {box-sizing:border-box}
