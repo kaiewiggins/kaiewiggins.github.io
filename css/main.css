@@ -60,25 +60,25 @@ a:active {
 
 .btn {
   margin: 0.5em;
-            background: #e8c048;
+            background: #e8c048 !important;
   color: white;
 }
 
 .btn:focus, .btn:active:focus, .btn.active:focus {
-background: #333;
+background: #333 !important;
 }
 
 .btn-primary {
-            background: #e8c048;
+            background: #e8c048 !important;
     color: white;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-    background: #333;
+    background: #333 !important;
 }
  
 .btn-primary:active, .btn-primary.active {
-    background: #333;
+    background: #333 !important;
 }
 
 .button {
@@ -89,30 +89,30 @@ background: #333;
 
 a.btn {
   margin: 0.5em;
-            background: #e8c048;
+            background: #e8c048 !important;
   color: white;
 }
 
 a.btn:focus, a.btn:active:focus, a.btn.active:focus {
-background: #333;
+background: #333 !important;
 }
 
 a.btn-primary {
-            background: #e8c048;
+            background: #e8c048 !important;
     color: white;
 }
 
 a.btn-primary:hover, a.btn-primary:focus, a.btn-primary:active, a.btn-primary.active, .open > .dropdown-toggle.btn-primary {
-    background: #333;
+    background: #333 !important;
 }
  
 a.btn-primary:active, a.btn-primary.active {
-    background: #333;
+    background: #333 !important;
 }
 
 a.button {
   margin: 0.5em;
-            background: #e8c048;
+            background: #e8c048 !important;
     color: white;
 }
 
