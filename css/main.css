@@ -17,6 +17,26 @@ h2 {color: #e8c048;
 h3, h4, h5 {color: #333;
   }
 
+/* unvisited link */
+a:link {
+  color: #e8c048;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: gray;
+}
+
 .col-centered {margin:0 auto;
 }
 
