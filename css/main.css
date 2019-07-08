@@ -37,6 +37,17 @@ a:active {
   color: #007bff;
 }
 
+a.btn {
+  margin: 0.5em;
+            background: #e8c048 !important;
+  color: white;
+}
+
+a.btn-primary {
+            background: #e8c048 !important;
+    color: white;
+}
+
 .col-centered {margin:0 auto;
 }
 
