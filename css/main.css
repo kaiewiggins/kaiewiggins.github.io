@@ -81,6 +81,19 @@ background: #333 !important;
     background: #333 !important;
 }
 
+.btn-custom {
+            background: #e8c048 !important;
+    color: white;
+}
+
+.btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active, .open > .dropdown-toggle.btn-custom {
+    background: #333 !important;
+}
+ 
+.btn-custom:active, .btn-custom.active {
+    background: #333 !important;
+}
+
 .button {
   margin: 0.5em;
             background-color: #e8c048;
@@ -107,6 +120,19 @@ a.btn-primary:hover, a.btn-primary:focus, a.btn-primary:active, a.btn-primary.ac
 }
  
 a.btn-primary:active, a.btn-primary.active {
+    background: #333 !important;
+}
+
+a.btn-custom {
+            background: #e8c048 !important;
+    color: white;
+}
+
+a.btn-custom:hover, a.btn-custom:focus, a.btn-custom:active, a.btn-custom.active, .open > .dropdown-toggle.btn-custom {
+    background: #333 !important;
+}
+ 
+a.btn-custom:active, a.btn-custom.active {
     background: #333 !important;
 }
 
