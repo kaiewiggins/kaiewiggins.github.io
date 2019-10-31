@@ -1,7 +1,7 @@
 ---
 layout: newspost
 title: Books in the Wild
-date: 2019-05-07
+date: 2019-10-31
 category: news
 ---
 
@@ -23,6 +23,9 @@ Looking for my books IRL? Here's where you can find them:
 
 [Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822) (346 Duquesne, Patagonia, AZ—1 copy of *Blind the Eyes*, paperback)
 
+[Cleveland Public Library](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:7605508/one) (multiple locations in Cleveland, OH—2 paperback copies of *Blind the Eyes* available for checkout)
+
+[King County Library System](https://kcls.bibliocommons.com/item/show/1894457082#) (multiple locations in King County, WA—4 paperback copies of *Blind the Eyes* available for checkout)
 ---
 
 Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:kaiewrites@gmail.com) if you spot it in any other retail or library locations so I can add it to the list!)
