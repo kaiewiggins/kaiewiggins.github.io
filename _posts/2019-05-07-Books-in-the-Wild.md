@@ -15,9 +15,11 @@ Looking for my books IRL? Here's where you can find them:
 
 ### Libraries
 
-[Fraser Vally Regional Library](https://fvrl.bibliocommons.com/item/show/1776036021) (locations in BC, Canada—2 copies of *Blind the Eyes*, paperback)
+[Fraser Valley Regional Library](https://fvrl.bibliocommons.com/item/show/1776036021) (locations in BC, Canada—2 copies of *Blind the Eyes*, paperback)
 
 <a href="https://fvrl.bibliocommons.com/item/show/1776036021" target="_blank"><img src="/FVRLBookstagram.JPG" style="width:50%;"></a>
+
+[Vancouver Public Library](https://vpl.bibliocommons.com/item/show/6786290038) (multiple locations in Vancouver, BC—2 paperback copies of *Blind the Eyes* plus one ebook edition available for checkout)
 
 [Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822) (346 Duquesne, Patagonia, AZ—1 copy of *Blind the Eyes*, paperback)
 
