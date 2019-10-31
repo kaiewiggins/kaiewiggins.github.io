@@ -9,23 +9,24 @@ Looking for my books IRL? Here's where you can find them:
 
 ### Stores
 
-[Quincy Books](https://www.bookandtoy.net/) (3734 W. Broadway Street, Quincy, IL—1 copy Blind the Eyes, paperback in stock)
+[Quincy Books](https://www.bookandtoy.net/) (3734 W. Broadway Street, Quincy, IL | 1 copy Blind the Eyes, paperback in stock)
 
 <a href="https://twitter.com/BooksQuincy/status/1125821069833789442" target="_blank"><img src="/QuincyBooks.jpg" style="width:50%;"></a>
 
 ### Libraries
 
-[Fraser Valley Regional Library](https://fvrl.bibliocommons.com/item/show/1776036021) (locations in BC, Canada—2 copies of *Blind the Eyes*, paperback)
+[Fraser Valley Regional Library](https://fvrl.bibliocommons.com/item/show/1776036021) (locations in BC, Canada | 2 copies of *Blind the Eyes*, paperback)
 
 <a href="https://fvrl.bibliocommons.com/item/show/1776036021" target="_blank"><img src="/FVRLBookstagram.JPG" style="width:50%;"></a>
 
-[Vancouver Public Library](https://vpl.bibliocommons.com/item/show/6786290038) (multiple locations in Vancouver, BC—2 paperback copies of *Blind the Eyes* plus one ebook edition available for checkout)
+[Vancouver Public Library](https://vpl.bibliocommons.com/item/show/6786290038) (multiple locations in Vancouver, BC | 2 paperback copies of *Blind the Eyes* plus one ebook edition available for checkout)
 
-[Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822) (346 Duquesne, Patagonia, AZ—1 copy of *Blind the Eyes*, paperback)
+[Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822) (346 Duquesne, Patagonia, AZ | 1 copy of *Blind the Eyes*, paperback)
 
-[Cleveland Public Library](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:7605508/one) (multiple locations in Cleveland, OH—2 paperback copies of *Blind the Eyes* available for checkout)
+[Cleveland Public Library](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:7605508/one) (multiple locations in Cleveland, OH | 2 paperback copies of *Blind the Eyes* available for checkout)
 
-[King County Library System](https://kcls.bibliocommons.com/item/show/1894457082#) (multiple locations in King County, WA—4 paperback copies of *Blind the Eyes* available for checkout)
+[King County Library System](https://kcls.bibliocommons.com/item/show/1894457082#) (multiple locations in King County, WA | 4 paperback copies of *Blind the Eyes* available for checkout)
+
 ---
 
 Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:kaiewrites@gmail.com) if you spot it in any other retail or library locations so I can add it to the list!)
