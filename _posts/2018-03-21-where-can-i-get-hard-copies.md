@@ -13,4 +13,6 @@ Online shopping options are linked from each title on the Threads of Dreams and 
 
 If you're a library or bookseller interested in carrying one of my paperbacks or hardcovers, feel free to get in touch or reference the linked cut sheets for the relevant work:
 
-[Blind the Eyes—Retail](/Blind-the-Eyes-retail.pdf) | [Blind the Eyes—Library](/Blind-the-Eyes-library.pdf)
+[Blind the Eyes—Retail](/Blind the Eyes-retail.pdf)
+
+[Blind the Eyes—Library](/Blind the Eyes-library.pdf)
