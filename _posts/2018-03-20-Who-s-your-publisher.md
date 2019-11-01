@@ -7,7 +7,7 @@ category: faq
 
 Snowmelt & Stumps is an independent single-author imprint with no formal business status. It's used as a matter of convenience in lieu of author name if/when a publisher or imprint field is required.
 
-*Blind the Eyes* and all other in-progress and full length works on this site are copyrighted by K.A. Wiggins unless otherwise marked.
+*Blind the Eyes* and all other in-progress and completed works on this site are copyrighted by K.A. Wiggins unless otherwise marked.
 
 Italian language ebook rights to *Letter From the End of the World* have been licensed to Virgibooks, Inc. The translated edition is *Lettera dalla fine del mondo*.
 
@@ -27,7 +27,7 @@ In June 2018, ebook and paperback editions were independently produced and sold 
 
 *Blind the Eyes is a 100% indie title written and produced with independent or hybrid publishing in mind.*
 
-Going indie means operating your own micro-sized publishing company. I had the great fortune to work with awesome professionals on every stage of bringing *Blind the Eyes* to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
+Though I've sinced also worked with small presses as a hybrid-published author, I've found independent publishing to be a great option. Going indie means operating your own micro-sized publishing company, and I've had the great fortune to work with awesome professionals on every stage of bringing *Blind the Eyes* to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
 
 [Lisa Poisso](https://www.lisapoisso.com)
 
