@@ -9,6 +9,9 @@ Looking for my books IRL? Here's where you can find them:
 
 ### Stores
 
+[The Bookman](https://www.bookman.ca/)
+45939 Wellington Ave, Chilliwack, BC (2 paperback copies *Blind the Eyes* coming soon)
+
 [Quincy Books](https://www.bookandtoy.net/)
 3734 W. Broadway Street, Quincy, IL (1 paperback copy *Blind the Eyes* in stock)
 
