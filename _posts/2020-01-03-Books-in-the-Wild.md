@@ -1,7 +1,7 @@
 ---
 layout: newspost
 title: Books in the Wild
-date: 2020-01-09
+date: 2020-01-03
 category: news
 ---
 
