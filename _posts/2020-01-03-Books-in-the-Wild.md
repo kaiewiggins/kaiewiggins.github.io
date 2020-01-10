@@ -53,3 +53,5 @@ For *Blind the Eyes*, the ISBNs are:
 - ISBN 978-1-7751627-3-5 (paperback)
 - ISBN 978-1-7751627-2-8 (ebook)
 - ISBN 978-1-7751627-0-4 (hardcover)
+
+For the *Unknown Realms* paperback: ISBN 978-1-7323406-6-4
