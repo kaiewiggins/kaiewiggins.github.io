@@ -9,13 +9,15 @@ I'm passionate about encouraging, inspiring, and equipping readers and writers o
 
 I'm a member and registered speaker with the Children's Writers & Illustrators of British Columbia (CWILL BC) Society. ([Speaker's profile](https://www.cwillbc.org/Member_View.aspx?MemberID=82980).) [Learn more about funding grants](http://artstarts.com/grants) for BC community events such as school and library visits.
 
-Previous sessions, workshops, panels, and masterclasses have included topics on writing and storytelling, publishing (traditional, hybrid & indie), and motivation and resiliency for ages 10 and up. As a business writer, I also offer communications and marketing training for adults (these sessions are generally promoted separately via [The Creative Collective](http://thecreativecollective.net) and [Business Writing Solutions](https://businesswriting.solutions).)
+I'm also a creative writing coach with [Creative Writing for Children Society](http://www.cwc2004.org/), and have experience creating curriculum and facilitating multi-week workshops on creativity, storytelling, and writing themes for ages eight and up.
+
+Previous one-off sessions, workshops, panels, and masterclasses have included topics on writing and storytelling, publishing (traditional, hybrid & indie), and motivation and resiliency for ages 10 and up. As a business writer, I also offer communications and marketing training for adults (these sessions are generally promoted separately via [The Creative Collective](http://thecreativecollective.net) and [Business Writing Solutions](https://businesswriting.solutions).)
 
 Please enquire regarding dates, fees, and any other pertinent logistics with as much notice as possible.
 
 Fees are generally [in line with local standards](https://www.cwillbc.org/tips.htm), but may be subject to adjustment based on the specific event. Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available.
 
-Home base is Abbotsford, BC and the nearest international airport for travel purposes is Vancouver, BC.
+Home base is Abbotsford, BC and the nearest international airports for travel purposes are Abbotsford or Vancouver, BC.
 
 Here's a quick video created by the awesome team at ORCHIDS Childrens Literature Fest (Mumbai, India) with some of the classroom teaching footage:
 
