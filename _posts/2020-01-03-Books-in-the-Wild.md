@@ -37,7 +37,7 @@ Looking for my books IRL? Here are known bookstores and libraries where you can 
 
 **[Fraser Valley Regional Library](https://fvrl.bibliocommons.com/item/show/1776036021)**
 
-locations in BC, Canada
+multiple locations in BC, Canada
 
 2 paperback copies of *Blind the Eyes*
 
@@ -46,22 +46,27 @@ locations in BC, Canada
 **[Vancouver Public Library](https://vpl.bibliocommons.com/item/show/6786290038)**
 
 multiple locations in Vancouver, BC
+
 2 paperback copies of *Blind the Eyes*
+
 1 ebook copy of *Blind the Eyes*
 
 **[Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822)**
 
 346 Duquesne, Patagonia, AZ
+
 1 paperback copy of *Blind the Eyes*
 
 **[Cleveland Public Library](https://search.clevnet.org/client/en_US/cpl-main/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:7605508/one)**
 
 multiple locations in Cleveland, OH
+
 2 paperback copies of *Blind the Eyes*
 
 **[King County Library System](https://kcls.bibliocommons.com/item/show/1894457082#)**
 
 multiple locations in King County, WA
+
 4 paperback copies of *Blind the Eyes*
 
 ---
