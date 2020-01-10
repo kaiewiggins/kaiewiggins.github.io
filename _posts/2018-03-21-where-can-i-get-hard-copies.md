@@ -5,7 +5,7 @@ date: 2018-03-21
 category: faq
 ---
 
-I often get asked where readers can find my books, so I keep a running list of bookstores with copies in stock and library networks with lending copies here.
+I often get asked where readers can find my books IRL, so I keep a running list of bookstores with copies in stock and library networks with lending copies [here](https://kaie.space/news/2020/01/03/Books-in-the-Wild.html).
 
 Online shopping options are linked from each title on the Threads of Dreams and Standalones pages.
 
