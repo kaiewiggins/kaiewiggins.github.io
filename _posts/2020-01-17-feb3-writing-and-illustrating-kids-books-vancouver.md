@@ -1,7 +1,7 @@
 ---
 layout: eventspost
-title: Writing and Illustrating Kids Books at VPL Feb 3
-date: 2020-01-17
+title: Feb3 Writing and Illustrating Kids Books Vancouver
+date: 2020-01-16
 category: events
 ---
 
