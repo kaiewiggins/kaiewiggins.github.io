@@ -11,7 +11,7 @@ category: events
 
 **Time:** 6:30-8:45 pm
 
-**Location:** Burnaby Library
+**Location:** Bob Prittie Metrotown Branch Library (6100 Willingdon Avenue, Burnaby by Metrotown Stn.)
 
 **Type:** Live Reading, Book Fair, Signing
 
