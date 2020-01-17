@@ -58,5 +58,21 @@ title: kaie.Space
 	</article>
 {% endfor %}     
 <a role="button" class="btn btn-primary mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" alt="Read more news from YA fantasy author K.A. Wiggins" href="http://kaie.space/news.html">More News</a>
+				 <br> <hr>
+				 <br />
+				 <h2 class="text-center"><a href="/events.html">Events</a></h2>
+					    {% for post in site.categories.events limit: 3 %}
+  <article style="margin: 4% 0%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<p class="date small">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content text-left">
+		{{ post.content | truncatewords: 50 }}
+		<a role="button" class="btn btn-primary mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" href="{{ post.url }}">Read more</a>	
+		</div><br><hr><!--/.article-content-->
+	</article>
+{% endfor %}     
+<a role="button" class="btn btn-primary mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" alt="Search all events from YA fantasy author K.A. Wiggins" href="http://kaie.space/events.html">Past Events</a>
 			 </div><!--end section-->
 </div><!--end panel-->
