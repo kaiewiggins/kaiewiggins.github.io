@@ -1,8 +1,8 @@
 ---
-layout: newspost
+layout: eventspost
 title: Meet me in Mumbai!
 date: 2019-04-10
-category: news
+category: events
 ---
 
 <a href="http://orchidsliteraturefest.com" target="_blank"><img src="https://www.orchidsinternationalschool.com/wp-content/uploads/2018/11/lit-fest-orch.jpg" alt="Orchids Literary Fest Mumbai" width="100%" /></a>
