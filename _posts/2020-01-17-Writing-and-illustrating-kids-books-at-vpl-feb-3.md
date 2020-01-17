@@ -27,4 +27,4 @@ In partnership with CWILL BC.
 
 Full details [here](https://vpl.bibliocommons.com/events/search/fq=branch_location_id:(CEN)&fq=types:(53e94ea21fdd7868020058ca)/event/5df81ba869c98645007cffb6).
 
-<a href="https://vpl.bibliocommons.com/events/search/fq=branch_location_id:(CEN)&fq=types:(53e94ea21fdd7868020058ca)/event/5df81ba869c98645007cffb6" target="_blank"><img src="https://cwillbc.files.wordpress.com/2020/01/cwillpanel2020-1.jpg" width=100%;></a>
+<a href="https://vpl.bibliocommons.com/events/search/fq=branch_location_id:(CEN)&fq=types:(53e94ea21fdd7868020058ca)/event/5df81ba869c98645007cffb6" target="_blank"><img src="https://cwillbc.files.wordpress.com/2020/01/cwillpanel2020-1.jpg" style="width:80%;"></a>
