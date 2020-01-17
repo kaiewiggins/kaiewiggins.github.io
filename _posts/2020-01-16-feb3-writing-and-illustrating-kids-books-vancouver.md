@@ -23,7 +23,7 @@ Ask questions and get practical information on topics such as how to improve you
 
 Meet authors Glen Huser, Cynthia Nugent, Ellen Schwartz, Carol Watterson, K.A. Wiggins and Pam Withers and get a book signed starting at 6:30 P.M.
 
-In partnership with CWILL BC.
+In partnership with [CWILL BC](https://www.cwillbc.org/).
 
 Full details [here](https://vpl.bibliocommons.com/events/search/fq=branch_location_id:(CEN)&fq=types:(53e94ea21fdd7868020058ca)/event/5df81ba869c98645007cffb6).
 
