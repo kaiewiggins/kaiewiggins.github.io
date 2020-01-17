@@ -48,8 +48,8 @@ title: kaie.Space
 					    {% for post in site.categories.events limit: 3 %}
   <article style="margin: 4% 0%;" class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
 		<div class="article-content text-left">
-		{{ post.content | truncatewords: 40 }}
-		<a role="button" class="btn btn-primary mx-auto d-block" href="{{ post.url }}">Read more</a>	
+		{{ post.content | truncatewords: 30 }}
+		<a role="button" class="btn btn-primary" style="background: #e8c048; background-color: #fff;" href="{{ post.url }}">Read more</a>	
 		</div><br><hr><!--/.article-content-->
 	</article>
 {% endfor %}     
@@ -65,7 +65,7 @@ title: kaie.Space
 		</div><!--/.article-head-->
 		<div class="article-content text-left">
 		{{ post.content | truncatewords: 120 }}
-		<a role="button" class="btn btn-primary mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" href="{{ post.url }}">Read more</a>	
+		<a role="button" class="btn btn-primary mx-auto d-block" style="background: #e8c048; background-color: #fff;" href="{{ post.url }}">Read more</a>	
 		</div><br><hr><!--/.article-content-->
 	</article>
 {% endfor %}     
