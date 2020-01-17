@@ -15,6 +15,6 @@ category: events
 
 **Type:** Live Reading, Book Fair, Signing
 
-CWILL BC Authors will take turns reading aloud from their recent works in support of [World Read Aloud Day](https://www.litworld.org/worldreadaloudday). Copies will be available on site for sale.
+[CWILL BC](https://www.cwillbc.org/) authors and/or illustrators will take turns reading aloud from their recent works in support of [World Read Aloud Day](https://www.litworld.org/worldreadaloudday). Copies will be available on site for sale.
 
 Full details to come.
