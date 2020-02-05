@@ -17,4 +17,4 @@ category: events
 
 [CWILL BC](https://www.cwillbc.org/) authors and/or illustrators will take turns reading aloud from their recent works in support of [World Read Aloud Day](https://www.litworld.org/worldreadaloudday). Copies will be available on site for sale.
 
-Full details to come.
+![](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.0-9/84606837_1098745297135164_567231662153269248_o.jpg?_nc_cat=103&_nc_ohc=lGIIWpE9l-UAX9Bcdk3&_nc_ht=scontent.fyvr3-1.fna&oh=a69b2ca21ba77427e343cfeb53e4ede3&oe=5ECE09D3)
