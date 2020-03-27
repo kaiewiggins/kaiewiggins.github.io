@@ -77,7 +77,7 @@ multiple locations in King County, WA
 
 ---
 
-Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:kaiewrites@gmail.com) if you spot it in any other retail or library locations so I can add it to the list!)
+Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:kaiewrites@gmail.com) if you spot it in any other retail or library locations so I can add it to the list!
 
 If you want to request one of my books (or any book, really) at a local indie bookshop, chain bookstore, or library, all you have to do is give them the author, title, and, if you can, ISBN number.
 
