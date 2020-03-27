@@ -51,6 +51,12 @@ multiple locations in Vancouver, BC
 
 1 ebook copy of *Blind the Eyes*
 
+**Surrey Public Library (coming soon)**
+
+multiple locations in Vancouver, BC
+
+1 paperback copy of *Blind the Eyes*
+
 **[Patagonia Public Library](https://patagonia.biblionix.com/catalog/?st=88EB7C0E3777AAB5E0D8A8C1DA2B9822)**
 
 346 Duquesne, Patagonia, AZ
