@@ -4,14 +4,9 @@ title: COVID-19 Response
 date: 2020-03-27
 category: news
 ---
+TBH it's hard to know what to say or how best to respond. As a writer and freelancer, my lifestyle already looked a lot like self-isolation, except for creative writing workshops and speaking engagements, so for the moment, it's (almost) business-as-usual. I'll be working on sequel rewrites, keeping up newsletters and book marketing efforts, and priotizing freelancing a little more than I had been to make up shortfalls.
 
-COVID-19 is causing widespread, rapid change around the world, and tbh it's hard to know what to say or how best to respond.
-
-As a writer and freelancer, my lifestyle already looked a lot like self-isolation, except for creative writing workshops and speaking engagements, so for the moment, it's close to business-as-usual. I'll be working on sequel rewrites, keeping up newsletters and book marketing efforts, and priotizing freelancing a little more than I had been to make up shortfalls.
-
-But I know a ton of people are going through a tough time financially or have lost their jobs entirely, at least during the regional lockdowns. 
-
-I don't have enough of a backlist built up to offer much for free, but here's a list of libraries and subscription services where you can find ebooks of Blind the Eyes:
+But I know a ton of people are going through a tough time financially or have lost their jobs entirely, at least during the regional lockdowns. I don't have enough of a backlist built up to offer much for free, but here's a list of libraries and subscription services where you can find ebooks of Blind the Eyes:
 
 - [Vancouver Public Library](https://vpl.bibliocommons.com/item/show/6786290038)
 - [Scribd](https://www.scribd.com/book/387925871/Blind-the-Eyes-Threads-of-Dreams-1)
