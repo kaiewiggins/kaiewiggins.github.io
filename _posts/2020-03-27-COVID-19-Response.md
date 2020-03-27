@@ -21,4 +21,4 @@ I don't have enough of a backlist built up to offer much for free, but here's a 
 
 I'm also dropping ebook prices to minimum ($0.99 or equivalent) [across storefronts](https://books2read.com/blindtheeyes) until the end of April at least to try to keep reading material accessible.
 
-Also, for those of you who've suddenly become homeschoolers (especially you BC parents with no school support!), I'm open-sourcing some [teaching materials from my creative writing workshops](https://kaie.space/news/2020/03/20/learning-resources.html). They're tested on ages 8-12, but you could easily scale up or down a few years for maybe a couple hours of edutainment. ;D
+And, for those of you who've suddenly become homeschoolers (especially you BC parents without school support!), I'm open-sourcing some [teaching materials from my creative writing workshops](https://kaie.space/news/2020/03/20/learning-resources.html). They're tested on ages 8-12, but you could easily scale up or down a few years for maybe a couple hours of edutainment. ;D
