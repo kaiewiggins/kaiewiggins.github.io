@@ -9,22 +9,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<!-- AutoSlideshowJS-->
-	<script>var slideIndex = 1;
-showSlides();
-
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none"; 
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1} 
-  slides[slideIndex-1].style.display = "block"; 
-  setTimeout(showSlides, 6000); // Change image every 6 seconds
-}
-	</script>
 
 	<!-- meta = Bootstrap 3 instruction setting page width to fill device screen-->
 <meta charset="utf-8">
@@ -38,31 +22,11 @@ function showSlides() {
 	{% include analytics.html %}
 	</head>
 <body>
-		<!-- Slideshow container -->
-<div class="slideshow-container" style="width: 100%;">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <a href="https://kaie.space/threadsofdreams.html" target="_blank"><img src="/Banner3-Nightmares-1600x600lg.jpg" style="width:100%"></a>
-  </div>
-
-  <div class="mySlides">
-    <a href="https://kaie.space/news/2019/03/31/a-villain-origin-story-translated.html" target="_blank"><img src="/carnage8-1600x600.gif" style="width:100%"></a>
-  </div>
+		<!-- Video container -->
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2YzX1DvL2Vg?autoplay=1?controls=0?modestbranding=1?rel-0" allowfullscreen></iframe>
+</div>
 	
-<div class="mySlides">
-    <a href="https://kaie.space/news/2019/03/28/a-standalone-and-a-prequel.html" target="_blank"><img src="/broken7-unsought-1600x600web.jpg" style="width:100%"></a>
-  </div>
-	
-<div class="mySlides">
-    <a href="https://kaie.space/threadsofdreams.html" target="_blank"><img src="/Banner2-Lies-1600x600lg.jpg" style="width:100%"></a>
-  </div>
-	
-<div class="mySlides">
-	<a href="https://kaie.space/news/2019/03/28/a-standalone-and-a-prequel.html" target="_blank"><img src="/giftwrapped4288-1600x600web.jpg" style="width:100%"></a>
-  </div>
-	
-	</div>
 		<div class="container-fluid" style="width: 103%; margin: 0% -1.5%">		
 		<div style="position: fixed; bottom: 2%; left: 2%; z-index: 1;">
 <a target="_blank" href="https://twitter.com/kaiespace"><i class="fa fa-twitter fa-fw" style="color: #333; padding: 10%;"></i></a>
