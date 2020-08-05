@@ -51,7 +51,7 @@ multiple locations in Vancouver, BC
 
 1 ebook copy of *Blind the Eyes*
 
-**Surrey Public Library (https://surrey.bibliocommons.com/item/show/838637071)**
+**[Surrey Public Library](https://surrey.bibliocommons.com/item/show/838637071)**
 
 multiple locations in Surrey, BC
 
