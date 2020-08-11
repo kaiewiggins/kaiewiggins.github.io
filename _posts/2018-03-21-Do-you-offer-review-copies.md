@@ -34,8 +34,8 @@ The best time to request a review copy (/ARC) is up to two months before an upco
 
 **If you would like to review one of my books, please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting.**
 
-I use [BookSprout](https://booksprout.co/author/2405/k-a-wiggins) and [StoryOrigin](https://storyoriginapp.com/reviewcopies/718a8197-85d7-4a32-be00-6614876ffc20) to coordinate pre-release ARCs when a new book is coming out, and you can also just follow me on those sites to get an automatic notification whenever a new review edition is available.
+I use BookSprout and StoryOrigin to coordinate pre-release ARCs when a new book is coming out, and you can also just [follow me on BookSprout](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
 
-Unfortunately, I do have limits on my marketing budget and I also have to screen for book pirates, but do feel free to get in touch even if you're a smaller/newbie/international reviewer—I want to support those starting out, too!
+Unfortunately, I do have limits on my marketing budget and I also have to screen for book pirates, so not every applicant will be accepted, but do feel free to get in touch even if you're a smaller/newbie/international reviewer—I want to support those starting out, too!
 
 I welcome bloggers and reviewers from all countries; however, the ability to read and communicate in written English is a necessary requirement. (Reviewers interested in my translated works should contact the publisher directly to enquire about a review copy.)
