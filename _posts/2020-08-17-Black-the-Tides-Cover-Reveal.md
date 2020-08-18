@@ -1,7 +1,7 @@
 ---
 layout: newspost
 title: Black the Tides Cover Reveal
-date: 2020-08-11
+date: 2020-08-17
 category: news
 ---
 **UPDATE**
