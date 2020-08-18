@@ -4,15 +4,15 @@ title: Black the Tides Cover Reveal & New Date
 date: 2020-08-17
 category: news
 ---
-**UPDATE**
-
-## New Release Date!
+**UPDATE:**
 
 The release date for BLACK THE TIDES has just been pushed up from September to **August 26, 2020**
 
-### [Preorder for only 99c until Aug. 26.](https://storyoriginapp.com/universalbooklinks/0afebf2e-d80d-11ea-b452-0f053dc84439)
+#### [Click here to preorder for only 99c—until Aug. 26.](https://storyoriginapp.com/universalbooklinks/0afebf2e-d80d-11ea-b452-0f053dc84439)
 
 *Matching paperbacks coming soon.*
+
+---
 
 **Original Post: COVER REVEAL. August 11, 2020**
 
