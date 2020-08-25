@@ -7,7 +7,7 @@ category: news
 
 There's been an unexpected end-of-summer wave of excellent news, most of which I can't share (yet) BUT I am very excited to announce a story in Fiction-Atlas Press's next anthology. *Boy With No Name* is a Threads of Dreams tie-in featuring everyone's favourite troublemaker Ravel. It's a companion story to *Black the Tides* and—random coincidence—the anthology is set to release on BTT's *original* launch date, September 30!
 
-[Preorder now!](https://books2read.com/devilyouknowfa)
+Preorder at: [books2read.com/devilyouknowfa](https://books2read.com/devilyouknowfa)
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Part 1 announcement of last week&#39;s good news: one of my stories got selected for Fiction-Atlas Press&#39;s next anthology!<br><br>Awesome timing bc it just so happens to be a tie-in story w/ Black the Tides (launching Wed)<br><br>Thread w/deets, blurbs &amp; author tags:<br><br>(gif by <a href="https://twitter.com/AmberMorant?ref_src=twsrc%5Etfw">@AmberMorant</a> ) <a href="https://t.co/BNpXXR3orm">pic.twitter.com/BNpXXR3orm</a></p>&mdash; K.A. Wiggins ~preorder BLACK THE TIDES~ (@kaiespace) <a href="https://twitter.com/kaiespace/status/1298004403476025344?ref_src=twsrc%5Etfw">August 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
