@@ -9,8 +9,6 @@ There's been an unexpected wave of excellent news, most of which I can't share (
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Part 1 announcement of last week&#39;s good news: one of my stories got selected for Fiction-Atlas Press&#39;s next anthology!<br><br>Awesome timing bc it just so happens to be a tie-in story w/ Black the Tides (launching Wed)<br><br>Thread w/deets, blurbs &amp; author tags:<br><br>(gif by <a href="https://twitter.com/AmberMorant?ref_src=twsrc%5Etfw">@AmberMorant</a> ) <a href="https://t.co/BNpXXR3orm">pic.twitter.com/BNpXXR3orm</a></p>&mdash; K.A. Wiggins ~preorder BLACK THE TIDES~ (@kaiespace) <a href="https://twitter.com/kaiespace/status/1298004403476025344?ref_src=twsrc%5Etfw">August 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Preorder at: [books2read.com/devilyouknowfa](https://books2read.com/devilyouknowfa)
-
 ### The Devil You Know: A Fiction-Atlas Press Anti-Hero Anthology
 
 **These heroes might not be angels, but you know what they say—it's always better to trust the devil you know...**
@@ -19,7 +17,7 @@ Looking for a typical hero tale? Keep looking. These twelve tales explore the gr
 
 Fiction-Atlas Press is proud to present, The Devil You Know featuring stories by: USA Today Bestselling Author C.L. Cannon, USA Today Bestselling Author Lily Luchesi, Zoey Xolton, K.A. Wiggins, K Matt, K.R.S. McEntire, Scott Moore, J.M. Rhineheart, Angela Kulig, Kat Parrish, Amber Morant, and Nick Edinger!
 
-## Boy With No Name
+### Boy With No Name
 
 **When you’re nothing, you have to grab everything you can and hang onto it with everything you’ve got.**
 
@@ -36,3 +34,5 @@ Cut off from everything he knows, can this master manipulator find the right thr
 Or will the conscience he's been running from all his life finally take him down?
 
 *Tragic pasts and twisted futures collide in Boy With No Name, a standalone-ready companion story to Threads of Dreams book 2, Black the Tides, available exclusively in Fiction-Atlas Press anti-hero anthology The Devil You Know coming September 30*
+
+Preorder at: [books2read.com/devilyouknowfa](https://books2read.com/devilyouknowfa)
