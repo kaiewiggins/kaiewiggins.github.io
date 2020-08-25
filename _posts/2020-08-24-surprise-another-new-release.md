@@ -5,7 +5,7 @@ date: 2020-08-24
 category: news
 ---
 
-There's been an unexpected end-of-summer wave of excellent news, most of which I can't share (yet) BUT I am very excited to announce a story in Fiction-Atlas Press's next anthology. *Boy With No Name* is a Threads of Dreams tie-in featuring everyone's favourite troublemaker Ravel. It's a companion story to *Black the Tides* and—random coincidence—the anthology is set to release on BTT's *original* launch date, September 30!
+There's been an unexpected wave of excellent news, most of which I can't share (yet) BUT I am very excited to announce a story in Fiction-Atlas Press's next anthology. *Boy With No Name* is a Threads of Dreams tie-in/companion story to *Black the Tides* and—random coincidence—the anthology is set to release on BTT's *original* launch date, September 30!
 
 Preorder at: [books2read.com/devilyouknowfa](https://books2read.com/devilyouknowfa)
 
