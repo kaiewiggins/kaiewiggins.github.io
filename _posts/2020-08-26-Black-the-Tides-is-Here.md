@@ -7,7 +7,7 @@ category: news
 
 **BLACK THE TIDES IS (FINALLY) HERE!! 🎉**
 
-<a href="https://storyoriginapp.com/universalbooklinks/0afebf2e-d80d-11ea-b452-0f053dc84439 " target="_blank"><img src="BlacktheTidesShadows.gif"></a>
+<a href="https://storyoriginapp.com/universalbooklinks/0afebf2e-d80d-11ea-b452-0f053dc84439 " target="_blank"><img src="BlacktheTidesShadows.gif" style="width:50%;"></a>
 
 More ghosts. More monsters. More existential angst.
 
