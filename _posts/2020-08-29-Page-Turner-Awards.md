@@ -6,7 +6,9 @@ category: news
 ---
 **Update!**
 
-Super random that this just so happens to fall at the end of *another* launch week, but I'm honoured and amazed to learn [*Blind the Eyes*](https://books2read.com/blindtheeyes) has been shortlisted in the eBook Awards 2020 category of the Page Turner Awards alongside some wonderful titles! Very excited to (remotely) attend the awards ceremony on October 20—though slightly bummed it's a plague year and therefore impossible to pop over to the UK for the party. 
+Super random that this just so happens to fall at the end of *another* launch week, but I'm honoured and amazed to learn [*Blind the Eyes*](https://books2read.com/blindtheeyes) has been shortlisted in the eBook Awards 2020 category of the Page Turner Awards alongside some wonderful titles! 
+
+Very excited to (remotely) attend the awards ceremony on October 20—though slightly bummed it's a plague year and therefore impossible to pop over to the UK for the party.😢
 
 Congrats to all the shortlisted eBook and Writing award category entrants ([check out their stories here!](https://pageturnerawards.com/2020-finalists-shortlist-and-winners))
 
