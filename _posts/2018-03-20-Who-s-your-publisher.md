@@ -15,16 +15,6 @@ Italian language ebook rights to *Letter From the End of the World* have been li
 
 ***
 
-##### Background
-
-From September 2017 to March 2018 Blind the Eyes (Threads of Dreams book 1) was queried for representation and receieved multiple full requests.
-
-In March 2018, it entered Kindle Scout, but the program was cancelled before its campaign ended and all rights reverted to the author.
-
-In June 2018, ebook and paperback editions were independently produced and sold by the author.
-
-##### What does that mean?
-
 *Blind the Eyes is a 100% indie title written and produced with independent or hybrid publishing in mind.*
 
 Though I've sinced also worked with small presses as a hybrid-published author, I've found independent publishing to be a great option. Going indie means operating your own micro-sized publishing company, and I've had the great fortune to work with awesome professionals on every stage of bringing *Blind the Eyes* to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
@@ -37,14 +27,26 @@ Developmental Editing Round 2 on Blind the Eyes
 
 Substantive/Line Edit on Blind the Eyes
 
-Plot Accelerator on Threads of Dreams book 2
- 
+Plot Accelerator on Black the Tides
+
+Plot Accelerator on Threads of Dreams book 3
+
 [Catherine Milos](https://alchemy.catherinemilos.com/)
 
 Proofread on Blind the Eyes
 
+Copy Edit with Developmental Notes on Black the Tides
+
 [Regina Wamba of Mae I Design](http://www.maeidesign.com/)
 
-Digital and Print Cover Design on the on sale version Blind the Eyes
+Digital and Print (paperback & hardcover) Cover Design on the original "Tower" variant of Blind the Eyes
 
-*(Note: all other graphics and in-progress/pre-publication version covers are designed & copyrighted by K.A. Wiggins.)*
+[Christian Bentulan of Covers by Christian](https://coversbychristian.com/)
+
+Digital and Print Cover Design on the 2020 update "Horror" variant of Blind the Eyes
+
+Digital and Print Cover Design on Black the Tides
+
+[Morgan Wright](https://www.morganwrightbooks.com/morgan-wright-book-cover-animations)
+
+Cover animations for Blind the Eyes and Black the Tides
