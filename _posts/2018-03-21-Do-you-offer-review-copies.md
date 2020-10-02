@@ -16,7 +16,9 @@ If you're a book blogger, reviewer, or bookstagrammer, first of all, you rock & 
 
 On a practical level, by the time reviews are being left, it's really too late to make changes and the author has moved on—sometimes by a matter of months or years.
 
-On a creative level, one of the things new creators have to learn is that it's very important not to let too many voices into your creative process and to understand the perspectives, qualifications, and purposes of those voices you do let in, which is why I work with experienced professionals and a few trusted first readers when it comes to shaping my stories. Besides, there is no one right way to tell a story or shape a book, and feedback only really gives insight into the reviewer's tastes. ;)
+On a creative level, one of the things new creators have to learn is that it's very important not to let too many voices into your creative process and to understand the perspectives, qualifications, and purposes of those voices you do let in, which is why I work with experienced professionals and a few trusted first readers when it comes to shaping my stories.
+
+Besides, there is no one right way to tell a story or shape a book, and feedback only really gives insight into individual reviewers' tastes. ;)
 
 ### What to Expect
 
