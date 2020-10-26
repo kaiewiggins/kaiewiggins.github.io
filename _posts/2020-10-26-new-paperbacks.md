@@ -11,7 +11,9 @@ Pandemic-induced publishing & shipping woes plus a very stupid mistake on my par
 
 Original cover BTE ppb & hardcover will remain available as “special editions” but that artist’s rates keep going up 😭 so the series will continue with these new designs. Additional hardcover editions aren’t currently in the pipeline.
 
-**Shop the new editions on Amazon: [Blind the Eyes](https://www.amazon.com/Blind-Eyes-Threads-Dreams-Wiggins/dp/1775162796) | [Black the Tides](https://www.amazon.com/Black-Tides-Threads-Dreams-Wiggins/dp/1775162788) **
+**Shop the new editions on Amazon: **
+
+**[Blind the Eyes](https://www.amazon.com/Blind-Eyes-Threads-Dreams-Wiggins/dp/1775162796)** (book one) | **[Black the Tides](https://www.amazon.com/Black-Tides-Threads-Dreams-Wiggins/dp/1775162788)** (book 2)
 
 Other storefronts coming soon!
 
