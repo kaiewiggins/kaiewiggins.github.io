@@ -8,7 +8,13 @@ category: news
 
 Very excited to have won the eBook Award "Book Spotlight" prize and looking forward to working with iRead Book Tours in the coming months to reach new readers!
 
-For those interested: [Page Turner Awards official press release](https://pageturnerawards.com/entrants-stories/vancouver-ya-novelist-shortlisted-prestigious-book-award) & [Author Media Kit](https://drive.google.com/drive/folders/1x8EKg8U87SF9JMsRjMdbD_P1cpkv7p_T?usp=sharing)
+**Press Coverage:**
+
+- [Page Turner Awards official press release](https://pageturnerawards.com/entrants-stories/vancouver-ya-novelist-shortlisted-prestigious-book-award)
+- [Abby News](https://www.abbynews.com/entertainment/abbotsford-author-shortlisted-for-literary-award-for-young-adult-novel/)
+- [Chilliwack Progress](https://www.theprogress.com/entertainment/abbotsford-author-shortlisted-for-literary-award-for-young-adult-novel/)
+
+As an aside, an [Author Media Kit](https://drive.google.com/drive/folders/1x8EKg8U87SF9JMsRjMdbD_P1cpkv7p_T?usp=sharing) is available to any members of the press seeking readily-available resources.
 
 **Update, 2020-10-02**
 
