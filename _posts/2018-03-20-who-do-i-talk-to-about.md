@@ -11,4 +11,4 @@ Please [enquire here](mailto:kaiewrites@gmail.com) for:
 - Speaking engagements including school visits, festivals, and workshops
 - Interviews, blurbs, collaborations
 
-
+Please feel free to reference the [media resource centre](https://drive.google.com/drive/folders/1x8EKg8U87SF9JMsRjMdbD_P1cpkv7p_T?usp=sharing) for promotional images and content as well.
