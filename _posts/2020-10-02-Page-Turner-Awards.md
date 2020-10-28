@@ -1,9 +1,15 @@
 ---
 layout: newspost
 title: Page Turner Awards!
-date: 2020-10-02
+date: 2020-10-28
 category: news
 ---
+**Update2!**
+
+Very excited to have won the eBook Award "Book Spotlight" prize and looking forward to working with iRead Book Tours in the coming months to reach new readers!
+
+For those interested: [Page Turner Awards official press release](https://pageturnerawards.com/entrants-stories/vancouver-ya-novelist-shortlisted-prestigious-book-award) & [Author Media Kit](https://drive.google.com/drive/folders/1x8EKg8U87SF9JMsRjMdbD_P1cpkv7p_T?usp=sharing)
+
 **Update!**
 
 <blockquote style="width=80%;" class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">This timing is wild, but I&#39;m wrapping up my second release week of 2020 w/ *another* awesome announcement from <a href="https://twitter.com/PageTurnerAward?ref_src=twsrc%5Etfw">@PageTurnerAward</a> :<br><br>BLIND THE EYES made the eBook Award shortlist!! <br><br>😱🎉😱🎉😱 <a href="https://t.co/HNp5FQWeBO">pic.twitter.com/HNp5FQWeBO</a></p>&mdash; K.A. Wiggins ~preorder THE DEVIL YOU KNOW antho~ (@kaiespace) <a href="https://twitter.com/kaiespace/status/1312115636198281216?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
