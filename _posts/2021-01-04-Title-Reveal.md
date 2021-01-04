@@ -17,4 +17,6 @@ If she can't find a way to keep the Mara from being unleashed by the one person 
 
 **In this thrilling conclusion to the Threads of Dreams trilogy, the spark of revolution is lit—and even a drowned city can burn.**
 
-*Look for the #CoverReveal in early June & a midsummer launch date. You can also* **[preorder now!](https://www.amazon.com/gp/product/B08S23XXLT)** *(preorders default to Dec. 2021 until I can confirm production material delivery dates.)*
+*Look for the #CoverReveal in early June & a midsummer launch date. You can also* **[preorder now!](https://www.amazon.com/gp/product/B08S23XXLT)** or **[add on Goodreads](https://www.goodreads.com/book/show/56554432-burn-the-skies)**.
+
+*(Preorders default to Dec. 2021 until production delivery dates confirmed.)*
