@@ -7,7 +7,7 @@ category: news
 
 Good news: I wrapped up the zero draft of the third and final Threads of Dreams book in early December, which means it's time for a #TitleReveal:
 
-<img src="/Burn%20the%20Skies-Prelaunch%20Cover.png" style="max-width: 80%;" alt="Burn the Skies placeholder preorder cover by K.A. Wiggins">
+<a href="https://www.amazon.com/gp/product/B08S23XXLT" target="_blank;" alt="Burn the Skies Amazon storefront link"><img src="/Burn%20the%20Skies-Prelaunch%20Cover.png" style="max-width: 80%;" alt="Burn the Skies placeholder preorder cover by K.A. Wiggins"></a>
 
 **In the city of nightmares, death is far from the end.**
 
