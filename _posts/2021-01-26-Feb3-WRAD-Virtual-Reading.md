@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: Feb3 WRAD Virtual Reading
-date: 2021-01-25
+date: 2021-01-26
 category: events
 ---
 
