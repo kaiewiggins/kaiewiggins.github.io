@@ -1,6 +1,6 @@
 ---
 layout: eventspost
-title: Feb3 WRAD Burnaby Live Reading
+title: Feb3 WRAD Virtual Reading
 date: 2021-01-25
 category: events
 ---
