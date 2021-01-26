@@ -1,24 +1,20 @@
 ---
 layout: eventspost
-title: Feb3 WRAD Burnaby Live Reading
-date: 2020-01-25
+title: Feb5 WRAD Burnaby Live Reading
+date: 2020-01-17
 category: events
 ---
 
-## World Read Aloud Day Onlne
+## World Read Aloud Day Event
 
-**Date:** February 3, 2020
+**Date:** February 5, 2020
 
-**Time:** 9am - 8pm PST
+**Time:** 6:30-8:45 pm
 
-**Location:** your classroom, library, or book club via Zoom (or similar)
+**Location:** Bob Prittie Metrotown Branch Library (6100 Willingdon Avenue, Burnaby by Metrotown Stn.)
 
-**Type:** Live Reading 
+**Type:** Live Reading, Book Fair, Signing
 
-[World Read Aloud Day](https://www.litworld.org/worldreadaloudday) is a "celebration of the power of reading aloud to create community, to amplify new stories, and to advocate for literacy as a foundational human right."
+[CWILL BC](https://www.cwillbc.org/) authors and/or illustrators will take turns reading aloud from their recent works in support of [World Read Aloud Day](https://www.litworld.org/worldreadaloudday). Copies will be available on site for sale.
 
-As creators of books for young readers, many members of [CWILL BC](https://cwillbc.org) are offering free 10-20 min. virtual readings in support of this wonderful cause.
-
-While I'm more than happy to present to classrooms, library groups or book clubs of all ages, my fiction currently targets ages 14+, so for elementary or middle school groups I will instead be reading from an age-appropriate Canadian children's book that inspires me. 
-
-Shoot me a message at [kaiewrites@gmail.com](mailto:kaiewrites@gmail.com) to book a free 10-20 minute reading + author visit on February 3, 2021!
+![](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.0-9/84606837_1098745297135164_567231662153269248_o.jpg?_nc_cat=103&_nc_ohc=lGIIWpE9l-UAX9Bcdk3&_nc_ht=scontent.fyvr3-1.fna&oh=a69b2ca21ba77427e343cfeb53e4ede3&oe=5ECE09D3)
