@@ -5,7 +5,7 @@ date: 2021-01-25
 category: events
 ---
 
-## World Read Aloud Day Onlne
+## World Read Aloud Day Online
 
 **Date:** February 3, 2021
 
