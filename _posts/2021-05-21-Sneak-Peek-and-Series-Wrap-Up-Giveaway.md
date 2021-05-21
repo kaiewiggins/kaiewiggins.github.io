@@ -61,7 +61,7 @@ The official cover reveal isn't until June 16, but here's a sneak peek just for 
 
 <img style="width: 95%;" src="/Email Size 800x400px.gif">
 
-Cover design credit on all three covers goes to the fantastic Christian Bentulan of (CoversByChristian.com)[http://CoversByChristian.com] with modifications added.
+Cover design credit on all three covers goes to the fantastic Christian Bentulan of [CoversByChristian.com](http://CoversByChristian.com) with modifications added.
 
 
 ### Enter the Giveaway
