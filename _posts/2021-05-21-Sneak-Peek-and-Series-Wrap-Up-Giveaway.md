@@ -45,11 +45,11 @@ Find out in the twisty, cinematic, and devastatingly cliff-hanger-serving second
 
 ### In *Burn the Skies* . . .
 
-There's only so much betrayal a girl can take. But Cole has come way too far to give up now, even if she's never been more powerless and the stakes have never been higher. The clock is ticking on not only the survival of her friends and the city she's sacrificed so much to save, but the survival of the world.
+There's only so much betrayal a girl can take. But Cole has come way too far to give up now, even if she's never been more powerless and the stakes have never been higher. The clock is ticking on not only the survival of her friends and the city she's sacrificed so much to save but the survival of the world.
 
 But disaster isn't through with her yet. When her quest to muster a dreamwalker army founders, she's left with one option: turn on the former friend and ally who betrayed her trust and stole her body. But she can't bring herself to sacrifice the life of a delusional and homicidal child, not even to save all of humanity.
 
-As her pool of friends and potential allies shrinks and resistence mounts, Cole pushes through grief and fear to find ever more desperate ways to fight back, holding back the monsters at the cost of her rapidly-draining life force. 
+As her pool of friends and potential allies shrinks and resistance mounts, Cole pushes through grief and fear to find ever more desperate ways to fight back, holding back the monsters at the cost of her rapidly-draining life force. 
 
 Will her refusal to pay the ultimate cost end with her trapped in an eternal wasteland after everyone she's ever cared about goes down in flames?
 
