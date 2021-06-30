@@ -55,9 +55,9 @@ Will her refusal to pay the ultimate cost end with her trapped in an eternal was
 
 Find out in the breathless conclusion to the series, coming to a storefront near you on July 7, 2021.
 
-[Add on Goodreads](https://www.goodreads.com/book/show/56554432-burn-the-skies) | [Preorder Burn the Skies](https://www.amazon.com/gp/product/B08S23XXLT)
+[Add on Goodreads](https://www.goodreads.com/book/show/56554432-burn-the-skies) | [Preorder Burn the Skies](https://books2read.com/burntheskies)
 
-<a href="https://books2read.com/burntheskies " target="_blank"><img style="width: 95%;" src="/Burn-the-Skies-formats.jpg"></a>
+<a href="https://books2read.com/burntheskies" target="_blank"><img style="width: 95%;" src="/Burn-the-Skies-formats.jpg"></a>
 
 
 Cover design credit on all three covers goes to the fantastic Christian Bentulan of [CoversByChristian.com](http://CoversByChristian.com) with modifications added.
