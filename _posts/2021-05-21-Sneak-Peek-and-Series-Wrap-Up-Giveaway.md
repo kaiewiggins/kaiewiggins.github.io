@@ -5,7 +5,7 @@ date: 2021-05-21
 category: news
 ---
 
-That's right, the epic finale to the celebrated *Threads of Dreams* series is finally (nearly) here! *(Scroll to the end for a celebratory giveaway.)*
+That's right, the epic finale to the award-winning *Threads of Dreams* series is finally (nearly) here! *(Scroll to the end for a celebratory giveaway.)*
 
 ### In *Blind the Eyes* . . . 
 
@@ -57,9 +57,8 @@ Find out in the breathless conclusion to the series, coming to a storefront near
 
 [Add on Goodreads](https://www.goodreads.com/book/show/56554432-burn-the-skies) | [Preorder Burn the Skies](https://www.amazon.com/gp/product/B08S23XXLT)
 
-The official cover reveal isn't until June 16, but here's a sneak peek just for you:
+<a href="https://books2read.com/burntheskies " target="_blank"><img style="width: 95%;" src="/Burn-the-Skies-formats.jpg"></a>
 
-<img style="width: 95%;" src="/Email Size 800x400px.gif">
 
 Cover design credit on all three covers goes to the fantastic Christian Bentulan of [CoversByChristian.com](http://CoversByChristian.com) with modifications added.
 
@@ -68,7 +67,7 @@ Cover design credit on all three covers goes to the fantastic Christian Bentulan
 
 Here for the prizes? This giveaway launches May 31, 2021 and ends at 12:00 am PST July 31, 2021.
 
-<img style="width: 95%;" src="/series-wrapup-giveaway-no3.jpg">
+<img style="width: 95%;" src="/series-wrapup-giveaway.jpg">
 
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/d3678dbc2/" rel="nofollow" data-raflid="d3678dbc2" data-theme="classic" data-template="" id="rcwidget_3sliewyh">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
