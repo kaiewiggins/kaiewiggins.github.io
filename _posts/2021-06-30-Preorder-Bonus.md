@@ -9,7 +9,7 @@ It's just **SEVEN DAYS** to *Burn the Skies* launch day, so I guess I better hur
 
 **All eBook preorders of *Burn the Skies* (on any storefront) OR library requests are eligible for a FREE digital bonus pack.** 🔥
 
-It includes a exclusive ebook special edition of *Boy With No Name* (the Ravel antihero side story formerly only available as part of *The Devil You Know* anthology), plus 6+ sheets of printables featuring adorable nature sprites (debuting in *Burn the Skies*, because this book needed a little cute-and-cuddly to balance out all the explosive tension!) DIY custom magnetic bookmarks, stickers and more. 🎨
+It includes a exclusive ebook special edition of *Boy With No Name* (the Ravel antihero side story formerly only available as part of *The Devil You Know* anthology), plus 6+ sheets of printables featuring adorable nature sprites (debuting in *Burn the Skies*, because this book needed a little cute-and-cuddly to balance out all the explosive tension!) for custom DIY magnetic bookmarks, stickers and more. 🎨
 
 ### To get your bonuses:
 
