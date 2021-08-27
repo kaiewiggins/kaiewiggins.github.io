@@ -7,4 +7,4 @@ category: students
 
 Ruppee (pen name) was an elementary-aged student in my first anthology workshop with CWC. Check out Ruppee's stories on [Wattpad](https://www.wattpad.com/user/GibberishDude)!
 
-<img src="https://img.wattpad.com/cover/236036424-512-k798892.jpg" width="40%;">
+<img src="https://img.wattpad.com/cover/236036424-512-k798892.jpg" width="80%;">
