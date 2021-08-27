@@ -5,23 +5,19 @@ title: Student features by YA fantasy author K A Wiggins
 <div class="panel panel-fluid">
 <div class="panel-body">
  <div class="section">
-   <h1>Student Creations</h1>
-   <p>Browse and enjoy creative creations by young people and emerging creators from my workshops or presentations.</p>
+   <h1>Student Showcase</h1>
+   <p>Browse and enjoy creations by young people and emerging creators from my workshops or presentations.</p>
 	 	<div class="row">
 <div class="col-sm-9">
-	<div class="row">
 	<!--main content of posts-->
 		<ul class="posts">
 	  {% for post in site.categories.students %}
-			<div class="col-xs-6">
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 	    	<span><p><small>{{ post.date | date_to_string }}</small></p></span>
 				{{post.content}}
-			</div><!--close inner col-->
 			<hr>
 	  {% endfor %}
 	    	</ul>
-		<div><!--close inner row-->
 </div><!--close first col-->
 <div class="col-sm-3">
 	<!--lookup linklist of posts-->
