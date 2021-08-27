@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="panel panel-fluid">
+    <article style="margin: 50px 30px 50px 30px;">
+        <h1 style="text-align:left;">{{ page.title }}</h1>
+	 	<div class="row">
+<div class="col-sm-9">
+	<!--main content of posts-->
+<p><strong>Creative projects by students and emerging creators:</strong></p>
+	<p class="meta">{{ page.date | date_to_string }}</p>
+	<hr>
+<div class="post">
+  {{ content }}
+  <div class="share-page">
+    Share post:
+ <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkaie.space&t=kaieSpace" target="_blank" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><i class="fa fa-facebook"></i></a>
+ <a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fkaie.space&text=kaieSpace:%20http%3A%2F%2Fkaie.space&via=kaiespace" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)); return false;"><i class="fa fa-twitter"></i></a>
+ <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fkaie.space&description=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-pinterest"></i></a>
+ <a href="mailto:?subject=kaieSpace&body=writing%2C%20publishing:%20http%3A%2F%2Fkaie.space" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fa fa-envelope"></i></a>
+</div><!--close social sharing module -->
+	</div>
+</div><!--close first col-->
+<div class="col-sm-3">
+	<!--social sharing buttons-->
+<div class="share-page">
+    Share post:
+ <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkaie.space&t=kaieSpace" target="_blank" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><i class="fa fa-facebook"></i></a>
+ <a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fkaie.space&text=kaieSpace:%20http%3A%2F%2Fkaie.space&via=kaiespace" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL)); return false;"><i class="fa fa-twitter"></i></a>
+ <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fkaie.space&description=Adventures%20in%20writing%2C%20publishing%2C%20and%20exploring" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><i class="fa fa-pinterest"></i></a>
+ <a href="mailto:?subject=kaieSpace&body=writing%2C%20publishing:%20http%3A%2F%2Fkaie.space" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><i class="fa fa-envelope"></i></a>
+</div>
+<!--lookup linklist of posts-->
+	<h3>Post Index</h3>
+	<ul class="posts">
+	  {% for post in site.categories.students %}
+	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
+	  {% endfor %}
+</ul>
+	</div><!--close second col-->
+</div><!--end row-->
+    </article>
+</div><!--end panel -->
