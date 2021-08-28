@@ -1,7 +1,7 @@
 ---
 layout: resourcespost
 title: Advice for Teen Writers
-date: 2021-07-08
+date: 2021-06-12
 category: resources
 ---
 
