@@ -1,5 +1,5 @@
 ---
-layout: resourcesposts
+layout: resourcespost
 title: Short Fiction Overview
 date: 2021-07-10
 category: resources
