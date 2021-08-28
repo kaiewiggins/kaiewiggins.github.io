@@ -149,14 +149,7 @@ Be open to nontraditional routes: serial fiction and subsidized or serialed fict
 
 Not much to add here. This is roughly what I do these days. It's pretty minimal compared to some, unneccessarily complex compared to others. I can't quite bring myself to draft-proofread-publish, but I'm not doing multiple rounds of heavy rewrites, either. If I get really stuck on the plotting, I'll change formats, which can look like any of these:
 
-<div class="row" style="column-count: 3">
-
-<img src="/13-mapping.png" width="95%;">
-
-<img src="/14-chart.png" width="95%;">
-
-<img src="/15-cards.png" width="95%;">
-</div>
+<img src="/13-mapping.png" width="95%;"> | <img src="/14-chart.png" width="95%;"> | <img src="/15-cards.png" width="95%;">
  
 ---
  
