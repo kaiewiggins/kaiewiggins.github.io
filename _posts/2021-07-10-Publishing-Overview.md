@@ -131,13 +131,50 @@ The moral of the story? Keep your copyright, don't license more rights than the 
 
 <img src="/8-pro.png" width="95%;">
 
-###
+### Publishing Novels
+
+Switching gears here from short fiction to long. This is a bigger effort in terms of time, skill, and investment, but novels are not inherently better than any other type of fiction. Try not to feel pressured into writing one if you don't really want to!
+
+Whatever publishing path you choose, you will become a small business. Like any entrepreneur, you'll need to learn business skills and keep up on your industry, even if it's just a side hustle. Do your research as you approach publishing; things change in a matter of months in this industry, much less years, and you don't want to be launching with outdated intel. See other posts in the [Resources](/resources.html) section for links to groups and news outlets for staying up to date.
+
+Publishing can pay, but it's usually a slow and gradual path to earning an income. Royalties can accumulate over time. The opportunity to sell additional licenses may emerge. The more stories/books you have out, the more it all can add up, but that takes time, too. Make a plan for how you'll survive financially for the first years at least.
+
+Be open to nontraditional routes: serial fiction and subsidized or serialed fiction are looking strong right now. Patreon and Kickstarter are good examples of emerging trends that authors have leveraged to the advantage of their careers.
 
 ---
 
 <img src="/9-paths.png" width="95%;">
 
-###
+### One Route
+
+Not much to add here. This is roughly what I do these days. It's pretty minimal compared to some, unneccessarily complex compared to others. I can't quite bring myself to draft-proofread-publish, but I'm not doing multiple rounds of heavy rewrites, either. If I get really stuck on the plotting, I'll change formats, which can look like any of these:
+
+<div class="row" style="3 column">
+
+<img src="/13-mapping.png" width="95%;">
+
+<img src="/14-chart.png" width="95%;">
+
+<img src="/15-cards.png" width="95%;">
+</div>
+ 
+---
+ 
+<div class="row" style="2 column">
+<img src="/16-diagram1.png" width="95%;">
+
+<img src="/17-diagram-red.png" width="95%;">
+  </div>
+
+### Story Mapping
+  
+While all the charts and cards can look complex, the basic structure I'm using is a three act structure with four quarters.
+
+The first quarter 
+
+
+
+
 
 ---
 
@@ -159,35 +196,7 @@ The moral of the story? Keep your copyright, don't license more rights than the 
 
 ---
 
-<img src="/13-mapping.png" width="95%;">
 
-###
-
----
-
-<img src="/14-chart.png" width="95%;">
-
-###
-
----
-
-<img src="/15-cards.png" width="95%;">
-
-###
-
----
-
-<img src="/6-diagram1.png" width="95%;">
-
-###
-
----
-
-<img src="/7-diagram-red.png" width="95%;">
-
-###
-
----
 
 <img src="/18-trad.png" width="95%;">
 
