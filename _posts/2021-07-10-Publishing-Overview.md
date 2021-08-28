@@ -226,44 +226,53 @@ In traditional publishing, all money (should) flow to the author. If you're payi
 
 ### Benefits of Traditional Publishing
 
-Despite the evidence, it's not all downsides!
-
-Book advances have gone down, but you at least get something, rather then spending your money to get published. There is still some prestige to "being published," particularly by a major publisher. It can open doors. You'll be eligible for more awards and speaking opportunities (whether you have a chance or want them is a separate question.)
-
-If you write for children (babies through to teens, in the publishing world), traditional publishers may be able to get your book out more widely—to public libraries and schools, for instance.
+Despite the evidence, it's not all downsides! Book advances have gone down, but you at least get something, rather then spending your money to get published. There is still some prestige to "being published," particularly by a major publisher. It can open doors. You'll be eligible for more awards and speaking opportunities (whether you have a chance or want them is a separate question.) If you write for children (babies through to teens, in the publishing world), traditional publishers may be able to get your book out more widely—to public libraries and schools, for instance.
 
 ---
 
 <img src="/22-indie.png" width="95%;">
 
-###
+### Indie Publishing
+
+If your research tells you the traditional publishing route isn't for you, you need to actually write a book and get it out there. The good news is that technology has made pretty much everything you need more accessible than ever before. The bad news is that you've got a huge learning curve ahead. You need to figure out how to write a good book, make it book shaped, get it out to the world, and then keep people interested in it. You may (probably will) need a budget for production costs like cover design, too, if you're not committed to a completely DIY approach. It's a journey, it'll take time, and you'll make mistakes. But it's also a strong option in the current market and a way to get your words out to the world and establish a career for yourself.
 
 ---
 
 <img src="/23-stores.png" width="95%;">
 
-###
+### Indie Publishing Retailers/Distributors
+
+Just a shortlist of options. The top 5 are Amazon, Kobo, Barnes & Noble, Apple, and Google. Distributors can help you get your book out to even more markets and make it easier to get started and coordinate (you set up a book once instead of 5+ times on different sites) but offer less control and flexibility. Most take a portion of royalties in payment (no upfront cost). 
 
 ---
 
 <img src="/24-files.png" width="95%;">
 
-###
+### Creating eBook Files
+
+The main thing is to get your text set up properly using built-in styles (heading, body text) and page breaks. You can use free software or online setup wizards like Draft2Digital's. The DIY approach is better for creating small file sizes (important if the retailer applies fees by size) but can be tedious.
 
 ---
 
 <img src="/25-files2.png" width="95%;">
 
-###
+### Creating Print-Ready Files
 
----
+Starting from the same file you compile an ebook from, you can update the built-in styles to change font, size, etc., set document settings to match the desired dimensions (most books are not 8.5x11"!) and add layout or visual elements. Professional books have a number of distinctive features: alternating margins (wider on the side the page is bound), kerning (spaces between letters, also spacing between words and lines) to ensure smoothly readible text, widow/orphan control to make sure the text isn't split awkwardly across lines or pages.
+
+Microsoft Word works just fine for this, as long as you don't have complex visual layout like a photo book or text layout. Professional designers may use Adobe InDesign. I haven't tested Google Documents, but it'd probably work fine as well. You'll need to export to PDF for the printer.
+
 
 <img src="/26-files3.png" width="95%;">
 
-###
+### Creating Print-Ready Covers
+
+Cover design is a balancing act between fitting in and standing out. You want to send the message that your book is like other books the reader likes, while standing out just enough that they pick yours up out of the crowd. You can learn cover design, but it's another whole learning curve, and a poor cover may hurt your book's chances.
 
 ---
 
 <img src="/27-meta.png" width="95%;">
 
-###
+### Publishing Metadata
+
+The last piece in compiling a book is the metadata. This stuff can have a big impact on how well your book reaches readers, and each element should be considered (and tested) to get the best result.
