@@ -5,7 +5,7 @@ date: 2021-07-10
 category: resources
 ---
 
-These slides are from a series of workshops for young writers and present a rough and very broad overview of things to think about and possible next steps for emerging authors.
+These slides are from a series of workshops for young writers and present a rough and very broad overview of things to think about and possible next steps for emerging authors. Disclaimers: your mileage may vary, never accept 100% of what you're told, do your own research, etc. The important thing here is to think critically and choose the right path for YOU and your work.
 
 ---
 
@@ -53,9 +53,9 @@ Quick aside: ALWAYS read the contracts before sharing your work and make sure yo
 
 This section was originally intended for students, but writers of all ages can get into sharing their words for reputational purposes.
 
-Students may find it helpful in scholarship, college, or job applications. Adults may simply want the prestige, or use it as a (small) building block to a writing career.
+Students may find it helpful in scholarship, college, or job applications. Adults may simply want the prestige, or use it as a (small) building block to a writing career or a complement to a different field.
 
-Awards and accolades don't sell lots of books. They can be useful in building a "brand" as a writer; however, and may lead to more opportunities or visibility over time.
+Awards and accolades don't sell lots of books. They can be useful in building a "brand" as a writer, however, and may lead to more opportunities or visibility over time.
 
 Larger scale or higher profile awards or story markets can be more beneficial, but the competition will be higher. That's not to say don't enter—always take your shot! But local/regional and student-specific competitions/markets will be relatively easier to make a splash in. Also note that certain topics or styles will play better with some judging panels or editors/magazines than others. The closer you match their preferences, the more likely you are to get a 'yes' and that has nothing to do with skill or quality. (Don't get discouraged!)
 
@@ -67,13 +67,33 @@ See other posts in the [Resources](/resources.html) section for links to competi
 
 <img src="/4-income.png" width="95%;">
 
-### 
+### Earning an Income With Short Fiction
+
+Writing is not known for it's incredible financial rewards—usually. That doesn't mean it won't or can't pay, but the effort tends not to pay off quickly or reliably. Don't overreach. The next section dives into rates, but in terms of markets, you can place short stories in competitions, print and/or genre or literary magazines or 'zines, other types of magazines that sometimes include a small fiction segment, anthologies, or individually be self-publishing.
+
+Reading submission guidelines and writing a custom piece in response sometimes results in better (=closer) fits, but you can also just write freely and then look for the right market after the fact. Note that preparing, submitting, and tracking story submissions takes time in its own right, putting further pressure on any income you might recieve.
+
+Nonfiction (particularly business) writing tends to be paid at higher rates, but you normally pitch the idea of a feature or article to an editor *before* writing, whereas with fiction, you write the whole piece and submit it.
+
+See other posts in the [Resources](/resources.html) section for links to competition and short fiction markets. ALWAYS read contracts and follow posted guidelines.
 
 ---
 
 <img src="/5-rates.png" width="95%;">
 
-###
+### Short Fiction Rates
+
+Graphic from [writingsmarter.com](http://writingsmarter.com).
+
+Always ALWAYS read the submission guidelines. There is variation between accepted story lengths and rates of pay. But this works fairly well as a general guideline. Note that professional writers tend to speak in terms of wordcount because page count varies depending on formatting and is an unreliable indicator. We really only use it to speak to readers who are used to thinking in those terms.
+
+Many short fiction "markets" do not pay. Some are prestigious; many are new and/or hobby projects for the founder. That doesn't mean they're automatically bad! They make be a good stepping stone or practice for beginners, or provide an outlet for those who love sharing their words but aren't bothered about the income side of things. As usual, always read the terms/contracts/guidelines to make sure you're not signing away more rights than you mean to.
+
+We'll look at rights/licensing in a bit, but it's good to keep in mind that the first sale is usually the most valuable and accessible to make, and consider holding out for a "higher" level market. Reprints aren't as widely accepted in paying markets, and it's harder work to place them. In general, I recommend shooting high and then working your way down a wishlist of possible story markets until a story lands.
+
+Magazines and other short fiction markets rarely pay on royalties, but the exception is anthologies. Sometimes they're paid in a lump sum upon signing, but "royalty-split" arrangements aren't uncommon. While your income is therefore unreliable, this can be a good option if you've built a platform of readers eager to pay for your work and/or the other authors in the anthology have a strong platform to market to as well.
+
+Token rates are generally in the $5-$40 range, where the market can't afford more but feels it's important to pay *something.* The Science Fiction Fantasy Writers of America ([sfwa.org](http://www.sfwa.org/about/join-us/sfwa-membership-requirements/?fbclid=IwAR1kwEOLL465fHfjtkEGuY0igU81ucK1a1krW5UPOYFpSrCpBkPb6nL4Pzg#short)) has set pro rates at $0.08/word, but you'll see anything from half a cent on up. Some markets also offer lump sum payments in the 100+ range. Generally, the more they pay, the more the competition, but don't self-reject—the worst they can do is say no! 
 
 ---
 
