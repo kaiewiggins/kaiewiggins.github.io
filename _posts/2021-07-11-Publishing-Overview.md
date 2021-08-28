@@ -1,5 +1,5 @@
 ---
-layout: resourcesposts
+layout: resourcespost
 title: Publishing Overview
 date: 2021-07-11
 category: resources
