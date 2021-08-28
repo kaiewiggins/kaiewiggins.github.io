@@ -37,7 +37,7 @@ You'll need people who are on your side (or at least willing to lend a hand temp
 
 If you intend to publish a book or otherwise care about getting your words out to readers, it's never too early to start. Nothing published to share yet? Build platforms (website/social media, etc.) around shouting about books you like, ideally ones that are similar to what you hope to write. By the time you're ready to search for readers, you'll have contacts who you can share the news with!
 
-And consider starting with something smaller and less resource intensive than a book. Short stories, fanfiction, and serial fiction are a few ways to get your words in front of readers with less pressure. Bite-sized content is a growing market *and* it's more doable for you, especially if you're balancing creating with a busy school or work schedule.
+And consider starting with something smaller and less resource intensive than a book, especially if you're a student. Short stories, fanfiction, and serial fiction are a few ways to get your words in front of readers with less pressure. Bite-sized content is a growing market *and* it's more doable for you, especially if you're balancing creating with a busy school or work schedule.
 
 See other posts in the [Resources](/resources.html) section for links to short fiction and serial fiction markets.
 
@@ -49,7 +49,17 @@ Quick aside: ALWAYS read the contracts before sharing your work and make sure yo
 
 <img src="/3-career.png" width="95%;">
 
-###
+### Establishing Your Reputation/Skill
+
+This section was originally intended for students, but writers of all ages can get into sharing their words for reputational purposes.
+
+Students may find it helpful in scholarship, college, or job applications. Adults may simply want the prestige, or use it as a (small) building block to a writing career.
+
+Awards and accolades don't sell lots of books. They can be useful in building a "brand" as a writer; however, and may lead to more opportunities or visibility over time. The scale and reputation of the award or byline also matters in some cases.
+
+While publishing as a teen may sound promising, it tends to be less of a selling point than you might think. Unless you're entering a student competition or otherwise required to disclose such details, avoid mentioning your age/grade.
+
+See other posts in the [Resources](/resources.html) section for links to competition and short fiction markets. ALWAYS read contracts and follow posted guidelines.
 
 ---
 
