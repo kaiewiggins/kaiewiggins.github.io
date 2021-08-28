@@ -99,13 +99,33 @@ Token rates are generally in the $5-$40 range, where the market can't afford mor
 
 <img src="/6-prep.png" width="95%;">
 
-###
+### Gut Check Break!
+
+I'll keep repeating this, but ALWAYS read the submission guidelines and follow them. Your story should be creative; your formatting and document presentation should not be. If no specifics are given, follow [Shunn Manuscript Format, modern edition](https://www.shunn.net/format/story/) as the default.
+
+Some competitions charge entrance fees. Some writing markets charge reading fees, but far from all. You can spend a lot of money *trying* to get published, but you don't have to. Avoid fee-charging markets or competitions unless you think your story has an excellent chance of earning the expense back or unless money is no object.
+
+It's easy to get caught up in the pursuit. After a few submissions, you just really *really* want an acceptance. Try to clarify your goals and keep them front and center. Write them down and post them in your workspace if that helps.
+
+On a related note, always read the contract. Some market post a sample one. Most competitions will also post terms. Some "opportunities" aren't. See other posts in the [Resources](/resources.html) section for links to reading, understanding and negotiating contracts.
+
+Consider the reader(s) before submitting. What kind of reader is likely to appreciate your story (if it's already written). What might the judges or first readers/editor care about and appreciate? You can research past award-winners or other stories in a magazine to get an idea, but if you're submitting a lot, it's not practical to do too much research.
+
+Finally, make yourself a tracking document or spreadsheet early on. Keep track of submissions, contract terms for licensed stories, and details of the stories themselves. This seems silly at first, but if you keep writing and submitting, you'll quickly get beyond the point where you can keep track in your head. See other posts in the [Resources](/resources.html) section for links to competition and short fiction markets, including online tracking sites.
 
 ---
 
 <img src="/7-IP.png" width="95%;">
 
-###
+### Licensing & YOU
+
+Experienced and prolific author/editor/publisher Dean Wesley Smith talks about the idea of a "magic bakery' when it comes to writing. You can read about it [in his own words](https://www.deanwesleysmith.com/the-magic-bakery-chapter-one/) and [in this excellent blog](https://kriswrites.com/business-musings ) by his wife, Kristine Kathryn Rusch. But, in a nutshell, the concept is that intellectual property—like our writing—can be sold over and over, in part and in whole, unlike other goods.
+
+Your work automatically belongs to you from the time of its creation. You own full copyright. (The exception is when you're writing as work-for-hire, or working on an IP project that belongs to someone else, like a Star Wars tie-in novel, for example.) Technically, you *could* transfer copyright in a sale (if you sign a terrible contract), but don't.
+
+Instead, you license the right to use the work in part or in whole. Some examples: Licensing first publication rights in English, then, when the exclusivity period expires, licensing reprint rights (over and over again) or publishing it yourself as a standalone or in a collection. You can also license (and re-license) translation rights, audio rights, production rights (for film/tv), merchandising rights, etc. All that off of one story (potentially).
+
+The moral of the story? Keep your copyright, don't license more rights than the licensee will use (to your benefit), and make sure your contracts aren't perpetual (so you can get licensed rights back eventually and re-license them.)
 
 ---
 
