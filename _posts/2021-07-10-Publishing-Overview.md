@@ -171,13 +171,16 @@ If you hate how structured this all is, welcome to the party. I fought this idea
 
 ---
 
-<img src="/10-wordcount.png" width="95%;"> | <img src="/11-40k.png" width="95%;"> | <img src="/12-YA.png" width="95%;">
+<img src="/10-wordcount.png" width="95%;">
+Word count graphics from [btleditorial.com](http://btleditorial.com) & [Reedsy](https://reedsy.com).
+
+<img src="/11-40k.png" width="95%;"> | <img src="/12-YA.png" width="95%;">
 
 ### Math For Authors
 
 Everyone's favourite, right? But hang in there, this comes in really handy.
 
-You can apply the turning point percentages we just looked at to a target wordcount to plan how to draft your novel. (word count graphics from
+You can apply the turning point percentages we just looked at to a target wordcount to plan how to draft your novel.
 
 ---
 
