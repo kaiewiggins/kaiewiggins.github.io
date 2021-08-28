@@ -153,43 +153,33 @@ Not much to add here. This is roughly what I do these days. It's pretty minimal 
  
 ---
  
-<div class="row" style="column-count: 2">
-<img src="/16-diagram1.png" width="95%;">
-
-<img src="/17-diagram-red.png" width="95%;">
-  </div>
+<img src="/16-diagram.png" width="95%;"> | <img src="/17-diagram-red.png" width="95%;">
 
 ### Story Mapping
   
 While all the charts and cards can look complex, the basic structure I'm using is a three act structure with four quarters.
 
-The first quarter 
+The first quarter and the first act map together and contain the inciting event early on (at about the 10% mark). Something disrupts the main character's ordinary life and sends them in a new direction. It ends around the 25% mark with the change of plans turning point. This is where the main character chooses (or gets dragged into) the adventure/quest/journey of the story.
 
+The second act is easiest to understand if you split it evenly in two. The first half is the character struggling to make forward progress and understand their situation/world/challenge/self etc. Around the 50% mark or midpoint turning point (end of the second quarter) they make a discovery or realization that shifts their trajectory. 
 
+Now, starting the third quarter, the main character(s) (thinks they) know what they need to do to succeed, though they still face obstacles. The second act/third quarter ends with the black moment turning point, the darkest point of the story, either figuratively or literally involving death. The main character may feel as though they've failed, there's no hope, maybe no point going on. They may be focused on revenge or retribution.
 
+But, into the final quarter/act, they'll need to rally enough to take on the greatest challenge of the story in the final turning point, the climax. Often this follows a mini arc of setting out, making progress, making a sudden realization that changes their perspective or goal, hitting a "black moment" of despair, and then rallying to overcome (in a positive story arc, at least). There's often an inner and outer component to this, the main character finding inner strength or understanding in order to overcome the outer challenge of the story. The last 10% or so of the final act wraps up the story by showing the new normal—and/or setting up a sequel.
 
-
----
-
-<img src="/10-wordcount.png" width="95%;">
-
-###
+If you hate how structured this all is, welcome to the party. I fought this idea *hard*—but it really does result in faster drafting and stories readers seem to enjoy more. And there's tons of room for creativity within this loose structure. Also, those percentages will come in handy in a moment.
 
 ---
 
-<img src="/11-40k.png" width="95%;">
+<img src="/10-wordcount.png" width="95%;"> | <img src="/11-40k.png" width="95%;"> | <img src="/12-YA.png" width="95%;">
 
-###
+### Math For Authors
 
----
+Everyone's favourite, right? But hang in there, this comes in really handy.
 
-<img src="/12-YA.png" width="95%;">
-
-###
+You can apply the turning point percentages we just looked at to a target wordcount to plan how to draft your novel. (word count graphics from
 
 ---
-
-
 
 <img src="/18-trad.png" width="95%;">
 
