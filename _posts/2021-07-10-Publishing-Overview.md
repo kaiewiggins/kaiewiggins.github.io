@@ -5,7 +5,7 @@ date: 2021-07-10
 category: resources
 ---
 
-These slides are from a series for young writers and present a rough and very broad overview of things to think about and possible next steps for emerging authors.
+These slides are from a series of workshops for young writers and present a rough and very broad overview of things to think about and possible next steps for emerging authors.
 
 ---
 
@@ -55,7 +55,9 @@ This section was originally intended for students, but writers of all ages can g
 
 Students may find it helpful in scholarship, college, or job applications. Adults may simply want the prestige, or use it as a (small) building block to a writing career.
 
-Awards and accolades don't sell lots of books. They can be useful in building a "brand" as a writer; however, and may lead to more opportunities or visibility over time. The scale and reputation of the award or byline also matters in some cases.
+Awards and accolades don't sell lots of books. They can be useful in building a "brand" as a writer; however, and may lead to more opportunities or visibility over time.
+
+Larger scale or higher profile awards or story markets can be more beneficial, but the competition will be higher. That's not to say don't enter—always take your shot! But local/regional and student-specific competitions/markets will be relatively easier to make a splash in. Also note that certain topics or styles will play better with some judging panels or editors/magazines than others. The closer you match their preferences, the more likely you are to get a 'yes' and that has nothing to do with skill or quality. (Don't get discouraged!)
 
 While publishing as a teen may sound promising, it tends to be less of a selling point than you might think. Unless you're entering a student competition or otherwise required to disclose such details, avoid mentioning your age/grade.
 
@@ -65,7 +67,7 @@ See other posts in the [Resources](/resources.html) section for links to competi
 
 <img src="/4-income.png" width="95%;">
 
-###
+### 
 
 ---
 
