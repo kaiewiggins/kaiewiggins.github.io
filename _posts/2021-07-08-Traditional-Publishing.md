@@ -1,5 +1,5 @@
 ---
-layout: resourcesposts
+layout: resourcespost
 title: Traditional Publishing
 date: 2021-07-08
 category: resources
