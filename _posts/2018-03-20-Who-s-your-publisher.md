@@ -13,7 +13,7 @@ Italian language ebook rights to *Letter From the End of the World* have been li
 
 Other short fiction has appeared in anthologies by Fiction-Atlas Press and in Enchanted Conversation: A Fairytale Magazine and Frozen Wavelets by The Earthian Hivemind.
 
-**For all rights and licensing enquiries, please [contact the rights holder at kaiewrites@gmail.com.](mailto:kaiewrites@gmail.com)**
+**For all rights and licensing enquiries, please [email kaiewrites@gmail.com.](mailto:kaiewrites@gmail.com)**
 
 ***
 
