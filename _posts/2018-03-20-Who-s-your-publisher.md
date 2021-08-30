@@ -11,7 +11,9 @@ Snowmelt & Stumps is an independent single-author imprint with no formal busines
 
 Italian language ebook rights to *Letter From the End of the World* have been licensed to Virgibooks, Inc. The translated edition is *Lettera dalla fine del mondo*.
 
-**For all rights and licensing enquiries, please [contact the rights holder.](mailto:kaiewrites@gmail.com)**
+Other short fiction has appeared in anthologies by Fiction-Atlas Press and in Enchanted Conversation: A Fairytale Magazine and Frozen Wavelets by The Earthian Hivemind.
+
+**For all rights and licensing enquiries, please [contact the rights holder at kaiewrites@gmail.com.](mailto:kaiewrites@gmail.com)**
 
 ***
 
@@ -29,13 +31,15 @@ Substantive/Line Edit on Blind the Eyes
 
 Plot Accelerator on Black the Tides
 
-Plot Accelerator on Threads of Dreams book 3
+Plot Accelerator on Burn the Skies
 
 [Catherine Milos](https://alchemy.catherinemilos.com/)
 
 Proofread on Blind the Eyes
 
 Copy Edit with Developmental Notes on Black the Tides
+
+Copy Edit with Developmental Notes on Burn the Skies
 
 [Regina Wamba of Mae I Design](http://www.maeidesign.com/)
 
@@ -47,6 +51,10 @@ Digital and Print Cover Design on the 2020 update "Horror" variant of Blind the 
 
 Digital and Print Cover Design on Black the Tides
 
+Digital and Print Cover Design on Burn the Skies
+
+Modifications have since been made to all three designs.
+
 [Morgan Wright](https://www.morganwrightbooks.com/morgan-wright-book-cover-animations)
 
-Cover animations for Blind the Eyes and Black the Tides
+Cover animations for Blind the Eyes, Black the Tides & Burn the Skies
