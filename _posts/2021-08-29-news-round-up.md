@@ -21,7 +21,11 @@ Not sure I'm allowed to share the news yet, but there's a super fun awards nomin
 
 #### Instagram Catastrophe
 
-On the not-so-fun news side, my Instagram (@kaie.space) got unexpectedly shut down. Not sure if I got hacked or flagged by bots or something else, but it doesn't appear to be recoverable. Sad to lose 3,000+ connections and 5+ years of work, but moving on and starting over with a new handle. Join me [@kaiewiggins](https://instagram.com/kaiewiggins) for pretty(?) book photos and book reccs featuring YA fantasy and Canadian authors!
+On the not-so-fun news side, my Instagram (@kaie.space) got unexpectedly shut down. Not sure if I got hacked or flagged by bots or something else, but it doesn't appear to be recoverable. Sad to lose 3,000+ connections and 5+ years of work, but moving on and starting over with a new handle. Join me [@kaiewiggins](https://instagram.com/kaiewiggins) for pretty(?) book photos and book recs featuring YA fantasy and Canadian authors!
+
+#### Student Showcase & Recommended Resources
+
+Just launched two new website sections to feature creative projects by emerging writers I've had the privilege to teach and compile writing and publishing resources. Between teaching and leading CWILL, I've been getting an increasing number of questions about where to start with x or y, so while I'm no publishing guru, hopefully this provides a helpful starting point to refer questions to. It'll likely grow as I have time and questions increase. Students of past workshops or who I've connected with at presentations are welcome to get in touch at any time with a creative project they'd like featured on the showcase page.
 
 #### Up Next
 
