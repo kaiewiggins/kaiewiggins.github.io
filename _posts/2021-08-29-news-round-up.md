@@ -19,9 +19,9 @@ The Children's Writers and Illustrators of British Columbia society elected me a
 
 Not sure I'm allowed to share the news yet, but there's a super fun awards nomination in the works that I'll be able to shout about soon. Thanks to whoever nominated me, btw!
 
-#### Instagram Catastrophe
+#### ~~Instagram Catastrophe~~ UPDATE: It's back!
 
-On the not-so-fun news side, my Instagram (@kaie.space) got unexpectedly shut down. Not sure if I got hacked or flagged by bots or something else, but it doesn't appear to be recoverable. Sad to lose 3,000+ connections and 5+ years of work, but moving on and starting over with a new handle. Join me [@kaiewiggins](https://instagram.com/kaiewiggins) for pretty(?) book photos and book recs featuring YA fantasy and Canadian authors!
+~~On the not-so-fun news side, my Instagram (@kaie.space) got unexpectedly shut down. Not sure if I got hacked or flagged by bots or something else, but it doesn't appear to be recoverable. Sad to lose 3,000+ connections and 5+ years of work, but moving on and starting over with a new handle. Join me [@kaiewiggins](https://instagram.com/kaiewiggins) for pretty(?) book photos and book recs featuring YA fantasy and Canadian authors!~~ Main account [@kaie.space](https://instagram.com/kaie.space) was reinstated (after a month . . . ) with their apologies, so we're back up and running!
 
 #### Student Showcase & Recommended Resources
 
