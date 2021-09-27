@@ -11,4 +11,4 @@ Spent a few days on correspondence, recorded [print/blog](https://www.cbc.ca/new
 
 The upshot of all this is that it gave us the kick in the pants we needed to finally launch our (CWILL BC) planned giveaway! If you live in British Columbia, [click here](https://cwillbc.wordpress.com/2021/09/24/celebrate-local-lit-by-entering-our-give-away/) to enter to win a stack of kids books in time for the holidays OR a free author or illustrator visit via Zoom.
 
-[![](/Celebrate Local Lit Giveaway-landscape (1).gif)](https://cwillbc.wordpress.com/2021/09/24/celebrate-local-lit-by-entering-our-give-away/) to enter to win a stack of kids books in time for the holidays OR a free author or illustrator visit via Zoom.
+<a href="https://cwillbc.wordpress.com/2021/09/24/celebrate-local-lit-by-entering-our-give-away/" target="_blank"><img src="/Celebrate Local Lit Giveaway-landscape (1).gif" width="80%"></a>
