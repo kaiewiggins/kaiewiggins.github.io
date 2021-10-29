@@ -6,8 +6,7 @@ category: news
 ---
 
 Just a quick heads-up on two new developments before I retreat into heavy-duty drafting mode!
-
-[![](https://www.ireadbooktours.com/uploads/5/0/0/5/5005989/blind-the-eyes-tour-banner_orig.jpg)](https://www.ireadbooktours.com/blog---current-tours/spotlight-book-tour-blind-the-eyes-a-dystopian-gothic-ya-urban-fantasy-by-ka-wiggins)
+<a href="https://www.ireadbooktours.com/blog---current-tours/spotlight-book-tour-blind-the-eyes-a-dystopian-gothic-ya-urban-fantasy-by-ka-wiggins" target="_blank"><img src="https://www.ireadbooktours.com/uploads/5/0/0/5/5005989/blind-the-eyes-tour-banner_orig.jpg" style="width:80%"></a>
 
 ### 1. Blog Tour
 
