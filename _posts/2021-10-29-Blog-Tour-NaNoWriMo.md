@@ -18,9 +18,11 @@ And here come the blogs! I'll link to the ones with custom content (guest blog o
  - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
  - Nov 29 – Guest post on *Monsters, Towers, and Lost Girls* at [GivernyReads](https://www.givernyreads.com/2021/11/29/blind-the-eyes-guest-post/)
 
-<a class="e-widget" href=https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway rel="nofollow">BLIND THE EYE by KA Wiggins Book Tour Giveaway</a>
+<div>
+<a class="e-widget" href=https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway rel="nofollow">BLIND THE EYES by KA Wiggins Book Tour Giveaway</a>
 
 <script type="text/javascript" src=https://widget.gleamjs.io/e.js async="true"></script>
+</div>
 
 **OP: Oct. 29**
 
