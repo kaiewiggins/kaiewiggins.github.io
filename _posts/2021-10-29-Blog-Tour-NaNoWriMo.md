@@ -10,6 +10,20 @@ Just a quick heads-up on two new developments before I retreat into heavy-duty d
 
 ### 1. Blog Tour
 
+**UPDATE**
+
+And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below, as well as the giveaway:
+
+ - Nov 26 – Guest post on *Horror and Faith* at [Splashes of Joy](https://splashesofjoy.wordpress.com/2021/11/26/giveaway-tour-blind-the-eyes-by-k-a-wiggins/)
+ - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
+ - Nov 29 – Guest post on *Monsters, Towers, and Lost Girls* at [GivernyReads](https://www.givernyreads.com/2021/11/29/blind-the-eyes-guest-post/)
+
+<a class="e-widget" href=https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway rel="nofollow">BLIND THE EYE by KA Wiggins Book Tour Giveaway</a>
+
+<script type="text/javascript" src=https://widget.gleamjs.io/e.js async="true"></script>
+
+**OP: Oct. 29**
+
 I've got a blog tour coming up for *Blind the Eyes* (as a result of winning the Page Turner Awards tour prize last year) so I'll have a bunch of interviews and blogs for you to check out in late November to early December.
 
 I also just wanted to offer, if there are any bloggers among my readers who want to get in on the fun (and take advantage of the free content), you can check out all the details and sign up [here](https://www.ireadbooktours.com/blog---current-tours/spotlight-book-tour-blind-the-eyes-a-dystopian-gothic-ya-urban-fantasy-by-ka-wiggins).
@@ -17,6 +31,12 @@ I also just wanted to offer, if there are any bloggers among my readers who want
 And there'll be another chance to win a special edition hardcover coming as part of the tour!
 
 ### 2. #NaNoWriMo2021
+
+**UPDATE**
+
+So, uh, this went shockingly well? About 55k words in the first 11 days of the month over 45-50 hours and a messy zero draft is born! In unrelated news, why do my hands hurt???
+
+**OP: Oct. 29**
 
 If you've never stumbled across National Novel Writing Month before, it's a now-international challenge to write a novel (or rather, 50,000 words of one) in the month of November. I tried it out way back in the dark days of 2020 and produced most of *Burn the Skies*, wrapping up the Threads of Dreams series.
 
