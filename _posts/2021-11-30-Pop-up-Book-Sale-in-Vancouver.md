@@ -17,7 +17,7 @@ category: events
 
 **Type:** Book and Craft Sale + Live Reading 
 
-Fantastic BC small press [Pulp Literature]() is hosting a local author book (+craft+art) sale in the super cool and spacious Academie Duello swordplay school space in Gastown and you need to check it out!
+Fantastic BC small press [Pulp Literature](https://pulpliterature.com/) is hosting a local author book (+craft+art) sale in the super cool and spacious Academie Duello swordplay school space in Gastown and you need to check it out!
 
 It's open from 4-7 pm, and I'll be rushing over my workshops end at 5 in Coquitlam, so come say hi if you're there after 6! My books will be stocked all event, and friends' books you should definitely also pick up while you're there include CWILLers [Bryce Raffle](http://www.bryceraffle.com/), [Cynthia Heinrichs](https://cynthiaheinrichsauthor.wordpress.com/), and [Ellen Schwartz](https://www.ellenschwartz.net/), plus Vancouver-area author [Tanya Lisle](https://tanyalisle.com/)! 
 
