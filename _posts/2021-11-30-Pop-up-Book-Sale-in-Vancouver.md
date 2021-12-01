@@ -5,7 +5,7 @@ date: 2021-11-30
 category: events
 ---
 
-<a href="https://www.facebook.com/events/975573233365483/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D" target="_blank"><img style="width:80%" scr="https://scontent.fyvr3-1.fna.fbcdn.net/v/t39.30808-6/259648134_5064451160234876_5404785814169980620_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=340051&_nc_ohc=Rel21QKB3gEAX9jjFMp&_nc_ht=scontent.fyvr3-1.fna&oh=77c43ea96406c57e60cfccb9b08068ad&oe=61AAF294"></a>
+<a href="https://www.facebook.com/events/975573233365483/" target="_blank"><img style="width:80%" src="https://scontent.fyvr3-1.fna.fbcdn.net/v/t39.30808-6/259648134_5064451160234876_5404785814169980620_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=340051&_nc_ohc=Rel21QKB3gEAX9jjFMp&_nc_ht=scontent.fyvr3-1.fna&oh=77c43ea96406c57e60cfccb9b08068ad&oe=61AAF294"></a>
 
 ## Pop-Up Book Sale
 
