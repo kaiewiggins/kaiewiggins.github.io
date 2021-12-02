@@ -14,9 +14,11 @@ Just a quick heads-up on two new developments before I retreat into heavy-duty d
 
 And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below. You can enter the giveaway on any of those blogs or by clicking [here](https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway).
 
- - Nov 26 – Guest post on *Horror and Faith* at [Splashes of Joy](https://splashesofjoy.wordpress.com/2021/11/26/giveaway-tour-blind-the-eyes-by-k-a-wiggins/)
- - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
+ - Dec 2 – Guest post on *Chasing Nightmares* at [Westveil Publishing](https://www.westveilpublishing.com/?p=13119)
+ - Dec 1 – Interview at [Cover Lover Book Review](https://coverloverbookreview.blogspot.com/2021/12/giveaway-interview-blind-eyes.html)
  - Nov 29 – Guest post on *Monsters, Towers, and Lost Girls* at [GivernyReads](https://www.givernyreads.com/2021/11/29/blind-the-eyes-guest-post/)
+ - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
+ - Nov 26 – Guest post on *Horror and Faith* at [Splashes of Joy](https://splashesofjoy.wordpress.com/2021/11/26/giveaway-tour-blind-the-eyes-by-k-a-wiggins/)
 
 **OP: Oct. 29**
 
