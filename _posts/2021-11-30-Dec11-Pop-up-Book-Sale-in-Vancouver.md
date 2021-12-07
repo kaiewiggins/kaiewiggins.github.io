@@ -5,7 +5,7 @@ date: 2021-11-30
 category: events
 ---
 
-<a href="https://www.facebook.com/events/975573233365483/" target="_blank"><img style="width:80%" src="https://scontent.fyvr3-1.fna.fbcdn.net/v/t39.30808-6/259648134_5064451160234876_5404785814169980620_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=340051&_nc_ohc=Rel21QKB3gEAX9jjFMp&_nc_ht=scontent.fyvr3-1.fna&oh=77c43ea96406c57e60cfccb9b08068ad&oe=61AAF294"></a>
+<a href="https://www.facebook.com/events/975573233365483/" target="_blank"><img style="width:80%" src="https://pbs.twimg.com/media/FF9Gh04VcAIYc8y?format=jpg&name=large"></a>
 
 ## Pop-Up Book Sale
 
@@ -19,7 +19,7 @@ category: events
 
 Fantastic BC small press [Pulp Literature](https://pulpliterature.com/) is hosting a local author book (+craft+art) sale in the super cool and spacious Academie Duello swordplay school space in Gastown and you need to check it out!
 
-It's open from 4-7 pm, and I'll be rushing over my workshops end at 5 in Coquitlam, so come say hi if you're there after 6! My books will be stocked all event, and friends' books you should definitely also pick up while you're there include CWILLers [Bryce Raffle](http://www.bryceraffle.com/), [Cynthia Heinrichs](https://cynthiaheinrichsauthor.wordpress.com/), and [Ellen Schwartz](https://www.ellenschwartz.net/), plus Vancouver-area author [Tanya Lisle](https://tanyalisle.com/)! 
+It's open from 4-7 pm, and I'll be rushing over after my workshops end at 5 in Coquitlam, so come say hi if you're there after 6! My books will be stocked all event, and friends' books you should definitely also pick up while you're there include CWILLers [Bryce Raffle](http://www.bryceraffle.com/), [Cynthia Heinrichs](https://cynthiaheinrichsauthor.wordpress.com/), and [Ellen Schwartz](https://www.ellenschwartz.net/), plus Vancouver-area author [Tanya Lisle](https://tanyalisle.com/)! 
 
 Masks and vaccine passports will be required. It's a large space, so crowding shouldn't be an issue. 
 
