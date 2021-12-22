@@ -14,7 +14,7 @@ Just a quick heads-up on two new developments before I retreat into heavy-duty d
 
 You can enter the giveaway on any of those blogs or by clicking [here](https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway) until 11:59 PM EST on Dec. 24, 2021.
 
-<a href="https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway" target="_blank"><img src="https://twitter.com/i/status/1473412978858811394" style="width:80%"></a>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">A haunted teen outcast &amp; her snarky ghost outwit monsters, enforcers &amp; the scars of their stolen past in a race to expose a (un)deadly conspiracy in this award-winning <a href="https://twitter.com/hashtag/gothic?src=hash&amp;ref_src=twsrc%5Etfw">#gothic</a> <a href="https://twitter.com/hashtag/YA?src=hash&amp;ref_src=twsrc%5Etfw">#YA</a> <a href="https://twitter.com/hashtag/Fantasy?src=hash&amp;ref_src=twsrc%5Etfw">#Fantasy</a>👻💀✨<br><br>Enter to win hardcover edition: <a href="https://t.co/MNGFprhrwt">https://t.co/MNGFprhrwt</a><a href="https://twitter.com/hashtag/BookGiveaway?src=hash&amp;ref_src=twsrc%5Etfw">#BookGiveaway</a> <a href="https://twitter.com/hashtag/BookTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#BookTwitter</a> <a href="https://t.co/jd9Uq0yZS7">pic.twitter.com/jd9Uq0yZS7</a></p>&mdash; K.A. Wiggins finished Spooky MG for #NaNoWriMo👻 (@kaiespace) <a href="https://twitter.com/kaiespace/status/1473412978858811394?ref_src=twsrc%5Etfw">December 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below. 
