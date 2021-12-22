@@ -19,6 +19,7 @@ You can enter the giveaway on any of those blogs or by clicking [here](https://g
 
 And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below. 
 
+ - Dec 20 – Bonus: Q&A on *Humor in Books, and Other Places, Too!* at [K.R.R. Lockhaven](https://www.krrlockhaven.com/single-post/humor-in-books-and-other-places-too-an-interview-with-k-a-wiggins)
  - Dec 17 – Interview at [Girl with Pen](http://victoriazumbrumsreviews.blogspot.com/2021/12/blind-eyes-by-ka-wiggins-and-author.html)
  - Dec 15 – Guest post on *Horror, but make it Fantasy* at [Jazzy Book Reviews](https://www.jazzybookreviews.com/2021/12/blind-eyes-by-ka-wiggins-book-tour.html)
  - Dec 14 – Interview at [Books, Tea, Healthy Me](https://booksteahealthyme.home.blog/2021/12/14/author-interview-k-a-wiggins-author-of-blind-the-eyes/)
