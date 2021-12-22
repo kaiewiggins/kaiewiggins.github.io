@@ -12,13 +12,26 @@ Just a quick heads-up on two new developments before I retreat into heavy-duty d
 
 **UPDATE**
 
-And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below. You can enter the giveaway on any of those blogs or by clicking [here](https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway).
+You can enter the giveaway on any of those blogs or by clicking [here](https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway) until 11:59 PM EST on Dec. 24, 2021.
 
+<a href="https://gleam.io/xMYhs/blind-the-eye-by-ka-wiggins-book-tour-giveaway" target="_blank"><img src="https://twitter.com/i/status/1473412978858811394" style="width:80%"></a>
+
+
+And here come the blogs! I'll link to the ones with custom content (guest blog or interview) below. 
+
+ - Dec 17 – Interview at [Girl with Pen](http://victoriazumbrumsreviews.blogspot.com/2021/12/blind-eyes-by-ka-wiggins-and-author.html)
+ - Dec 15 – Guest post on *Horror, but make it Fantasy* at [Jazzy Book Reviews](https://www.jazzybookreviews.com/2021/12/blind-eyes-by-ka-wiggins-book-tour.html)
+ - Dec 14 – Interview at [Books, Tea, Healthy Me](https://booksteahealthyme.home.blog/2021/12/14/author-interview-k-a-wiggins-author-of-blind-the-eyes/)
+ - Dec 9 – Interview at [Gina Rae Mitchell](https://ginaraemitchell.com/blind-the-eyes/)
+ - Dec 9 – Interview at [The Bookshelf Scout](https://www.bookshelfscout.com/post/q-a-with-author-k-a-wiggins)
+ - Dec 7 – Guest post on *Read Spooky Not Scary!* at [StoreyBook Reviews](https://storeybookreviews.com/2021/12/guest-post-giveaway-blind-the-eyes/)
+ - Dec 6 – Guest post on *Designing the Future* at [Character Madness and Musings](https://jenabaxterbooks.blogspot.com/2021/12/blind-eyes-dystopian-gothic-ya-urban.html)
  - Dec 2 – Guest post on *Chasing Nightmares* at [Westveil Publishing](https://www.westveilpublishing.com/?p=13119)
  - Dec 1 – Interview at [Cover Lover Book Review](https://coverloverbookreview.blogspot.com/2021/12/giveaway-interview-blind-eyes.html)
+ - Nov 30 – Interview at [booking.with.janelle](https://www.instagram.com/p/CW6GoyprbRm/?utm_source=ig_web_copy_link) 
  - Nov 29 – Guest post on *Monsters, Towers, and Lost Girls* at [GivernyReads](https://www.givernyreads.com/2021/11/29/blind-the-eyes-guest-post/)
- - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
  - Nov 26 – Guest post on *Horror and Faith* at [Splashes of Joy](https://splashesofjoy.wordpress.com/2021/11/26/giveaway-tour-blind-the-eyes-by-k-a-wiggins/)
+ - Nov 26 - Guest post on *Reclaiming Monsters and Magic* at [Locks, Hooks and Books](https://amybooksy.blogspot.com/2021/11/blog-tour-and-giveaway-blind-eyes-by-ka.html)
 
 **OP: Oct. 29**
 
