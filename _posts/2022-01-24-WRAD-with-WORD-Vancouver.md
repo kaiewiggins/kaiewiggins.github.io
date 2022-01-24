@@ -25,4 +25,4 @@ I'll be hosting this event, organized by the lovely folks at [WORD Vancouver](ht
 
 Also, don't miss our Q&A bookmark giveaway and grand prize giveaway of books by the authors. [**Learn More**](https://cwillbc.wordpress.com/2022/01/21/world-read-aloud-day-2022/)
 
-<a href="https://pskd66.sociamonials.com/wrad-2022-giveaway/c16561/" target="_blank"><img src="https://cwillbc.files.wordpress.com/2022/01/wrad2022-landscape.gif?w=640&zoom=2" style="width:40%;"></a> | <a href="https://forms.gle/3EYhQjGFsvnH641S6" target="_blank"><img src="https://cwillbc.files.wordpress.com/2022/01/wrad2022schools-landscape.jpg" style="width:40%;"></a> 
+<a href="https://pskd66.sociamonials.com/wrad-2022-giveaway/c16561/" target="_blank"><img src="https://cwillbc.files.wordpress.com/2022/01/wrad2022-landscape.gif?w=640&zoom=2" style="width:90%;"></a> | <a href="https://forms.gle/3EYhQjGFsvnH641S6" target="_blank"><img src="https://cwillbc.files.wordpress.com/2022/01/wrad2022schools-landscape.jpg" style="width:90%;"></a> 
