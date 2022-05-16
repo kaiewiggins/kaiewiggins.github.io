@@ -29,6 +29,6 @@ But editors LOVE it. Here's some of my favourite rejection notes:
  
  - "It's fun in its own insane, visceral way."
  
-And from Hungry Shadow Press's very own Brandon Applegate: "It's exactly the kind of bonkers, inside-baseball, disgustingly great spin on a well worn trope I was looking for when I started putting this together." (!!) Seriously, just absolutely glowing over here! And can't wait to see what else made it in (28 stories total)
+And from Hungry Shadow Press's very own Brandon Applegate: "It's exactly the kind of bonkers, inside-baseball, disgustingly great spin on a well worn trope I was looking for when I started putting this together." (!!) Seriously, just absolutely glowing over here! And can't wait to see what else made it in (28 stories total~)
 
  So, look forward to this insane, funny, and somehow happy (?!) gross-out horror comedy and a truly awesome linup of other horror stories one day soon!
