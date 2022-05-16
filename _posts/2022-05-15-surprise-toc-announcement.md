@@ -12,6 +12,7 @@ The results are in from the Writers of the Future awards (which is HUGE). Childr
 But that nice little accolade is overshadowed by the sudden and star-studded Table of Contents drop of It Was All A Dream: An Anthology of Bad Horror Tropes Done Right:
 
 <a href="" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/61168d1023351869e9565752/bac27e7c-d808-4180-a868-ba232d6c7a24/toc-announcement.png?format=2500w" style="width: 95%"></a>
+
 *Art by [Evangeline Gallagher](https://linktr.ee/evangelinegallagher)*
   
 Why, yes, that *is* THE Wendy N. Wagner's name just above mine! AND Gabino Iglesias to the left of hers! In fact, please, go ahead and just take a moment to absorb that fantastic lineup!
