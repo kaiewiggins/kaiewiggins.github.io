@@ -7,7 +7,7 @@ category: news
 
 # Check out this star-studded line up!
 
-The results are in from the Writers of the Future awards (which is HUGE). Children of Earth got an honourable mention!
+The results are in from the Writers of the Future awards (which is HUGE). [Children of Earth got an honourable mention!](https://www.writersofthefuture.com/writers-of-the-future-1st-quarter-winners-announced-for-volume-39/)
 
 But that nice little accolade is overshadowed by the sudden and star-studded Table of Contents drop of It Was All A Dream: An Anthology of Bad Horror Tropes Done Right:
 
