@@ -19,7 +19,7 @@ So, yeah, buckle up for a complete series relaunch:
 - The new edition of *Blind the Eyes* launches the same day [get the new BTE edition](https://books2read.com/thread1)
 - *Black the Tides* is scheduled for July 6
 - *Burn the Skies* will relaunch in August
-- and the short fiction titles will hit stores throughout the fall (but newsletter subscribers can grab their copies now!)[Subscribe here]()
+- and the short fiction titles will hit stores throughout the fall (but newsletter subscribers can grab their copies now!)[Subscribe here](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter)
 
 Thanks for your patience as I work through these updates—pages and links might be a little wonky in the transition (and the reason everything doesn't drop June 1 is there's a ton of work on the backend to get all the pieces in play.)
 
