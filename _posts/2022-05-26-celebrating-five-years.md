@@ -23,4 +23,8 @@ So, yeah, buckle up for a complete series relaunch:
 
 Thanks for your patience as I work through these updates—pages and links might be a little wonky in the transition (and the reason everything doesn't drop June 1 is there's a ton of work on the backend to get all the pieces in play.)
 
-And check back throughout June 1 for more fun news drops!
+Also, don't miss the giveaway!
+
+### Enter to Win!
+
+<iframe src="https://pskd66.sociamonials.com/5th-anniversary-celebration-paperback-giveaway/c17906/" class="sm_iframe_main" width="517" height="500" frameborder="0" ></iframe><script type="text/javascript" src="https://pskd66.sociamonials.com/campaign/js/smiframwidget.js"></script>
