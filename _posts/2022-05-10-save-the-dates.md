@@ -7,15 +7,27 @@ category: events
 
 ## Save the Date #1: WORD Vancouver Festival
 
-**Date:** September 25, 2022
+**Date:** September 19,24-25, 2022
 
-**Time:** TBC
+**Time:** Various
 
-**Location:** SFU Harbour Centre
+**Location:** Surrey Central Library (Saturday, Sep. 24) / SFU Harbour Centre (Sunday, Sep. 25)
 
-**Type:** Panel
+**Type:** Panels, Readings, Activities, Book Sale, Giveaway & More
 
-I'll be moderating a panel on children's publishing featuring [CWILLers](https://cwillbc.org) Claire Lordon, Sara Leach, Bryce Raffle & Danielle S. Marcotte at [WORD Vancouver](https://www.wordvancouver.ca/) festival, time TBC. Stop by our table in the exhibitor's hall for free bookmarks and enter our giveaway. And teachers/librians/home learners won't want to miss Kari Rust's WORD-sponsored free virtual school talk in the week leading up. More details to come [**here**](https://www.wordvancouver.ca/).
+Join CWILL BC at [WORD Vancouver 2022](https://www.wordvancouver.ca/)!
+
+Our authors and illustrators are offering virtual midweek sessions (schools, libraries, home learners etc. encouraged to tune in!), we'll be offering a children's activity center on Saturday, and hosting a table in the exhibitor's hall on Sunday. Stop by to say hi, grab some free bookmarks, and enter our giveaway!
+
+I'll be moderating the following events (subject to change as we finalize all the details!):
+
+ - A panel for Early Readers (roughly Kindergarten to Grade 3) featuring author-illustrator Kari Rust and Darren Lebeuf on Monday, September 19, 2022 from (9:30-10:15 am on Zoom
+
+ - **Twists and Turns** A Reading/Conversation Circle for Middle Grade Readers (roughly grades 4–6) featuring Emily Seo and Bree Galbraith on Saturday, Sep. 24 at Surrey Central Library from 1-2 pm: "Life can be full of twists and turns especially when you’re trying to fit in, help family and friends, and ultimately find out who you are. Join these two authors as they share their characters’ unique ways of being true to themselves in a world full of questions and observations."
+
+ - A panel on children's publishing (for writers/illustrators) featuring Claire Lordon, Sara Leach, Bryce Raffle & Danielle S. Marcotte on Sunday, Sep. 25 at SFU Harbour Centre from 11:30-12:30
+
+More details to come [**here**](https://www.wordvancouver.ca/).
 
 ## Save the Date #2: CWILL BC Presents: 2022 BC Books + Intro to Collaborating with Local Authors at BCTLA Fall Conference
 
