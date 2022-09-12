@@ -11,15 +11,15 @@ category: news
 
 I've just seen the print proofs for **<a href="https://www.hungryshadowpress.com/it-was-all-a-dream" target="_blank">It Was All A Dream: An Anthology of Bad Horror Tropes Done Right</a>** and this is one you won't want to miss!
 
-The star-studded lineup alone makes it one of the most exciting anthologies of Spooky Season 2022(TM), but the creepy/schlocky, retro-horror-movie black-and-white interior illustrations for each story makes this not only an incredible read for horror lovers, but a real show-stopper for your shelves.
+The star-studded lineup alone makes it one of the most exciting anthologies of Spooky Season 2022(TM), but the creepy/schlocky, retro-horror-movie black-and-white interior illustrations for each story make this not only an incredible read for horror lovers, but a real show-stopper for your shelves.
 
-Swing by the publisher's site to <a href="https://www.hungryshadowpress.com/it-was-all-a-dream" target="_blank">grab your copy</a> (drops October 18, 2022/preorders open now).
+Swing by the publisher's site to **<a href="https://www.hungryshadowpress.com/it-was-all-a-dream" target="_blank">grab your copy</a>** (drops October 18, 2022/preorders open now).
 
-Brandon at Hungry Shadow Press has really been working overtime making this an exciting launch. Here's a bunch of us chatting horror and weird fiction on <a href="https://www.youtube.com/watch?v=rMAmXyUKWbo" target="_blank">Bonehead Weekly's Show</a> and <a href="https://www.hungryshadowpress.com/news" target="_blank">watch this space</a> for art reveals and interviews with many of the authors about their inspiration and insights into each trope-story pairing (mine drops October 12!)
+Brandon at Hungry Shadow Press has really been working overtime making this an exciting launch. Here's a bunch of us chatting horror and weird fiction on **<a href="https://www.youtube.com/watch?v=rMAmXyUKWbo" target="_blank">Bonehead Weekly's Show</a>** and **<a href="https://www.hungryshadowpress.com/news" target="_blank">watch this space</a>** for art reveals and interviews with many of the authors about their inspiration and insights into each trope-story pairing (mine drops October 12!)
   
-Content note: while I write for middle grade, young adult, and all-ages audiences, and my story in this anthology is suitable for my regular audience, the anthology as a whole is recommended for adult horror fans.
+Content note: while I write for middle grade, young adult, and all-ages audiences and my story in this anthology is suitable for my regular audience, the anthology as a whole is recommended for adult horror fans.
 
-Speaking of my weird-horror-humour short in this anthology, **Castoffs**, it went through five versions and amassed almost 40 rejections before finding its home (all it takes is one 'yes'—hang in there, writers!)
+Speaking of my weird-horror-humour short in this anthology, "Castoffs", it went through five versions and amassed almost 40 rejections before finding its home (all it takes is one 'yes'—hang in there, writers!)
 
 Here are some of my favourite rejection notes:
 
@@ -31,4 +31,4 @@ Here are some of my favourite rejection notes:
  
 And from Hungry Shadow Press's very own Brandon Applegate: "It's exactly the kind of bonkers, inside-baseball, disgustingly great spin on a well worn trope I was looking for when I started putting this together."
 
- Don't miss this insane, funny, and somehow happy (?!) gross-out horror comedy and a truly awesome linup of other horror stories! Preorder now at <a href="https://www.hungryshadowpress.com/it-was-all-a-dream" target="_blank">hungryshadowpress.com</a>
+ Don't miss this insane, funny, and somehow happy (?!) gross-out horror comedy and a truly awesome linup of other horror stories! Preorder now at **<a href="https://www.hungryshadowpress.com/it-was-all-a-dream" target="_blank">hungryshadowpress.com</a>**
