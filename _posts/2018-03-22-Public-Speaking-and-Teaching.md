@@ -1,6 +1,6 @@
 ---
 layout: FAQpost
-title: School Visits, Public Speaking & Teaching
+title: Public Speaking & Teaching
 date: 2018-03-22
 category: faq
 ---
