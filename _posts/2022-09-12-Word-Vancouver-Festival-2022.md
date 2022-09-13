@@ -5,6 +5,8 @@ date: 2022-09-12
 category: events
 ---
 
+## Word Vancouver Festival 2022
+
 **Date:** September 19, 24-25, 2022
 
 **Time:** Various
