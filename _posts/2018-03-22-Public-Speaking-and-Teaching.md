@@ -1,6 +1,6 @@
 ---
 layout: FAQpost
-title: Public Speaking & Teaching
+title: Public Speaking and Teaching
 date: 2018-03-22
 category: faq
 ---
