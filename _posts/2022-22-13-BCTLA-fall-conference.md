@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: BCTLA Fall Conference
-date: 2022-22-13
+date: 2022-09-13
 category: events
 ---
 
