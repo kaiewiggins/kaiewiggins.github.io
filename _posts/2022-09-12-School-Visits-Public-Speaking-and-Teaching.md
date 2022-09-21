@@ -5,6 +5,8 @@ date: 2022-09-12
 category: faq
 ---
 
+<img src="/eventbanner.jpg" style="width:100%; margin: 0em 0em 2em 0em;">
+
 I'm passionate about encouraging, inspiring, and equipping readers and writers of all ages and welcome the opportunity to join events including festivals, conferences, school visits, camps and workshops, and more, schedule permitting.
 
 ## Experience
