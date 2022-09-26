@@ -25,6 +25,6 @@ I'll be on site all weekend helping out with free drop-in kids activities, runni
 
  - **Twists and Turns** A Reading/Conversation Circle for Middle Grade Readers (roughly grades 4–6) featuring Emily Seo and Bree Galbraith on Saturday, Sep. 24 at Surrey City Centre Library from 1-2 pm: "Life can be full of twists and turns especially when you’re trying to fit in, help family and friends, and ultimately find out who you are. Join these two authors as they share their characters’ unique ways of being true to themselves in a world full of questions and observations."
 
- - A panel on children's publishing (for aspiring writers/illustrators & kidlit fans) featuring Claire Lordon, Sara Leach, Bryce Raffle & Danielle S. Marcotte on Sunday, Sep. 25 at SFU Harbour Centre from 11:30-12:30
+ - A panel on children's publishing (for aspiring writers/illustrators & kidlit fans) featuring Claire Lordon, Sara Leach, Bryce Raffle & Danielle S. Marcotte on Sunday, Sep. 25 at SFU Harbour Centre from 11:30-12:30 **[WATCH THE RECORDING HERE](https://youtu.be/8lWvixyFOwQ)**
 
 Check out the full list of **[CWILLers at the festival, free drop-in activities, and giveaways](https://cwillbc.wordpress.com/2022/08/22/cwillers-at-word-vancouver-2022-festival/)** and browse the **[whole schedule here!!](https://www.wordvancouver.ca/)**.
