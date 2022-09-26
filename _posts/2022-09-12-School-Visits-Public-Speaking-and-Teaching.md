@@ -11,23 +11,23 @@ I'm passionate about encouraging, inspiring, and equipping readers and writers o
 
 ## Experience
 
-I publish short, novelette, novella, and novel-length speculative fiction (fantasy, science fiction & horror) for middle grade (=kids), young adult, and adult readers, and have experience in speaking to elementary, middle school/junior high, high school, and adult audiences.
+I publish short, novelette, novella, and novel-length speculative fiction (fantasy, science fiction & horror) for middle grade (=kids), young adult (=teens & up), and adult readers, and have experience in speaking to elementary, middle school/junior high, high school, and adult audiences.
 
 I'm a registered speaker with (and, as of 2021, president of) the Children's Writers & Illustrators of British Columbia (CWILL BC) Society. (*[Speaker's profile](https://www.cwillbc.org/Member_View.aspx?MemberID=82980)*.)
 
-I'm also a creative writing coach with *[Creative Writing for Children Society](http://www.cwc2004.org/)*, and have extensive experience creating curriculum and facilitating seasonal camps and term-length workshops on creativity, storytelling, and writing themes for ages eight and up.
+I'm also a creative writing coach with *[Creative Writing for Children Society](http://www.cwc2004.org/)*, and have extensive experience creating curriculum and facilitating seasonal camps and term-length workshops on creativity, storytelling, publishing, and writing themes for ages eight and up.
 
 Previous, one-off, in person and remote festivals, sessions, workshops, panels, and masterclasses have included topics on writing and storytelling including craft, short fiction and/or genre fiction, publishing skills, local-history-in-storytelling, eco-fiction and imagining the future, and motivation and resiliency.
 
 ## Logistics
 
-I prefer to work collaboratively with clients to identify the best topics for their needs and audience and don't currently offer "set" presentations. That said, for school settings, I can certainly suggest several topics that have worked well in the past, depending on age and subject. Climate futurism, fighting the patriarchy, ghosts of the past, and horror-meets-humour are popular "broad-interest" topics for general (non-writing) groups, while creative writing or ELA bookings may focus more on paths to publishing, worldbuilding, descriptive writing, etc.
+I prefer to work collaboratively with you to identify the best topics for your needs and audience. (Though I can certainly suggest topics that have worked well in the past, depending on age and subject.) Climate futurism, fighting the patriarchy, ghosts of the past, and horror-meets-humour are popular "broad-interest" topics for general (non-writing) groups, while creative writing or ELA bookings may focus more on paths to publishing, worldbuilding, descriptive writing, etc.
 
 Please enquire regarding dates, fees, and any other pertinent logistics with as much notice as possible.
 
 Fees are generally *[in line with local standards](https://www.cwillbc.org/tips.htm)*, but may be subject to adjustment based on the specific event. Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available.
 
-Home base is Abbotsford, BC and the nearest international airports for travel purposes are Abbotsford or Vancouver, BC. Zoom/remote presentations are available.
+Home base is Abbotsford, BC. The nearest airports are Abbotsford (YXX) or Vancouver (YVR). Bookings in Metro Vancouver and/or the Fraser Valley will not incur travel/transit surcharges (happy to drive for day-trips!) Zoom/remote presentations are available.
 
 ## Testimonials
 
@@ -45,7 +45,11 @@ _
 
 ## Resources
 
-I have a couple mini writing tips posted on social: *[Spooky Middle Grade Openings](https://www.instagram.com/tv/CZfSxMglu1T/?utm_source=ig_web_copy_link)* and *[Speculative Worldbuilding Skills](https://www.instagram.com/tv/CaatDV5gUDb/?utm_source=ig_web_copy_link)*, and here's a quick video created by the awesome team at ORCHIDS Childrens Literature Fest (Mumbai, India) with some classroom teaching footage:
+I rarely have footage available from events with young audiences (for privacy reasons, as well as technological constraints), but here's a presentation from Word Vancouver 2022:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lWvixyFOwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also have a couple mini writing tips posted on social: *[Spooky Middle Grade Openings](https://www.instagram.com/tv/CZfSxMglu1T/?utm_source=ig_web_copy_link)* and *[Speculative Worldbuilding Skills](https://www.instagram.com/tv/CaatDV5gUDb/?utm_source=ig_web_copy_link)*, and here's a quick video created by the awesome team at ORCHIDS Childrens Literature Fest (Mumbai, India) with some classroom teaching footage:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6i59lhgzqkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
