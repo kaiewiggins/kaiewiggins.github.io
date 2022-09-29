@@ -45,9 +45,11 @@ _
 
 ## Resources
 
-I rarely have footage available from events with young audiences (for privacy reasons, as well as technological constraints), but here's a presentation from Word Vancouver 2022:
+I rarely have footage available from events with young audiences (for privacy reasons, as well as technological constraints), but here are two presentations from Word Vancouver Festival 2022:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8lWvixyFOwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUpicy9XOcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxB4tfnEXo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I also have a couple mini writing tips posted on social: *[Spooky Middle Grade Openings](https://www.instagram.com/tv/CZfSxMglu1T/?utm_source=ig_web_copy_link)* and *[Speculative Worldbuilding Skills](https://www.instagram.com/tv/CaatDV5gUDb/?utm_source=ig_web_copy_link)*, and here's a quick video created by the awesome team at ORCHIDS Childrens Literature Fest (Mumbai, India) with some classroom teaching footage:
 
