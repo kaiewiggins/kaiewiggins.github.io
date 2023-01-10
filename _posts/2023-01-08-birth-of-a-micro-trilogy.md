@@ -17,7 +17,9 @@ But when second-in-command Ghost saves a strange girl from sea monsters, they st
 
 This novelette-length adventure ends in a mild cliffhanger and kicks off a three-part YA Dystopian/Post-Apocalyptic Romance “micro-trilogy” in the same world (parallel timeline) as the *Threads of Dreams* trilogy (featuring “Ash” as the crossover protagonist.) *Spectres of the Old World* stories can be read as a standalone series or, due to spoilers, following *Burn the Skies*.
 
-Spectres of the Old World is a Kindle Unlimited (Amazon) exclusive release. **Preorder/shop: [Part 1: Mud Monsters & Revelations (23/01/11)](https://www.amazon.com/dp/B0BRP25PFY) | [Part 2: Rattlesnakes & Nightmares (23/01/24](https://www.amazon.com/dp/B0BRPMV6NV) | [Part 3: Sedition & Sea Monsters (23/02/06)](https://www.amazon.com/dp/B0BRP5Z13S)**
+Spectres of the Old World are Kindle Unlimited (Amazon) exclusive releases: 
+
+**[Part 1: Mud Monsters & Revelations](https://www.amazon.com/dp/B0BRP25PFY) | [Part 2: Rattlesnakes & Nightmares (23/01/24](https://www.amazon.com/dp/B0BRPMV6NV) | [Part 3: Sedition & Sea Monsters (23/02/06)](https://www.amazon.com/dp/B0BRP5Z13S)**
 
 _
 
@@ -37,6 +39,6 @@ Because it started as a short story that turned into a long short story—a nove
 
 So I had a novella's-worth of story on my hands, split into three roughly-even parts, two of which ended on mild cliffhangers, the second darker than the first . . . 
 
-Sounds awfully like your classic three-act structure—or a fantasy trilogy.
+Sounds awfully like your classic three-act structure—*or a fantasy trilogy*.
 
 At the same time, I'd been meaning to play rapid release strategies and KU. So this is a bit of an experiment, allowing the story to follow it's own natural structure while giving readers an episodic mini-series sort of reading experience. Hopefully it's fun! And, at some point in the future, I'll probably pull *Spectres* from KU and give it a more standard wide-release in novella form. :)
