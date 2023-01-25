@@ -5,9 +5,9 @@ date: 2023-01-25
 category: news
 ---
 
-Shoutout to the awesome team at [Word Vancouver] for the invitation to host their in-person World Read Aloud Day event this year!
+Shoutout to the awesome team at [Word Vancouver](https://wordvancouver.ca/) for the invitation to host their in-person World Read Aloud Day event this year!
 
-I'll be chatting with CWILL BC member and recent debut Emily Seo as she presents a reading from her 2022 middle grade novel *The Science of Boys* and demonstrates some live science.
+I'll be chatting with [CWILL BC](https://www.cwillbc.org/) member and recent debut Emily Seo as she presents a reading from her 2022 middle grade novel *The Science of Boys* and demonstrates some live science.
 
 Local schools will be joining us for this celebration of reading aloud at Surrey Library Central City Branch from 10-11 am on February 1, 2023.
 
