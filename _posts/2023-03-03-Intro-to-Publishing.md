@@ -1,5 +1,5 @@
 ---
-layout: eventsspost
+layout: eventspost
 title: Intro to Publishing
 date: 2023-03-03
 category: events
