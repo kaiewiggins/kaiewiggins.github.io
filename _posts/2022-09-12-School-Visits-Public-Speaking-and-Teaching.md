@@ -13,7 +13,7 @@ I'm passionate about encouraging, inspiring, and equipping readers and writers o
 
 I publish short, novelette, novella, and novel-length speculative fiction (fantasy, science fiction & horror) for middle grade (=kids), young adult (=teens & up), and adult readers, and have experience in speaking to elementary, middle school/junior high, high school, and adult audiences.
 
-I'm a registered speaker with (and, as of 2021, president of) the Children's Writers & Illustrators of British Columbia (CWILL BC) Society. (*[Speaker's profile](https://www.cwillbc.org/Member_View.aspx?MemberID=82980)*.)
+I'm a registered speaker with (and, as of 2021, president of) the Children's Writers & Illustrators of British Columbia (CWILL BC) Society (*[CWILL BC speaker's profile](https://www.cwillbc.org/Member_View.aspx?MemberID=82980)*) and a member of The Writers Union of Canada [TWUC Speaker's Profile](https://writersunion.ca/member/KA-Wiggins)
 
 I'm also a creative writing coach with *[Creative Writing for Children Society](http://www.cwc2004.org/)*, and have extensive experience creating curriculum and facilitating seasonal camps and term-length workshops on creativity, storytelling, publishing, and writing themes for ages eight and up.
 
@@ -25,7 +25,7 @@ I prefer to work collaboratively with you to identify the best topics for your n
 
 Please enquire regarding dates, fees, and any other pertinent logistics with as much notice as possible.
 
-Fees are generally *[in line with local standards](https://www.cwillbc.org/tips.htm)*, but may be subject to adjustment based on the specific event. Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available.
+Fees are generally *[in line with local standards](https://www.cwillbc.org/tips.htm)*, but may be subject to adjustment based on the specific event. Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available. As a member of The Writer's Union of Canada, you can seek funding under their programs to work with me, including the Ontario Writers-In-The-Schools and the National Public Readings programs.
 
 Home base is Abbotsford, BC. The nearest airports are Abbotsford (YXX) or Vancouver (YVR). Bookings in Metro Vancouver and/or the Fraser Valley will not incur travel/transit surcharges (happy to drive for day-trips!) Zoom/remote presentations are available.
 
