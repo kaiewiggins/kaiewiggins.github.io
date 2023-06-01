@@ -5,8 +5,7 @@ date: 2023-05-30
 category: events
 ---
 
-## "Collaborating with BC Children's Authors
-& Illustrators" BC Museums Association x CWILL BC Webinar
+## "Collaborating with BC Children's Authors & Illustrators" BC Museums Association x CWILL BC Webinar
 
 **Date:** Wednesday, June 7, 2023
 
