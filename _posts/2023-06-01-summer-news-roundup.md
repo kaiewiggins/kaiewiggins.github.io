@@ -5,7 +5,7 @@ date: 2023-06-01
 category: news
 ---
 
-<a href="https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1" target="_blank"><img src="https://members.museum.bc.ca/cmfiles/8ad90682024fe441/event_logos/Collaborating_with_BC_Childrens_Authors_Illustrators_June_7_Webinar_(1).png" width="20%"></a> | <a href="https://blogs.ubc.ca/reimaginingtomorrow2023/" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1220812922777038849/1678228688/1500x500" width="70%"></a> 
+<a href="https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1" target="_blank"><img src="https://members.museum.bc.ca/cmfiles/8ad90682024fe441/event_logos/Collaborating_with_BC_Childrens_Authors_Illustrators_June_7_Webinar_(1).png" width="25%"></a> | <a href="https://blogs.ubc.ca/reimaginingtomorrow2023/" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1220812922777038849/1678228688/1500x500" width="70%"></a> 
 
 It's really turned into the year of workshops & short fiction around here—not making as much progress on launching the next series (yes there are now multiples waiting in the wings . . .) as I'd like, because there's just too much going on between the different author societies, festivals, magazines, etc., but it's not a bad problem to have!
 
