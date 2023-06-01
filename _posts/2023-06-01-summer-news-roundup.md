@@ -11,7 +11,7 @@ It's really turned into the year of workshops & short fiction around here—not 
 
 Coming up in the calendar (full event postings in the appropriate section below):
 
-- “Collaborating with BC Children’s Authors & Illustrators” webinar on Wednesday, June 7 from 12-1 pm for the [BC Museum's Association](https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1)
+- “Collaborating with BC Children’s Authors & Illustrators” webinar on Wednesday, June 7 from 12-1 pm for the [BC Museums Association](https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1)
 
 - “After ‘The End’: Building Brighter Futures in Apocalyptic, Dystopian & Speculative YA” presentation as part of the 3-5 pm themed programming block “The Good, The Bad, and The Imaginary: Utopias and Dystopias in Speculative Fiction” on Friday, June 23 at [(Re)Imagining Tomorrow: Agency and Possibility in Literature and Media for Children and Young Adults Graduate Student Conference in Children’s & Young Adult Literature, Media & Culture](https://blogs.ubc.ca/reimaginingtomorrow2023/) hosted by University of British Columbia Master’s of Arts in Children’s Literature & iSchool in Vancouver.
 
