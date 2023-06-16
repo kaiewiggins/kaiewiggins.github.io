@@ -11,13 +11,15 @@ It's really turned into the year of workshops & short fiction around here—not 
 
 Coming up in the calendar (full event postings in the appropriate section below):
 
-- “Collaborating with BC Children’s Authors & Illustrators” webinar on Wednesday, June 7 from 12-1 pm for the [BC Museums Association](https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1)
+- “Collaborating with BC Children’s Authors & Illustrators” webinar on Wednesday, June 7 from 12-1 pm for the [BC Museums Association](https://members.museum.bc.ca/public/event/details/87a6be19928b3e7de5fc25b5e7ba86287d209396/1) (Update: [watch the replay here!](https://museum.bc.ca/brain/bcma-webinar-collaborating-with-bc-childrens-authors-illustrators/`)
 
 - “After ‘The End’: Building Brighter Futures in Apocalyptic, Dystopian & Speculative YA” presentation as part of the 3-5 pm themed programming block “The Good, The Bad, and The Imaginary: Utopias and Dystopias in Speculative Fiction” on Friday, June 23 at [(Re)Imagining Tomorrow: Agency and Possibility in Literature and Media for Children and Young Adults Graduate Student Conference in Children’s & Young Adult Literature, Media & Culture](https://blogs.ubc.ca/reimaginingtomorrow2023/) hosted by University of British Columbia Master’s of Arts in Children’s Literature & iSchool in Vancouver.
 
 - "Choosing a Publishing Path" workshop on Sunday, September 17 from 2-4 pm at [Write on Bowen Festival of Readers & Writers](https://www.writeonbowen.com/) on Bowen Island
 
-And I'll likely also be at Word Vancouver in September and the BC Teacher-Librarian's Fall Conference in October. Events earlier this year included presentations to the BC Librarians' Youth Services Institute, Word Vancouver, and Abbotsford Arts Council, along with my usual Creative Writing for Children term-length workshops.
+- "Read Local, Teach Local: New Releases by BC Authors & Illustrators!" on Friday, October 20 from 9-9:45 am at [BC Teacher-Librarians' Association Fall Conference](https://www.bctlaconference.ca/) at Kwantlen Park Secondary School, Surrey, BC
+
+And I'll likely also be at Word Vancouver in September on Saturdays. Events earlier this year included presentations to the BC Librarians' Youth Services Institute, Word Vancouver, and Abbotsford Arts Council, along with my usual Creative Writing for Children term-length workshops.
 
 In short fiction, "Children of Earth" was published (in both text and audio formats) in the April edition of Fantasy Magazine (and longlisted in the Commonwealth Short Story Prize), a spinoff "micro-trilogy" of novelettes, *Spectres of the Old World*, was published from January to February, two new short stories were accepted to a HWA-qualifying podcast and a SFWA-qualifying small press anthology and a third short was award awarded honourable mention in the Writers of the Future awards.
 
