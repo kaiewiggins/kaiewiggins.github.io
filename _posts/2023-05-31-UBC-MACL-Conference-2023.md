@@ -25,4 +25,4 @@ While most of the *Threads of Dreams* series leans into its gothic-dystopian and
 
 So there are a few points (Nine Peaks in *Black the Tides*, and to a greater extent, Regen City in *Burn the Skies* and part 3 of *Spectres of the Old World*) where community and city building attempt utopianism, and that's what I'll be briefly presenting from/on—apocalyptic, dystopian, and utopian futures in children’s & YA literature and how they illustrate better possibilities, expose and bring catharsis to current realities, and confront trauma.
 
-I believe the conference is free to attend, so if delving deep into themes, theory, worldbuilding, etc. in children's & teen lit sounds like your kind of good time, [check out the full schedule here!](https://blogs.ubc.ca/reimaginingtomorrow2023/)
+If delving deep into themes, theory, worldbuilding, etc. in children's & teen lit sounds like your kind of good time, [check out the full schedule here!](https://blogs.ubc.ca/reimaginingtomorrow2023/)
