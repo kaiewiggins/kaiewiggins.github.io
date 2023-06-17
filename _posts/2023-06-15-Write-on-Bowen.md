@@ -21,4 +21,4 @@ We'll hash out the dreams (and unspoken assumptions) we bring to publishing, tak
 
 We'll finish with a review of next steps toward the most common publishing pathways, and Q&A.
 
-Spaces are limited—[register here.](https://www.writeonbowen.com/copy-of-tanja-boteju)
+Spaces are (very!) limited and early bird pricing ends July 14—[learn more & register here.](https://www.writeonbowen.com/kawiggins)
