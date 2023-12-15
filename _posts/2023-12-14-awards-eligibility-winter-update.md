@@ -42,3 +42,5 @@ All releases lean more fantasy than horror (but generally crossover with dark fa
 That's it for new releases from me this year (unless there are any late-breaking surprises👀) BUT you can find everything existing & announced on this site under the Available Now & Coming Soon sections of the home page—already three short pieces under contract or accepted for next year, with Submission Grinder stats looking promising for another few in short order~
 
 As a general recap, it's been a weird year. Some high points—lots of new milestones in terms of short fiction publishing, speaking, etc.—but also it's getting harder to stay focused and keep moving forward as the rest of the world unravels in spectacular fashion around us. So, yeah, no new novels this year! Better luck next year . . .😅
+
+![](2023AwardsEligibility.jpg)
