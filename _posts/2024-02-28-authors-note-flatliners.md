@@ -1,6 +1,6 @@
 ---
 layout: newspost
-title: Author's Note: Flatliners
+title: Author's Note on Flatliners
 date: 2024-02-28
 category: news
 ---
