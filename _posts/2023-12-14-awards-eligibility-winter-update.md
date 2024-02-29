@@ -7,7 +7,7 @@ category: news
 
 So, yeah, six+ months since the last update, probably a good moment to remind folks that my [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) goes out every second Monday if y'all want to hear from me more often.😅
 
-Also, before I drop my release list, if you like speculative fiction but have limited reading time, Sonia Sulaiman has put together a great reading list of [Palestinian spec-lit that's really worth a look instead](https://soniasulaiman.com/readpalestinianspecfic-reading-list/).
+Also, before I drop my release list, if you like speculative fiction but have limited reading time, Sonia Sulaiman has put together a great reading list of *[Palestinian spec-lit that's really worth a look instead](https://soniasulaiman.com/readpalestinianspecfic-reading-list/).*
 
 ### Quick round-up of 2023 publications for awards' eligibility & end of year reading list purposes:
 
