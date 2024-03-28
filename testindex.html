@@ -5,7 +5,23 @@ title: kaie.Space
  <!--Start main contents of page--> 
 	<nav class="navbar fixed-top">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"><i class="fa fa-bars" style="width: 2em;"></i></span>
+    <span class="navbar-toggler-icon">
+	    <div id="nav-icon2">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+	    <script>
+	    $(document).ready(function(){
+	$('#nav-icon2').click(function(){
+		$(this).toggleClass('open');
+	});
+});
+    </script>
+	    </span><!--end toggler icon-->
   </button>		  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 	  <div class="navbar-nav" style="height: 100vh; width: 50%; background-color: rgba(255, 255, 255, 0.6); padding: 1%;">
 <a class="nav-item nav-link" href="#">Home</a>
