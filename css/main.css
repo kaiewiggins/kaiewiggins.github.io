@@ -97,7 +97,8 @@ a.button {
 
 .navbar-toggler {
    color: #e8c048;
-  size: 2em;
+  height: 2em;
+     position: fixed; 
 }
 
 
