@@ -81,9 +81,9 @@ a.button {
 
 /*navbar styles*/
 
-.navbar-nav {
+/*.navbar-nav {
    background-color: rgba(10,10,10,0.8); 
-}
+}*/
 
 .nav-item, .nav-link {
    text-size: 1.5em;
