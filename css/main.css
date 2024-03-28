@@ -105,8 +105,8 @@ a.button {
 #nav-icon2 span {
   display: block;
   position: absolute;
-  height: 1em;
-  width: 1em;
+  width: 60px;
+  height: 45px;
   background: #e8c048;
   opacity: 1;
   -webkit-transform: rotate(0deg);
