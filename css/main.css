@@ -105,9 +105,9 @@ a.button {
 #nav-icon2 span {
   display: block;
   position: absolute;
-  height: 9px;
-  width: 50%;
-  background: #d3531a;
+  height: 1em;
+  width: 3em;
+  background: #e8c048;
   opacity: 1;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
