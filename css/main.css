@@ -98,6 +98,11 @@ a.button {
    padding: 0.5em;
 }
 
+.navbar-toggler {
+    width: 32px;
+  height: 16px;
+}
+
 /* Icon 2 */
 
 #nav-icon2 {
