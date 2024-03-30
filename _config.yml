@@ -1,7 +1,5 @@
 name: Katrina Wiggins
 markdown: kramdown
-# Google Analytics
-google_analytics: UA-78591021-1
 gems:
   - jekyll-sitemap
   - jekyll-paginate
