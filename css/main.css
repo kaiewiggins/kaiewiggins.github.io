@@ -79,20 +79,14 @@ a.button {
 
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 850px) {
   div.socialblock {
     display: none;
   }
 }
 
-  @media screen and (max-width: 1200px) {
-  div.navbar-nav {
-    width: 100%;
-  }
-  }
-
-      @media screen and (max-width: 1200px) {
-  div.nav-item {
+      @media screen and (max-width: 850px) {
+  div.nav-item, div.nav-link {
    font-size: 1em;
   }
       }
@@ -100,7 +94,7 @@ a.button {
 /*navbar styles*/
 
 .nav-item, .nav-link {
-   font-size: 90%;
+   font-size: 95%;
    padding: 0.5em;
 }
 
