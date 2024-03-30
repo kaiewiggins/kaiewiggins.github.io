@@ -94,13 +94,14 @@ a.button {
 /*navbar styles*/
 
 .nav-item, .nav-link {
-   font-size: 95%;
+   font-size: 98%;
    padding: 0.5em;
 }
 
 .navbar-toggler {
-    width: 32px;
-  height: 16px;
+    position: relative;
+    width: 33px;
+  height: 17px;
 }
 
 /* Icon 2 */
