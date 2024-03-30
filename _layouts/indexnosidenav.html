@@ -17,11 +17,9 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="/css/main.css"><!--css main stylesheet reference-->
 <meta name="p:domain_verify" content="0dfa6ed98da410cf92728c16f79b9b17"/><!--Pinterest embed-->
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% endif %}
-	{% include analytics.html %}
 	</head>
 <body>
+				{% include navstack.html %}
 	<div class="container-fluid" style="width: 80%">
    {{content}}<!--all unique page content-->			    
 	</div><!--end responsive container fluid-->
