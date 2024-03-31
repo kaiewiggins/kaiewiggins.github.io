@@ -86,7 +86,7 @@ a.button {
 
       @media screen and (max-width: 850px) {
   div.nav-item, div.nav-link {
-   font-size: 1em;
+   font-size: 0.8em;
   }
       }
   
@@ -106,8 +106,8 @@ a.button {
 }
 
 .nav-item, .nav-link {
-   font-size: 1.3em;
-  padding: 0.4em;
+   font-size: 1.1em;
+  padding: 0.3em;
 }
 
 .navbar-toggler {
