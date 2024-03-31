@@ -92,6 +92,11 @@ a.button {
   
 /*navbar styles*/
 
+.navbar {
+/*   z-index should be above .close-navbar-toggler */
+  z-index:2;
+}
+
 .navbar-nav {
   width: 15%;
   height: 150%;
