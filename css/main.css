@@ -79,7 +79,7 @@ a.button {
 
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1000px) {
   div.navbar-nav {
     width: 30%;
   }
