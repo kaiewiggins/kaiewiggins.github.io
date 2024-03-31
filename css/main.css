@@ -86,22 +86,22 @@ a.button {
 
       @media screen and (max-width: 850px) {
   div.nav-item, div.nav-link {
-   font-size: 0.9em;
+   font-size: 0.8em;
   }
       }
   
 /*navbar styles*/
 
 .navbar-nav {
-  width: 15%;
-  height: 150%;
+  width: 20%;
+  height: 200%;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 4% 1.5%;
 }
 
 @media screen and (max-width: 1000px) {
   div.navbar-nav {
-    width: 40%;
+    width: 50%;
   }
 }
 
@@ -113,7 +113,7 @@ a.button {
 .navbar-toggler {
     position: fixed;
   top: 20px;
-    left: 30px;
+    left: 25px;
     width: 45px;
   height: 30px;
 }
