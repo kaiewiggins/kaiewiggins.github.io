@@ -120,7 +120,7 @@ a.button {
 #nav-icon2 {
   width: 32px;
   height: 16px;
-    margin: auto;
+    margin: 5px;
   position: relative;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
