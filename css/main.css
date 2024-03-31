@@ -87,20 +87,20 @@ a.button {
 
       @media screen and (max-width: 850px) {
   div.nav-item, div.nav-link {
-   font-size: 1.5em;
+   font-size: 1em;
   }
       }
   
 /*navbar styles*/
 
 .nav-item, .nav-link {
-   font-size: 2em;
+   font-size: 1.5em;
 }
 
 .navbar-toggler {
     position: fixed;
-  top: 15px;
-    left: 30px;
+  top: 18px;
+    left: 40px;
     width: 33px;
   height: 17px;
 }
