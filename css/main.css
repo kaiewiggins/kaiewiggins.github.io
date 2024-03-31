@@ -98,7 +98,7 @@ a.button {
 
 @media screen and (max-width: 1000px) {
   div.navbar-nav {
-    width: 30%;
+    width: 40%;
   }
 }
 
@@ -121,7 +121,6 @@ a.button {
   width: 32px;
   height: 16px;
   position: relative;
-  margin: 1% auto;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
