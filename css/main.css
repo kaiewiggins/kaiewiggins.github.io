@@ -92,11 +92,6 @@ a.button {
   
 /*navbar styles*/
 
-.navbar {
-/*   z-index should be above .close-navbar-toggler */
-  z-index:2;
-}
-
 .navbar-nav {
   width: 15%;
   height: 150%;
@@ -121,20 +116,6 @@ a.button {
     left: 30px;
     width: 45px;
   height: 30px;
-}
-
-.close-navbar-toggler{
-  position:absolute;
-  top:0;
-  left:0;
-  height:100%;
-  width:100%;
-  z-index:1;
-  cursor:pointer;
-}
-
-.close-navbar-toggler.collapsed{
-  z-index:-1;
 }
 
 /* Icon 2 */
