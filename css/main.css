@@ -109,10 +109,10 @@ a.button {
 
 .navbar-toggler {
     position: fixed;
-  top: 25px;
-    left: 55px;
-    width: 50px;
-  height: 40px;
+  top: 20px;
+    left: 30px;
+    width: 45px;
+  height: 30px;
 }
 
 /* Icon 2 */
@@ -120,6 +120,7 @@ a.button {
 #nav-icon2 {
   width: 32px;
   height: 16px;
+    margin: auto;
   position: relative;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
