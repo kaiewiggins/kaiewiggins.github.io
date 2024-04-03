@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: BC Library Association Conference
-date: 2023-04-25
+date: 2024-04-25
 category: events
 ---
 
@@ -9,7 +9,7 @@ category: events
 
 **Date:** Wednesday & Thursday, September 24-25, 2024
 
-**Time:** 2:45-3:30 pm, Thursday, Sep. 25 (panel)
+**Time:** 2:45-3:30 pm, Thursday, Apr. 25 (panel)
 
 **Location:** Exhibitor's Hall & Salon E (panel), Pinnacle Hotel Harbourfront, 1133 W Hastings St, Vancouver
 
