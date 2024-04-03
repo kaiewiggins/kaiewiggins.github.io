@@ -1,13 +1,13 @@
 ---
 layout: eventspost
 title: BC Library Association Conference
-date: 2024-04-25
+date: 2024-04-01
 category: events
 ---
 
 ## BC Library Association Conference
 
-**Date:** Wednesday & Thursday, September 24-25, 2024
+**Date:** Wednesday & Thursday, Apr. 24-25, 2024
 
 **Time:** 2:45-3:30 pm, Thursday, Apr. 25 (panel)
 
