@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: Surrey Teachers Association Convention
-date: 2024-05-03
+date: 2024-04-02
 category: events
 ---
 
