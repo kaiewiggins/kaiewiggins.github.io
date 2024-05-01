@@ -20,4 +20,4 @@ Panel description: "Three multi-awarded authors (& illustrator!) join forces to 
 I'll be joined by Lee Edward Födi and Emily Seo for the panel, with Nikki Bergstresser, Jane Whittingham, and Kari Rust joining us for for author signings in the exhibitor's hall. Be sure to get your name in for the book prize draws!
 
 [Learn more & register here.](https://pheedloop.com/bcla2024/site/sessions/?event=bcla2024&section=224212&id=SES58N7EN7UFEHFXN)
-![](https://pbs.twimg.com/media/GL3G5cyWAAAS_0R?format=jpg&name=4096x4096)
+<img src="https://pbs.twimg.com/media/GL3G5cyWAAAS_0R?format=jpg&name=4096x4096;" style="width:95%;">
