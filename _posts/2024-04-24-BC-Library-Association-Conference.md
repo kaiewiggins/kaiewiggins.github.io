@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: BC Library Association Conference
-date: 2024-04-01
+date: 2024-04-24
 category: events
 ---
 
