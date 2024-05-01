@@ -26,3 +26,4 @@ Presentation description: The BC children’s publishing community is growing in
 Panellists and presentation pop-up book talk guests, authors/illustrators on site available for signings to be announced. Be sure to get your name in for the book prize draws! 
 
 [Learn more & register here.](https://www.staconvention.ca/elementary/schedule?track=elementary)
+![](https://pbs.twimg.com/media/GMbRKkpW8AAJBFr?format=jpg&name=medium)
