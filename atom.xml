@@ -11,7 +11,7 @@ layout: feed
 	<id>http://kaie.space</id>
 	<author>
 		<name>K.A. Wiggins</name>
-		<email>kaie.web@gmail.com</email>
+		<email>info@kawiggins.com</email>
 	</author>
 
 	{% for post in site.posts %}
