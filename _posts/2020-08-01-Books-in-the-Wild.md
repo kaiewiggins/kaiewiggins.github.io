@@ -9,14 +9,6 @@ Looking for my books IRL? Here's an (incomplete) listing of known bookstores and
 
 ### Stores
 
-**[Hemingway's Books & Records](http://www.hemibooks.com/)**
-
-33765 Essendene Ave, Abbotsford, BC
-
-2 signed paperback copies of *Blind the Eyes*
-
-<a href="http://www.hemibooks.com/" target="_blank"><img src="https://gallery.mailchimp.com/5d9ccc35d544fcc85135fb8ae/images/5c836ff1-be84-4f21-8c5b-fa04a9ffbcaf.jpg" style="width:50%;"></a>
-
 **[The Bookman](https://www.bookman.ca/)**
 
 45939 Wellington Ave, Chilliwack, BC
@@ -77,19 +69,8 @@ multiple locations in King County, WA
 
 ---
 
-Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:kaiewrites@gmail.com) if you spot any of my titles in any other retail or library locations so I can add them to the list!
+Watch this space; I update as more locations get added! Also, I'd love it if you'd take a moment to [let me know](mailto:info@kawiggins.com) if you spot any of my titles in any other retail or library locations so I can add them to the list!
 
 If you want to request one of my books (or any book, really) at a local indie bookshop, chain bookstore, or library, all you have to do is give them the author, title, and, if you can, ISBN number.
 
-For *Blind the Eyes*, the ISBNs are:
-
-- ISBN 978-1-7751627-8-0 (paperback)
-- ISBN 978-1-7751627-7-3 (ebook)
-
-For the *Black the Tides*, the ISBNs are:
-
-- ISBN 978-1-7751627-3-5 (paperback)
-- ISBN 978-1-7751627-2-8 (ebook)
-- ISBN 978-1-7751627-0-4 (hardcover)
-
-For the *Unknown Realms* paperback: ISBN 978-1-7323406-6-4
+You can find those details on the Standalones or specific series page via the menu. Thank you!
