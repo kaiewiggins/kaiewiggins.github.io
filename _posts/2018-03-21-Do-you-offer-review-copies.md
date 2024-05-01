@@ -34,10 +34,10 @@ Social (Instagram, mostly) and blog posts will probably get a like/repost/boost/
 
 The best time to request a review copy (/ARC) is up to two months before an upcoming new release, but I will consider all review copy requests and can add you to a list of interested reviewers at any time. A larger number of ebook review copies will be available compared to paperback, given cost, time, and technical constraints, but paperback ARCs are occasionally available.
 
-**If you would like to review one of my books, please [email](mailto:kaiewrites@gmail.com) the details of your blog or other online presence and the book and format you are requesting.**
+**If you would like to review one of my books, please [email publisher@kawiggins.com](mailto:publisher@kawiggins.com) the details of your blog or other online presence and the book and format you are requesting.**
 
-I use BookSprout and StoryOrigin to coordinate pre-release ARCs when a new book is coming out, and you can also just [follow me on BookSprout](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
+I use BookSprout and StoryOrigin to coordinate pre-release ARCs when a new book is coming out, and you can also just follow me on [StoryOrigin](https://storyoriginapp.com/reviewcopies?penName=K.A.+Wiggins) or [BookSprout](https://booksprout.co/author/2405/k-a-wiggins) to get an automatic notification whenever a new review edition is available.
 
 Unfortunately, I do have limits on my marketing budget and I also have to screen for book pirates, so not every applicant will be accepted, but do feel free to get in touch even if you're a smaller/newbie/international reviewer—I want to support those starting out, too!
 
-I welcome bloggers and reviewers from all countries; however, the ability to read and communicate in written English is a necessary requirement. (Reviewers interested in my translated works should contact the publisher directly to enquire about a review copy.)
+I welcome bloggers and reviewers from all countries; however, the ability to read in written English is a necessary requirement. (Reviewers interested in my translated works should contact the publisher of that work directly to enquire about a review copy.)
