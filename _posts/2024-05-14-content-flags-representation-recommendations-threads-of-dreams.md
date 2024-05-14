@@ -38,7 +38,7 @@ Content is tagged by book (1, 2, 3 for main trilogy, acronyms for series-related
 
  This series is rated for older teens and up. It does not include on-page sex or "spice" but does include dancing/clubbing & representations of both healthy and toxic relationships. I sometimes refer to the series as having "more blood than kissing"—they're fighting for survival and have limited time to angst over each other. 😅 It does include quite a lot of violence, generally within upper-YA dark fantasy norms.
  
- [**If you believe something is missing from the content advisory above, you can flag it here.**](https://docs.google.com/forms/d/e/1FAIpQLSfnbAZnZ9kgTJm7yldczKNq6Z4f5KYIdPtiWEj2zkvntH1kmQ/viewform?usp=sf_link) (With thanks—it's actually fairly hard for authors to know what might be triggering or worthy of a content advisory, and we can easily err on the side of over- or under-flagging. Reader tastes and expectations also vary widely...
+ [**If you believe something is missing from the content advisory above, you can flag it here.**](https://docs.google.com/forms/d/e/1FAIpQLSfnbAZnZ9kgTJm7yldczKNq6Z4f5KYIdPtiWEj2zkvntH1kmQ/viewform?usp=sf_link) (With thanks—it's actually fairly hard for authors to know what might be triggering or worthy of a content advisory, and we can easily err on the side of over- or under-flagging. Reader tastes and expectations also vary widely...)
 
  ### Local (to Vancouver & BC) Indigenous Learning Resources For Further Reading
 
