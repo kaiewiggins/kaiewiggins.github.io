@@ -5,7 +5,7 @@ date: 2024-02-28
 category: news
 ---
 
-Sometimes there are stories you just aren’t equipped to tell. The one that became "The Patron Saint of Flatliners" (published in *[Mysterion](https://www.mysteriononline.com/)*, Patreon exclusive until March 28, 2024) is one of them.
+Sometimes there are stories you just aren’t equipped to tell. The one that became "The Patron Saint of Flatliners" (first published in *[Mysterion]([https://www.mysteriononline.com/](https://www.mysteriononline.com/2024/03/the-patron-saint-of-flatliners.html))*, March 2024) is one of them.
 
 I wrote the earliest version of it the summer after my best friend lost a young member of her extended family to the Vancouver drug toxicity crisis.
 
@@ -27,7 +27,7 @@ I can tell you that, while she experienced hardship and betrayal, while she made
 
 Nor the fervour of her religious practice. In life, she was a devout Catholic.
 
-So, while this story does not, cannot, offer full and meaningful representation to that girl or the (many) other victims of the drug toxicity and opioid crises (please seek out survivors' first-hand accounts and art for that!), it is perhaps in the area of faith that it falls most short.
+So, while this story does not, cannot, offer full and meaningful representation to that girl or the (many) other victims of the drug toxicity and opioid crises (please seek out survivors' first-hand accounts and art for that! [*Recommendations welcome here.*](https://docs.google.com/forms/d/e/1FAIpQLScZ3xiCeHk-BP2NZmToNyds4WHRf6SRNAl9YdwCnM78dZ3-Iw/viewform?usp=sf_link)), it is perhaps in the area of faith that it falls most short.
 
 In portraying an angry, questioning, alienated protagonist railing against God for her isolation, I fear I have crafted an engaging fictional narrative, but reinforced popular, comfortable myths.
 
