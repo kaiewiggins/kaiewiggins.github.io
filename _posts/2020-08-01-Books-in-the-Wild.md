@@ -34,7 +34,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 45939 Wellington Ave, Chilliwack, BC
 
-2 signed paperback copies of *Blind the Eyes*
+2 signed paperback copies of *Blind the Eyes* (first edition)
 
 <a href="https://www.bookman.ca/" target="_blank">
 
