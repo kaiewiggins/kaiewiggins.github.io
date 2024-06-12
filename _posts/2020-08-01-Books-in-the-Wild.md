@@ -28,7 +28,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 - 1 signed paperback copy of *Black the Tides* (second edition)
 - 1 signed paperback copy of *Burn the Skies* (second edition)
 
-<a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src=""Kariton.png></a>
+<a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src="/Kariton.png"></a>
   
 **[The Bookman](https://www.bookman.ca/)**
 
