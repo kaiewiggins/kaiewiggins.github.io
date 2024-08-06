@@ -11,7 +11,7 @@ Snowmelt & Stumps is an independent single-author imprint with no formal busines
 
 Italian language ebook rights to *Letter From the End of the World* have been licensed to Virgibooks, Inc. The translated edition is *Lettera dalla fine del mondo*.
 
-A number of titles (short fiction, mainly) has been licensed for publication in anthologies or magazines as noted on the Standalones or specific series page, and in the Bibliography on the About page..
+A number of other titles (short fiction, mainly) have been licensed for publication in anthologies or magazines as noted on the Standalones or specific series page, and in the Bibliography on the About page.
 
 **For all rights and licensing enquiries, please [email licensing@kawiggins.com](mailto:licensing@kawiggins.com).**
 
@@ -19,7 +19,7 @@ A number of titles (short fiction, mainly) has been licensed for publication in 
 
 *Blind the Eyes is a 100% indie title written and produced with independent or hybrid publishing in mind.*
 
-Though I've sinced also worked with small presses, magazines, podcasts, etc. as a hybrid-published author, I've found independent publishing to be a great option. Going indie means operating your own micro-sized publishing company, and I've had the great fortune to work with awesome professionals on every stage of bringing *Blind the Eyes* and other titles to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
+Though I also work with small presses, magazines, podcasts, etc., I've found independent publishing to be a great option. Going indie means operating your own micro-sized publishing company, and I've had the great fortune to work with awesome professionals on every stage of bringing *Blind the Eyes* and other titles to life. If you're looking for support with your own ventures, I highly recommend every name on this list.
 
 [Lisa Poisso](https://www.lisapoisso.com)
 
