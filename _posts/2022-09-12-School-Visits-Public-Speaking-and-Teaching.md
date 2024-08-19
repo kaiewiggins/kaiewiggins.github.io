@@ -1,7 +1,7 @@
 ---
 layout: FAQpost
 title: School Visits, Public Speaking and Teaching
-date: 2024-08-19
+date: 2022-09-12
 category: faq
 ---
 
