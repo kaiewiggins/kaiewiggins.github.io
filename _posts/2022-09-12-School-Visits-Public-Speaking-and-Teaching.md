@@ -15,13 +15,15 @@ I publish speculative fiction (fantasy, science fiction & horror) of all lengths
 
 I'm a registered speaker with (and, since 2021, president of) the Children's Writers & Illustrators of British Columbia (CWILL BC) Society (*[CWILL BC speaker's profile](https://www.cwillbc.org/Member_View.aspx?MemberID=82980)*) and a member of The Writers Union of Canada (*[TWUC Speaker's Profile](https://writersunion.ca/member/KA-Wiggins)*)
 
-I'm also a creative writing coach with *[Creative Writing for Children Society](http://www.cwc2004.org/)*, and have extensive experience creating curriculum and facilitating seasonal camps and term-length intensive workshops on creativity, storytelling, publishing, and writing themes for kids in grades 3-5, grades 5-7, teens, and adults.
+I'm also a creative writing educator with *[Creative Writing for Children Society](http://www.cwc2004.org/)*, and have extensive experience creating curriculum and facilitating seasonal camps and term-length intensive workshops on creativity, storytelling, publishing, and writing themes for kids in grades 3-5, grades 5-7, teens, and adults. Many workshops involve producing a group anthology or individual "novels" (multi-chapter books, in the case of children.)
 
 Previous, one-off, in person and remote festivals, sessions, workshops, panels, and masterclasses have included topics on writing and storytelling including craft and storytelling, short fiction and/or genre fiction, publishing skills, local-history-in-storytelling, eco-fiction and imagining the future, and motivation and resiliency.
 
 ## Logistics
 
-While I *can* do "author readings," I prefer to work collaboratively with you to identify the best topics for your needs and audience and offer a presentation or workshop that directly engages attendees in a learning and/or creative experience. (Though I can certainly suggest topics that have worked well in the past, depending on age and subject.) Climate futurism, fighting the patriarchy, ghosts of the past, and horror-meets-humour are popular "broad-interest" topics for general (non-writing) groups, while creative writing or ELA bookings may focus more on paths to publishing, worldbuilding, descriptive writing, etc. Smaller (/younger?) groups may also benefit from integrated or extension activities such as crafts, multimodal learning, etc. (see examples in the gallery below!)
+While I *can* do "author readings," I enjoy collaborating with you to identify the best topics for your needs and audience and would love to offer a presentation or workshop that directly engages attendees in a learning and/or creative experience. (Though I can certainly suggest topics that have worked well in the past, depending on age and subject.) 
+
+Climate futurism, fighting the patriarchy, ghosts of the past, and horror-meets-humour are popular "broad-interest" topics for general (non-writing) groups, while creative writing or ELA bookings may focus more on paths to publishing, worldbuilding, descriptive writing, etc. Smaller (/younger?) groups may also benefit from integrated or extension activities such as crafts, multimodal learning, etc. (see examples in the gallery below!)
 
 Two of my most popular bookings are:
 
@@ -37,9 +39,11 @@ While I tend to find that, in most cases, institutions and students are getting 
 
 Please enquire regarding dates, fees, and any other pertinent logistics with as much notice as possible—my schedule does book up!
 
-Fees are generally *[in line with local standards](https://www.cwillbc.org/tips.htm)*, (as of 2024, classroom visits and/or roughly hour-long performances are booking in the $300-350 range for both in-person and virtual events, travel outside of the home region extra) but may be subject to adjustment based on the specific event parameters. Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available. As a member of The Writer's Union of Canada, you can seek funding under their programs to work with me, including the Ontario Writers-In-The-Schools and the National Public Readings programs. BC-based schools can also seek funding through ArtStarts. 
+Fees are generally *[in line with local standards](https://www.cwillbc.org/tips.htm)*, (as of 2024, classroom visits and/or roughly hour-long programming are booking in the $300-350 range for both in-person and virtual events, travel outside of the home region extra) but may be subject to adjustment based on the specific event parameters.
 
-Home base is (currently/summer 2024) Abbotsford, BC. The nearest airports are Abbotsford (YXX) or Vancouver (YVR). Bookings in Metro Vancouver and/or the Fraser Valley will not incur travel/transit surcharges (happy to drive for day-trips!) This is likely to change within the next six months to Vancouver Island (Comox Valley-area), so that's great news for island folks and not so great for all the mainlanders. Zoom/remote presentations are available.
+Nonprofits should enquire about discounts or alternate arrangements if budget is a barrier. Assistance with grant and funding applications may be available. As a member of The Writer's Union of Canada, you can seek funding under their programs to work with me, including the Ontario Writers-In-The-Schools and the National Public Readings programs. BC-based schools can also seek funding through ArtStarts—happy to collaborate on applications for extended creative workshop or artist-in-schools residencies, to make sure our local kids get access to those opportunities! 
+
+Home base is Courtenay, BC. The nearest airport is Comox (YQQ) or Vancouver (YVR) for international flights. Ground travel to mainland BC or other PNW locations may also be possible with enough notice. Day trip bookings on Vancouver Island that do not require an overnight stay or ferry will not incur travel/transit surcharges. Zoom/virtual remote presentations are available.
 
 **(Contact now to discuss your event at: [bookings@kawiggins.com](mailto:bookings@kawiggins.com))**
 
