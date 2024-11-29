@@ -11,9 +11,9 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 2132-2850 Shaughnessy St., Port Coquitlam, BC (online ordering/shipping available)
 
-- 5 signed paperback copies of *Blind the Eyes* (third edition)
+- 3 signed paperback copies of *Blind the Eyes* (third edition)
 
-- 2 signed paperback copies of *Black the Tides* (third edition)
+- 1 signed paperback copies of *Black the Tides* (third edition)
 
 - 2 signed paperback copies of *Burn the Skies* (third edition)
 
