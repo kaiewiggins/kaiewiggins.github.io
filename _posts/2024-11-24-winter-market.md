@@ -11,11 +11,9 @@ category: events
 
 **Time:** 12-5 pm (author afterparty 6-8 pm!)
 
-**Location:** Buchanan Hall/Cumberland Community Centre, Cumberland, BC (afterparty: Cumberland Brewing!)
+**Location:** Buchanan Hall/Cumberland Community Centre, Cumberland, BC (afterparty: Cumberland Brewing)
 
 **Type:** Vendor Market
-
-I've just relocated and will have *very* limited stock of the *Threads of Dreams* series in paperback available for sale—but I'm also pulling together a table full of other local kidlit authors and illustrators for all your holiday shopping needs!
 
 Look forward to an art auction, community art projects, craft stations, author readings, and live music, as well as the vendor market in support of a great cause. (No gate tickets/entry fee!)
 
@@ -23,8 +21,9 @@ Hosted by Comox Valley for Palestine, this event will be raising money for refug
 
 [Learn more](https://comoxvalleyforpalestine.ca/events/art-is-love-is-resistance) or [view event post on Facebook](https://www.facebook.com/events/526332076884110).
 
-(North or mid-island children's writer/illustrator? Send me an email at info@kawiggins.com about joining our "Comox Valley Kidlit" table! Also, there's an author (/illustrator) social at Cumberland Brewing afterward—[details here!](https://www.facebook.com/share/19SUgW8Zs4/))
+(North or mid-island children's writer/illustrator? Send me an email at info@kawiggins.com about joining our "Comox Valley Kidlit" group table! Also, there's an author (/illustrator) social at Cumberland Brewing afterward—[details here!](https://www.facebook.com/share/19SUgW8Zs4/))
 
 ![](https://cv4p.imgix.net/files/art-is-love-is-resistance.png?auto=format&fit=max&w=800)
 Art by Roz MacLean
-[![](https://www.facebook.com/photo/?fbid=1119580266840292&set=gm.3819901788325191?auto=format&fit=max&w=800)](https://www.facebook.com/share/19SUgW8Zs4/)
+
+![](https://www.facebook.com/photo/?fbid=1119580266840292&set=gm.3819901788325191?auto=format&fit=max&w=800)
