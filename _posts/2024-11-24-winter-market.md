@@ -26,4 +26,4 @@ Hosted by Comox Valley for Palestine, this event will be raising money for refug
 ![](https://cv4p.imgix.net/files/art-is-love-is-resistance.png?auto=format&fit=max&w=800)
 Art by Roz MacLean
 
-![](https://www.facebook.com/photo/?fbid=1119580266840292&set=gm.3819901788325191?auto=format&fit=max&w=800)
+![](https://www.facebook.com/photo/?fbid=1119580266840292&set=gm.3819901788325191)
