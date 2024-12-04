@@ -11,7 +11,7 @@ category: events
 
 **Time:** 12-5 pm (author afterparty 6-8 pm!)
 
-**Location:** Buchanan Hall/Cumberland Community Centre, Cumberland, BC (afterparty: Cumberland Brewing)
+**Location:** Buchanan Hall/Cumberland Cultural Centre, Cumberland, BC (afterparty: Cumberland Brewing)
 
 **Type:** Vendor Market
 
