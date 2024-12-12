@@ -32,11 +32,17 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
   
 **[The Bookman](https://www.bookman.ca/)**
 
-45939 Wellington Ave, Chilliwack, BC
+45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
 
 2 signed paperback copies of *Blind the Eyes* (first edition)
 
 <a href="https://www.bookman.ca/" target="_blank">
+
+**[Compass Gallery + Gifts at Comox Airport YQQ]([https://store.westernskybooks.com/](https://kikiscommunications.com/compass-gallery-%2B-gifts))**
+
+#107 1250 Knight Road, Comox, BC
+
+- 3 signed paperback copies of *Blind the Eyes* (third edition)
 
 ---
 
@@ -45,3 +51,5 @@ Watch this space; I update as more locations get added! Also, I'd love it if you
 If you want to request one of my books (or any book, really) at a local indie bookshop, chain bookstore, or library, all you have to do is give them the author, title, and, if you can, ISBN number.
 
 You can find those details on the Standalones or specific series page via the menu. Thank you!
+
+*Last updated: Dec. 12, 2024*
