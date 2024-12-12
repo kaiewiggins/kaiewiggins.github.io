@@ -38,7 +38,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 <a href="https://www.bookman.ca/" target="_blank">
 
-**[Compass Gallery + Gifts at Comox Airport YQQ]([https://store.westernskybooks.com/](https://kikiscommunications.com/compass-gallery-%2B-gifts))**
+**[Compass Gallery + Gifts at Comox Airport YQQ](https://kikiscommunications.com/compass-gallery-%2B-gifts)**
 
 #107 1250 Knight Road, Comox, BC
 
