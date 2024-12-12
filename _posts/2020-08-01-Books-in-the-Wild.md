@@ -42,7 +42,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 #107 1250 Knight Road, Comox, BC
 
-- 3 signed paperback copies of *Blind the Eyes* (third edition)
+3 signed paperback copies of *Blind the Eyes* (third edition)
 
 ---
 
