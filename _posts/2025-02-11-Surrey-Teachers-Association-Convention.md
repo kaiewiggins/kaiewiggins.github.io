@@ -1,7 +1,7 @@
 ---
 layout: eventspost
 title: Surrey Teachers Association Convention
-date: 2025-05-02
+date: 2025-02-11
 category: events
 ---
 
