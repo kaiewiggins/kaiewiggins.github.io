@@ -7,7 +7,7 @@ category: events
 
 ## BC Teacher-Librarians' Association Fall Conference
 
-**Date:** Friday, October 25, 2024
+**Date:** Friday, October 25, 2025
 
 **Time:** TBC—afternoon session
 
