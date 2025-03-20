@@ -11,9 +11,9 @@ category: events
 
 **Time:** TBA + exhibitor's hall
 
-**Location:** Sullivan Heights Secondary & École Salish Secondary, Surrey
+**Location:** École Salish Secondary, Surrey
 
-**Type:** Workshop & Presentation
+**Type:** Workshop
 
 **Teaching Current Canadian Short Fiction to Today’s (& Tomorrow’s) Teens** (École Salish Secondary, time TBA)
 
@@ -23,18 +23,7 @@ New Canadian short fiction explores current events and concerns, provides ample 
 
 Learn how to stay up to date and where to look for new material, pick up a recommended reading list of recent faves, and get a multi-awarded BC writer’s insight into teaching short fiction to inspire the next generation of literature!
 
-
-**Read Local, Teach Local: Connecting with BC Children's Authors & Illustrators** (Sullivan Heights, time TBA)
-
-Presentation description: BC children’s publishing is growing increasingly diverse, relevant, and socially conscious. We're excited to highlight established award-winners and emerging voices with a broad range of teachable, impactful, and fun titles.
-
-We'll start with an overview of the power of creative education and local storyteller engagement and highlight the growing range of free tools and resources offered by CWILL BC. Then a lightning-speed showcase of new releases will feature a sprinkling of mini book-talk pop-ups by local authors highlighting diverse creators and place-based, sustainability, and social justice-oriented titles.
-
-Meet local authors, refresh your shelves, and get inspired for the year ahead (& maybe even win a new book or two)!
-
-Presented by Sara Leach & Nikki Bergstresser. Additional pop-up book talk guests (local/BC authors/illustrators) to be announced.
-
-Be sure to visit our tables in the exhibition halls and get your name in for the book prize draws! 
+Be sure to visit our CWILL BC YA & Teen books table in the exhibition hall, or visit the CWILL presentations (Read Local, Teach Local & LEGO Storytelling) and table at the elementary focus site (Sullivan Heights)!
 
 [Learn more/Register here!](https://www.staconvention.ca/)
 
