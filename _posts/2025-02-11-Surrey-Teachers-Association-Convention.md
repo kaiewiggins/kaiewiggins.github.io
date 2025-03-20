@@ -7,15 +7,15 @@ category: events
 
 ## Surrey Teachers' Association Convention
 
-**Date:** Friday, May 3, 2024
+**Date:** Friday, May 2, 2025
 
 **Time:** TBA + exhibitor's hall
 
-**Location:** Sullivan Heights Secondary, 6248 144 St. Surrey, BC & Johnston Heights Secondary School, 15350 99 Ave Surrey, BC, V3R 0R9
+**Location:** Sullivan Heights Secondary & École Salish Secondary, Surrey
 
 **Type:** Workshop & Presentation
 
-**Teaching Current Canadian Short Fiction to Today’s (& Tomorrow’s) Teens** (Johnston Heights, time TBA)
+**Teaching Current Canadian Short Fiction to Today’s (& Tomorrow’s) Teens** (École Salish Secondary, time TBA)
 
 Workshop description: Struggling to haul classes through novel studies? Classics getting stale? Tap into the power of short fiction to engage, surprise, and amaze with a fresh Canadian twist.
 
@@ -32,7 +32,7 @@ We'll start with an overview of the power of creative education and local storyt
 
 Meet local authors, refresh your shelves, and get inspired for the year ahead (& maybe even win a new book or two)!
 
-Presented in collaboration with Sara Leach & Nikki Bergstresser. Additional pop-up book talk guests (local/BC authors/illustrators) to be announced.
+Presented by Sara Leach & Nikki Bergstresser. Additional pop-up book talk guests (local/BC authors/illustrators) to be announced.
 
 Be sure to visit our tables in the exhibition halls and get your name in for the book prize draws! 
 
