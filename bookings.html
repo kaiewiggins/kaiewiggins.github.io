@@ -44,7 +44,7 @@ I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades l
 	<ul class="posts">
 	  {% for post in site.categories.bookings %}
 	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	    	 </font></p>
+	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
 	  {% endfor %}
 </ul>
 	</div><!--close second col-->
