@@ -1,0 +1,50 @@
+---
+layout: default
+title: Booking Canadian speculative fiction author K A Wiggins for your event
+---
+<div class="panel panel-fluid">
+<div class="panel-body">
+ <div class="section">
+	 		    <img src="/eventbanner.jpg" style="width:100%; margin: 0em 0em 2em 0em;" alt="Learn more about booking school visits, festivals or conferences, camps, creative workshops or residencies, continuing education or professional development, and other events/public speaking engagements with K.A. Wiggins.">
+				 <br />
+	 	<div class="row">
+<div class="col-sm-9">
+	<div style="padding:5%;"><h1>Event Bookings with K.A. Wiggins</h1></div>
+	<h4 class="text-center">
+<ul>
+<li>School Visits, Author Presentations & Readings</li>
+  <li>Creative Writing/Storytelling Workshops, Writer Residencies & Camps</li>
+  <li>Continuing Education, Professional Development & Festivals/Conferences</li>
+</ul>
+</h4>
+  <h2>
+    Dynamic, inspiring & fun visits that engage, educate (& entertain) readers and writers of all ages.
+  </h2>
+<p>
+I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades list for K.A. Wiggins">award-winning, best-in-Canada</a> speculative fiction author, Arts community leader, and creative educator passionate about encouraging and equipping readers and writers of all ages. Always happy to have a conversation about your event/creative programming needs—if I'm not the right fit or can't make it, I probably know someone who is!
+</p>
+   <a role="button" class="btn btn-custom mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" alt="Send an email to author K.A. Wiggins" href="mailto:bookings@kawiggins.com">Contact: bookings@kawiggins.com </a>
+	<br/><hr>
+
+	<!--main content of posts-->
+		<ul class="posts">
+	  {% for post in site.categories.bookings %}
+	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+	    	{{post.content}}<hr>
+	  {% endfor %}
+	    	</ul>
+</div><!--close first col-->
+<div class="col-sm-3">
+	<!--lookup linklist of posts-->
+	<h3>Post Index</h3>
+	<ul class="posts">
+	  {% for post in site.categories.bookings %}
+	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	 </font></p>
+	  {% endfor %}
+</ul>
+	</div><!--close second col-->
+</div><!--end row-->
+	  </div><!--end section-->
+	  </div>
+	  </div>
