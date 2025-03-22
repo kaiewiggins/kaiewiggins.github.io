@@ -2,6 +2,7 @@
 layout: default
 title: Booking Canadian speculative fiction author K A Wiggins for your event
 ---
+
 <div class="panel panel-fluid">
 <div class="panel-body">
  <div class="section">
@@ -21,10 +22,10 @@ title: Booking Canadian speculative fiction author K A Wiggins for your event
 </ul>
 	</h4>
 <p>
-I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades list for K.A. Wiggins"><em>award-winning, best-in-Canada</em></a> speculative fiction author, Arts community leader, and creative educator passionate about encouraging and equipping readers and writers of all ages.
+I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades list for K.A. Wiggins">award-winning, "best-in-Canada"</a> speculative fiction author, Arts community leader, and creative educator passionate about encouraging and equipping readers and writers of all ages.
 </p>
 	<p>
-		Always happy to have a conversation about your event/creative programming needs—if I'm not the right fit or can't make it, I probably know someone who is!
+		Always happy to have a conversation about your event/creative programming needs—if I'm not the right fit or can't make it, I'll recommend a replacement!
 </p>
    <a role="button" class="btn btn-custom mx-auto d-block" style="background: #e8c048; background-color: #e8c048;" alt="Send an email to author K.A. Wiggins" href="mailto:bookings@kawiggins.com">Contact: bookings@kawiggins.com </a>
 	<br/><hr>
@@ -34,7 +35,7 @@ I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades l
 	  {% for post in site.category.bk %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
 				    	 | <span><small>{{ post.date | date_to_string }}</small></span>
-	    	{{post.content}}<hr>
+	    	{{post.content}}<hr/>
 	  {% endfor %}
 	    	</ul>
 </div><!--close first col-->
@@ -43,7 +44,7 @@ I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades l
 	<h3>Post Index</h3>
 	<ul class="posts">
 	  {% for post in site.category.bk %}
-	    	<p><font size=2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    	<p><font size=2;><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    	 | <span><small>{{ post.date | date_to_string }}</small></span></font></p>
 	  {% endfor %}
 </ul>
