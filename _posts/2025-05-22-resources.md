@@ -1,5 +1,5 @@
 ---
-layout: bookingspost
+layout: bkpost
 title: Resources
 date: 2025-05-22
 category: bk
