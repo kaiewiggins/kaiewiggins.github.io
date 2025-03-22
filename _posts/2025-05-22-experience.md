@@ -2,7 +2,7 @@
 layout: bookingspost
 title: Experience
 date: 2025-05-22
-category: bookings
+category: bk
 ---
 
 I publish [award-winning, best-in-Canada](https://kaie.space/about.html#awards) speculative fiction (fantasy, science fiction & horror) of all lengths (flash fiction through to novels/series!) for kids, teens and adult readers, and have [extensive experience](https://kaie.space/about.html#events) in workshops and public speaking for elementary, middle school/junior high, high school, and adult audiences.
