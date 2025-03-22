@@ -2,7 +2,7 @@
 layout: bookingspost
 title: Testimonials
 date: 2025-05-22
-category: bookings
+category: bk
 ---
 
 "Kaie recently joined our Guild of Young Writers program for a virtual Speculative Fiction workshop that exceeded all of our expectations! Kaie provided such an insightful presentation, sharing her own writing process and tidbits about the business of writing itself before diving deep into the elements of speculative fiction.
