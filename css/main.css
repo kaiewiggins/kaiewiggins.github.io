@@ -281,3 +281,53 @@ a.button {
 .mySlides {
   display: none;
 }
+
+/* More/Down arrow animation for landing page */
+
+.fa { color:#e8c048;}
+
+.arrow {
+  position: fixed;
+  bottom: 50px;
+  left: 50%;
+  margin-left: -20px;
+}
+
+.fade {
+  opacity:0;
+  transition: 1s all ease-out;
+}
+
+.scroll-down {
+	position: absolute;
+	left: 50%;
+	bottom: 10px;
+	display: block;
+	text-align: center;
+	z-index: 100;
+  z-index: 9;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0%);
+  -moz-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+	-webkit-animation: fade_move_down 4s ease-in-out infinite;
+	-moz-animation:    fade_move_down 4s ease-in-out infinite;
+	animation:         fade_move_down 4s ease-in-out infinite;
+}
+
+/*animated scroll arrow animation*/
+@-webkit-keyframes fade_move_down {
+  0%   { -webkit-transform:translate(0,-10px); opacity: 0;  }
+  50%  { opacity: 1;  }
+  100% { -webkit-transform:translate(0,10px); opacity: 0; }
+}
+@-moz-keyframes fade_move_down {
+  0%   { -moz-transform:translate(0,-10px); opacity: 0;  }
+  50%  { opacity: 1;  }
+  100% { -moz-transform:translate(0,10px); opacity: 0; }
+}
+@keyframes fade_move_down {
+  0%   { transform:translate(0,-10px); opacity: 0;  }
+  50%  { opacity: 1;  }
+  100% { transform:translate(0,10px); opacity: 0; }
+}
