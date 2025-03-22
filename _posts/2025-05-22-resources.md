@@ -3,8 +3,8 @@ layout: bookingspost
 title: Resources
 date: 2025-05-22
 category: bookings
-bookings-order: 10
-sort_by: bookings-order
+bkorder: 10
+sort_by: bkorder
 ---
 
 I rarely have footage available from events with young audiences (for privacy reasons, as well as technological constraints), but here's a (growing!) collection of workshop-based creations, recordings, etc.:
