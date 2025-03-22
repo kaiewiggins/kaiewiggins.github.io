@@ -33,6 +33,7 @@ I'm an <a href="/about.html#awards" target="_blank;" alt="Awards and accolades l
 		<ul class="posts">
 	  {% for post in site.categories.bookings %}
 	    	<a href="{{ post.url }}" title="{{ post.title }}"><h3>{{ post.title }}</h3></a>
+				    	 | <span><small>{{ post.date | date_to_string }}</small></span>
 	    	{{post.content}}<hr>
 	  {% endfor %}
 	    	</ul>
