@@ -2,7 +2,7 @@
 layout: bookingspost
 title: Resources
 date: 2025-05-22
-category: bookings
+category: bk
 ---
 
 I rarely have footage available from events with young audiences (for privacy reasons, as well as technological constraints), but here's a (growing!) collection of workshop-based creations, recordings, etc.:
