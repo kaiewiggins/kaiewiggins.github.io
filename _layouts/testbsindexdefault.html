@@ -18,17 +18,10 @@
 	</head>
 <body>
 <nav class="navbar fixed-top">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-	    <div id="nav-icon2">
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-</div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTargetMenu" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+ <i class="fa-solid fa-bars fa-2xl" style="color: #e8c048;">
   </button>		  
-		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+		<div class="collapse navbar-collapse" id="navbarTargetMenu">
 	  <div class="navbar-nav">
 <a class="nav-item nav-link" href="/" {% if page.url == "/" %}style="color: black; font-weight: bold;"{% endif %}><i class="fa-solid fa-house-chimney fa-fw"></i>&nbsp;Home</a>
   <a class="nav-item nav-link" href="/about.html" {% if page.url == "/about.html" %}style="color: black; font-weight: bold;"{% endif %}><i class="fa-solid fa-user fa-fw"></i>&nbsp;About</a>
