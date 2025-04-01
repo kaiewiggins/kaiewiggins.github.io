@@ -41,9 +41,9 @@ The truth is that drug use, experimentation, dependency, addiction, poisoning, o
 
 This story—both the real life story behind the fiction, and the linked piece—also highlight intersecting marginalizations.
 
-While I think it's important to take this moment—particularly as this piece was first published by a faith-affiliated market—to challenge Christians and religious communities, along with the "comfortable majority," to recognize their own vulnerability, it's also desperately important to stop judging and dismissing those who make different choices and/or come from different communities, backgrounds, and experiences.
+While I think it's important to take this moment—particularly as this piece was first published by a faith-affiliated market—to challenge Christians and religious communities, along with the "comfortable majority," to recognize their own vulnerability, it's also desperately important to stop judging and dismissing those who make different choices and/or come from other communities, backgrounds, and experiences.
 
-This is a story about the vulnerability of people of colour, of people from the Global South, of the harms of adoption practices (esp. in white Chrisitan communities), of the abuses of the patriarchy and toxic control within religious communities, of economic vulnerability and the way young people, especially women and girls, are more easily exploited (and trafficked) when they can't access adequate housing, education, and employment.
+This is a story about the vulnerability of people of colour, of people from the Global South, of the harms of adoption practices (esp. in white Christian communities), of the abuses of the patriarchy and toxic control within religious communities (among others!), of economic vulnerability and the way young people, especially women and girls, are more easily exploited (and trafficked) when they can't access adequate housing, education, and employment.
 
 I wrote this story to transmute anger and grief and loss into hope (in my own twisted, strange way.)
 
@@ -56,4 +56,5 @@ I urge you to take action in whatever capacity you are able. Advocate for safe s
 And recognize that this isn’t only a “them” problem—we ourselves and our loved ones also may be vulnerable, if not in this moment, then in the future. Love and support starts at home.
 
 With hope amidst the darkness,
+
 —Kaie
