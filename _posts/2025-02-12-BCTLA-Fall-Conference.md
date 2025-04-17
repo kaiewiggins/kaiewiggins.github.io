@@ -9,9 +9,9 @@ category: events
 
 **Date:** Friday, October 25, 2025
 
-**Time:** TBC—afternoon session
+**Time:** 1-2:30 pm in theatre / 8-3 in exhibition hall
 
-**Location:** Vancouver, BC
+**Location:** Gladstone Secondary School, 4105 Gladstone St, Vancouver, BC
 
 **Type:** Presentation
 
@@ -21,4 +21,4 @@ Presentation description: We're excited to bring a select line-up of BC-based ch
 
 Full list of presenters TBA. Be sure to visit us in the exhibition hall before and after and get your name in for the book prize draws as well!
 
-[Learn more & register via BCTLA (coming soon).](https://bctla.ca/bctla-conference/)
+[Learn more & register via BCTLA.](https://bctla.ca/bctla-conference/)
