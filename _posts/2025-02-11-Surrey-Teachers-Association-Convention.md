@@ -27,4 +27,4 @@ Be sure to visit our CWILL BC YA & Teen books table in the exhibition hall, or v
 
 [Learn more/Register here!](https://www.staconvention.ca/)
 
-[![](https://cwillbc.wordpress.com/wp-content/uploads/2025/04/sta2025.jpg)](https://www.staconvention.ca/?width=600px)
+[![](https://cwillbc.wordpress.com/wp-content/uploads/2025/04/sta2025.jpg?width=600px)](https://www.staconvention.ca/)
