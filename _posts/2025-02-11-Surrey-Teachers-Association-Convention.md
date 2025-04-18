@@ -27,4 +27,4 @@ Be sure to visit our CWILL BC YA & Teen books table in the exhibition hall, or v
 
 [Learn more/Register here!](https://www.staconvention.ca/)
 
-*Note: I'll actually be on the mainland April 27-May 3, so for anyone in the Metro Vancouver & Fraser Valley region in need of author visits/school/library etc. bookings, it's a good time to nab one with no additional travel fees!*
+[![](https://cwillbc.wordpress.com/wp-content/uploads/2025/04/sta2025.jpg)](https://www.staconvention.ca/?format=600w)
