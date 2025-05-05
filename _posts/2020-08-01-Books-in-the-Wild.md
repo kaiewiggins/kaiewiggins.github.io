@@ -11,11 +11,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 2132-2850 Shaughnessy St., Port Coquitlam, BC (online ordering/shipping available)
 
-- 3 signed paperback copies of *Blind the Eyes* (third edition)
-
-- 1 signed paperback copies of *Black the Tides* (third edition)
-
-- 2 signed paperback copies of *Burn the Skies* (third edition)
+signed paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
 <a href="https://store.westernskybooks.com/" target="_blank"><img src="/WSB2024.JPG"></a>
 
@@ -23,10 +19,8 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 2387 Ware Street, Abbotsford, BC
 
-- 2 signed paperback copies of *Blind the Eyes* (first edition)
-- 1 signed paperback copy of *Blind the Eyes* (second edition)
-- 1 signed paperback copy of *Black the Tides* (second edition)
-- 1 signed paperback copy of *Burn the Skies* (second edition)
+- signed paperbacks of *Blind the Eyes* (first edition)
+- signed paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, second edition)
 
 <a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src="/Kariton.png"></a>
   
@@ -34,7 +28,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
 
-2 signed paperback copies of *Blind the Eyes* (first edition)
+-signed paperbacks of *Blind the Eyes* (first edition)
 
 <a href="https://www.bookman.ca/" target="_blank">
 
@@ -42,7 +36,7 @@ Looking for my books IRL? Here's an (incomplete) listing of known retail locatio
 
 #107 1250 Knight Road, Comox, BC
 
-3 signed paperback copies of *Blind the Eyes* (third edition)
+-signed paperbacks of *Blind the Eyes* (third edition)
 
 ---
 
@@ -52,4 +46,4 @@ If you want to request one of my books (or any book, really) at a local indie bo
 
 You can find those details on the Standalones or specific series page via the menu. Thank you!
 
-*Last updated: Dec. 12, 2024*
+*Last updated: May 5, 2025*
