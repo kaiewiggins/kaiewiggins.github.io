@@ -12,6 +12,7 @@ category: resources
 - This link is specifically for markets that accept submissions by minors: [Magazines that Publish Children & Teens](https://authorspublish.com/16-magazines-that-publish-writing-by-children-and-teens/)
 - Kid/teen-only opportunities (some are nonpaying, be wary of submission fees, and always read the terms and contracts): [BAZOOF! Magazine](https://www.bazoof.com/submit/), [StoryStudio Contests](https://www.storystudio.ca/write/), [Pen & Quill Summer Contest](https://www.pennquill.com/summercompetition)
 - Tracking services: [The Submission Grinder](http://thegrinder.diabolicalplots.com), [Submittable](http://Submittable.com), [Duotrope](http://duotrope.com) or just in Excel. (These sites can usually be used to search for opportunities as well.)
+- [Resources for educators wanting to teach more (current, Canadian SFF/H) short fiction](https://kaie.space/news/2025/05/10/teaching-canadian-short-fiction.html)
 
 ---
 
