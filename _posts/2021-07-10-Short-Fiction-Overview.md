@@ -72,11 +72,11 @@ While publishing as a teen may sound promising, it tends to be less of a selling
 
 ### Earning an Income With Short Fiction
 
-Writing is not known for it's incredible financial rewards—usually. That doesn't mean it won't or can't pay, but the effort tends not to pay off quickly or reliably. Don't overreach. The next section dives into rates, but in terms of markets, you can place short stories in competitions, print and/or genre or literary magazines or 'zines, other types of magazines that sometimes include a small fiction segment, anthologies, or individually be self-publishing.
+Writing is not known for it's incredible financial rewards—usually. That doesn't mean it won't or can't pay, but the effort tends not to pay off quickly or reliably. Don't overreach. The next section dives into rates, but in terms of markets, you can place short stories in competitions, print and/or genre or literary magazines or 'zines, other types of magazines that sometimes include a small fiction segment, anthologies, or individually by self-publishing.
 
 Reading submission guidelines and writing a custom piece in response sometimes results in better (=closer) fits, but you can also just write freely and then look for the right market after the fact. Note that preparing, submitting, and tracking story submissions takes time in its own right, putting further pressure on any income you might recieve.
 
-Nonfiction (particularly business) writing tends to be paid at higher rates, but you normally pitch the idea of a feature or article to an editor *before* writing, whereas with fiction, you write the whole piece and submit it.
+Nonfiction (particularly business) writing tends to be paid at higher rates, but you normally pitch the idea of a feature or article to an editor *before* writing, whereas with fiction, you write the whole piece and submit it*. (*Private call/by invitation projects may approve stories based on a pitch.)
 
 ---
 
