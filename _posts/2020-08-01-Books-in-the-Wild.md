@@ -14,7 +14,7 @@ Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where 
 
 Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 
-[<img src="/bookman.JPG/" style="width:80%;">](https://www.bookman.ca/)
+<a href="https://www.bookman.ca/" target="_blank"><img src="/bookman.JPG/" style="width:80%;"></a>
 
 
 **[Comox Valley Books 4 Brains](https://www.books4brains.ca/)**
@@ -23,7 +23,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
-[![](/b4b.jpg)](https://www.books4brains.ca/)
+<a href="https://www.books4brains.ca/" target="_blank"><img src="/b4b.jpg/" style="width:80%;"></a>
 
 
 **[Compass Gallery + Gifts at Comox Airport YQQ](https://kikiscommunications.com/compass-gallery-%2B-gifts)**
@@ -34,7 +34,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 
 *Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate!*
 
-[![](/compass.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
+<a href="https://kikiscommunications.com/compass-gallery-%2B-gifts" target="_blank"><img src="/compass.jpg/" style="width:80%;"></a>
 
 
 **[Kariton Art Gallery](https://abbotsfordartscouncil.com/boutique/)**
@@ -56,7 +56,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced!*
 
-[![](/roam.jpg)](https://roammedia.ca/storestudio/)
+<a href="https://roammedia.ca/storestudio/" target="_blank"><img src="/roam.jpg/" style="width:80%;"></a>
 
 
 **[Western Sky Books](https://store.westernskybooks.com/)**
