@@ -14,7 +14,7 @@ Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where 
 
 Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 
-[![](/bookman.JPG)](https://www.bookman.ca/)
+[![](/bookman.JPG/width=80)](https://www.bookman.ca/)
 
 
 **[Comox Valley Books 4 Brains](https://www.books4brains.ca/)**
