@@ -8,26 +8,25 @@ category: news
 Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where you can find them:
 
 
-**<a href="https://www.bookman.ca/" target="_blank">The Bookman</a>**
+**[The Bookman](https://www.bookman.ca/)**
 
 45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
 
 Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 
-<a href="https://www.bookman.ca/" target="_blank"><img src="/bookman.JPG/" style="width:600px;"></a>
-[!](/bookman.JPG?auto=format&fit=max&w=800)
+[![](/bookman.JPG)](https://www.bookman.ca/)
 
 
-**<a href="https://www.books4brains.ca/" target="_blank">Comox Valley Books 4 Brains</a>**
+**[Comox Valley Books 4 Brains](https://www.books4brains.ca/)**
 
 17a 215 Port Augusta, Comox, BC
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
-<a href="https://www.books4brains.ca/" target="_blank"><img src="/b4b.jpg/" style="max-width:80%;"></a>
+[![](/b4b.jpg)](https://www.books4brains.ca/)
 
 
-**<a href="https://kikiscommunications.com/compass-gallery-%2B-gifts" target="_blank">Compass Gallery + Gifts at Comox Airport YQQ</a>**
+**[Compass Gallery + Gifts at Comox Airport YQQ](https://kikiscommunications.com/compass-gallery-%2B-gifts)**
 
 #107 1250 Knight Road, Comox, BC
 
@@ -35,10 +34,10 @@ Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 
 *Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate!*
 
-<a href="https://kikiscommunications.com/compass-gallery-%2B-gifts" target="_blank"><img src="/compass.jpg/" style="max-width:80%;"></a>
+[![](/compass.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
 
 
-**<a href="https://abbotsfordartscouncil.com/boutique/" target="_blank">Kariton Art Gallery</a>**
+**[Kariton Art Gallery](https://abbotsfordartscouncil.com/boutique/)**
 
 2387 Ware Street, Abbotsford, BC
 
@@ -49,7 +48,7 @@ Stocks:
 <a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src="/Kariton.png"></a>
 
 
-**<a href="https://roammedia.ca/storestudio/" target="_blank">Roam Store + Studio</a>**
+**[Roam Store + Studio](https://roammedia.ca/storestudio/)**
 
 Unit 26B – 215, Port Augusta Street, Comox, BC
 
@@ -57,10 +56,10 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced!*
 
-<a href="https://roammedia.ca/storestudio/" target="_blank"><img src="/roam.jpg/" style="max-width:80%;"></a>
+[![](/roam.jpg)](https://roammedia.ca/storestudio/)
 
 
-**<a href="https://store.westernskybooks.com/" target="_blank">Western Sky Books</a>**
+**[Western Sky Books](https://store.westernskybooks.com/)**
 
 2132-2850 Shaughnessy St., Port Coquitlam, BC (online ordering/shipping available)
 
