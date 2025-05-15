@@ -8,7 +8,7 @@ category: news
 Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where you can find them:
 
 
-**[The Bookman](https://www.bookman.ca/)**
+**<a href="https://www.bookman.ca/" target="_blank">The Bookman</a>**
 
 45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
 
@@ -17,7 +17,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 <a href="https://www.bookman.ca/" target="_blank"><img src="/bookman.JPG/" style="width:600px;"></a>
 
 
-**[Comox Valley Books 4 Brains](https://www.books4brains.ca/)**
+**<a href="https://www.books4brains.ca/" target="_blank">Comox Valley Books 4 Brains</a>**
 
 17a 215 Port Augusta, Comox, BC
 
@@ -26,7 +26,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 <a href="https://www.books4brains.ca/" target="_blank"><img src="/b4b.jpg/" style="max-width:80%;"></a>
 
 
-**[Compass Gallery + Gifts at Comox Airport YQQ](https://kikiscommunications.com/compass-gallery-%2B-gifts)**
+**<a href="https://kikiscommunications.com/compass-gallery-%2B-gifts" target="_blank">Compass Gallery + Gifts at Comox Airport YQQ</a>**
 
 #107 1250 Knight Road, Comox, BC
 
@@ -37,7 +37,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 <a href="https://kikiscommunications.com/compass-gallery-%2B-gifts" target="_blank"><img src="/compass.jpg/" style="max-width:80%;"></a>
 
 
-**[Kariton Art Gallery](https://abbotsfordartscouncil.com/boutique/)**
+**<a href="https://abbotsfordartscouncil.com/boutique/" target="_blank">Kariton Art Gallery</a>**
 
 2387 Ware Street, Abbotsford, BC
 
@@ -48,7 +48,7 @@ Stocks:
 <a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src="/Kariton.png"></a>
 
 
-**[Roam Store + Studio](https://roammedia.ca/storestudio/)**
+**<a href="https://roammedia.ca/storestudio/" target="_blank">Roam Store + Studio</a>**
 
 Unit 26B – 215, Port Augusta Street, Comox, BC
 
@@ -59,7 +59,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 <a href="https://roammedia.ca/storestudio/" target="_blank"><img src="/roam.jpg/" style="max-width:80%;"></a>
 
 
-**[Western Sky Books](https://store.westernskybooks.com/)**
+**<a href="https://store.westernskybooks.com/" target="_blank">Western Sky Books</a>**
 
 2132-2850 Shaughnessy St., Port Coquitlam, BC (online ordering/shipping available)
 
