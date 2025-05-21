@@ -8,6 +8,14 @@ category: news
 Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where you can find them:
 
 
+**[Blue Heron Books](https://blueheronbookscomox.ca/)**
+
+1775 Comox Ave., Comox, BC
+
+Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
+
+[![](/blueheron.jpg)](https://blueheronbookscomox.ca/)
+
 **[The Bookman](https://www.bookman.ca/)**
 
 45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
