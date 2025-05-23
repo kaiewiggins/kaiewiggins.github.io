@@ -14,13 +14,18 @@ Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where 
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
+*Note: local friends are often in stock here! Ask about Roz MacLean & M.C. Rolston's books!*
+
 [![](/blueheron.jpg)](https://blueheronbookscomox.ca/)
+
 
 **[The Bookman](https://www.bookman.ca/)**
 
 45939 Wellington Ave, Chilliwack, BC (can be delivered free of charge to the Abbotsford location with prior notice)
 
 Stocks: signed paperbacks of *Blind the Eyes* (first edition)
+
+*Note: local friends are often in stock here! Ask about Stacey Chomiak, Eileen Holland & Barbara Nickel's books! Educational supplier—ask about book fairs!*
 
 [![](/bookman.JPG)](https://www.bookman.ca/)
 
@@ -31,6 +36,8 @@ Stocks: signed paperbacks of *Blind the Eyes* (first edition)
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
+*Note: local friends are often in stock here! Ask about Heather Fawcett, Roz MacLean & Anna McCarthy's books! Educational supplier—ask about book fairs!*
+
 [![](/b4b.jpg)](https://www.books4brains.ca/)
 
 
@@ -40,7 +47,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 
-*Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate!*
+*Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate! Local friends are often in stock here! Ask about K. Bannerman, Roz MacLean & M.C. Rolston's books!*
 
 [![](/compass.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
 
@@ -56,13 +63,22 @@ Stocks:
 <a href="https://abbotsfordartscouncil.com/boutique/" target="_blank"><img src="/Kariton.png"></a>
 
 
+**[Laughing Oyster Bookshop](https://www.laughingoysterbooks.com/)**
+
+286 Fifth Street, Courtenay, BC
+
+Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
+
+*Note: local friends are often in stock here! Ask about K. Bannerman, Heather Fawcett, Shari Green, Roz MacLean & Anna McCarthy's books!*
+
+
 **[Roam Store + Studio](https://roammedia.ca/storestudio/)**
 
 Unit 26B – 215, Port Augusta Street, Comox, BC
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
-*Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced!*
+*Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced! Local friends are often in stock here! Ask about K. Bannerman, Anna McCarthy & M.C. Rolston's books!*
 
 [![](/roam.jpg)](https://roammedia.ca/storestudio/)
 
@@ -83,4 +99,4 @@ If you want to request one of my books (or any book, really) at a local indie bo
 
 You can find those details on the Standalones or specific series page via the menu. Thank you!
 
-*Last updated: May 15, 2025*
+*Last updated: May 22, 2025*
