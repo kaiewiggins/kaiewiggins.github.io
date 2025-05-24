@@ -69,7 +69,10 @@ Stocks:
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
-*Note: local friends are often in stock here! Ask about K. Bannerman, Heather Fawcett, Shari Green, Roz MacLean & Anna McCarthy's books!*
+*Note: local friends are often in stock here! Ask about K. Bannerman, Heather Fawcett, Shari Green, Roz MacLean, Anna McCarthy & Shanon Sinn's books!*
+
+[![](/laughingoyster.jpg)](https://www.laughingoysterbooks.com/)
+
 
 
 **[Roam Store + Studio](https://roammedia.ca/storestudio/)**
@@ -78,9 +81,20 @@ Unit 26B – 215, Port Augusta Street, Comox, BC
 
 Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tides, Burn the Skies*, third edition)
 
-*Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced! Local friends are often in stock here! Ask about K. Bannerman, Anna McCarthy & M.C. Rolston's books!*
+*Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced! Local friends are often in stock here: ask about K. Bannerman, Anna McCarthy & M.C. Rolston's books!*
 
 [![](/roam.jpg)](https://roammedia.ca/storestudio/)
+
+
+**[Smöl Store](https://smolstore.ca/)**
+
+2704 Dunsmuir Avenue, Cumberland, BC
+
+Stocks: paperbacks of *Blind the Eyes*, third edition
+
+*Note: this adorable storefront hosts eco-friendly, ethically-sourced, and locally made toys and baby and children's wear, as well as books and gifts for all ages. Ask about storytimes and craft days! Educators: ask about school discounts. Local friends are often in stock here: ask about Jana Curl;, Roz MacLean & Anna McCarthy's books!*
+
+[![](/smolstore.jpg)](https://smolstore.ca/)
 
 
 **[Western Sky Books](https://store.westernskybooks.com/)**
@@ -99,4 +113,4 @@ If you want to request one of my books (or any book, really) at a local indie bo
 
 You can find those details on the Standalones or specific series page via the menu. Thank you!
 
-*Last updated: May 22, 2025*
+*Last updated: May 23, 2025*
