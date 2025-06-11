@@ -13,8 +13,9 @@ Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where 
 
 Stocks: paperbacks of *Blind the Eyes*, third edition
 
-*Note: Coming soon! Reserve your copy before June 28 and/or visit the Local Author Fair on June 28 between 10-2 to get it signed in person!*
+*Note: Coming soon! Visit the Local Author Fair on June 28 between 10-2 to get it signed in person or reserve your copy in advance with a note regarding any desired personalizations!*
 
+[![](/bellflower.jpg)](https://bellflowerbookshop.ca/events)
 
 **[Blue Heron Books](https://blueheronbookscomox.ca/)**
 
