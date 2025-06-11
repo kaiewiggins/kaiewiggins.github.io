@@ -7,6 +7,14 @@ category: news
 
 Looking for my books IRL? Here's an (incomplete, alphabetical) listing of where you can find them:
 
+**[Bellflower Bookshop](https://bellflowerbookshop.ca/)**
+
+3-133 Second Ave. W., Qualicum Beach, BC
+
+Stocks: paperbacks of *Blind the Eyes*, third edition
+
+*Note: Coming soon! Reserve your copy before June 28 and/or visit the Local Author Fair on June 28 between 10-2 to get it signed in person!*
+
 
 **[Blue Heron Books](https://blueheronbookscomox.ca/)**
 
@@ -16,7 +24,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: local friends are often in stock here! Ask about Roz MacLean & M.C. Rolston's books!*
 
-[![](/blueheron.jpg)](https://blueheronbookscomox.ca/)
+[![](/blueheron800.jpg)](https://blueheronbookscomox.ca/)
 
 
 **[The Bookman](https://www.bookman.ca/)**
@@ -38,7 +46,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: local friends are often in stock here! Ask about Heather Fawcett, Roz MacLean & Anna McCarthy's books! Educational supplier—ask about book fairs!*
 
-[![](/b4b.jpg)](https://www.books4brains.ca/)
+[![](/b4b800.jpg)](https://www.books4brains.ca/)
 
 
 **[Compass Gallery + Gifts at Comox Airport YQQ](https://kikiscommunications.com/compass-gallery-%2B-gifts)**
@@ -49,7 +57,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 
 *Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate! Local friends are often in stock here! Ask about K. Bannerman, Roz MacLean & M.C. Rolston's books!*
 
-[![](/compass.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
+[![](/compass800.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
 
 
 **[Kariton Art Gallery](https://abbotsfordartscouncil.com/boutique/)**
@@ -82,7 +90,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced! Local friends are often in stock here: ask about K. Bannerman, Anna McCarthy, Sherry McMillan & M.C. Rolston's books!*
 
-[![](/roam.jpg)](https://roammedia.ca/storestudio/)
+[![](/roam800.jpg)](https://roammedia.ca/storestudio/)
 
 
 **[Smöl Store](https://smolstore.ca/)**
