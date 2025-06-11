@@ -25,7 +25,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: local friends are often in stock here! Ask about Roz MacLean & M.C. Rolston's books!*
 
-[![](/blueheron800.jpg)](https://blueheronbookscomox.ca/)
+[![](/blueheron800.jpeg)](https://blueheronbookscomox.ca/)
 
 
 **[The Bookman](https://www.bookman.ca/)**
@@ -58,7 +58,7 @@ Stocks: signed paperbacks of *Blind the Eyes* (third edition)
 
 *Note: Free parking spots near the airport main doors. Open to all/not a duty-free store. Turn to your right as you enter the airport to locate! Local friends are often in stock here! Ask about K. Bannerman, Roz MacLean & M.C. Rolston's books!*
 
-[![](/compass800.jpg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
+[![](/compass800.jpeg)](https://kikiscommunications.com/compass-gallery-%2B-gifts)
 
 
 **[Kariton Art Gallery](https://abbotsfordartscouncil.com/boutique/)**
@@ -91,7 +91,7 @@ Stocks: paperbacks of Threads of Dreams trilogy (*Blind the Eyes, Black the Tide
 
 *Note: this super-cool space not only showcases local arists and artisans, it doubles as an active design and photography studio where gorgeous print magazines and other creative works are produced! Local friends are often in stock here: ask about K. Bannerman, Anna McCarthy, Sherry McMillan & M.C. Rolston's books!*
 
-[![](/roam800.jpg)](https://roammedia.ca/storestudio/)
+[![](/roam800.jpeg)](https://roammedia.ca/storestudio/)
 
 
 **[Smöl Store](https://smolstore.ca/)**
