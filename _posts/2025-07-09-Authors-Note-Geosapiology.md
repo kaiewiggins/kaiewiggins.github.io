@@ -1,6 +1,6 @@
 ---
 layout: newspost
-title: Author's Note: Geosapiology
+title: Author's Note on Geosapiology
 date: 2025-07-09
 category: news
 ---
