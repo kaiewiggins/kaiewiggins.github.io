@@ -83,7 +83,7 @@ I was raised to believe that good deeds should be done quietly, essentially in s
 
 I recommend all of the listed organizations. [Writer Molly Shah's list of vetted Palestinian mutual aid fundraisers](https://bsky.app/profile/mommunism.bsky.social/post/3l5xend3agh27) is also a fantastic resource.
 
-I've gone to rallies/marches/memorial walks. I've worn kuffiyeh and tatreez and CeasefireNow! buttons and Peace4Palestine! stickers to teach (along with a mask—disability justice matters, none of us are free until we're all free!) I've written emails and postcards and signed letters and petitions. I've had IRL conversations and been the awkward buzzkill who reminds everyone about difficult realities, and used my platforms on and offline to signal-boost, organize, affirm, and motivate.
+I've gone to rallies/marches/memorial walks. I've worn kuffiyeh and tatreez and CeasefireNow! buttons and Peace4Palestine! stickers to teach (along with MMIWG and Every Child Matters wearables and a mask, because disability justice *also* matters, none of us are free until we're all free!) I've written emails and postcards and signed letters and petitions. I've had IRL conversations and been the awkward buzzkill who reminds everyone about difficult realities, and used my platforms on and offline to signal-boost, organize, affirm, and motivate.
 
 Was it enough? Never. There is more need. There are more causes. But it was all I could do—and I'll keep doing all I can do.
 
