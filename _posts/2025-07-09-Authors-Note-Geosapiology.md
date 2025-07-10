@@ -21,7 +21,7 @@ Canada has a horrifying (ongoing) track record with First Nations/Indigenous peo
 
 Indigenous educators, authors, and activists, both at that memorial day of learning, and speaking out in the wake of October 7 and Israel's increasingly genocidal response, really did amazing work in making the connections between historic and contemporary colonial violence at home and abroad explicit and in highlighting that none of us are free until all of us are free—a lesson we are still learning (with increasing intensity).
 
-I've lost track of many of those earliest voices (blame the downfall of Twitter), but some sources I recommend today include award winning Cree/Iroquois/French Human Rights Journalist Brandi Morin, social justice journalist professor Steven W. Thrasher, L’nu’skw (Mi'kmaw) writer Tiffany Morris, trans Jewish lawyer Sheryl Weikal, Jewish Voice for Peace, and Canadian doctor Yipeng Ge.
+I've lost track of many of those earliest voices (blame the downfall of Twitter), but some sources I recommend today include award winning Cree/Iroquois/French Human Rights Journalist Brandi Morin, Palestinian journalist, activist, and filmmaker Bisan Owda, social justice journalist professor Steven W. Thrasher, L’nu’skw (Mi'kmaw) writer Tiffany Morris, trans Jewish lawyer Sheryl Weikal, Jewish Voice for Peace, and Canadian doctor Yipeng Ge.
 
 *Geosapiology* was not written "about Palestine"—not exactly. It was written because I had a story prompt ("growth") and a deadline.
 
