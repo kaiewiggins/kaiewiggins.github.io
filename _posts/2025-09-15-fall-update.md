@@ -17,7 +17,7 @@ category: news
 <li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filber Centre, Courtenay, BC
 </li>
 </ul>
-   <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/548262270_10161362694142130_582145040449991941_n.jpg" style="max-width: 95%">
+   <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/548262270_10161362694142130_582145040449991941_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4rKy6y3d4SEQ7kNvwGh6Npr&_nc_oc=AdkQQwfZcExZhAc_TxTsSyv5eCJhM2g5Cz-1eyp8IX7p35IjPeoOhKiFAawEnod8BWA&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=UzYgA1wRxAvhHzEQEIbL3Q&oh=00_Afa71QZKmfJ9iHC6QVGnZefTpfvPiSg3eQu16nyR_7lZ9w&oe=68CF92AD" style="max-width: 95%">
 <p>
   Educators/institutions/etc., feel free to reach out about fall/winter author visits, workshops, creative education/arts residencies, presentations, continuing ed. and other <a href="/" target="_blank">bookings</a>—I'm only a Zoom, plane, or ferry ride away! (Bonus tip: can be on the mainland week of/following Oct. 24 with no added travel charges!) 
 </p>
