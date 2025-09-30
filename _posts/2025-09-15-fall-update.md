@@ -11,7 +11,8 @@ category: news
 </h2>
 <ul>
 <li>October 4: <a href="https://www.facebook.com/share/1YysCVpgkK/" target="_blank">Comox Valley Writers' Society Local Author Book Fair at the Little Red Church Community Arts Centre in Comox, BC</a></li>
-<li>October 24: <a href="https://bctla.ca/bctla-conference/" target="_blank">"Read Local, Teach Local: Resources for Incorporating BC Books Into the Classroom" presentation & CWILL BC table at the BC Teacher-Librarians' Association Fall Conference at Gladstone Secondary School, Vancouver, BC</a>
+<li>October 9: Spooky Storytelling Workshop, 6-7 pm at Vancouver Island Regional Library in Comox, BC</li>
+   <li>October 24: <a href="https://bctla.ca/bctla-conference/" target="_blank">"Read Local, Teach Local: Resources for Incorporating BC Books Into the Classroom" presentation & CWILL BC table at the BC Teacher-Librarians' Association Fall Conference at Gladstone Secondary School, Vancouver, BC</a>
 </li>
 <li>November 22-23: Comox Valley Writers' Society Local Authors' Table at the Fanny Bay Christmas Market, FBCA Community Centre, Fanny Bay, BC</li>
 <li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filber Centre, Courtenay, BC
