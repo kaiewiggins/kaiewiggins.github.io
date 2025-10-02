@@ -11,14 +11,14 @@ category: news
 </h2>
 <ul>
 <li>October 4: <a href="https://www.facebook.com/share/1YysCVpgkK/" target="_blank">Comox Valley Writers' Society Local Author Book Fair at the Little Red Church Community Arts Centre in Comox, BC</a></li>
-<li>October 9: Spooky Storytelling Workshop, 6-7 pm at Vancouver Island Regional Library in Comox, BC</li>
+<li>October 9: <a href="https://virl.bc.ca/event/spooky-storytelling-workshop-with-k-a-wiggins/" target="_blank">Spooky Storytelling Workshop, 6-7 pm at Vancouver Island Regional Library in Comox, BC</a></li>
    <li>October 24: <a href="https://bctla.ca/bctla-conference/" target="_blank">"Read Local, Teach Local: Resources for Incorporating BC Books Into the Classroom" presentation & CWILL BC table at the BC Teacher-Librarians' Association Fall Conference at Gladstone Secondary School, Vancouver, BC</a>
 </li>
 <li>November 22-23: Comox Valley Writers' Society Local Authors' Table at the Fanny Bay Christmas Market, FBCA Community Centre, Fanny Bay, BC</li>
-<li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filber Centre, Courtenay, BC
+<li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filberg Centre, Courtenay, BC
 </li>
 </ul>
-   <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/548262270_10161362694142130_582145040449991941_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=75d36f&_nc_ohc=4rKy6y3d4SEQ7kNvwGh6Npr&_nc_oc=AdkQQwfZcExZhAc_TxTsSyv5eCJhM2g5Cz-1eyp8IX7p35IjPeoOhKiFAawEnod8BWA&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=UzYgA1wRxAvhHzEQEIbL3Q&oh=00_Afa71QZKmfJ9iHC6QVGnZefTpfvPiSg3eQu16nyR_7lZ9w&oe=68CF92AD" style="max-width: 95%">
+   <a href="https://www.facebook.com/share/1YysCVpgkK/" target="_blank"><img src="https://cdn-az.allevents.in/events10/banners/d149786093469204c26082444e5cfb5737e42ce26cc9ec701409e410f2e2d319-rimg-w851-h315-dcfef9f3-gmir?v=1759244047" style="max-width: 95%"></a>
 <p>
   Educators/institutions/etc., feel free to reach out about fall/winter author visits, workshops, creative education/arts residencies, presentations, continuing ed. and other <a href="/" target="_blank">bookings</a>—I'm only a Zoom, plane, or ferry ride away! (Bonus tip: can be on the mainland week of/following Oct. 24 with no added travel charges!) 
 </p>
