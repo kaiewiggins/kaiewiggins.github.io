@@ -14,7 +14,7 @@ category: news
 <li>October 9: <a href="https://virl.bc.ca/event/spooky-storytelling-workshop-with-k-a-wiggins/" target="_blank">Spooky Storytelling Workshop, 6-7 pm at Vancouver Island Regional Library in Comox, BC</a></li>
    <li>October 24: <a href="https://bctla.ca/bctla-conference/" target="_blank">"Read Local, Teach Local: Resources for Incorporating BC Books Into the Classroom" presentation & CWILL BC table at the BC Teacher-Librarians' Association Fall Conference at Gladstone Secondary School, Vancouver, BC</a>
 </li>
-   <li>October 29: "Haunted West Coast", 7-8:30 pm at Fireside Books in Parksville, BC—a spooky night out in celebration of <em>The Kindread Coast</em>
+   <li>October 29: <a href="https://www.facebook.com/share/1EyLLtsQN4/" target="_blank">"West Coast Horror"</a> at Fireside Books in Parksville, BC, 7-8:30 pm. A spooky night out with the authors in celebration of <em>The Kindread Coast</em>.
    </li>
 <li>November 22-23: Comox Valley Writers' Society Local Authors' Table at the Fanny Bay Christmas Market, FBCA Community Centre, Fanny Bay, BC</li>
 <li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filberg Centre, Courtenay, BC
