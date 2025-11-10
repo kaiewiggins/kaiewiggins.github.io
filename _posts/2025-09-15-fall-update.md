@@ -20,7 +20,7 @@ category: news
 <li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filberg Centre, Courtenay, BC
 </li>
 </ul>
-   <a href="https://www.facebook.com/share/1YysCVpgkK/" target="_blank"><img src="https://cdn-az.allevents.in/events10/banners/d149786093469204c26082444e5cfb5737e42ce26cc9ec701409e410f2e2d319-rimg-w851-h315-dcfef9f3-gmir?v=1759244047" style="max-width: 95%"></a>
+   <img src="https://cdn-az.allevents.in/events10/banners/d149786093469204c26082444e5cfb5737e42ce26cc9ec701409e410f2e2d319-rimg-w851-h315-dcfef9f3-gmir?v=1759244047" style="max-width: 48%"> <img src="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/856/files/2025/10/565137256-1390119206453062-892797500366837288-n.jpg" style="max-width: 22%"> <img src="https://fannybaycommunity.com/wp-content/uploads/FB-Xmas-Market-poster-2025.jpg" style="max-width: 26%"> 
 <p>
   Educators/institutions/etc., feel free to reach out about fall/winter author visits, workshops, creative education/arts residencies, presentations, continuing ed. and other <a href="/" target="_blank">bookings</a>—I'm only a Zoom, plane, or ferry ride away! (Bonus tip: can be on the mainland week of/following Oct. 24 with no added travel charges!) 
 </p>
