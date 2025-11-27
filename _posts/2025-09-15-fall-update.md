@@ -17,6 +17,10 @@ category: news
    <li>October 29: <a href="https://www.facebook.com/share/1EyLLtsQN4/" target="_blank">"West Coast Horror"</a> at Fireside Books in Parksville, BC, 7-8:30 pm. A spooky night out with the authors in celebration of <em>The Kindread Coast</em>.
    </li>
 <li>November 22-23: Comox Valley Writers' Society Local Authors' Table at the <a href="https://fannybaycommunity.com/event/fanny-bay-christmas-market/" target="_blank">Fanny Bay Christmas Market</a>, FBCA Community Centre, Fanny Bay, BC</li>
+   <li>November 30: Glittering, Gothic & Gruesome Teen Reads & Up Table at the Royston Elementary Winter Market, Royston, BC
+   </li>
+      <li>December 13: Ho-Ho-Horror for the Holidays Table at the École Robb Road Winter Market, Comox, BC
+   </li>
 <li>December 20-21: Comox Valley Writers' Society Local Authors' Table at the Queneesh Holiday Market & Workshops at the Filberg Centre, Courtenay, BC
 </li>
 </ul>
