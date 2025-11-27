@@ -5,7 +5,7 @@ date: 2025-09-16
 category: news
 ---
 
-<p>So that July trip to South Korea was <em>amazing</em>! Seriously, the most fun teaching I've ever in one breathless week of glitter, glue-guns, and ghost stories, followed by an incredible week in Seoul advocating for CanKidLit at the embassy, touring libraries and giving author talks, and taking part in cultural activities! Thrilled to see so many brilliant artists (of all ages) contributing to the 2024-2025 Canada-Korea Year of Cultural Exchange and continue to strengthen our ties to such amazing people and places—and very proud of our students and their creativity! Love to all my new friends and I hope to meet you again on either side of the Pacific!
+<p>So that July trip to South Korea was <em>amazing</em>! Seriously, the most fun teaching I've ever had in one breathless week of glitter, glue-guns, and ghost stories, followed by an incredible week in Seoul advocating for CanKidLit at the embassy, touring libraries and giving author talks, and taking part in cultural activities! Thrilled to see so many brilliant artists (of all ages) contributing to the 2024-2025 Canada-Korea Year of Cultural Exchange and continue to strengthen our ties to such amazing people and places—and very proud of our students and their creativity! Love to all my new friends and I hope to meet you again on either side of the Pacific!
 </p>
 <h2>Upcoming Events & Appearances
 </h2>
