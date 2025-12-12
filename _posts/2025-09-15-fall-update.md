@@ -39,8 +39,8 @@ category: news
      <li>"Crumbling of the Sandwich Generation" (<em>Factor Four</em> Issue 50(!), September 2, 2025)</li>
  <li>"Powerhouse" in <em>The Kindread Coast</em> (Black Cat Books, October 1, 2025)</li>
   <li>"The Patron Saint of Flatliners" reprinted in <em>Year's Best Canadian Fantasy & Science Fiction: Volume 3</em> (Ansible Press, October 14, 2025)</li>
-  <li>"The Pink Slime's Appointment With Destiny" reprinted in <em>Really Big, Pointy Teeth: Stories from Pulphouse Fiction Magazine Edited by Dean Wesley Smith</em> (WMG Publishing, TBA 2025)</li>
- <li>and "The Mistletoe Matchmaker Is Wilting", a stunningly bizarre winter horror fable based on a creative writing brainstorming exercise from my teen creative writing workshop last fall, reserved for an unpcoming but yet-to-be-announced issue of <em>Pulphouse Fiction Magazine</em> this winter!</li>
+  <li>"The Pink Slime's Appointment With Destiny" reprinted in <em>Really Big, Pointy Teeth: Stories from Pulphouse Fiction Magazine Edited by Dean Wesley Smith</em> (WMG Publishing, TBA 2026)</li>
+ <li>and "The Mistletoe Matchmaker Is Wilting", a stunningly bizarre winter horror fable based on a creative writing brainstorming exercise from my teen creative writing workshop last fall, reserved for an unpcoming but yet-to-be-announced issue of <em>Pulphouse Fiction Magazine</em>!</li>
 </ul>
 <p><em>(Reviewers/awards-season readers, contact me directly <a href="mailto:info@kawiggins.com">(info@kawiggins.com)</a> for copies of anything not free to read online.)
 </em></p>
