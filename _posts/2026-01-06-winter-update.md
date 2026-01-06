@@ -37,7 +37,7 @@ Also on my to-do list for the start of a new year is to firm up the bookings cal
 
 Thanks to everyone who's reached out (& please do nudge if you don't hear back in the next few days—inboxes do have a tendency to eat messages😅)—and if you're in need of [creative education, professional development, school visits, etc.](/bookings) or even need recommendations for who (besides me—I lead the [BC kidlit professional association](https://cwillbc.org) & have lots of other publishing friends beyond kidlit to rec as well!) might be a good fit in your area or for your needs please do hit reply!
 
-   <a href="https://cwc2004.org" target="_blank"><img src="/Writingfuture.jpg" style="max-width: 24%"></a>
+   <a href="https://cwc2004.org" target="_blank"><img src="/Writingfuture.jpg" style="max-width: 95%"></a>
 
 ### Upcoming Events & Appearances
 
@@ -48,30 +48,43 @@ Other than the workshop above, this is only a very early save-the-date for reade
 #### 1. Geosapiology: a brief history of geogenesis, the Stones, and the Theory of Appeasement 
  
 🪨Free to read on **[The Daily Tomorrow](https://dailytomorrow.substack.com/p/geosapiology-part-one)** in July (7 parts, 3.3k words/short story serial)
+
 🪨my first serial🎉
+
 🪨SUPER weird (sentient stones? no MC? barely narrative?)🥰
+
 🪨geopocalypse = slow slow OOPS🫠
+
 🪨quiet but bloody but also thinky? "Cerebral"?🤔
+
 🪨science x politics x power - people=💣
 
 #### 2. Crumbling of the Sandwich Generation 
  
 🥪Free to read on **[Factor Four Magazine](https://factorfourmag.com/crumbling-of-the-sandwich-generation-by-k-a-wiggins/)** in their 50th Issue/September (900 words/flash)
+
 🥪"Swallowing poison" = metaphor for propaganda—but also keeping the peace, playing nice, going w/the flow, raised♀️, etc. ☠️
+
 🥪Angry/sad/dark AF🔥
+
 🥪Def. about 🍉 but also *waves hands*💔
 
 #### 3. Powerhouse
 
 🐈‍⬛Exclusive to **[THE KINDREAD COAST](https://books.kawiggins.com/kindread/)** (Black Cat Books, Oct. 2025), 6k words/short story
+
 🐈‍⬛Gen-Alpha slang attempt (feel free to laugh!)🫡
+
 🐈‍⬛Much horror, many monsters, also cryptids🐙
+
 🐈‍⬛Nature is SO over us💀
+
 🐈‍⬛He likes to neg, she likes to watch (her bullies get eaten)👀
 
    <a href="/standalones" target="_blank"><img src="/2025Fic.jpg" style="max-width: 24%"></a> <a href="https://dailytomorrow.substack.com/p/geosapiology-part-one" target="_blank"><img src="/2025Fic2.jpg" style="max-width: 24%"></a> <a href="https://factorfourmag.com/crumbling-of-the-sandwich-generation-by-k-a-wiggins/" target="_blank"><img src="/2025Fic3.jpg" style="max-width: 18%"></a> <a href="https://books.kawiggins.com/kindread/" target="_blank"><img src="/2025Fic4.jpg" style="max-width: 18%"></a>
 
 **[Year's Best Canadian Fantasy & Science Fiction, Vol. 3](https://storyoriginapp.com/universalbooklinks/6cf0b3bc-94e2-11f0-ad0a-1bf0839a73c1)** (reprint of "The Patron Saint of Flatliners") & **[Brave New Weird: Best New Weird Horror Volume 3](https://store.tenebrouspress.com/products/brave-new-weird-volume-three-print)** (reprint of "The Tangle (Did Not Kill Kitsault)) are eligible for most awards under anthology or other works categories, too!
+
 *"Slime" & "Mistletoe" WMG/Pulphouse releases pushed forward to 2026. 
 
-Wordcounts given for each. All works are eligible for the Auroras, as well as general/international speculative awards like the Nebulas, Hugos, Stokers, etc. but NOT eligible for the Ignyte awards. Thanks for checking them out! :)
+Wordcounts given above. All works are eligible for the Auroras, as well as general/international speculative awards like the Nebulas, Hugos, Stokers, etc. but NOT eligible for the Ignyte awards. Thanks for checking them out! :)
