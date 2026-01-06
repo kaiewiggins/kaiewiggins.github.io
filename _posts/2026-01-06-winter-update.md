@@ -81,7 +81,7 @@ Other than the workshop above, this is only a very early save-the-date for reade
 
 🐈‍⬛He likes to neg, she likes to watch (her bullies get eaten)👀
 
-   <a href="/standalones" target="_blank"><img src="/2025Fic.jpg" style="max-width: 24%"></a> <a href="https://dailytomorrow.substack.com/p/geosapiology-part-one" target="_blank"><img src="/2025Fic2.jpg" style="max-width: 24%"></a> <a href="https://factorfourmag.com/crumbling-of-the-sandwich-generation-by-k-a-wiggins/" target="_blank"><img src="/2025Fic3.jpg" style="max-width: 18%"></a> <a href="https://books.kawiggins.com/kindread/" target="_blank"><img src="/2025Fic4.jpg" style="max-width: 18%"></a>
+   <a href="/standalones" target="_blank"><img src="/2025Fic.jpg" style="max-width: 24%"></a> <a href="https://dailytomorrow.substack.com/p/geosapiology-part-one" target="_blank"><img src="/2025Fic2.jpg" style="max-width: 24%"></a> <a href="https://factorfourmag.com/crumbling-of-the-sandwich-generation-by-k-a-wiggins/" target="_blank"><img src="/2025Fic3.jpg" style="max-width: 24%"></a> <a href="https://books.kawiggins.com/kindread/" target="_blank"><img src="/2025Fic4.jpg" style="max-width: 24%"></a>
 
 **[Year's Best Canadian Fantasy & Science Fiction, Vol. 3](https://storyoriginapp.com/universalbooklinks/6cf0b3bc-94e2-11f0-ad0a-1bf0839a73c1)** (reprint of "The Patron Saint of Flatliners") & **[Brave New Weird: Best New Weird Horror Volume 3](https://store.tenebrouspress.com/products/brave-new-weird-volume-three-print)** (reprint of "The Tangle (Did Not Kill Kitsault)) are eligible for most awards under anthology or other works categories, too!
 
