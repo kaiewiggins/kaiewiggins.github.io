@@ -43,7 +43,7 @@ Thanks to everyone who's reached out (& please do nudge if you don't hear back i
 
 Other than the workshop above, this is only a very early save-the-date for readers in the mid-island region, but don't miss Joshua Gillingham & me (with more guests to be announced soon!) at Windowseat Books on Thursday, February 26th from 6:30-8:00 for a fantasy-focused event!
 
-### Quick round-up of 2025 publications for awards' eligibility & end of year reading list purposes:
+### Quick round-up of 2025 publications for awards' eligibility, etc:
 
 #### 1. Geosapiology: a brief history of geogenesis, the Stones, and the Theory of Appeasement 
  
