@@ -9,25 +9,23 @@ category: news
 
 Two main notes for this winter 2025-2026 update: workshops/events are coming up fast & please do check out my 2025 release list if you're reading for one of the annual awards lists, best-of collections, or just on the hunt for some great fiction!
 
-Also a good time for to remind everyone (with apologies for the woefully out of date events section on this site!) that my [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) goes out every second Monday if y'all want to hear from me more often, and I'm also moderately active [on social media](https://kaie.space/tree).
+Also a good time to remind everyone my [newsletter](https://mailchi.mp/7852e61cb116/ka-wiggins-ya-dystopian-dark-fantasy-newsletter) goes out every second Monday if y'all want to hear from me more often.
 
 Shoutout to all the bookstores, shops, markets, news outlets, and readers that supported SFF/H CanLit & BC books last year—there's been an incredible wave of support, and we're only getting started. On a loosely related note, I'm moving toward supporting wholesale orders for booksellers outside of easy direct ordering distance, so do reach out or circle back if that's of interest!
 
 ### Writing the Future
 
-Every year, groups of kids and teens in Canada, Korea, and around the world gather for the Arts-kid version of intensive training and skills investment that, here in Canada, we're more used to seeing in aspiring hockey and soccer champs.
+Every year, groups of kids and teens in Canada, Korea, and around the world gather to grow their skills, invest in creativity, and have fun.
 
-In the fall term, we play with form, experiment widely, and create (often hilarious) group anthologies. Cohorts range from beginners to advanced and grade 3/4 up to the end of high school, so skill-building can look like introductory topics (character! setting! actually finishing something!) right through to masterclass level content that surpasses what undergraduates cover these days.
+In the fall term, we play with form, experiment widely, and create (often hilarious) group anthologies. Cohorts range from beginners to advanced and grade 3/4 up to the end of high school, so while skill-building starts with introductory topics (character! setting! actually finishing something!) we often zip right past undergraduate-level studies to masterclasses by the end.
 
-Seasonal camps (winter, spring, and/or summer), compress that experience into a joyful whirlwind that lasts between five days and two weeks, depending on the logistics and format (some camps are full-time sleep-away! Think the equivalent of a sports training camp for young writers, but with more bedazzling, prop-building, writing sprints, and wandering around campus with notebooks in hand!)
+Seasonal camps (winter, spring, and/or summer), compress that experience into a joyful whirlwind of a week—think the equivalent of a sports training camp for young writers; soccer camp, but with more bedazzling, prop-building, writing sprints, and wandering around campus with notebooks in hand!)
 
 Spring term is all about the art of the book—young writers each work toward a printed trade paperback of their work, whether a single-author collection of short pieces or a multi-chapter narrative (novel), including cover design, back cover copy, writing their own "author bio", etc.
 
 This year, I'm excited to lead a cohort of teens through writing what for many of them are their first books (/novels) in a Saturday morning workshop (via Zoom—students come from a wide range of locations!)
 
-And although a portion of our time together is necessarily spent reviewing (or introducing, in the case of younger/beginner cohorts) key writing, editing, and book production concepts, I always like to have a bit of a theme to organize activities and readings around and add interest (at least for me...) While the kids can and do write any genre for their books, I thought it would be a fun challenge to explore sci-fi as a genre and exercise our skills imagining and creatively expressing the future in various forms.
-
-We'll be diving into utopias & dystopias, alternate histories & apocalypses, space & time travel and more science fiction & speculative tropes and genre conventions through a series of YA novel and short fiction readings, lessons, and guided exercises while we write our own books (novels or single-author collections) over the course of 20 weeks, from January to June (with a pause over spring break).
+And although a portion of our time together is necessarily spent reviewing (or introducing) foundational concepts, I always like to have a bit of a theme (for my own interest and inspiration, as much as the kids'! They get to write in any genre, though our readings and activities will mostly be on-theme...) So, we'll be exploring sci-fi this year and "writing the future"—diving into utopias & dystopias, alternate histories & apocalypses, space & time travel and more science fiction & speculative tropes and genre conventions through a series of YA novel and short fiction readings, lessons, and guided exercises while we write our own books (novels or single-author collections) over the course of 20 weeks, from January to June (with a pause over spring break).
 
 Feel free to reach out to the **[Creative Writing for Children Society](https://cwc2004.org)** directly or contact me for more information if your teen might be interested in developing their creativity and storytelling skills through a guided book-writing workshop intensive this spring (or to enquire about workshops on different days/times with the other mentors for various age ranges!)
 
