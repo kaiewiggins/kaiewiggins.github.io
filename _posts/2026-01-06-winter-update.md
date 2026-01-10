@@ -39,7 +39,7 @@ Thanks to everyone who's reached out (& please do nudge if you don't hear back i
 
 Dark Dreams: a winter book event with local fantasy authors at Windowseat Books in Nanaimo on Thursday, February 26th from 6:30-8:00 pm.
 
-   <a href="https://windowseatbooks.ca/events" target="_blank"><img src="/Dark_Dreams_Banner.jpg" style="max-width: 95%"></a>
+   <a href="https://windowseatbooks.ca/events" target="_blank"><img src="/Dark Dreams Banner.jpg" style="max-width: 95%"></a>
 
 ### Quick round-up of 2025 publications for awards' eligibility, etc:
 
