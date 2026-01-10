@@ -15,8 +15,6 @@ Shoutout to all the bookstores, shops, markets, news outlets, and readers that s
 
 ### Writing the Future
 
-Nope, not an announcement that I'm pivoting my brand (fully) to Sci-Fi—still plenty of fantasy (with a dash of a horror) here—but, in a very seasonally-appropriate move, I'm spending the next few weeks immersed in future-forward curricula and reading lists as I prep for my spring term of Creative Writing for Children Society.
-
 Every year, groups of kids and teens in Canada, Korea, and around the world gather for the Arts-kid version of intensive training and skills investment that, here in Canada, we're more used to seeing in aspiring hockey and soccer champs.
 
 In the fall term, we play with form, experiment widely, and create (often hilarious) group anthologies. Cohorts range from beginners to advanced and grade 3/4 up to the end of high school, so skill-building can look like introductory topics (character! setting! actually finishing something!) right through to masterclass level content that surpasses what undergraduates cover these days.
@@ -29,7 +27,7 @@ This year, I'm excited to lead a cohort of teens through writing what for many o
 
 And although a portion of our time together is necessarily spent reviewing (or introducing, in the case of younger/beginner cohorts) key writing, editing, and book production concepts, I always like to have a bit of a theme to organize activities and readings around and add interest (at least for me...) While the kids can and do write any genre for their books, I thought it would be a fun challenge to explore sci-fi as a genre and exercise our skills imagining and creatively expressing the future in various forms.
 
-We'll be diving into utopias & dystopias, alternate histories & apocalypses, space & time travel and more science fiction & speculative tropes and genre conventions through a series of YA novel and short fiction readings, lessons, and guided exercises while we write our own books (novels or single-author collections) over the course of 20 weeks, from mid January to June (with a few weeks pause over spring break).
+We'll be diving into utopias & dystopias, alternate histories & apocalypses, space & time travel and more science fiction & speculative tropes and genre conventions through a series of YA novel and short fiction readings, lessons, and guided exercises while we write our own books (novels or single-author collections) over the course of 20 weeks, from January to June (with a pause over spring break).
 
 Feel free to reach out to the **[Creative Writing for Children Society](https://cwc2004.org)** directly or contact me for more information if your teen might be interested in developing their creativity and storytelling skills through a guided book-writing workshop intensive this spring (or to enquire about workshops on different days/times with the other mentors for various age ranges!)
 
@@ -41,13 +39,15 @@ Thanks to everyone who's reached out (& please do nudge if you don't hear back i
 
 ### Upcoming Events & Appearances
 
-Other than the workshop above, this is only a very early save-the-date for readers in the mid-island region, but don't miss Joshua Gillingham & me (with more guests to be announced soon!) at Windowseat Books on Thursday, February 26th from 6:30-8:00 for a fantasy-focused event!
+Dark Dreams: a winter book event with local fantasy authors at Windowseat Books in Nanaimo on Thursday, February 26th from 6:30-8:00 pm.
+
+   <a href="https://windowseatbooks.ca/events" target="_blank"><img src="/Dark_Dreams_Banner.jpg" style="max-width: 95%"></a>
 
 ### Quick round-up of 2025 publications for awards' eligibility, etc:
 
 #### 1. Geosapiology: a brief history of geogenesis, the Stones, and the Theory of Appeasement 
  
-🪨Free to read on **[The Daily Tomorrow](https://dailytomorrow.substack.com/p/geosapiology-part-one)** in July (7 parts, 3.3k words/short story serial)
+🪨Free to read on **[The Daily Tomorrow](https://dailytomorrow.substack.com/p/geosapiology-part-one)** in July/Issue 3 Summer 2025 (7 parts, 3.3k words/short story serial)
 
 🪨my first serial🎉
 
