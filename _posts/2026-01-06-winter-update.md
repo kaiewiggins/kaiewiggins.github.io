@@ -13,6 +13,8 @@ Also a good time to remind everyone my [newsletter](https://mailchi.mp/7852e61cb
 
 Shoutout to all the bookstores, shops, markets, news outlets, and readers that supported SFF/H CanLit & BC books last year—there's been an incredible wave of support, and we're only getting started. On a loosely related note, I'm moving toward supporting wholesale orders for booksellers outside of easy direct ordering distance, so do reach out or circle back if that's of interest!
 
+   <a href="https://cwc2004.org" target="_blank"><img src="/Writingfuture.jpg" style="max-width: 95%"></a>
+
 ### Writing the Future
 
 Every year, groups of kids and teens in Canada, Korea, and around the world gather to grow their skills, invest in creativity, and have fun.
@@ -33,13 +35,11 @@ Also on my to-do list for the start of a new year is to firm up the bookings cal
 
 Thanks to everyone who's reached out (& please do nudge if you don't hear back in the next few days—inboxes do have a tendency to eat messages😅)—and if you're in need of [creative education, professional development, school visits, etc.](/bookings) or even need recommendations for who (besides me—I lead the [BC kidlit professional association](https://cwillbc.org) & have lots of other publishing friends beyond kidlit to rec as well!) might be a good fit in your area or for your needs please do hit reply!
 
-   <a href="https://cwc2004.org" target="_blank"><img src="/Writingfuture.jpg" style="max-width: 95%"></a>
+   <a href="https://windowseatbooks.ca/events" target="_blank"><img src="/Dark Dreams Banner.jpg" style="max-width: 95%"></a>
 
 ### Upcoming Events & Appearances
 
 Dark Dreams: a winter book event with local fantasy authors at Windowseat Books in Nanaimo on Thursday, February 26th from 6:30-8:00 pm.
-
-   <a href="https://windowseatbooks.ca/events" target="_blank"><img src="/Dark Dreams Banner.jpg" style="max-width: 95%"></a>
 
 ### Quick round-up of 2025 publications for awards' eligibility, etc:
 
