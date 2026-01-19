@@ -35,7 +35,7 @@ Also on my to-do list for the start of a new year is to firm up the bookings cal
 
 Thanks to everyone who's reached out (& please do nudge if you don't hear back in the next few days—inboxes do have a tendency to eat messages😅)—and if you're in need of [creative education, professional development, school visits, etc.](/bookings) or even need recommendations for who (besides me—I lead the [BC kidlit professional association](https://cwillbc.org) & have lots of other publishing friends beyond kidlit to rec as well!) might be a good fit in your area or for your needs please do hit reply!
 
-   <a href="https://windowseatbooks.ca/events/4442220260226" target="_blank"><img src="/Dark Dreams Banner.jpg" style="max-width: 95%"></a>
+   <a href="https://windowseatbooks.ca/events/4442220260226" target="_blank"><img src="/ddbanner.jpg" style="max-width: 95%"></a>
 
 ### Upcoming Events & Appearances
 
