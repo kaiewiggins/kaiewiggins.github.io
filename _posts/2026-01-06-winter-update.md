@@ -20,7 +20,7 @@ Shoutout to all the bookstores, shops, markets, news outlets, and readers that s
 Dark Dreams: a winter book event series with local fantasy authors at:
 
 - [Windowseat Books](https://windowseatbooks.ca/events/4442220260226) in Nanaimo on Thursday, February 26th from 6:30-8:00 pm
-- [Fireside Books](https://firesidebooks.ca/) in Parksville on Friday, February 27
+- [Fireside Books](https://firesidebooks.ca/) in Parksville [on Friday, February 27](https://www.facebook.com/share/1BEQnBvQiD/)
 
   and...
 
