@@ -28,7 +28,7 @@ This panel discussion will include short readings, insights into the writers’ 
 **[Register now!](https://www.eventbrite.ca/e/1988690281165?aff=oddtdtcreator)**
 
 [<img src="https://parksvillemuseum.com/files/resized/77303216-8021-4d22-a2d7-27f239d0931c/1170;1514;9698b62ad631dd3bf24e48410b8e8b219fa1d971.jpg" alt="Magic, Mystery & Mayhem: Local Settings Through the Looking Glass" width="30%">](https://www.eventbrite.ca/e/1988690281165?aff=oddtdtcreator)
- | [<img src="https://parksvillemuseum.com/files/resized/904fcf3d-c85f-4d84-8b96-9c1f15e09ba0/1000;500;a791f09e1f2d689ed06410d37528f0524d785fd7.png" alt="Parksville Museum Storyteller Festival" width="50%">](https://parksvillemuseum.com/Storyteller-Festival)
+ | [<img src="https://parksvillemuseum.com/files/resized/904fcf3d-c85f-4d84-8b96-9c1f15e09ba0/1000;500;a791f09e1f2d689ed06410d37528f0524d785fd7.png" alt="Parksville Museum Storyteller Festival" width="65%">](https://parksvillemuseum.com/Storyteller-Festival)
 
 ### Bios:
 
