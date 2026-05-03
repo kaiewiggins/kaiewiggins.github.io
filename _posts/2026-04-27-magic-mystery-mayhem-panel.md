@@ -25,7 +25,9 @@ This panel discussion will include short readings, insights into the writers’ 
 
 —with [Kate Gateley](https://kategateley.com/) & [Kim Bannerman](https://kimbannerman.com/)
 
-**[Learn more & register at the Parksville Museum!](https://parksvillemuseum.com/events)**
+**[Register now!](https://www.eventbrite.ca/e/1988690281165?aff=oddtdtcreator)**
+
+[![](https://parksvillemuseum.com/files/resized/77303216-8021-4d22-a2d7-27f239d0931c/1170;1514;9698b62ad631dd3bf24e48410b8e8b219fa1d971.jpg)](https://www.eventbrite.ca/e/1988690281165?aff=oddtdtcreator)
 
 ### Bios:
 
