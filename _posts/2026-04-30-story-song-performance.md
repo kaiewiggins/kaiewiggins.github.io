@@ -25,7 +25,9 @@ Enjoy acoustic performances, learn how storytellers not only approach writing or
 
 —with [Joshua Gillingham](https://www.joshuagillingham.ca/)
 
-**[Learn more & register at the Parksville Museum!](https://parksvillemuseum.com/events)**
+**[Register here!](https://www.eventbrite.ca/e/1988691281156?aff=oddtdtcreator)**
+
+[![](https://parksvillemuseum.com/files/resized/f56b56da-f0a5-4412-a2a8-e70c06f569a8/1170;1514;1940b99c462b3eab36e7b93f0c10d390caf3a6c3.jpg)](https://www.eventbrite.ca/e/1988691281156?aff=oddtdtcreator)
 
 ### Bios:
 
