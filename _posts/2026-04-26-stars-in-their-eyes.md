@@ -25,7 +25,10 @@ Swoon to sweet-and-spicy readings of locally authored romance fiction that run t
 
 —with [Dove Cavanaugh King](https://www.dovecavanaughkingbooks.com/books), [Kathleen Lawless](https://kathleenlawless.com/), [Carissa Harper](https://www.carissaharper.com/)
 
-**[Learn more & register at the Parksville Museum!](https://parksvillemuseum.com/events)**
+**[Register now!](https://www.eventbrite.ca/e/1988692259081?aff=oddtdtcreator)**
+
+[<img src="https://parksvillemuseum.com/files/resized/057c4538-895d-4e4a-a1a9-bbefe6a560dd/1170;1514;69696215e314016149377e9e87535a59e2389685.jpg" alt="Stars in Their Eyes : Mid-Island Romance Authors Spill the Tea" width="30%">](https://www.eventbrite.ca/e/1988692259081?aff=oddtdtcreator)
+ | [<img src="https://parksvillemuseum.com/files/resized/904fcf3d-c85f-4d84-8b96-9c1f15e09ba0/1000;500;a791f09e1f2d689ed06410d37528f0524d785fd7.png" alt="Parksville Museum Storyteller Festival" width="65%">](https://parksvillemuseum.com/Storyteller-Festival)
 
 ### Bios:
 
