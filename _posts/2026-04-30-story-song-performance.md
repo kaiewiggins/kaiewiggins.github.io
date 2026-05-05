@@ -1,13 +1,13 @@
 ---
 layout: eventspost
 title: Story & Song Performance
-date: 2026-04-30
+date: 2026-04-24
 category: events
 ---
 
 ## Parksville Storytellers Festival: Story & Song
 
-**Date:** Friday, June 25, 2026
+**Date:** ~~Friday, June 25, 2026~~ POSTPONED—date TBA
 
 **Time:** 7-8:30 pm
 
