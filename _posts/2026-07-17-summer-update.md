@@ -10,7 +10,7 @@ So...I said yes to a few too many things without paying attention, and ended up 
 Here's the lineup:
 
 [<img src="https://substackcdn.com/image/fetch/$s_!_Eip!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec776692-4ea8-4d1e-96f6-37680f249d1e_1500x500.png" alt="Stuff Your Kindle Event - Canadian Edition!" width="45%">](https://canadianindieauthors.substack.com/p/stuff-your-kindle-event-canadian)
- | [<img src="https://images.squarespace-cdn.com/content/v1/643b25a60e4efd0e819a1ded/e5477a6f-d57a-4c8a-b052-148f5ef67e04/IYD+STK+Banner.png?format=2500w" alt="Midsummer Night’s Scream Stuff Your Kindle Event" width="45%">](https://www.authordonnataylor.com/stuffyourkindle)
+ | [<img src="https://images.squarespace-cdn.com/content/v1/643b25a60e4efd0e819a1ded/e5477a6f-d57a-4c8a-b052-148f5ef67e04/IYD+STK+Banner.png?format=2500w" alt="Midsummer Night’s Scream Stuff Your Kindle Event" width="50%">](https://www.authordonnataylor.com/stuffyourkindle)
 
 [<img src="https://mcusercontent.com/5d9ccc35d544fcc85135fb8ae/images/c3538e06-79f8-85a7-3b0d-32fc7349adca.jpg" alt="Blind the Eyes by K.A. Wiggins Trope Chart" width="95%">](https://books2read.com/thread1) | [<img src="https://mcusercontent.com/5d9ccc35d544fcc85135fb8ae/images/65ee512e-97be-ff4b-0321-f5aacde310e4.jpg" alt="Boy With No Name by K.A. Wiggins Trope Chart" width="95%">](http://books2read.com/thread-name) | [<img src="https://mcusercontent.com/5d9ccc35d544fcc85135fb8ae/images/20fc3b02-e8f9-9c35-a99d-e454f4feda6c.jpg" alt="The Unsought Light by K.A. Wiggins Trope Chart" width="95%">](https://books2read.com/unsought)
 
