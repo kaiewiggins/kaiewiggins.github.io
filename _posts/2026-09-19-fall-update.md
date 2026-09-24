@@ -24,8 +24,10 @@ And probably more to come for my winter holiday lineup, but so far there's:
 - Nov. 14-15: Winterfaire in Courtenay, BC
 
 - Nov. 21: Christmas at Filberg in Comox, BC
+  
+- Dec. 28: Vanier Winter Market in Courtenay, BC
 
-- Nov. 12-13: Winterfaire in Courtenay, BC
+- Dec. 12-13: Winterfaire in Courtenay, BC
 
 As always, if you're looking for one-off event programming, or continuing workshops or mentorship, you can always find more information and inspiration on my [Bookings](/bookings.html) page; current and upcoming examples include festival speaking, creative workshops, and even some one-to-one mentorships with young writers. 
 
