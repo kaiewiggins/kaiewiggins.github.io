@@ -21,14 +21,16 @@ Plus the **[CVHBBA Witches Tea Party 2026](https://www.eventbrite.ca/e/cvhbba-wi
 
 And probably more to come for my winter holiday lineup, but so far there's:
 
+- Nov. 7-8: Woodstove Festival in Cumberland, BC
+
 - Nov. 14-15: Winterfaire in Courtenay, BC
 
 - Nov. 21: Christmas at Filberg in Comox, BC
   
-- Dec. 28: Vanier Winter Market in Courtenay, BC
+- Nov. 28: Vanier Winter Market in Courtenay, BC
 
 - Dec. 12-13: Winterfaire in Courtenay, BC
 
 As always, if you're looking for one-off event programming, or continuing workshops or mentorship, you can always find more information and inspiration on my [Bookings](/bookings.html) page; current and upcoming examples include festival speaking, creative workshops, and even some one-to-one mentorships with young writers. 
 
-No new publishing news besides the 2027 releases in the calendar, but getting closer to launching the next series.
+No new publishing news for this year, but there are two reprints and a new (series tie-in) short slated for 2027, plus I'm a hairsbreadth from launching the next series!
