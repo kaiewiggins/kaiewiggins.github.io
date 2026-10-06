@@ -28,6 +28,8 @@ And probably more to come for my winter holiday lineup, but so far there's:
 - Nov. 21: Christmas at Filberg in Comox, BC
   
 - Nov. 28: Vanier Winter Market in Courtenay, BC
+  
+- Nov. 29: Geeky Christmas Market in Courtenay, BC
 
 - Dec. 12-13: Winterfaire in Courtenay, BC
 
