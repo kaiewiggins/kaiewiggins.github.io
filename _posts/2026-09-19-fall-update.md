@@ -23,7 +23,7 @@ And possibly more to come for my winter holiday lineup, but so far there's:
 
 - Nov. 7-8: Woodstove Festival in Cumberland, BC
 
-- Nov. 14-15: Winterfaire in Courtenay, BC
+- Nov. 14-15: Heart of the Valley CHRISTMAS MARKET in Courtenay, BC
 
 - Nov. 21: Christmas at Filberg in Comox, BC
   
