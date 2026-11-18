@@ -23,13 +23,15 @@ And possibly more to come for my winter holiday lineup, but so far there's:
 
 - Nov. 7-8: Woodstove Festival in Cumberland, BC
 
-- Nov. 14-15: Heart of the Valley CHRISTMAS MARKET in Courtenay, BC
+- Nov. 14-15: Heart of the Valley November to Remember CHRISTMAS MARKET in Courtenay, BC
 
 - Nov. 21: Christmas at Filberg in Comox, BC
   
 - Nov. 28: Vanier Winter Market in Courtenay, BC
   
 - Nov. 29: Geeky Christmas Market in Courtenay, BC
+
+- Dec. 5: Brooklyn Elementary Winter Market in Comox, BC
 
 - Dec. 12-13: Winterfaire in Courtenay, BC
 
